@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2FeBr6
+_chemical_formula_sum              "In2 Fe1 Br6"
+_cell_length_a       7.540959442327763
+_cell_length_b       7.540959033111755
+_cell_length_c       7.5409587817754025
+_cell_angle_alpha    60.000000403772454
+_cell_angle_beta     60.00000185178496
+_cell_angle_gamma    60.00000283851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2499999002973863  0.2499999895124646  0.24999995620257706  1.0000
+  In  In2       1.0  0.7500001036528751  0.7500000464953346  0.7499998563361064  1.0000
+  Fe  Fe1       1.0  0.9999999974948339  0.9999999707657771  6.228289093270793e-08  1.0000
+  Br  Br1       1.0  0.21263920639074488  0.21263921809287084  0.7873607900235123  1.0000
+  Br  Br2       1.0  0.7873607585673518  0.7873608016736916  0.21263922252374406  1.0000
+  Br  Br3       1.0  0.7873607770794254  0.21263923700025295  0.21263920371811892  1.0000
+  Br  Br4       1.0  0.2126392156426646  0.7873607454114702  0.787360881255218  1.0000
+  Br  Br5       1.0  0.21263924533000242  0.787360780175193  0.2126391995129082  1.0000
+  Br  Br6       1.0  0.7873607977371776  0.2126392119812727  0.7873608381763247  1.0000

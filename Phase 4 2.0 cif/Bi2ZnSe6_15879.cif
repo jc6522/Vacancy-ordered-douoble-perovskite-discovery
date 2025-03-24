@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2ZnSe6
+_chemical_formula_sum              "Bi2 Zn1 Se6"
+_cell_length_a       6.627684904194779
+_cell_length_b       6.627684791579759
+_cell_length_c       6.627684842986089
+_cell_angle_alpha    59.999997363605246
+_cell_angle_beta     59.99999748729093
+_cell_angle_gamma    59.99999888715567
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500002297830753  0.2499996860656166  0.250000323232101  1.0000
+  Bi  Bi2       1.0  0.7500000455842025  0.7500000486834144  0.7499998080567919  1.0000
+  Zn  Zn1       1.0  0.9999999827708542  2.0327148930168184e-08  1.9574513404906172e-08  1.0000
+  Se  Se1       1.0  0.26454118070851684  0.26454123846044214  0.7354587976785827  1.0000
+  Se  Se2       1.0  0.7354587018034773  0.7354589065274204  0.26454125098623466  1.0000
+  Se  Se3       1.0  0.7354585880601361  0.264541197243542  0.26454122610863645  1.0000
+  Se  Se4       1.0  0.26454119086873246  0.7354588978504106  0.7354586925860196  1.0000
+  Se  Se5       1.0  0.2645411911921517  0.7354587854249999  0.26454123461204465  1.0000
+  Se  Se6       1.0  0.735458892471424  0.2645412265124342  0.7354586457169923  1.0000

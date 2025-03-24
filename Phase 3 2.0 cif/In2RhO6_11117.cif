@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2RhO6
+_chemical_formula_sum              "In2 Rh1 O6"
+_cell_length_a       5.3816819944050645
+_cell_length_b       5.381681714083297
+_cell_length_c       5.381681567226191
+_cell_angle_alpha    59.999999278111495
+_cell_angle_beta     59.999998282774186
+_cell_angle_gamma    59.99999862049902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2499993697769188  0.249999768016308  0.2500003002351521  1.0000
+  In  In2       1.0  0.7499995057597156  0.7500003736589989  0.7499991957144398  1.0000
+  Rh  Rh1       1.0  0.9999999772646657  2.9584959188388346e-08  1.024900386673797e-07  1.0000
+  O   O1        1.0  0.24988629909046567  0.24988577388887565  0.7501138524155447  1.0000
+  O   O2        1.0  0.7501140751103864  0.7501139012543782  0.24988642631845961  1.0000
+  O   O3        1.0  0.7501143554487362  0.24988591166900398  0.24988631374913656  1.0000
+  O   O4        1.0  0.24988630263842268  0.7501141412514243  0.7501137920963119  1.0000
+  O   O5        1.0  0.24988609559283245  0.7501139783995218  0.24988623477314006  1.0000
+  O   O6        1.0  0.7501140960076256  0.24988608362397077  0.7501138433387133  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2ReF6
+_chemical_formula_sum              "Na2 Re1 F6"
+_cell_length_a       5.699360916658159
+_cell_length_b       5.699360982187442
+_cell_length_c       5.699361029004493
+_cell_angle_alpha    60.00000229983887
+_cell_angle_beta     60.00000055078458
+_cell_angle_gamma    60.00000093004824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000001710803094  0.24999999415241778  0.24999998491987774  1.0000
+  Na  Na2       1.0  0.7499999955366177  0.7500000039464156  0.7500000227916866  1.0000
+  Re  Re1       1.0  1.5267124072719082e-08  0.9999999785108399  3.118434020048569e-08  1.0000
+  F   F1        1.0  0.24453305489714053  0.2445330501098247  0.7554669125365602  1.0000
+  F   F2        1.0  0.7554669940929255  0.7554669544357547  0.24453299306812074  1.0000
+  F   F3        1.0  0.7554669736774604  0.2445330194277874  0.24453305103499182  1.0000
+  F   F4        1.0  0.24453298545152757  0.7554669872667109  0.7554669896640661  1.0000
+  F   F5        1.0  0.24453297403562835  0.7554669725454102  0.24453302519016223  1.0000
+  F   F6        1.0  0.7554669531475867  0.24453304489366753  0.7554669804903431  1.0000

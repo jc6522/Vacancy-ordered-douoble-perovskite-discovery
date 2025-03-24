@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2CrSe6
+_chemical_formula_sum              "Mg2 Cr1 Se6"
+_cell_length_a       6.651662549701487
+_cell_length_b       6.651662290632725
+_cell_length_c       6.6516623704948215
+_cell_angle_alpha    59.9999998631871
+_cell_angle_beta     59.99999818434525
+_cell_angle_gamma    59.999999255472005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2500000524349402  0.25000007636307464  0.249999946726925  1.0000
+  Mg  Mg2       1.0  0.749999991621771  0.7499999657888486  0.7500000381352709  1.0000
+  Cr  Cr1       1.0  1.7254275570320196e-08  5.523783735068718e-09  0.9999999585432984  1.0000
+  Se  Se1       1.0  0.25619555311275855  0.25619557944833393  0.743804415377659  1.0000
+  Se  Se2       1.0  0.7438044010261945  0.7438043835293494  0.25619556683429  1.0000
+  Se  Se3       1.0  0.7438043954378466  0.25619559982635376  0.25619556401455756  1.0000
+  Se  Se4       1.0  0.25619551933362483  0.743804455214399  0.743804497086449  1.0000
+  Se  Se5       1.0  0.2561956369358226  0.7438043714547161  0.2561955879299205  1.0000
+  Se  Se6       1.0  0.7438044288309458  0.25619556390404824  0.7438044289501407  1.0000

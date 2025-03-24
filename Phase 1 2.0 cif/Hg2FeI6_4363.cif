@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2FeI6
+_chemical_formula_sum              "Hg2 Fe1 I6"
+_cell_length_a       7.946265012331335
+_cell_length_b       7.946266076020511
+_cell_length_c       7.946264469399391
+_cell_angle_alpha    60.00000757640177
+_cell_angle_beta     60.00000752830839
+_cell_angle_gamma    60.00001107395937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999996995092624  0.2500000652345863  0.24999993052467095  1.0000
+  Hg  Hg2       1.0  0.7499999889871151  0.7499999321443112  0.7500001442863317  1.0000
+  Fe  Fe1       1.0  1.3559751159255214e-07  0.9999999506789394  0.9999999606371384  1.0000
+  I   I1        1.0  0.2158076968707838  0.21580795367102026  0.7841918954011824  1.0000
+  I   I2        1.0  0.7841922373816254  0.7841918649190142  0.2158079124203499  1.0000
+  I   I3        1.0  0.7841919282378045  0.21580836484091662  0.21580768637513473  1.0000
+  I   I4        1.0  0.21580793795881031  0.7841919238405248  0.7841923256504433  1.0000
+  I   I5        1.0  0.21580802317277584  0.784191826166647  0.21580776106817712  1.0000
+  I   I6        1.0  0.7841920785705575  0.21580807411140643  0.7841923739485017  1.0000

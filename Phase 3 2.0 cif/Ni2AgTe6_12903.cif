@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2AgTe6
+_chemical_formula_sum              "Ni2 Ag1 Te6"
+_cell_length_a       7.127266177743841
+_cell_length_b       7.127266173476339
+_cell_length_c       7.1272662045134325
+_cell_angle_alpha    59.999999840158054
+_cell_angle_beta     60.00000046383348
+_cell_angle_gamma    60.00000068523197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500000007760323  0.24999990356009846  0.25000008086701037  1.0000
+  Ni  Ni2       1.0  0.7500000493702595  0.7500001041924346  0.7499999283186921  1.0000
+  Ag  Ag1       1.0  3.487322329440233e-08  1.2028755738734798e-08  0.9999999218295728  1.0000
+  Te  Te1       1.0  0.27435457658536927  0.27435456471327285  0.7256454649805837  1.0000
+  Te  Te2       1.0  0.7256453493032944  0.725645417263355  0.27435466271682274  1.0000
+  Te  Te3       1.0  0.7256454042430391  0.2743545774167156  0.27435461083457957  1.0000
+  Te  Te4       1.0  0.2743545665989327  0.7256454543933278  0.7256453291632143  1.0000
+  Te  Te5       1.0  0.2743545700438955  0.7256454554769681  0.27435462192101673  1.0000
+  Te  Te6       1.0  0.7256454560140552  0.2743545127525117  0.7256453755754451  1.0000

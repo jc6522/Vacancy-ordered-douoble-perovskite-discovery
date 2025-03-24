@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2InSe6
+_chemical_formula_sum              "Ba2 In1 Se6"
+_cell_length_a       7.135390357555024
+_cell_length_b       7.135390250952842
+_cell_length_c       7.13539053297402
+_cell_angle_alpha    59.9999990085923
+_cell_angle_beta     59.999998908729104
+_cell_angle_gamma    60.000002126710136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000000051322546  0.2500000031412115  0.24999999453255065  1.0000
+  Ba  Ba2       1.0  0.7500000012788657  0.7499999665127066  0.750000027606961  1.0000
+  In  In1       1.0  2.6857162340642905e-08  0.9999999776863184  1.0341444410368629e-08  1.0000
+  Se  Se1       1.0  0.2722909348108257  0.27229088424899384  0.7277090915329922  1.0000
+  Se  Se2       1.0  0.7277090742873112  0.7277091265994154  0.27229089514453114  1.0000
+  Se  Se3       1.0  0.7277090581308846  0.27229094872415704  0.2722909326137104  1.0000
+  Se  Se4       1.0  0.272290934506876  0.7277090483927547  0.7277090705612149  1.0000
+  Se  Se5       1.0  0.27229092362128116  0.7277090703127613  0.27229090608227713  1.0000
+  Se  Se6       1.0  0.7277090346232593  0.27229097658082574  0.7277090767877359  1.0000

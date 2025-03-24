@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2BeO6
+_chemical_formula_sum              "Cr2 Be1 O6"
+_cell_length_a       4.773609380044694
+_cell_length_b       4.773609668085133
+_cell_length_c       4.773608809669109
+_cell_angle_alpha    60.0000069351794
+_cell_angle_beta     60.000002570235786
+_cell_angle_gamma    60.00000494009101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2500001208128408  0.2500011438585715  0.2499995167331992  1.0000
+  Cr  Cr2       1.0  0.7499993137626907  0.749999734463182  0.7500009796547444  1.0000
+  Be  Be1       1.0  0.9999999765444061  0.9999999615151369  4.56341866099597e-08  1.0000
+  O   O1        1.0  0.24634383569370408  0.24634369176528928  0.7536561895164082  1.0000
+  O   O2        1.0  0.7536563787489863  0.7536559935256841  0.24634337594914388  1.0000
+  O   O3        1.0  0.7536560495019391  0.24634379562615843  0.24634375645043  1.0000
+  O   O4        1.0  0.24634411164886258  0.7536560205133573  0.753656218534947  1.0000
+  O   O5        1.0  0.24634400719255586  0.7536558325934597  0.2463435754775753  1.0000
+  O   O6        1.0  0.7536561703793214  0.24634388348540695  0.7536561606175308  1.0000

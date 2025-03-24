@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2TaS6
+_chemical_formula_sum              "Zn2 Ta1 S6"
+_cell_length_a       6.407732265559644
+_cell_length_b       6.407732664572112
+_cell_length_c       6.407732225101661
+_cell_angle_alpha    60.00000126199472
+_cell_angle_beta     60.000001315482535
+_cell_angle_gamma    60.0000018427419
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000004162886574  0.24999994630603886  0.2499999231105652  1.0000
+  Zn  Zn2       1.0  0.7499999902017542  0.750000129443989  0.7500001439893905  1.0000
+  Ta  Ta1       1.0  0.9999999795061226  0.9999998776733119  2.0718374739952812e-07  1.0000
+  S   S1        1.0  0.26283494639333804  0.2628349303282505  0.7371650501170912  1.0000
+  S   S2        1.0  0.7371650447367343  0.7371651377763622  0.2628348679276334  1.0000
+  S   S3        1.0  0.7371651338607237  0.2628349548502601  0.26283489240135  1.0000
+  S   S4        1.0  0.26283501222945366  0.7371649565232866  0.7371649875134941  1.0000
+  S   S5        1.0  0.26283483802755125  0.7371651875486973  0.26283487581680687  1.0000
+  S   S6        1.0  0.7371649940855403  0.2628349034921701  0.7371650400406256  1.0000

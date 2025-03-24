@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2TiSe6
+_chemical_formula_sum              "Sr2 Ti1 Se6"
+_cell_length_a       6.818901966326476
+_cell_length_b       6.818901720268155
+_cell_length_c       6.818901841693658
+_cell_angle_alpha    60.000001894110994
+_cell_angle_beta     59.9999998803532
+_cell_angle_gamma    59.99999871156593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2500000476652536  0.2499999910312995  0.24999998678378876  1.0000
+  Sr  Sr2       1.0  0.7499999382667382  0.7500000233847803  0.7500000111732263  1.0000
+  Ti  Ti1       1.0  0.9999999095140857  6.825190792947546e-08  0.9999999876528162  1.0000
+  Se  Se1       1.0  0.2584171109191395  0.258417095517738  0.7415828970352791  1.0000
+  Se  Se2       1.0  0.7415828895871187  0.7415828650152552  0.25841706338218473  1.0000
+  Se  Se3       1.0  0.7415829805861763  0.25841705584057917  0.25841710311381794  1.0000
+  Se  Se4       1.0  0.2584170608165347  0.741582980128735  0.7415829149916919  1.0000
+  Se  Se5       1.0  0.2584171290669587  0.7415828215171529  0.2584171254838946  1.0000
+  Se  Se6       1.0  0.7415829104047078  0.25841710848209387  0.741582899643792  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2GeF6
+_chemical_formula_sum              "Pd2 Ge1 F6"
+_cell_length_a       5.491704990930145
+_cell_length_b       5.491704952396709
+_cell_length_c       5.491705041983358
+_cell_angle_alpha    59.99999958992268
+_cell_angle_beta     60.0000003632829
+_cell_angle_gamma    60.00000076321625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.25000003970889045  0.25000009226587183  0.2499999298814392  1.0000
+  Pd  Pd2       1.0  0.7500000228578848  0.7499999222002048  0.7500000132564872  1.0000
+  Ge  Ge1       1.0  0.9999999955834219  0.9999999375551731  6.438648003056009e-08  1.0000
+  F   F1        1.0  0.23777524139889297  0.23777517417656643  0.7622248297079147  1.0000
+  F   F2        1.0  0.7622247702165439  0.7622248291386478  0.23777521913916405  1.0000
+  F   F3        1.0  0.7622247279593545  0.2377752519082135  0.23777517852941793  1.0000
+  F   F4        1.0  0.23777520475475067  0.7622247357957931  0.7622248210647411  1.0000
+  F   F5        1.0  0.23777524689851115  0.7622247564264807  0.23777518650658125  1.0000
+  F   F6        1.0  0.762224743413684  0.23777529818269824  0.762224752656875  1.0000

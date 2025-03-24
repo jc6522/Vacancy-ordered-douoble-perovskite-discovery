@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2FeS6
+_chemical_formula_sum              "Zn2 Fe1 S6"
+_cell_length_a       6.289521902429463
+_cell_length_b       6.289521329048352
+_cell_length_c       6.289521723945825
+_cell_angle_alpha    59.99999823290679
+_cell_angle_beta     60.00000144967037
+_cell_angle_gamma    59.99999921324706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000002263634274  0.2500000281907153  0.2500000632706296  1.0000
+  Zn  Zn2       1.0  0.7500001611747591  0.7499997827439937  0.7499996612945853  1.0000
+  Fe  Fe1       1.0  0.9999999637081307  9.73639158703154e-09  9.277503945223546e-08  1.0000
+  S   S1        1.0  0.24456696164098404  0.24456721367158685  0.7554329577519463  1.0000
+  S   S2        1.0  0.755432892574605  0.755432776412731  0.24456737466813447  1.0000
+  S   S3        1.0  0.755432787090919  0.24456715300645085  0.2445670045941845  1.0000
+  S   S4        1.0  0.24456719463288232  0.7554330824349473  0.755432796374966  1.0000
+  S   S5        1.0  0.24456701994153415  0.7554328440587591  0.24456709592459852  1.0000
+  S   S6        1.0  0.7554329833169806  0.24456712850005516  0.7554329878929801  1.0000

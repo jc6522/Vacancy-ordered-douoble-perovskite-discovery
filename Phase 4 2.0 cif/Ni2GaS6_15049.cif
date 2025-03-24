@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2GaS6
+_chemical_formula_sum              "Ni2 Ga1 S6"
+_cell_length_a       5.732604103174633
+_cell_length_b       5.732603230471579
+_cell_length_c       5.732603148689466
+_cell_angle_alpha    60.000003757150196
+_cell_angle_beta     60.00000553986214
+_cell_angle_gamma    60.00000539967824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999947069500397  0.25000010219426994  0.25000038478382963  1.0000
+  Ni  Ni2       1.0  0.749999994225038  0.7500001164383922  0.7499998373443574  1.0000
+  Ga  Ga1       1.0  7.332704396481974e-08  2.7773916556325007e-08  0.9999999110725398  1.0000
+  S   S1        1.0  0.274558444788432  0.2745593100797171  0.7254411227001963  1.0000
+  S   S2        1.0  0.7254411295723359  0.7254409790559715  0.2745592327403673  1.0000
+  S   S3        1.0  0.7254408981440805  0.27455853737095176  0.2745593062872942  1.0000
+  S   S4        1.0  0.2745586096799599  0.7254408394984823  0.7254413344589772  1.0000
+  S   S5        1.0  0.27455921232818997  0.7254411581847079  0.2745586231006559  1.0000
+  S   S6        1.0  0.7254421978692283  0.27455891089620615  0.7254402197080475  1.0000

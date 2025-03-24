@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2GaF6
+_chemical_formula_sum              "Li2 Ga1 F6"
+_cell_length_a       5.467386994112433
+_cell_length_b       5.467386645281076
+_cell_length_c       5.467386879636188
+_cell_angle_alpha    59.9999990653485
+_cell_angle_beta     59.99999402665202
+_cell_angle_gamma    59.99999845109352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000008530356804  0.24999984618070004  0.2500000207806951  1.0000
+  Li  Li2       1.0  0.7499999282901877  0.7499999955208616  0.750000250068752  1.0000
+  Ga  Ga1       1.0  2.8842985698667653e-08  0.99999996415853  3.276367775119735e-08  1.0000
+  F   F1        1.0  0.24483697737227103  0.24483693113588803  0.7551629612112063  1.0000
+  F   F2        1.0  0.7551630091463528  0.7551631121739389  0.24483689863383948  1.0000
+  F   F3        1.0  0.7551630410076206  0.24483697819998135  0.24483685607650355  1.0000
+  F   F4        1.0  0.2448369987569849  0.7551631524734328  0.755162953583056  1.0000
+  F   F5        1.0  0.24483697365627963  0.7551631278625528  0.24483685163919133  1.0000
+  F   F6        1.0  0.7551630602226604  0.24483686840534785  0.7551631452237064  1.0000

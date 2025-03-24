@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2CdO6
+_chemical_formula_sum              "Mg2 Cd1 O6"
+_cell_length_a       5.321251293861664
+_cell_length_b       5.321251511767983
+_cell_length_c       5.321251410010205
+_cell_angle_alpha    60.000000992747175
+_cell_angle_beta     59.9999998504747
+_cell_angle_gamma    60.00000100898246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.24999995922819823  0.2500000250024295  0.24999997675891156  1.0000
+  Mg  Mg2       1.0  0.7500000466158419  0.7499999783396464  0.7500000012625929  1.0000
+  Cd  Cd1       1.0  3.5881766687906626e-08  0.9999999769838946  1.0841982058382832e-09  1.0000
+  O   O1        1.0  0.2799521840179158  0.27995216114841104  0.7200478331467439  1.0000
+  O   O2        1.0  0.7200478634732088  0.7200477823517909  0.2799520975944396  1.0000
+  O   O3        1.0  0.7200478060167346  0.27995213931415214  0.27995218160145  1.0000
+  O   O4        1.0  0.27995214901894583  0.7200478732343659  0.7200478397720993  1.0000
+  O   O5        1.0  0.27995215279018604  0.7200478217541505  0.2799522828023932  1.0000
+  O   O6        1.0  0.7200478074617045  0.2799522207153046  0.7200477980521277  1.0000

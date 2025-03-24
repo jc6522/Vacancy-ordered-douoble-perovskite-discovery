@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2TaSe6
+_chemical_formula_sum              "Na2 Ta1 Se6"
+_cell_length_a       6.694261551187124
+_cell_length_b       6.694262084438981
+_cell_length_c       6.6942624999908205
+_cell_angle_alpha    59.999999447490005
+_cell_angle_beta     59.99999800654901
+_cell_angle_gamma    59.99999441660234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24999997875776364  0.250000012672051  0.25000003163322665  1.0000
+  Na  Na2       1.0  0.7500000406050228  0.7499999941070824  0.7500000094171394  1.0000
+  Ta  Ta1       1.0  0.9999998892466192  6.220450630810932e-07  0.9999995650961796  1.0000
+  Se  Se1       1.0  0.26742077988024654  0.2674205147176394  0.7325793925528427  1.0000
+  Se  Se2       1.0  0.7325790748538188  0.7325792304366728  0.2674208407108568  1.0000
+  Se  Se3       1.0  0.7325794922646263  0.2674203628570708  0.26742055680167487  1.0000
+  Se  Se4       1.0  0.2674205515818534  0.7325794152290245  0.7325794713294883  1.0000
+  Se  Se5       1.0  0.2674206830028338  0.7325793608242489  0.26742068680503883  1.0000
+  Se  Se6       1.0  0.7325795086269294  0.26742050690950747  0.7325794631151181  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2AsO6
+_chemical_formula_sum              "Ba2 As1 O6"
+_cell_length_a       5.964158959197907
+_cell_length_b       5.964159312231297
+_cell_length_c       5.964159356415735
+_cell_angle_alpha    59.999999759056756
+_cell_angle_beta     60.00000078350531
+_cell_angle_gamma    60.00000107031802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.24999997221140463  0.24999999327763275  0.24999999973308779  1.0000
+  Ba  Ba2       1.0  0.7500000382540476  0.7499999983144693  0.7500000096293107  1.0000
+  As  As1       1.0  1.0834601052055425e-08  0.9999999733043963  2.4697323877056205e-08  1.0000
+  O   O1        1.0  0.21440429794973623  0.21440433883055363  0.7855956820268918  1.0000
+  O   O2        1.0  0.7855956319827401  0.785595679457152  0.21440435425419113  1.0000
+  O   O3        1.0  0.7855956331837215  0.21440438158261496  0.21440428686385096  1.0000
+  O   O4        1.0  0.2144043333762665  0.7855957126848861  0.7855956377830656  1.0000
+  O   O5        1.0  0.21440431649229122  0.7855956246431641  0.21440435439815708  1.0000
+  O   O6        1.0  0.7855956568557309  0.21440435052087423  0.785595685090352  1.0000

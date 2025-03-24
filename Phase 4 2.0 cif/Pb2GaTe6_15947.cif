@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2GaTe6
+_chemical_formula_sum              "Pb2 Ga1 Te6"
+_cell_length_a       7.377132416885617
+_cell_length_b       7.377132597064109
+_cell_length_c       7.3771324599790855
+_cell_angle_alpha    60.000001544100044
+_cell_angle_beta     60.000001990096955
+_cell_angle_gamma    59.99999914374305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2500001122560892  0.24999983516974025  0.25000006876920344  1.0000
+  Pb  Pb2       1.0  0.7499999705227787  0.7500001064983457  0.7499999018712358  1.0000
+  Ga  Ga1       1.0  0.9999998345589772  0.9999999750971406  1.2499382374672125e-07  1.0000
+  Te  Te1       1.0  0.26609511053143753  0.26609444060615134  0.7339051981608118  1.0000
+  Te  Te2       1.0  0.7339050957089384  0.7339056753819785  0.2660946764549244  1.0000
+  Te  Te3       1.0  0.7339053330272369  0.2660944524378265  0.2660949325649202  1.0000
+  Te  Te4       1.0  0.26609458100371736  0.7339056104242014  0.7339050198307551  1.0000
+  Te  Te5       1.0  0.2660945676065708  0.7339055446075181  0.26609479186796026  1.0000
+  Te  Te6       1.0  0.7339054023174835  0.26609435057522474  0.7339052570870148  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2TlS6
+_chemical_formula_sum              "Sn2 Tl1 S6"
+_cell_length_a       6.537228227951751
+_cell_length_b       6.537228104217218
+_cell_length_c       6.537228102441775
+_cell_angle_alpha    60.00000030739441
+_cell_angle_beta     60.00000130375507
+_cell_angle_gamma    60.000000938293205
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000006777037487  0.2500001878930069  0.24999979885337145  1.0000
+  Sn  Sn2       1.0  0.7500000799274473  0.7499999323120029  0.7499998672471803  1.0000
+  Tl  Tl1       1.0  0.9999999489351172  8.43071679333315e-08  4.609657096635265e-08  1.0000
+  S   S1        1.0  0.2744383156641687  0.2744383842791925  0.7255616700169508  1.0000
+  S   S2        1.0  0.7255616402183853  0.7255615748054494  0.2744384371895751  1.0000
+  S   S3        1.0  0.7255616590355642  0.27443831177509526  0.27443831760014636  1.0000
+  S   S4        1.0  0.27443839271339676  0.7255615292795116  0.7255617318516786  1.0000
+  S   S5        1.0  0.27443829770155437  0.7255616038329662  0.27443839227784816  1.0000
+  S   S6        1.0  0.7255615904169807  0.27443838897454226  0.7255617380680548  1.0000

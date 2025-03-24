@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2InO6
+_chemical_formula_sum              "Ag2 In1 O6"
+_cell_length_a       5.426690823671035
+_cell_length_b       5.426690567988994
+_cell_length_c       5.42669046989276
+_cell_angle_alpha    60.00000047880319
+_cell_angle_beta     60.000001859135466
+_cell_angle_gamma    59.99999745799903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2499999939009274  0.2499999750880948  0.2500000248633959  1.0000
+  Ag  Ag2       1.0  0.7499999848815287  0.7500000561639596  0.7500000001800017  1.0000
+  In  In1       1.0  0.9999998388426848  1.1961522481895428e-07  0.9999999691742202  1.0000
+  O   O1        1.0  0.2799053408039519  0.2799051989210412  0.7200947421752573  1.0000
+  O   O2        1.0  0.7200947319048976  0.7200947420553726  0.2799052607725824  1.0000
+  O   O3        1.0  0.7200947195363949  0.27990525062700583  0.2799052819184327  1.0000
+  O   O4        1.0  0.2799053102288914  0.7200947106614276  0.7200947083895098  1.0000
+  O   O5        1.0  0.2799053389403868  0.7200946859355807  0.2799052551551066  1.0000
+  O   O6        1.0  0.7200947393996167  0.27990525729772403  0.7200947475341981  1.0000

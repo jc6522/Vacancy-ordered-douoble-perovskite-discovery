@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2CaCl6
+_chemical_formula_sum              "Pb2 Ca1 Cl6"
+_cell_length_a       7.04510167564995
+_cell_length_b       7.045101719061622
+_cell_length_c       7.045101834611561
+_cell_angle_alpha    59.99999993505886
+_cell_angle_beta     60.00000006512558
+_cell_angle_gamma    60.00000207938076
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2500000003722833  0.2500001168354523  0.24999995415019136  1.0000
+  Pb  Pb2       1.0  0.7499999112411949  0.7500000497571684  0.7500000520852907  1.0000
+  Ca  Ca1       1.0  0.9999999964407666  0.9999999860925233  1.0525431603171906e-07  1.0000
+  Cl  Cl1       1.0  0.26040248896609847  0.26040245371128334  0.7395975390602878  1.0000
+  Cl  Cl2       1.0  0.7395974935425603  0.7395974903617094  0.2604025060823441  1.0000
+  Cl  Cl3       1.0  0.7395975701190658  0.26040244662394435  0.26040243070463714  1.0000
+  Cl  Cl4       1.0  0.2604025832956899  0.7395973879276718  0.7395974602555822  1.0000
+  Cl  Cl5       1.0  0.26040259109169445  0.739597451124681  0.2604025019242748  1.0000
+  Cl  Cl6       1.0  0.7395973567306396  0.2604026215924716  0.7395974522372372  1.0000

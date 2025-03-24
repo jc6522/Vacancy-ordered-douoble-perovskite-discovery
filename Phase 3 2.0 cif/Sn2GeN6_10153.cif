@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2GeN6
+_chemical_formula_sum              "Sn2 Ge1 N6"
+_cell_length_a       5.228088574913381
+_cell_length_b       5.228088562186313
+_cell_length_c       5.228088490743055
+_cell_angle_alpha    60.000001353014035
+_cell_angle_beta     60.00000251472998
+_cell_angle_gamma    60.00000104818198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2499999957318717  0.24999998222849962  0.25000000205047296  1.0000
+  Sn  Sn2       1.0  0.7500000019632767  0.7500000216494842  0.7499999976277506  1.0000
+  Ge  Ge1       1.0  0.999999999866023  7.027873607736877e-09  0.9999999908148168  1.0000
+  N   N1        1.0  0.2643261382088402  0.2643262290063264  0.7356738373117152  1.0000
+  N   N2        1.0  0.7356738367759219  0.7356737303617912  0.2643262036276139  1.0000
+  N   N3        1.0  0.7356737893828333  0.26432617444571493  0.26432619276718516  1.0000
+  N   N4        1.0  0.26432618194252133  0.7356738224043955  0.7356738331735962  1.0000
+  N   N5        1.0  0.2643261773732462  0.7356738211206604  0.2643261811468159  1.0000
+  N   N6        1.0  0.7356738439471404  0.26432621789669164  0.7356737853236152  1.0000

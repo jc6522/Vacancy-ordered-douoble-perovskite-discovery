@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2GaI6
+_chemical_formula_sum              "Cu2 Ga1 I6"
+_cell_length_a       7.628811808001099
+_cell_length_b       7.628811834893327
+_cell_length_c       7.628811820043031
+_cell_angle_alpha    60.00000030615534
+_cell_angle_beta     60.00000018872547
+_cell_angle_gamma    60.00000040481541
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500000085937568  0.25000001556502693  0.24999997441077465  1.0000
+  Cu  Cu2       1.0  0.7499999748696042  0.7500000177975171  0.7500000090156431  1.0000
+  Ga  Ga1       1.0  3.378718454350958e-09  8.02710104181419e-09  0.9999999995403708  1.0000
+  I   I1        1.0  0.2566913717813647  0.25669136777220186  0.7433086298431745  1.0000
+  I   I2        1.0  0.7433086381478  0.7433086270602572  0.2566913609262038  1.0000
+  I   I3        1.0  0.7433086355125897  0.2566913634041763  0.2566913635055284  1.0000
+  I   I4        1.0  0.2566913634698332  0.7433086234011818  0.7433086498589726  1.0000
+  I   I5        1.0  0.2566913792349074  0.7433086225105668  0.2566913620941937  1.0000
+  I   I6        1.0  0.7433086209096111  0.25669135626769013  0.743308644216249  1.0000

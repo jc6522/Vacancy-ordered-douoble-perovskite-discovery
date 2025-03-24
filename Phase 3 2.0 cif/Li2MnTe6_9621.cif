@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2MnTe6
+_chemical_formula_sum              "Li2 Mn1 Te6"
+_cell_length_a       7.010606435886634
+_cell_length_b       7.010605547159733
+_cell_length_c       7.010605952339139
+_cell_angle_alpha    59.99999547485315
+_cell_angle_beta     59.99999384598707
+_cell_angle_gamma    60.00000042115023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999986938406502  0.250000026092587  0.25000004334375475  1.0000
+  Li  Li2       1.0  0.7500001633169336  0.7500000730368308  0.7499997266924044  1.0000
+  Mn  Mn1       1.0  1.7372813867466003e-07  0.9999998148192015  0.9999999458170932  1.0000
+  Te  Te1       1.0  0.2560756208273805  0.2560758326979531  0.743924416984345  1.0000
+  Te  Te2       1.0  0.7439242741156824  0.7439244079375469  0.2560757605574809  1.0000
+  Te  Te3       1.0  0.7439245459328054  0.2560755829937418  0.25607580516733014  1.0000
+  Te  Te4       1.0  0.25607541602959594  0.7439243676416258  0.7439241985828499  1.0000
+  Te  Te5       1.0  0.2560757370709826  0.7439242355192432  0.2560758349079043  1.0000
+  Te  Te6       1.0  0.743924241496377  0.2560756504775413  0.7439242228137031  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2CoS6
+_chemical_formula_sum              "Mg2 Co1 S6"
+_cell_length_a       6.123134304304157
+_cell_length_b       6.123134167710824
+_cell_length_c       6.1231343470972455
+_cell_angle_alpha    59.99999932206924
+_cell_angle_beta     59.99999944136998
+_cell_angle_gamma    59.99999994851732
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.24999997323382378  0.24999996249876866  0.25000004291771555  1.0000
+  Mg  Mg2       1.0  0.7500000276266364  0.7500000955163575  0.7500001210303855  1.0000
+  Co  Co1       1.0  7.523571980093555e-09  3.400327788798518e-08  7.559245538792165e-08  1.0000
+  S   S1        1.0  0.24890453233636797  0.24890454517722246  0.7510954714479731  1.0000
+  S   S2        1.0  0.7510954617816449  0.7510954708338539  0.24890443433833778  1.0000
+  S   S3        1.0  0.7510955136690314  0.24890452630273394  0.24890447271837482  1.0000
+  S   S4        1.0  0.24890451677600303  0.7510953976994744  0.751095451109956  1.0000
+  S   S5        1.0  0.24890456140254116  0.7510954894294306  0.24890446473672656  1.0000
+  S   S6        1.0  0.7510954104486801  0.24890447457663287  0.7510954438893257  1.0000

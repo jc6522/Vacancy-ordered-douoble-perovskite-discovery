@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2GaN6
+_chemical_formula_sum              "Zr2 Ga1 N6"
+_cell_length_a       4.864187427067267
+_cell_length_b       4.864187821302916
+_cell_length_c       4.864187564923415
+_cell_angle_alpha    60.00000233609355
+_cell_angle_beta     60.000002637050336
+_cell_angle_gamma    60.00000392783017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000004786482505  0.25000009052822836  0.24999985593693963  1.0000
+  Zr  Zr2       1.0  0.7500000030378111  0.7499999241170431  0.7499999680669416  1.0000
+  Ga  Ga1       1.0  0.999999998728706  2.517881460458212e-08  0.9999999633761385  1.0000
+  N   N1        1.0  0.27239996069533634  0.2723999639218778  0.7276000473137222  1.0000
+  N   N2        1.0  0.7276000326581464  0.7276000809379696  0.2723999013729022  1.0000
+  N   N3        1.0  0.7276000920071972  0.272399859736264  0.2723999555447492  1.0000
+  N   N4        1.0  0.27239996040955905  0.727599950960609  0.7276001896513402  1.0000
+  N   N5        1.0  0.27239993413345176  0.7276000446952358  0.27239992557593357  1.0000
+  N   N6        1.0  0.72759999927229  0.2724000731831725  0.7276000905855835  1.0000

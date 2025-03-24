@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2AuO6
+_chemical_formula_sum              "Nb2 Au1 O6"
+_cell_length_a       5.174973066338651
+_cell_length_b       5.174973206991005
+_cell_length_c       5.174973160870433
+_cell_angle_alpha    60.000000039279996
+_cell_angle_beta     59.99999967686452
+_cell_angle_gamma    59.99999839044882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.24999972539016652  0.25000007537987334  0.2500002290485197  1.0000
+  Nb  Nb2       1.0  0.7500002280875189  0.7500003705064069  0.7499997875528192  1.0000
+  Au  Au1       1.0  2.296670760281371e-08  4.733337722103488e-09  0.9999999320434165  1.0000
+  O   O1        1.0  0.26583719495858554  0.2658372209682014  0.7341627281513936  1.0000
+  O   O2        1.0  0.7341628384948752  0.7341626971508876  0.26583719736817535  1.0000
+  O   O3        1.0  0.7341628458787566  0.2658370928116453  0.26583731564448176  1.0000
+  O   O4        1.0  0.2658371327160211  0.7341628158407681  0.7341627695746598  1.0000
+  O   O5        1.0  0.26583712937526094  0.7341627348615194  0.26583728527099587  1.0000
+  O   O6        1.0  0.7341628561417121  0.2658370057573943  0.7341627355755104  1.0000

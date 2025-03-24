@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2AuBr6
+_chemical_formula_sum              "Zn2 Au1 Br6"
+_cell_length_a       7.234277855884322
+_cell_length_b       7.234277793752852
+_cell_length_c       7.23427793891893
+_cell_angle_alpha    60.00000010138344
+_cell_angle_beta     60.00000006076613
+_cell_angle_gamma    60.00000029967018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2499999946417509  0.2500000040520862  0.2500000168287634  1.0000
+  Zn  Zn2       1.0  0.7500000182024101  0.7500000003054361  0.7499999867454201  1.0000
+  Au  Au1       1.0  0.9999999947440427  0.9999999966140506  0.9999999904978737  1.0000
+  Br  Br1       1.0  0.2568007712409013  0.2568007949838755  0.7431992152299743  1.0000
+  Br  Br2       1.0  0.7431992254480965  0.7431992195314944  0.2568007789020956  1.0000
+  Br  Br3       1.0  0.7431992380466474  0.2568007598268918  0.256800778537671  1.0000
+  Br  Br4       1.0  0.25680076909066646  0.7431992089781633  0.7431992373723216  1.0000
+  Br  Br5       1.0  0.256800767116795  0.7431992275772511  0.2568007702626175  1.0000
+  Br  Br6       1.0  0.7431992228169164  0.2568007784732456  0.7431992370087637  1.0000

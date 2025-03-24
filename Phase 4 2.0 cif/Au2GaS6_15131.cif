@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2GaS6
+_chemical_formula_sum              "Au2 Ga1 S6"
+_cell_length_a       6.356307372582273
+_cell_length_b       6.356307285622392
+_cell_length_c       6.356307236165697
+_cell_angle_alpha    60.00000159481871
+_cell_angle_beta     60.000000047209824
+_cell_angle_gamma    60.00000055694937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2499999343380471  0.2499999485453037  0.25000023004467337  1.0000
+  Au  Au2       1.0  0.7499999712231497  0.7500000113422696  0.750000178636667  1.0000
+  Ga  Ga1       1.0  0.9999999887885869  0.9999999845854551  5.1070751022084006e-08  1.0000
+  S   S1        1.0  0.2666612951329342  0.2666612506256599  0.7333386126638504  1.0000
+  S   S2        1.0  0.7333387839612789  0.7333387227496305  0.2666611361405411  1.0000
+  S   S3        1.0  0.7333386766286177  0.26666136199599616  0.26666127831324976  1.0000
+  S   S4        1.0  0.26666120367921736  0.7333388425974804  0.7333386178922536  1.0000
+  S   S5        1.0  0.26666134243432715  0.7333387245246167  0.26666116579339155  1.0000
+  S   S6        1.0  0.7333387991240123  0.26666114865613005  0.7333387277354477  1.0000

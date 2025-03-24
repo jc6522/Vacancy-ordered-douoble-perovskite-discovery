@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2HgF6
+_chemical_formula_sum              "In2 Hg1 F6"
+_cell_length_a       5.776775760875887
+_cell_length_b       5.776775425515151
+_cell_length_c       5.776775698344539
+_cell_angle_alpha    60.00000169582221
+_cell_angle_beta     60.000000907703736
+_cell_angle_gamma    60.000001187871966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.250000027873879  0.24999988206890944  0.2500000748700806  1.0000
+  In  In2       1.0  0.7499999975627768  0.750000036308529  0.7499999410275017  1.0000
+  Hg  Hg1       1.0  0.9999999948313574  0.9999999915195259  8.555627562563496e-09  1.0000
+  F   F1        1.0  0.26271927268201317  0.26271927507016396  0.7372806803076433  1.0000
+  F   F2        1.0  0.7372807296342356  0.7372807726345034  0.26271928421760044  1.0000
+  F   F3        1.0  0.7372807095492633  0.2627192475382186  0.26271928997906124  1.0000
+  F   F4        1.0  0.2627192476210073  0.7372807916859735  0.7372806840487142  1.0000
+  F   F5        1.0  0.26271926262124096  0.7372807687833103  0.26271927465206063  1.0000
+  F   F6        1.0  0.7372807546570884  0.26271922803851405  0.7372807303374661  1.0000

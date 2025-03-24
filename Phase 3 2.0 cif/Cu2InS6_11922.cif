@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2InS6
+_chemical_formula_sum              "Cu2 In1 S6"
+_cell_length_a       6.487385998969896
+_cell_length_b       6.487385919128949
+_cell_length_c       6.4873857125363
+_cell_angle_alpha    60.00000205224761
+_cell_angle_beta     60.000001356795195
+_cell_angle_gamma    59.999999479735585
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499999686721865  0.25000001005957495  0.2499999651154283  1.0000
+  Cu  Cu2       1.0  0.7500000064476736  0.749999990533106  0.7499998726608017  1.0000
+  In  In1       1.0  5.7370683202261224e-08  9.439430746971753e-09  0.9999998879808414  1.0000
+  S   S1        1.0  0.2797956837478149  0.2797958074383762  0.7202043715175741  1.0000
+  S   S2        1.0  0.7202042554312778  0.7202042422393602  0.2797958712544563  1.0000
+  S   S3        1.0  0.7202041591717449  0.2797957536041532  0.2797958942367974  1.0000
+  S   S4        1.0  0.2797958206956193  0.7202041846882736  0.7202041233781986  1.0000
+  S   S5        1.0  0.27979577230091096  0.720204187080499  0.2797958499405666  1.0000
+  S   S6        1.0  0.7202042799846525  0.2797958116242965  0.7202041598343587  1.0000

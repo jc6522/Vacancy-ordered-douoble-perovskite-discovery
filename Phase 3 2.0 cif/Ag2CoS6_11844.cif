@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2CoS6
+_chemical_formula_sum              "Ag2 Co1 S6"
+_cell_length_a       6.130830773166433
+_cell_length_b       6.130830862956948
+_cell_length_c       6.130830899950519
+_cell_angle_alpha    59.99999909525025
+_cell_angle_beta     59.9999948438351
+_cell_angle_gamma    59.99999534858346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2500000738465565  0.24999990038872774  0.2500000112601677  1.0000
+  Ag  Ag2       1.0  0.7500000396430928  0.7499998569853668  0.7500000484503052  1.0000
+  Co  Co1       1.0  0.9999999484618252  3.5958273464383485e-08  1.2655511175048267e-09  1.0000
+  S   S1        1.0  0.24998635004962408  0.24998632060600048  0.7500136858899735  1.0000
+  S   S2        1.0  0.7500135622879611  0.7500137464087733  0.24998637503360652  1.0000
+  S   S3        1.0  0.7500136545697718  0.24998627410353857  0.24998645862282431  1.0000
+  S   S4        1.0  0.2499864509257767  0.7500137050132312  0.7500136165458815  1.0000
+  S   S5        1.0  0.2499863357780195  0.7500137225349027  0.2499863297452932  1.0000
+  S   S6        1.0  0.7500135962294822  0.24998643237786586  0.7500135469063075  1.0000

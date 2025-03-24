@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2BeTe6
+_chemical_formula_sum              "Ni2 Be1 Te6"
+_cell_length_a       6.8875473231197155
+_cell_length_b       6.887547267571197
+_cell_length_c       6.887546995699772
+_cell_angle_alpha    60.000001656873074
+_cell_angle_beta     60.00000257589593
+_cell_angle_gamma    60.00000210110639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999997005475944  0.2499998598321848  0.2500001648782806  1.0000
+  Ni  Ni2       1.0  0.7499999930507995  0.7500000098213749  0.7499999026412614  1.0000
+  Be  Be1       1.0  0.9999998536530589  0.9999999964435949  1.5423947478294643e-08  1.0000
+  Te  Te1       1.0  0.2409620352668396  0.24096212639945905  0.7590378990274572  1.0000
+  Te  Te2       1.0  0.7590379976880917  0.7590380366573874  0.24096204784537673  1.0000
+  Te  Te3       1.0  0.7590379888972201  0.24096197738344477  0.2409619975521659  1.0000
+  Te  Te4       1.0  0.24096207019034688  0.7590380167442374  0.7590379582874163  1.0000
+  Te  Te5       1.0  0.24096201127004824  0.759037961522084  0.24096203820337223  1.0000
+  Te  Te6       1.0  0.7590380786890338  0.24096202549279142  0.7590379681883718  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2CoF6
+_chemical_formula_sum              "Ti2 Co1 F6"
+_cell_length_a       5.253455817051987
+_cell_length_b       5.253455248632123
+_cell_length_c       5.253455385248441
+_cell_angle_alpha    59.99999984628772
+_cell_angle_beta     59.999999673889235
+_cell_angle_gamma    59.99999882687967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2500000673369511  0.24999998174722549  0.24999988297858186  1.0000
+  Ti  Ti2       1.0  0.7499997147632024  0.7500002926073277  0.7500001528768275  1.0000
+  Co  Co1       1.0  0.9999999848807809  0.9999999860121216  1.8360567193687678e-08  1.0000
+  F   F1        1.0  0.2519218458632522  0.251921699875492  0.7480782369073006  1.0000
+  F   F2        1.0  0.7480783093456425  0.7480781804871544  0.25192171040720884  1.0000
+  F   F3        1.0  0.7480782057351683  0.25192171322730295  0.2519218304548197  1.0000
+  F   F4        1.0  0.251921812132151  0.7480782230868567  0.7480782051424512  1.0000
+  F   F5        1.0  0.2519218933921419  0.748078262361472  0.25192167473187965  1.0000
+  F   F6        1.0  0.7480781807351744  0.25192164364561714  0.7480782812661088  1.0000

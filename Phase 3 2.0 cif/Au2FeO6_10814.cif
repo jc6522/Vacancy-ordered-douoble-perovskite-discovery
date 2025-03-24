@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2FeO6
+_chemical_formula_sum              "Au2 Fe1 O6"
+_cell_length_a       5.334954995262239
+_cell_length_b       5.334954858793662
+_cell_length_c       5.33495521833405
+_cell_angle_alpha    59.999999348661454
+_cell_angle_beta     59.99999922816356
+_cell_angle_gamma    59.99999978217813
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2499998321446662  0.2500002455067266  0.24999989986189292  1.0000
+  Au  Au2       1.0  0.7499996879224288  0.7499998503804967  0.7500003055826328  1.0000
+  Fe  Fe1       1.0  1.031938051963669e-08  0.9999999885215054  0.9999999199790678  1.0000
+  O   O1        1.0  0.24743881422075448  0.24743863005008823  0.7525612991408406  1.0000
+  O   O2        1.0  0.7525613950952309  0.7525611122995437  0.2474387009594348  1.0000
+  O   O3        1.0  0.7525613460921415  0.24743888241924014  0.24743866472202783  1.0000
+  O   O4        1.0  0.24743884163963847  0.7525611973980981  0.7525612617858501  1.0000
+  O   O5        1.0  0.2474388765467437  0.752561187233252  0.247438612070164  1.0000
+  O   O6        1.0  0.7525612046490512  0.24743884207871436  0.7525613723396617  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2TeCl6
+_chemical_formula_sum              "In2 Te1 Cl6"
+_cell_length_a       7.318650025374641
+_cell_length_b       7.318650128730591
+_cell_length_c       7.318649996899475
+_cell_angle_alpha    60.000000521056386
+_cell_angle_beta     59.99999951088773
+_cell_angle_gamma    59.9999994131335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000001324565574  0.24999999983211998  0.2500000101271408  1.0000
+  In  In2       1.0  0.7499999914802203  0.749999992802531  0.749999997736333  1.0000
+  Te  Te1       1.0  0.9999998794838629  8.701978212267798e-08  0.9999999607269172  1.0000
+  Cl  Cl1       1.0  0.2461694602628324  0.24616944006989813  0.7538305558005602  1.0000
+  Cl  Cl2       1.0  0.7538305921619718  0.7538305609320389  0.24616941583157276  1.0000
+  Cl  Cl3       1.0  0.7538306038018788  0.2461693870839266  0.2461694081404183  1.0000
+  Cl  Cl4       1.0  0.24616937827766783  0.7538306072241819  0.7538306088431191  1.0000
+  Cl  Cl5       1.0  0.24616945745455854  0.7538305495719869  0.24616944451091632  1.0000
+  Cl  Cl6       1.0  0.7538306274987472  0.24616937277745554  0.7538305993726128  1.0000

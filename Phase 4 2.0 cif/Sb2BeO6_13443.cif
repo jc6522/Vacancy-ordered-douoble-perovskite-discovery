@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2BeO6
+_chemical_formula_sum              "Sb2 Be1 O6"
+_cell_length_a       5.158555770440978
+_cell_length_b       5.158555603693856
+_cell_length_c       5.158555814090224
+_cell_angle_alpha    60.000000902736005
+_cell_angle_beta     59.99999980065101
+_cell_angle_gamma    59.99999999490253
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.25000027222804366  0.249999575964452  0.25000026310502715  1.0000
+  Sb  Sb2       1.0  0.7500002640037997  0.7499997345546413  0.7500005565090401  1.0000
+  Be  Be1       1.0  0.999999998145634  1.8993607362414053e-08  0.9999999197048787  1.0000
+  O   O1        1.0  0.23310883386926978  0.23310910848614716  0.7668908867490399  1.0000
+  O   O2        1.0  0.7668908954297523  0.7668911991973992  0.2331087424814429  1.0000
+  O   O3        1.0  0.7668909835743407  0.2331090905571874  0.23310875329453787  1.0000
+  O   O4        1.0  0.23310879919845037  0.7668911910101481  0.7668909301056125  1.0000
+  O   O5        1.0  0.2331089091610604  0.7668911015716195  0.23310886547887935  1.0000
+  O   O6        1.0  0.7668910205366353  0.23310898768542823  0.7668910344666645  1.0000

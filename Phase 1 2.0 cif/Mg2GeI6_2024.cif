@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2GeI6
+_chemical_formula_sum              "Mg2 Ge1 I6"
+_cell_length_a       7.700560874236281
+_cell_length_b       7.700560950118785
+_cell_length_c       7.700560890261632
+_cell_angle_alpha    59.999999655902066
+_cell_angle_beta     59.99999998542125
+_cell_angle_gamma    60.00000085512736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.250000015730982  0.2500000112351268  0.24999998741444193  1.0000
+  Mg  Mg2       1.0  0.7500000094637314  0.749999993943833  0.7499999685235393  1.0000
+  Ge  Ge1       1.0  9.542771214592438e-09  0.9999999713716857  6.798007337521237e-08  1.0000
+  I   I1        1.0  0.25879635384482863  0.2587963833266496  0.7412036108313972  1.0000
+  I   I2        1.0  0.741203648509123  0.7412036139000003  0.2587963695933669  1.0000
+  I   I3        1.0  0.7412036092652929  0.2587963722642678  0.2587964055697865  1.0000
+  I   I4        1.0  0.25879639113435704  0.7412036488193101  0.7412036054590787  1.0000
+  I   I5        1.0  0.25879635058827216  0.7412036347110813  0.25879637272575623  1.0000
+  I   I6        1.0  0.7412036195640664  0.2587963736488015  0.7412036078443441  1.0000

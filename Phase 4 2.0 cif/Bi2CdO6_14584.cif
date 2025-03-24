@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2CdO6
+_chemical_formula_sum              "Bi2 Cd1 O6"
+_cell_length_a       5.5119109833745
+_cell_length_b       5.511910949550348
+_cell_length_c       5.511911144506725
+_cell_angle_alpha    59.9999981948591
+_cell_angle_beta     59.999998483846575
+_cell_angle_gamma    59.999998026798295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500000891701991  0.2499998628900871  0.2499999995525564  1.0000
+  Bi  Bi2       1.0  0.7499999434260973  0.7499999952956945  0.7499999936722572  1.0000
+  Cd  Cd1       1.0  0.9999999664594968  3.7773947761503164e-08  0.9999999253131673  1.0000
+  O   O1        1.0  0.27322278811325157  0.2732227539914739  0.7267772274989663  1.0000
+  O   O2        1.0  0.726777175622943  0.7267772730660715  0.2732227882901261  1.0000
+  O   O3        1.0  0.7267772667398391  0.27322273813801884  0.2732227300056252  1.0000
+  O   O4        1.0  0.27322279274902983  0.7267772844755321  0.7267772455718852  1.0000
+  O   O5        1.0  0.2732227562670351  0.7267773134638643  0.27322273901215965  1.0000
+  O   O6        1.0  0.7267772350625336  0.2732227313696555  0.7267773629474237  1.0000

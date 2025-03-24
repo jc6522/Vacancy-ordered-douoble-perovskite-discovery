@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2TiF6
+_chemical_formula_sum              "Ni2 Ti1 F6"
+_cell_length_a       5.356952182038426
+_cell_length_b       5.356952480640537
+_cell_length_c       5.356952834843439
+_cell_angle_alpha    59.999997880213606
+_cell_angle_beta     60.000000071699255
+_cell_angle_gamma    59.999998656193966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500000564602619  0.24999973257486074  0.2499999925053387  1.0000
+  Ni  Ni2       1.0  0.7500001369916114  0.7499999544805209  0.7499997777383941  1.0000
+  Ti  Ti1       1.0  9.709122529875716e-09  9.37371403898757e-08  0.9999999576105333  1.0000
+  F   F1        1.0  0.24894166822298575  0.24894164323893722  0.7510584594812896  1.0000
+  F   F2        1.0  0.7510583246273078  0.7510585033570566  0.24894166291000444  1.0000
+  F   F3        1.0  0.7510584185576573  0.2489416262897075  0.24894165190616035  1.0000
+  F   F4        1.0  0.24894152970296468  0.7510584471455928  0.7510584546909993  1.0000
+  F   F5        1.0  0.24894150726162909  0.7510584133933635  0.24894167815501927  1.0000
+  F   F6        1.0  0.7510583377956455  0.24894164632430918  0.7510583935659805  1.0000

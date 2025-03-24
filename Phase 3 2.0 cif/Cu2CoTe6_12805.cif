@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2CoTe6
+_chemical_formula_sum              "Cu2 Co1 Te6"
+_cell_length_a       6.783211916460191
+_cell_length_b       6.783231448845057
+_cell_length_c       6.783226325605254
+_cell_angle_alpha    60.0000133403747
+_cell_angle_beta     59.99998225795596
+_cell_angle_gamma    60.00004658988712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499971006091958  0.250003025189422  0.2500003014033218  1.0000
+  Cu  Cu2       1.0  0.7499988367513414  0.7499985077025346  0.7500006634089967  1.0000
+  Co  Co1       1.0  0.9999996681498876  0.9999993102811494  3.8694953306344733e-07  1.0000
+  Te  Te1       1.0  0.2560754311838846  0.25607665252848094  0.7439242118707248  1.0000
+  Te  Te2       1.0  0.7439240182995955  0.7439226324569603  0.2560775021835443  1.0000
+  Te  Te3       1.0  0.743924789249725  0.2560776313130623  0.2560743685317407  1.0000
+  Te  Te4       1.0  0.2560780097336176  0.7439221917254377  0.7439245909237484  1.0000
+  Te  Te5       1.0  0.256077391525089  0.7439217192060376  0.25607553918517506  1.0000
+  Te  Te6       1.0  0.7439250184854121  0.25607853535863434  0.7439220500778285  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2TiF6
+_chemical_formula_sum              "Nb2 Ti1 F6"
+_cell_length_a       5.646816167484672
+_cell_length_b       5.646815595993331
+_cell_length_c       5.646816761777854
+_cell_angle_alpha    60.00000592715944
+_cell_angle_beta     60.00000330583768
+_cell_angle_gamma    60.00000421514917
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2500004034615671  0.2500002711247909  0.2500004503404198  1.0000
+  Nb  Nb2       1.0  0.7500023834601689  0.7499994903373594  0.7499970394597685  1.0000
+  Ti  Ti1       1.0  8.537073908314298e-08  0.9999998481761347  0.9999999978083679  1.0000
+  F   F1        1.0  0.24981199409229954  0.24981325323674758  0.7501870392565936  1.0000
+  F   F2        1.0  0.750187130247221  0.7501873063852715  0.2498138059620957  1.0000
+  F   F3        1.0  0.7501870332012545  0.24981238239151926  0.24981310035936238  1.0000
+  F   F4        1.0  0.24981241866526407  0.750187157841629  0.7501873912810306  1.0000
+  F   F5        1.0  0.2498116921529161  0.750187161214063  0.2498137617688626  1.0000
+  F   F6        1.0  0.7501868849519143  0.24981307090216517  0.7501874039399975  1.0000

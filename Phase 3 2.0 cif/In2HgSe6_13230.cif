@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2HgSe6
+_chemical_formula_sum              "In2 Hg1 Se6"
+_cell_length_a       6.806502808349272
+_cell_length_b       6.806503045844525
+_cell_length_c       6.806502935233065
+_cell_angle_alpha    60.0000005042083
+_cell_angle_beta     59.9999973484275
+_cell_angle_gamma    59.99999908682709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2499999424804668  0.2499999427380949  0.2500000685249708  1.0000
+  In  In2       1.0  0.7499999965029134  0.7499999775623728  0.7500000346166436  1.0000
+  Hg  Hg1       1.0  1.082651487502235e-07  1.6194369690541593e-08  0.9999999377702391  1.0000
+  Se  Se1       1.0  0.29614307697914855  0.29614279274224364  0.7038570068508542  1.0000
+  Se  Se2       1.0  0.7038572095034805  0.7038572607119374  0.2961427266761489  1.0000
+  Se  Se3       1.0  0.7038570914119544  0.2961427564511363  0.2961429511069737  1.0000
+  Se  Se4       1.0  0.29614282866916436  0.7038572358243151  0.7038571108064475  1.0000
+  Se  Se5       1.0  0.2961426482745131  0.7038573084171718  0.2961428470310889  1.0000
+  Se  Se6       1.0  0.7038570982524561  0.29614271084890126  0.7038573219553131  1.0000

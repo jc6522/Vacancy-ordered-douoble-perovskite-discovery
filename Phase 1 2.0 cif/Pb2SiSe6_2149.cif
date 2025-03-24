@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2SiSe6
+_chemical_formula_sum              "Pb2 Si1 Se6"
+_cell_length_a       6.7434434040866
+_cell_length_b       6.7434432833794515
+_cell_length_c       6.743443435580609
+_cell_angle_alpha    59.9999986610638
+_cell_angle_beta     59.99999912136666
+_cell_angle_gamma    59.99999758469597
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2500000598747658  0.25000000759155927  0.24999996114138953  1.0000
+  Pb  Pb2       1.0  0.7499999561725136  0.7500000972389252  0.7499999727471566  1.0000
+  Si  Si1       1.0  0.9999999676556341  1.9978212156956684e-08  5.660242179981105e-08  1.0000
+  Se  Se1       1.0  0.25234388070545566  0.252343914768727  0.7476561211685725  1.0000
+  Se  Se2       1.0  0.7476560829362588  0.7476560647438838  0.2523439267913662  1.0000
+  Se  Se3       1.0  0.7476561256596999  0.25234386121455565  0.25234388743857405  1.0000
+  Se  Se4       1.0  0.2523439376444542  0.7476560402014074  0.7476560637289978  1.0000
+  Se  Se5       1.0  0.25234390865516254  0.7476560712311378  0.2523439373965839  1.0000
+  Se  Se6       1.0  0.7476560826776332  0.25234392281108126  0.7476560746237907  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2AsCl6
+_chemical_formula_sum              "Au2 As1 Cl6"
+_cell_length_a       7.334647733642668
+_cell_length_b       7.3346489718987025
+_cell_length_c       7.334648252580398
+_cell_angle_alpha    60.00000713256038
+_cell_angle_beta     60.00000002577382
+_cell_angle_gamma    60.00000070677494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2500003411064331  0.24999962039452484  0.24999956120239838  1.0000
+  Au  Au2       1.0  0.7499997180468249  0.7500004391512579  0.7499998315747812  1.0000
+  As  As1       1.0  1.7764935105064253e-08  0.999999866415453  3.155908709910305e-07  1.0000
+  Cl  Cl1       1.0  0.23322023852951645  0.233220041354748  0.766780152952306  1.0000
+  Cl  Cl2       1.0  0.7667793286672431  0.7667795907205252  0.2332206825439144  1.0000
+  Cl  Cl3       1.0  0.7667800020080383  0.23322011298588197  0.23322052318317374  1.0000
+  Cl  Cl4       1.0  0.23322031401701132  0.7667796576832963  0.7667792182640316  1.0000
+  Cl  Cl5       1.0  0.23322025176962183  0.766780004622616  0.2332203972693469  1.0000
+  Cl  Cl6       1.0  0.7667798210665197  0.23322057590295178  0.7667793444296518  1.0000

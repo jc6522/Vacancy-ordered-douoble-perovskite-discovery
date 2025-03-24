@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2GaSe6
+_chemical_formula_sum              "Rh2 Ga1 Se6"
+_cell_length_a       6.308291780644948
+_cell_length_b       6.30829198040599
+_cell_length_c       6.308292029719898
+_cell_angle_alpha    59.999998094867664
+_cell_angle_beta     59.99999947772378
+_cell_angle_gamma    59.99999949985574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.24999992309903757  0.25000051215315233  0.25000001617057954  1.0000
+  Rh  Rh2       1.0  0.7499996792159447  0.7499994124758256  0.7499996020333323  1.0000
+  Ga  Ga1       1.0  1.0316482038583156e-08  3.4946713717869495e-08  2.6510070925590773e-08  1.0000
+  Se  Se1       1.0  0.2829775834195592  0.28297786390620505  0.7170222238096554  1.0000
+  Se  Se2       1.0  0.7170224014211479  0.7170221267332113  0.28297822112381027  1.0000
+  Se  Se3       1.0  0.7170221920866121  0.28297781625707397  0.2829776340400921  1.0000
+  Se  Se4       1.0  0.2829781647602982  0.7170221840897695  0.7170223299421908  1.0000
+  Se  Se5       1.0  0.2829777183465528  0.7170218381854653  0.2829777457641898  1.0000
+  Se  Se6       1.0  0.7170223198721697  0.2829782009910644  0.717022209107119  1.0000

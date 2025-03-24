@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2MgCl6
+_chemical_formula_sum              "Ag2 Mg1 Cl6"
+_cell_length_a       6.693072758991245
+_cell_length_b       6.693072947285189
+_cell_length_c       6.693072920350947
+_cell_angle_alpha    60.00000036363504
+_cell_angle_beta     59.999998472123345
+_cell_angle_gamma    60.000000174327454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999999204682752  0.2500000009193247  0.24999999507587464  1.0000
+  Ag  Ag2       1.0  0.7499999819260912  0.750000000928105  0.7499999862379182  1.0000
+  Mg  Mg1       1.0  0.9999999446883915  5.489607886702423e-09  5.487934166540954e-09  1.0000
+  Cl  Cl1       1.0  0.2546139033824868  0.2546140208258463  0.7453860010235788  1.0000
+  Cl  Cl2       1.0  0.7453860973746502  0.7453859938306683  0.2546139321060039  1.0000
+  Cl  Cl3       1.0  0.7453860180754678  0.2546139908456211  0.2546139696489903  1.0000
+  Cl  Cl4       1.0  0.25461402401814376  0.7453859670849461  0.7453860817373987  1.0000
+  Cl  Cl5       1.0  0.25461402929243826  0.7453860138544548  0.2546139740290236  1.0000
+  Cl  Cl6       1.0  0.745386008704872  0.2546140081215371  0.7453860653117882  1.0000

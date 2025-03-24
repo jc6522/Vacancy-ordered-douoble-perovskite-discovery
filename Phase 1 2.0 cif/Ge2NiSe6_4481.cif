@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2NiSe6
+_chemical_formula_sum              "Ge2 Ni1 Se6"
+_cell_length_a       6.497734274861016
+_cell_length_b       6.497734402796518
+_cell_length_c       6.497734360040527
+_cell_angle_alpha    59.99999926055114
+_cell_angle_beta     59.99999927755797
+_cell_angle_gamma    59.999999731602564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.2499999439744515  0.24999993757335648  0.25000006456397  1.0000
+  Ge  Ge2       1.0  0.7500000356193086  0.7500000652939703  0.7500001256127691  1.0000
+  Ni  Ni1       1.0  0.9999999788013112  0.999999962302402  1.0024205043542253e-07  1.0000
+  Se  Se1       1.0  0.2512502824187071  0.25125026586972227  0.7487497250227757  1.0000
+  Se  Se2       1.0  0.7487497372225403  0.7487497181488086  0.2512501790739808  1.0000
+  Se  Se3       1.0  0.7487497496341307  0.2512503167180024  0.2512502576317538  1.0000
+  Se  Se4       1.0  0.2512502126723164  0.748749754005002  0.748749667177119  1.0000
+  Se  Se5       1.0  0.25125029914756863  0.7487497814785775  0.2512502202799937  1.0000
+  Se  Se6       1.0  0.748749757291902  0.2512501987701935  0.7487496642245353  1.0000

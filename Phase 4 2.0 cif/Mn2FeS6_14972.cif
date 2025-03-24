@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2FeS6
+_chemical_formula_sum              "Mn2 Fe1 S6"
+_cell_length_a       6.123089779993378
+_cell_length_b       6.1230899320179
+_cell_length_c       6.123089821937789
+_cell_angle_alpha    59.99999925883263
+_cell_angle_beta     60.00000033433441
+_cell_angle_gamma    60.000001221591596
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999989871851155  0.2499998952046645  0.2500000883507379  1.0000
+  Mn  Mn2       1.0  0.7499998878546714  0.7500000496517139  0.7499998336665175  1.0000
+  Fe  Fe1       1.0  0.9999999763603229  2.000206970996609e-08  1.324717944759092e-07  1.0000
+  S   S1        1.0  0.24996629800638728  0.24996625108781337  0.7500337269388105  1.0000
+  S   S2        1.0  0.7500337692849687  0.750033773776853  0.24996627602119711  1.0000
+  S   S3        1.0  0.7500337656028673  0.249966273787519  0.24996634329429823  1.0000
+  S   S4        1.0  0.24996644318337888  0.7500336490665808  0.7500336415567116  1.0000
+  S   S5        1.0  0.24996623066718954  0.7500337237062764  0.24996636883525603  1.0000
+  S   S6        1.0  0.7500337249787367  0.2499663871673  0.7500336061139503  1.0000

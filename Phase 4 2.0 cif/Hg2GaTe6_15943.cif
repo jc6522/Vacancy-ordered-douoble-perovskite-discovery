@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2GaTe6
+_chemical_formula_sum              "Hg2 Ga1 Te6"
+_cell_length_a       7.3446902253777235
+_cell_length_b       7.34469021991174
+_cell_length_c       7.34468989839625
+_cell_angle_alpha    60.00000069795426
+_cell_angle_beta     59.999995984469685
+_cell_angle_gamma    59.999999591693005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000734064488  0.25000001057043186  0.2499999531418155  1.0000
+  Hg  Hg2       1.0  0.7500000148226295  0.7500000300437708  0.7499999016888217  1.0000
+  Ga  Ga1       1.0  1.4841199691719738e-07  3.5184760144196204e-07  0.999999661370881  1.0000
+  Te  Te1       1.0  0.27446523386449784  0.27446524112765647  0.7255346830674113  1.0000
+  Te  Te2       1.0  0.7255346445459001  0.7255342875566231  0.27446561160615585  1.0000
+  Te  Te3       1.0  0.7255345131966805  0.2744655381353861  0.27446512755836844  1.0000
+  Te  Te4       1.0  0.2744653158307901  0.7255346292106548  0.7255348166531373  1.0000
+  Te  Te5       1.0  0.2744653128267221  0.7255344819522288  0.2744653918013557  1.0000
+  Te  Te6       1.0  0.7255347236819735  0.27446544026776076  0.7255348557918809  1.0000

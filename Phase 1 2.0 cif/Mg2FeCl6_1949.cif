@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2FeCl6
+_chemical_formula_sum              "Mg2 Fe1 Cl6"
+_cell_length_a       6.6346742512531085
+_cell_length_b       6.634674252843632
+_cell_length_c       6.634674199985716
+_cell_angle_alpha    60.00000085523616
+_cell_angle_beta     59.99999992049782
+_cell_angle_gamma    60.0000000669399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2500001900814675  0.2500000376470458  0.24999989867945235  1.0000
+  Mg  Mg2       1.0  0.749999844194735  0.7500002809249463  0.7500001514175518  1.0000
+  Fe  Fe1       1.0  0.9999999981540242  5.537927572537004e-09  0.999999990617859  1.0000
+  Cl  Cl1       1.0  0.2372725384787133  0.23727241091306123  0.7627275257663542  1.0000
+  Cl  Cl2       1.0  0.7627274664823464  0.7627274369350807  0.23727251510606565  1.0000
+  Cl  Cl3       1.0  0.7627274182884061  0.2372725027157069  0.23727242797991932  1.0000
+  Cl  Cl4       1.0  0.2372725101642785  0.7627274023576867  0.7627275305928488  1.0000
+  Cl  Cl5       1.0  0.2372725426566605  0.7627275033883879  0.23727250026919242  1.0000
+  Cl  Cl6       1.0  0.7627274996249883  0.23727242568269227  0.762727466259134  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2TlO6
+_chemical_formula_sum              "Sr2 Tl1 O6"
+_cell_length_a       5.599711271839945
+_cell_length_b       5.599711701976665
+_cell_length_c       5.599711256705785
+_cell_angle_alpha    60.000001985099345
+_cell_angle_beta     60.00000149104086
+_cell_angle_gamma    60.000003045676756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.24999998827230757  0.25000002985925424  0.24999998015672892  1.0000
+  Sr  Sr2       1.0  0.7500001291179745  0.7499999802199153  0.7500000022889051  1.0000
+  Tl  Tl1       1.0  3.8013609386257603e-07  0.9999996019374447  0.9999995517968074  1.0000
+  O   O1        1.0  0.27622173068344313  0.27622183297292546  0.7237782917712506  1.0000
+  O   O2        1.0  0.723778095100617  0.7237781858548691  0.2762219142502713  1.0000
+  O   O3        1.0  0.7237780119910591  0.27622199379321805  0.2762219282268771  1.0000
+  O   O4        1.0  0.27622173928312177  0.7237782918677225  0.7237782173491369  1.0000
+  O   O5        1.0  0.27622177765394457  0.7237783062607668  0.2762217840187591  1.0000
+  O   O6        1.0  0.723778167208462  0.2762217759945802  0.7237782878904617  1.0000

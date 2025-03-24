@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2TiF6
+_chemical_formula_sum              "Cr2 Ti1 F6"
+_cell_length_a       5.832006151212997
+_cell_length_b       5.832005465242983
+_cell_length_c       5.832005576211273
+_cell_angle_alpha    59.999997011090706
+_cell_angle_beta     59.999999139253966
+_cell_angle_gamma    59.99999848364997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24999989660357133  0.2500000163734637  0.25000005902476485  1.0000
+  Cr  Cr2       1.0  0.7500000552995668  0.750000021819869  0.75000007142313  1.0000
+  Ti  Ti1       1.0  2.9119146784754285e-08  0.9999999957999192  0.9999999823964382  1.0000
+  F   F1        1.0  0.2330382202540528  0.23303833606442903  0.7669616853547829  1.0000
+  F   F2        1.0  0.7669618056479945  0.7669616286274811  0.2330382442272754  1.0000
+  F   F3        1.0  0.7669617427009847  0.2330382318552681  0.23303830127484432  1.0000
+  F   F4        1.0  0.2330383249410574  0.7669616551351339  0.766961728592419  1.0000
+  F   F5        1.0  0.23303816079443285  0.7669618102024282  0.23303837361038776  1.0000
+  F   F6        1.0  0.7669617699882002  0.23303829729225045  0.76696161957847  1.0000

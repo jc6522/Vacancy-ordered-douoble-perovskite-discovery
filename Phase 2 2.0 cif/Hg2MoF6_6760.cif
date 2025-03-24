@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2MoF6
+_chemical_formula_sum              "Hg2 Mo1 F6"
+_cell_length_a       7.028917690665513
+_cell_length_b       7.028918725831787
+_cell_length_c       7.028918056706637
+_cell_angle_alpha    59.999996851505976
+_cell_angle_beta     59.999994584088725
+_cell_angle_gamma    59.9999956751402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999971542343086  0.24999983916121146  0.2500003506031115  1.0000
+  Hg  Hg2       1.0  0.7500003861036428  0.7499998293798016  0.7500006358861244  1.0000
+  Mo  Mo1       1.0  0.9999999699970572  8.015211691355635e-08  0.9999998525737204  1.0000
+  F   F1        1.0  0.1942729163651993  0.19427305960568778  0.8057268982258614  1.0000
+  F   F2        1.0  0.805727098019999  0.8057270724236789  0.19427267657322034  1.0000
+  F   F3        1.0  0.8057270824971585  0.19427297080405334  0.19427287247343072  1.0000
+  F   F4        1.0  0.19427282957125466  0.8057271281190085  0.8057268454399859  1.0000
+  F   F5        1.0  0.19427300493335395  0.8057271039948511  0.1942728838421856  1.0000
+  F   F6        1.0  0.805727037629794  0.1942729287155869  0.8057269100549238  1.0000

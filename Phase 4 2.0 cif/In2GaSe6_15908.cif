@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2GaSe6
+_chemical_formula_sum              "In2 Ga1 Se6"
+_cell_length_a       6.574653727563105
+_cell_length_b       6.574654573034163
+_cell_length_c       6.574654303167709
+_cell_angle_alpha    59.99999797164246
+_cell_angle_beta     59.99999311951738
+_cell_angle_gamma    59.99999454395958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.249999993792702  0.24999993948143734  0.2500000420111943  1.0000
+  In  In2       1.0  0.7500000299850178  0.7499999097228683  0.7500000515278674  1.0000
+  Ga  Ga1       1.0  2.5988196297320986e-08  8.01015888593765e-08  5.494557332883591e-08  1.0000
+  Se  Se1       1.0  0.2839031465491877  0.28390268279192243  0.716097038613575  1.0000
+  Se  Se2       1.0  0.7160972272783092  0.7160972912218224  0.2839027460092166  1.0000
+  Se  Se3       1.0  0.7160970314279086  0.2839027599982492  0.28390304622257473  1.0000
+  Se  Se4       1.0  0.28390296591717545  0.716097063126463  0.716097364082174  1.0000
+  Se  Se5       1.0  0.28390271999244354  0.7160972259616406  0.2839025708915472  1.0000
+  Se  Se6       1.0  0.716096860855751  0.2839030405161177  0.7160970822197836  1.0000

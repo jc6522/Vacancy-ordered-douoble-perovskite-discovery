@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2TaO6
+_chemical_formula_sum              "Ni2 Ta1 O6"
+_cell_length_a       5.295208435647505
+_cell_length_b       5.295208096059622
+_cell_length_c       5.295208170343867
+_cell_angle_alpha    60.00000130977866
+_cell_angle_beta     60.000000475549406
+_cell_angle_gamma    60.000000707152985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2499998528362328  0.2500002841200242  0.24999982590769154  1.0000
+  Ni  Ni2       1.0  0.7499998757582134  0.7499996912689337  0.7499997051283802  1.0000
+  Ta  Ta1       1.0  3.0839079408648408e-09  0.9999999907482771  0.9999999709794094  1.0000
+  O   O1        1.0  0.25873020459452734  0.258730233153406  0.74126981998868  1.0000
+  O   O2        1.0  0.7412698927077075  0.7412696566571494  0.2587305326176337  1.0000
+  O   O3        1.0  0.7412698596372888  0.25873030457984086  0.2587301309563167  1.0000
+  O   O4        1.0  0.2587304071585793  0.7412697309453375  0.7412698997463796  1.0000
+  O   O5        1.0  0.25873010810854574  0.7412697098354232  0.2587303035406135  1.0000
+  O   O6        1.0  0.7412698436152488  0.25873038120008285  0.7412697832914638  1.0000

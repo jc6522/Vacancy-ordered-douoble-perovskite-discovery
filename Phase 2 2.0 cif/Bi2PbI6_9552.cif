@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2PbI6
+_chemical_formula_sum              "Bi2 Pb1 I6"
+_cell_length_a       8.17921873931378
+_cell_length_b       8.179218846257422
+_cell_length_c       8.179218584297997
+_cell_angle_alpha    60.000000442069044
+_cell_angle_beta     60.00000004859039
+_cell_angle_gamma    59.9999999640961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000001475157835  0.2500000316253326  0.24999996450871928  1.0000
+  Bi  Bi2       1.0  0.7499999875866282  0.7500000065302176  0.7500000161601399  1.0000
+  Pb  Pb1       1.0  1.5886481576491704e-08  0.9999999565758027  6.145067457791516e-08  1.0000
+  I   I1        1.0  0.2695502171311984  0.2695502375219369  0.7304497843834105  1.0000
+  I   I2        1.0  0.7304497851507572  0.7304497542146441  0.26955021952305896  1.0000
+  I   I3        1.0  0.7304497897679358  0.26955021964523734  0.2695502363986717  1.0000
+  I   I4        1.0  0.26955023187970945  0.7304497436410076  0.7304497757179531  1.0000
+  I   I5        1.0  0.26955021570103455  0.7304497832941769  0.2695502341360031  1.0000
+  I   I6        1.0  0.730449735386017  0.2695502773221655  0.7304497034653354  1.0000

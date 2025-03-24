@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2SeO6
+_chemical_formula_sum              "Ti2 Se1 O6"
+_cell_length_a       5.007087070944033
+_cell_length_b       5.007087117523328
+_cell_length_c       5.00708724166279
+_cell_angle_alpha    60.000000109227976
+_cell_angle_beta     59.99999950447768
+_cell_angle_gamma    60.000000492679064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2500000365119986  0.2500000778878534  0.2499999435875176  1.0000
+  Ti  Ti2       1.0  0.7500000390292408  0.7499999401408384  0.7500000367433182  1.0000
+  Se  Se1       1.0  0.9999999677141471  0.9999999999999996  0.9999999781967133  1.0000
+  O   O1        1.0  0.2482637924084927  0.24826393908242864  0.7517361807903374  1.0000
+  O   O2        1.0  0.7517362045843567  0.7517360862843306  0.24826381517396795  1.0000
+  O   O3        1.0  0.7517360900096923  0.24826383639225375  0.24826394271706562  1.0000
+  O   O4        1.0  0.24826390661148814  0.7517361278239386  0.7517360860055263  1.0000
+  O   O5        1.0  0.24826386708104392  0.751736084586267  0.24826391324001937  1.0000
+  O   O6        1.0  0.7517361158432329  0.24826387229185704  0.7517360960425218  1.0000

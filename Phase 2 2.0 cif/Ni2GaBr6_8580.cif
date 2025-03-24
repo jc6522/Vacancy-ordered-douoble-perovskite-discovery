@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2GaBr6
+_chemical_formula_sum              "Ni2 Ga1 Br6"
+_cell_length_a       6.934617259687956
+_cell_length_b       6.934617389119834
+_cell_length_c       6.934617342701969
+_cell_angle_alpha    60.00000002105369
+_cell_angle_beta     59.99999979072348
+_cell_angle_gamma    60.00000080863279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999995445103737  0.25000004523107283  0.24999999417017268  1.0000
+  Ni  Ni2       1.0  0.7500000357383717  0.7499999732090891  0.749999987654238  1.0000
+  Ga  Ga1       1.0  1.2042573200284152e-08  8.830659157413313e-09  4.8687049881341206e-08  1.0000
+  Br  Br1       1.0  0.25458523297278723  0.25458531767210774  0.7454147156094085  1.0000
+  Br  Br2       1.0  0.7454147350996209  0.7454146672115488  0.2545853228925681  1.0000
+  Br  Br3       1.0  0.7454147463337234  0.25458525597298504  0.2545853156742482  1.0000
+  Br  Br4       1.0  0.25458527542671555  0.7454147077170896  0.7454146618772444  1.0000
+  Br  Br5       1.0  0.25458527675768583  0.7454147109444259  0.2545853042361708  1.0000
+  Br  Br6       1.0  0.7454147271394213  0.25458531632639536  0.7454146490145734  1.0000

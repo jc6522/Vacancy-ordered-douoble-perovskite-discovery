@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2MoCl6
+_chemical_formula_sum              "Pb2 Mo1 Cl6"
+_cell_length_a       6.978066803374072
+_cell_length_b       6.978065852743984
+_cell_length_c       6.9780671163191395
+_cell_angle_alpha    59.99999782148722
+_cell_angle_beta     60.000002540617686
+_cell_angle_gamma    60.00000336365084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999967766262382  0.2500001990027154  0.25000018851434636  1.0000
+  Pb  Pb2       1.0  0.750000238987858  0.7499996299287327  0.7500002024622899  1.0000
+  Mo  Mo1       1.0  0.9999999379050362  0.9999999877140503  7.445005604392238e-08  1.0000
+  Cl  Cl1       1.0  0.24636499027623598  0.24636495917691528  0.753635057586866  1.0000
+  Cl  Cl2       1.0  0.7536351686827149  0.753635150576173  0.24636476944873453  1.0000
+  Cl  Cl3       1.0  0.7536350651922548  0.24636495661121424  0.24636485097776678  1.0000
+  Cl  Cl4       1.0  0.2463649152536934  0.7536351426110472  0.7536349645331847  1.0000
+  Cl  Cl5       1.0  0.24636492882010494  0.7536351196308338  0.24636482250822134  1.0000
+  Cl  Cl6       1.0  0.7536350811964463  0.24636484620115529  0.7536350635423623  1.0000

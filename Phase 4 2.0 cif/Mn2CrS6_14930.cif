@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2CrS6
+_chemical_formula_sum              "Mn2 Cr1 S6"
+_cell_length_a       6.062054731799422
+_cell_length_b       6.062054974949205
+_cell_length_c       6.062054495180836
+_cell_angle_alpha    60.00000029452834
+_cell_angle_beta     60.00000040622462
+_cell_angle_gamma    59.999999540206936
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999974309563613  0.2500001456189805  0.2500000961671467  1.0000
+  Mn  Mn2       1.0  0.7500002333943591  0.7499999560145708  0.7500000829554977  1.0000
+  Cr  Cr1       1.0  1.616276879717844e-08  0.9999999515116924  1.3493438471784467e-07  1.0000
+  S   S1        1.0  0.26026812797757415  0.26026823959211925  0.739731823895997  1.0000
+  S   S2        1.0  0.7397318807983103  0.7397318337565933  0.26026809423801844  1.0000
+  S   S3        1.0  0.739731867578461  0.2602682055059488  0.2602681227043106  1.0000
+  S   S4        1.0  0.2602680511337175  0.7397318294561912  0.7397318283123361  1.0000
+  S   S5        1.0  0.2602681681977252  0.7397317596679295  0.2602681422625511  1.0000
+  S   S6        1.0  0.7397319434804417  0.26026804497476386  0.7397316905135496  1.0000

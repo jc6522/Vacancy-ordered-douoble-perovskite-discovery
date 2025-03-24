@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2AsO6
+_chemical_formula_sum              "Ca2 As1 O6"
+_cell_length_a       5.465544293419465
+_cell_length_b       5.465545749018211
+_cell_length_c       5.465544485351291
+_cell_angle_alpha    60.00000771072569
+_cell_angle_beta     60.00000803056845
+_cell_angle_gamma    60.00000831086449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2500000576132575  0.24999996764179583  0.24999993301243809  1.0000
+  Ca  Ca2       1.0  0.7500000073431908  0.7500000508212311  0.7500000420320881  1.0000
+  As  As1       1.0  1.4536279750521864e-08  0.9999997916013025  1.1888693630551728e-07  1.0000
+  O   O1        1.0  0.2352813528642053  0.23528178169595296  0.7647185122345241  1.0000
+  O   O2        1.0  0.7647184100616763  0.7647183062333057  0.23528172363401514  1.0000
+  O   O3        1.0  0.7647184788895218  0.23528170230340992  0.23528141735503524  1.0000
+  O   O4        1.0  0.23528153171176913  0.7647183968300885  0.7647183231449213  1.0000
+  O   O5        1.0  0.23528170229993733  0.7647182893576426  0.2352816036677667  1.0000
+  O   O6        1.0  0.7647184851083735  0.23528165963915404  0.7647182351053191  1.0000

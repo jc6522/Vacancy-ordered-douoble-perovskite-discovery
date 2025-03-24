@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2CdS6
+_chemical_formula_sum              "Hg2 Cd1 S6"
+_cell_length_a       6.490940030457557
+_cell_length_b       6.49093965943959
+_cell_length_c       6.490939697259963
+_cell_angle_alpha    59.99999745708732
+_cell_angle_beta     59.9999976591782
+_cell_angle_gamma    60.00000181245007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000414524215  0.24999968642708081  0.25000017041825673  1.0000
+  Hg  Hg2       1.0  0.7500001457040588  0.7500001479954215  0.7499998006227563  1.0000
+  Cd  Cd1       1.0  0.9999998686418207  2.3396976155554432e-07  1.9519164585693823e-07  1.0000
+  S   S1        1.0  0.27775063378151305  0.27775041022994684  0.7222494480584275  1.0000
+  S   S2        1.0  0.7222493115097434  0.7222494826849849  0.27775070248370126  1.0000
+  S   S3        1.0  0.7222494448717487  0.2777503274779431  0.27775058915481543  1.0000
+  S   S4        1.0  0.27775030298765147  0.7222498748808739  0.722249107904182  1.0000
+  S   S5        1.0  0.2777505102846427  0.7222494780396486  0.27775068557900734  1.0000
+  S   S6        1.0  0.7222497332769383  0.2777503526091501  0.7222492930397031  1.0000

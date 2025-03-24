@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2TeO6
+_chemical_formula_sum              "Li2 Te1 O6"
+_cell_length_a       5.636753989607975
+_cell_length_b       5.636752994494569
+_cell_length_c       5.636753682865948
+_cell_angle_alpha    59.99999726176507
+_cell_angle_beta     59.99999711565162
+_cell_angle_gamma    59.99999901254829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500001359440421  0.24999991908970223  0.24999989664846103  1.0000
+  Li  Li2       1.0  0.7500000900629188  0.7499997703058096  0.7500001439036793  1.0000
+  Te  Te1       1.0  0.9999999319834006  9.342972344795526e-08  0.9999998595603451  1.0000
+  O   O1        1.0  0.24340174714193485  0.24340189921993732  0.7565980778359607  1.0000
+  O   O2        1.0  0.7565980887476548  0.7565983029526843  0.24340192977146177  1.0000
+  O   O3        1.0  0.7565978844260125  0.24340200415335914  0.24340204704579685  1.0000
+  O   O4        1.0  0.24340218967792537  0.7565978090908712  0.75659838895872  1.0000
+  O   O5        1.0  0.2434019628928314  0.7565978185080001  0.24340218239602218  1.0000
+  O   O6        1.0  0.7565979837021396  0.24340223591528745  0.7565979217924852  1.0000

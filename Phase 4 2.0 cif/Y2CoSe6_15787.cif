@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y2CoSe6
+_chemical_formula_sum              "Y2 Co1 Se6"
+_cell_length_a       6.511131609445265
+_cell_length_b       6.511131530254621
+_cell_length_c       6.511131593568133
+_cell_angle_alpha    60.00000032448358
+_cell_angle_beta     60.000000984842885
+_cell_angle_gamma    60.00000040587784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000003372596197  0.24999996122921392  0.24999999212298915  1.0000
+  Y   Y2        1.0  0.7499999966502051  0.7500000642637933  0.750000008992974  1.0000
+  Co  Co1       1.0  0.9999999465820898  1.1286009382261897e-08  4.103175759901374e-08  1.0000
+  Se  Se1       1.0  0.2513601735938596  0.25136005335639616  0.7486400163959508  1.0000
+  Se  Se2       1.0  0.7486399428042461  0.7486398630385201  0.25136013601874124  1.0000
+  Se  Se3       1.0  0.748639843811324  0.2513601273258732  0.2513600585339944  1.0000
+  Se  Se4       1.0  0.2513600293385368  0.748639928263158  0.7486398018815402  1.0000
+  Se  Se5       1.0  0.25136014751766195  0.7486399112716682  0.2513600552056418  1.0000
+  Se  Se6       1.0  0.7486398846503871  0.2513600822443118  0.7486398872829894  1.0000

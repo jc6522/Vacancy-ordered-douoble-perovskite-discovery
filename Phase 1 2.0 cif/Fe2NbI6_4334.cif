@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2NbI6
+_chemical_formula_sum              "Fe2 Nb1 I6"
+_cell_length_a       7.733123074370398
+_cell_length_b       7.733123095824216
+_cell_length_c       7.733123066133531
+_cell_angle_alpha    60.00000005517418
+_cell_angle_beta     60.00000013266028
+_cell_angle_gamma    60.00000003790148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25000000193164473  0.2500000098826021  0.24999999503779466  1.0000
+  Fe  Fe2       1.0  0.7499999980883452  0.7499999900536847  0.7500000100568781  1.0000
+  Nb  Nb1       1.0  0.9999999905129513  1.5837648991847842e-09  0.9999999858477013  1.0000
+  I   I1        1.0  0.25272378478514745  0.2527237855371372  0.7472762140945887  1.0000
+  I   I2        1.0  0.7472762207702492  0.7472762112316196  0.2527237833504523  1.0000
+  I   I3        1.0  0.7472762094137733  0.25272379500873515  0.25272378912293697  1.0000
+  I   I4        1.0  0.25272378594549905  0.7472762144301406  0.7472762122576614  1.0000
+  I   I5        1.0  0.2527237954611787  0.7472762023448106  0.25272379567799597  1.0000
+  I   I6        1.0  0.7472762172133899  0.2527237865051219  0.7472762138051189  1.0000

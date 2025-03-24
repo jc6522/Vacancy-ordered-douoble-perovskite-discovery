@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2AgO6
+_chemical_formula_sum              "Cu2 Ag1 O6"
+_cell_length_a       5.4080055290895
+_cell_length_b       5.408005691504046
+_cell_length_c       5.408005552738909
+_cell_angle_alpha    60.00000067282589
+_cell_angle_beta     60.00000021362855
+_cell_angle_gamma    60.00000003198059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499996927407325  0.24999998735648568  0.2500002460262628  1.0000
+  Cu  Cu2       1.0  0.7499999486124128  0.7500001885383055  0.7499999492648901  1.0000
+  Ag  Ag1       1.0  0.9999999999777784  3.849970523071592e-08  6.212212131556226e-08  1.0000
+  O   O1        1.0  0.25596372669199935  0.2559635673610527  0.744036349121476  1.0000
+  O   O2        1.0  0.7440365347743977  0.7440361125669386  0.25596364726227405  1.0000
+  O   O3        1.0  0.7440364237890147  0.25596358166602606  0.2559636273364129  1.0000
+  O   O4        1.0  0.25596367270303955  0.7440364266418081  0.7440361985872809  1.0000
+  O   O5        1.0  0.25596360319194655  0.7440364441290696  0.2559637098320449  1.0000
+  O   O6        1.0  0.7440364219106734  0.2559636502369303  0.7440361882690355  1.0000

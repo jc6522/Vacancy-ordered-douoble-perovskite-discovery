@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2NiS6
+_chemical_formula_sum              "Li2 Ni1 S6"
+_cell_length_a       6.067486918795374
+_cell_length_b       6.067487357256019
+_cell_length_c       6.067487055345442
+_cell_angle_alpha    59.9999995781728
+_cell_angle_beta     59.999998457375646
+_cell_angle_gamma    59.999999815158866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999994095065986  0.250000137803798  0.2499999275732141  1.0000
+  Li  Li2       1.0  0.7499999714552521  0.7499999390551589  0.7500000230581826  1.0000
+  Ni  Ni1       1.0  0.9999999835449884  0.9999999979814628  1.912554717942028e-08  1.0000
+  S   S1        1.0  0.2507749858635968  0.25077493903371173  0.7492250164054725  1.0000
+  S   S2        1.0  0.7492250297350094  0.7492249823978828  0.25077496858390397  1.0000
+  S   S3        1.0  0.7492250085497704  0.2507750156750092  0.25077501670070745  1.0000
+  S   S4        1.0  0.25077510877700215  0.7492249602570863  0.7492249462107119  1.0000
+  S   S5        1.0  0.25077499230405764  0.7492249563083809  0.2507750414833242  1.0000
+  S   S6        1.0  0.7492249546082591  0.25077507412421896  0.749225010699518  1.0000

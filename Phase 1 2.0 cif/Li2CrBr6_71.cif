@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2CrBr6
+_chemical_formula_sum              "Li2 Cr1 Br6"
+_cell_length_a       7.0650050453533
+_cell_length_b       7.065004985318896
+_cell_length_c       7.065005018139339
+_cell_angle_alpha    59.99999989067951
+_cell_angle_beta     59.999999281451245
+_cell_angle_gamma    59.9999991602594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000496590444  0.24999991389122903  0.2500000154265595  1.0000
+  Li  Li2       1.0  0.7499999507818864  0.7499999930365778  0.7499999305239464  1.0000
+  Cr  Cr1       1.0  0.9999999417226332  2.7736594935970002e-08  0.9999999756384258  1.0000
+  Br  Br1       1.0  0.24422199289945082  0.24422209705822276  0.7557779736209531  1.0000
+  Br  Br2       1.0  0.755777968774783  0.755778014426971  0.2442220592854674  1.0000
+  Br  Br3       1.0  0.7557780624586732  0.24422193184977736  0.2442219974431612  1.0000
+  Br  Br4       1.0  0.24422204286392346  0.7557779889463264  0.7557779683962838  1.0000
+  Br  Br5       1.0  0.24422200314904008  0.7557779887873726  0.24422208275058596  1.0000
+  Br  Br6       1.0  0.7557779739457533  0.24422205682340872  0.7557780036913043  1.0000

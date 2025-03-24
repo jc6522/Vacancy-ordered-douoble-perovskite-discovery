@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2MnO6
+_chemical_formula_sum              "Sb2 Mn1 O6"
+_cell_length_a       5.367270463425606
+_cell_length_b       5.367270613157199
+_cell_length_c       5.367270572960448
+_cell_angle_alpha    60.000000168522945
+_cell_angle_beta     59.99999865575782
+_cell_angle_gamma    60.00000006269331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.25000003868785536  0.24999996064242305  0.2500000387027218  1.0000
+  Sb  Sb2       1.0  0.7499999434949768  0.7500000188398591  0.7500000240106478  1.0000
+  Mn  Mn1       1.0  2.1774744263202723e-08  0.999999986308741  0.9999999829162466  1.0000
+  O   O1        1.0  0.24477981977689595  0.24477978107825746  0.7552201864575513  1.0000
+  O   O2        1.0  0.7552201582113014  0.7552202303502954  0.24477977481221405  1.0000
+  O   O3        1.0  0.7552201807813158  0.24477981111001906  0.244779804955936  1.0000
+  O   O4        1.0  0.24477983086823799  0.7552202026004102  0.7552201718788119  1.0000
+  O   O5        1.0  0.2447798176374945  0.7552201880768695  0.24477980032018357  1.0000
+  O   O6        1.0  0.7552201795825649  0.24477983019731298  0.755220205668312  1.0000

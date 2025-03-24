@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2PtO6
+_chemical_formula_sum              "Ti2 Pt1 O6"
+_cell_length_a       5.127374358713984
+_cell_length_b       5.127374447535409
+_cell_length_c       5.1273745489186515
+_cell_angle_alpha    59.999999651009915
+_cell_angle_beta     59.999999661703455
+_cell_angle_gamma    59.999999254337844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999990104521536  0.25000010961758323  0.250000003855917  1.0000
+  Ti  Ti2       1.0  0.7500000631016631  0.7500000326614572  0.7500000732955524  1.0000
+  Pt  Pt1       1.0  0.9999999646271107  4.777279182471112e-09  6.60060176734958e-08  1.0000
+  O   O1        1.0  0.262915400914315  0.2629155044354158  0.7370845031007498  1.0000
+  O   O2        1.0  0.7370845846405857  0.7370844993025376  0.2629154512378753  1.0000
+  O   O3        1.0  0.737084592627136  0.26291540694753  0.2629154789190248  1.0000
+  O   O4        1.0  0.262915367679306  0.7370845036334859  0.737084579479563  1.0000
+  O   O5        1.0  0.2629155700886625  0.7370845322497597  0.2629153259792109  1.0000
+  O   O6        1.0  0.7370845609623008  0.26291539982900947  0.737084536832131  1.0000

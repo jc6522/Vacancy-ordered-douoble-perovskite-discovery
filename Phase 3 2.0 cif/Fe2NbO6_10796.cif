@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2NbO6
+_chemical_formula_sum              "Fe2 Nb1 O6"
+_cell_length_a       5.295693529819144
+_cell_length_b       5.295693863802756
+_cell_length_c       5.295693132587069
+_cell_angle_alpha    60.00000309810528
+_cell_angle_beta     60.00000067074393
+_cell_angle_gamma    60.00000030640746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2499999246909164  0.24999999543431242  0.2500000835365689  1.0000
+  Fe  Fe2       1.0  0.7500001969066716  0.7499998429143889  0.7500001052220346  1.0000
+  Nb  Nb1       1.0  5.638183267769412e-08  9.250873244898217e-08  0.9999998764582152  1.0000
+  O   O1        1.0  0.2622659072058546  0.2622659891300227  0.7377340580605477  1.0000
+  O   O2        1.0  0.7377340519120791  0.7377340226725606  0.26226589483505564  1.0000
+  O   O3        1.0  0.7377339945494797  0.26226599241715115  0.26226587239119864  1.0000
+  O   O4        1.0  0.26226587155723186  0.7377340563889282  0.7377341066199415  1.0000
+  O   O5        1.0  0.2622658899752213  0.7377340402418576  0.26226597563649523  1.0000
+  O   O6        1.0  0.7377340927762704  0.2622659137427666  0.7377339962396358  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Si2PO6
+_chemical_formula_sum              "Si2 P1 O6"
+_cell_length_a       4.545989787777601
+_cell_length_b       4.545989966725495
+_cell_length_c       4.545989810623836
+_cell_angle_alpha    59.99999990751469
+_cell_angle_beta     60.000001004551535
+_cell_angle_gamma    59.99999972659576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.2499999914454527  0.24999999191831818  0.2500000180395233  1.0000
+  Si  Si2       1.0  0.7500000152587537  0.7500000053902895  0.7499999924428133  1.0000
+  P   P1        1.0  0.9999996965287876  1.8858860109917704e-08  0.9999997661504687  1.0000
+  O   O1        1.0  0.2684057854044993  0.26840580215631227  0.7315941707696884  1.0000
+  O   O2        1.0  0.7315942914435364  0.7315943352466067  0.268405697197981  1.0000
+  O   O3        1.0  0.7315941827061632  0.2684058009153665  0.2684057643871283  1.0000
+  O   O4        1.0  0.2684056408551918  0.7315943876758603  0.7315942750214356  1.0000
+  O   O5        1.0  0.26840590824689897  0.7315941025158799  0.26840591839732997  1.0000
+  O   O6        1.0  0.7315944692067837  0.26840554455693927  0.7315943963911268  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2CuS6
+_chemical_formula_sum              "Nb2 Cu1 S6"
+_cell_length_a       5.961993721082342
+_cell_length_b       5.9619937251719
+_cell_length_c       5.961994083448144
+_cell_angle_alpha    59.9999980364727
+_cell_angle_beta     59.999997757717544
+_cell_angle_gamma    59.99999847084097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000054964489143  0.2500002920367908  0.24999925643826995  1.0000
+  Nb  Nb2       1.0  0.7499998289763637  0.7499998284408804  0.750000659017445  1.0000
+  Cu  Cu1       1.0  0.999999977443521  0.9999999979457462  1.2132929215013438e-07  1.0000
+  S   S1        1.0  0.2664393132944568  0.266439276715455  0.7335606754851686  1.0000
+  S   S2        1.0  0.7335606421545429  0.7335607246154894  0.2664391471578554  1.0000
+  S   S3        1.0  0.7335607524978811  0.26643949321761196  0.2664391101698966  1.0000
+  S   S4        1.0  0.26643929260976673  0.7335605122218403  0.7335608048047159  1.0000
+  S   S5        1.0  0.26643935069053004  0.7335605794742864  0.26643921685318533  1.0000
+  S   S6        1.0  0.7335603148909885  0.2664392862759003  0.7335610063705691  1.0000

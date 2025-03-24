@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2MoS6
+_chemical_formula_sum              "Cu2 Mo1 S6"
+_cell_length_a       6.283294936574766
+_cell_length_b       6.283294850976883
+_cell_length_c       6.283294596914812
+_cell_angle_alpha    60.00000069246287
+_cell_angle_beta     60.00000038913666
+_cell_angle_gamma    59.9999974949534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500000455007343  0.24999982277196112  0.24999999381151253  1.0000
+  Cu  Cu2       1.0  0.749999899944175  0.7500000842656269  0.7500001084515069  1.0000
+  Mo  Mo1       1.0  1.2122030054398986e-08  0.9999999746602951  5.912905507530127e-08  1.0000
+  S   S1        1.0  0.257842567786735  0.25784247171765323  0.742157406728493  1.0000
+  S   S2        1.0  0.7421573521687385  0.7421575834597464  0.2578423795658586  1.0000
+  S   S3        1.0  0.7421575985589228  0.25784246718097603  0.2578425160268082  1.0000
+  S   S4        1.0  0.2578425709776816  0.7421574457042291  0.7421575524341617  1.0000
+  S   S5        1.0  0.25784251155892235  0.7421575948253918  0.25784251756256477  1.0000
+  S   S6        1.0  0.7421574517949713  0.2578425617108233  0.7421574494051257  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2IrI6
+_chemical_formula_sum              "Mg2 Ir1 I6"
+_cell_length_a       7.543120894113738
+_cell_length_b       7.543120814219915
+_cell_length_c       7.543120764976229
+_cell_angle_alpha    60.00000011837719
+_cell_angle_beta     60.00000061084426
+_cell_angle_gamma    59.99999992920782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2500000039254672  0.24999996882414172  0.25000001717223713  1.0000
+  Mg  Mg2       1.0  0.7500000008432237  0.7499999714187466  0.7499999953444919  1.0000
+  Ir  Ir1       1.0  0.9999999770220761  2.760218664186188e-08  0.9999999844307562  1.0000
+  I   I1        1.0  0.2501192066758988  0.2501192404825264  0.7498807822893513  1.0000
+  I   I2        1.0  0.7498807993900778  0.74988079230887  0.2501192151215508  1.0000
+  I   I3        1.0  0.7498807654118373  0.2501192339856533  0.25011920385211905  1.0000
+  I   I4        1.0  0.2501192269857349  0.7498807663325824  0.7498807887896295  1.0000
+  I   I5        1.0  0.25011922690472727  0.7498807750877663  0.2501192073207612  1.0000
+  I   I6        1.0  0.7498807920576549  0.2501192236068112  0.7498808059931923  1.0000

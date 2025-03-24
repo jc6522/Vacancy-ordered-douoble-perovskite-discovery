@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2CoCl6
+_chemical_formula_sum              "Ti2 Co1 Cl6"
+_cell_length_a       6.368951230376287
+_cell_length_b       6.368951287479112
+_cell_length_c       6.368951311512607
+_cell_angle_alpha    59.99999969601709
+_cell_angle_beta     59.999999032928315
+_cell_angle_gamma    59.999999086773414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2500001678076491  0.24999988204105833  0.24999994140005258  1.0000
+  Ti  Ti2       1.0  0.7499999493691576  0.7499998614983959  0.7499999919693269  1.0000
+  Co  Co1       1.0  0.9999999728958799  2.6921902272848357e-08  4.0914156148549106e-08  1.0000
+  Cl  Cl1       1.0  0.25072672174603555  0.2507267291766569  0.7492732697874995  1.0000
+  Cl  Cl2       1.0  0.7492731941984739  0.7492733624245327  0.25072675188923293  1.0000
+  Cl  Cl3       1.0  0.74927325215448  0.2507267768603431  0.2507267055282617  1.0000
+  Cl  Cl4       1.0  0.25072681548004944  0.749273251282076  0.7492732704627283  1.0000
+  Cl  Cl5       1.0  0.2507267161287931  0.749273312802421  0.25072672893260056  1.0000
+  Cl  Cl6       1.0  0.7492732132389293  0.2507268037976774  0.749273289234243  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2TaSe6
+_chemical_formula_sum              "Ag2 Ta1 Se6"
+_cell_length_a       6.607121834407302
+_cell_length_b       6.607121487781845
+_cell_length_c       6.607121885851154
+_cell_angle_alpha    59.999995949231305
+_cell_angle_beta     59.99999980142714
+_cell_angle_gamma    59.99999448187417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.25000004813440285  0.24999996744211375  0.2499999713438169  1.0000
+  Ag  Ag2       1.0  0.7499999841999571  0.7499999634975875  0.7500000165205934  1.0000
+  Ta  Ta1       1.0  2.681460755849651e-08  2.965878237991622e-08  2.322292737552592e-08  1.0000
+  Se  Se1       1.0  0.2705394283025733  0.27053948998504873  0.7294605722083495  1.0000
+  Se  Se2       1.0  0.729460555890831  0.729460491003852  0.2705394419452681  1.0000
+  Se  Se3       1.0  0.7294603787145822  0.2705396542962425  0.2705394789521649  1.0000
+  Se  Se4       1.0  0.2705396500002521  0.729460313716939  0.7294605073204509  1.0000
+  Se  Se5       1.0  0.27053958562611186  0.7294604116473099  0.27053949099286245  1.0000
+  Se  Se6       1.0  0.7294603592342707  0.27053967685468516  0.729460498151827  1.0000

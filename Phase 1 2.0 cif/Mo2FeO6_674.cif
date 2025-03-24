@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2FeO6
+_chemical_formula_sum              "Mo2 Fe1 O6"
+_cell_length_a       5.179876013655672
+_cell_length_b       5.179876128876901
+_cell_length_c       5.179875548496331
+_cell_angle_alpha    60.00000070370791
+_cell_angle_beta     60.00000267633441
+_cell_angle_gamma    60.00000710060304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.24999913223108675  0.25000066033004553  0.24999987465699458  1.0000
+  Mo  Mo2       1.0  0.7499983523127172  0.7499986660609735  0.7500019078995449  1.0000
+  Fe  Fe1       1.0  8.955066757845912e-08  1.8915434148813684e-08  1.719723607682125e-08  1.0000
+  O   O1        1.0  0.24758454317005013  0.24758390900014812  0.7524160711322355  1.0000
+  O   O2        1.0  0.7524161559256348  0.7524158051574209  0.2475836399883087  1.0000
+  O   O3        1.0  0.7524161200471498  0.2475845731205167  0.24758353568795166  1.0000
+  O   O4        1.0  0.24758489011709303  0.7524155453544004  0.75241579457305  1.0000
+  O   O5        1.0  0.2475845778515415  0.7524159048194677  0.2475836846581796  1.0000
+  O   O6        1.0  0.752416214650071  0.2475848733310736  0.7524153898464409  1.0000

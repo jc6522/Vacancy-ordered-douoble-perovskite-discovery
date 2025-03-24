@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2PbO6
+_chemical_formula_sum              "Li2 Pb1 O6"
+_cell_length_a       5.416781374101596
+_cell_length_b       5.4167813845205455
+_cell_length_c       5.416781520304096
+_cell_angle_alpha    59.999998960820115
+_cell_angle_beta     60.000000149668324
+_cell_angle_gamma    59.999998612107724
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000200438974  0.24999997767005563  0.2500000322257844  1.0000
+  Li  Li2       1.0  0.7500000100457007  0.7500000257119719  0.7499999442953019  1.0000
+  Pb  Pb1       1.0  1.7914472775784403e-08  2.9393255374336082e-08  0.9999998637331392  1.0000
+  O   O1        1.0  0.281339464696656  0.28133942652740984  0.7186605431792074  1.0000
+  O   O2        1.0  0.7186605365834873  0.718660522590147  0.28133956903069146  1.0000
+  O   O3        1.0  0.718660574962046  0.2813394165401341  0.2813394495243262  1.0000
+  O   O4        1.0  0.281339397031964  0.7186606524114623  0.7186605527976043  1.0000
+  O   O5        1.0  0.2813394348639609  0.718660505947856  0.2813394781144661  1.0000
+  O   O6        1.0  0.7186605474894138  0.28133942960358393  0.7186605598822547  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2CoTe6
+_chemical_formula_sum              "Bi2 Co1 Te6"
+_cell_length_a       7.0869378339924385
+_cell_length_b       7.086936486433596
+_cell_length_c       7.086935976113283
+_cell_angle_alpha    60.00000252624633
+_cell_angle_beta     60.000004762785
+_cell_angle_gamma    60.00000394203455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999982079123462  0.24999924504609933  0.25000049551818776  1.0000
+  Bi  Bi2       1.0  0.7500001274208732  0.7500007404302517  0.749999627397186  1.0000
+  Co  Co1       1.0  0.9999999855675662  0.9999999308730991  0.9999999528837045  1.0000
+  Te  Te1       1.0  0.2461496670198583  0.2461491440045595  0.7538505725107228  1.0000
+  Te  Te2       1.0  0.7538502946363399  0.7538509624438604  0.24614921227554004  1.0000
+  Te  Te3       1.0  0.7538508060874173  0.24614918607183353  0.24614969003087103  1.0000
+  Te  Te4       1.0  0.24614919444416028  0.7538508184144188  0.7538504677721672  1.0000
+  Te  Te5       1.0  0.24614939170597755  0.753850887852347  0.24614944476739292  1.0000
+  Te  Te6       1.0  0.753850707754853  0.24614908379863198  0.7538505529944194  1.0000

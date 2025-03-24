@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2IrS6
+_chemical_formula_sum              "Cr2 Ir1 S6"
+_cell_length_a       6.3734210596180505
+_cell_length_b       6.373420961372482
+_cell_length_c       6.373421005827671
+_cell_angle_alpha    60.00000079500548
+_cell_angle_beta     59.999999914336044
+_cell_angle_gamma    59.99999988264744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2499999695689681  0.24999995313606962  0.2500000802333815  1.0000
+  Cr  Cr2       1.0  0.7499999461819252  0.7500001111436249  0.7500001714076994  1.0000
+  Ir  Ir1       1.0  3.092839749677071e-09  0.9999999961567115  2.7048497553902106e-08  1.0000
+  S   S1        1.0  0.2551568718087377  0.25515679611512515  0.7448431569840258  1.0000
+  S   S2        1.0  0.7448431473591619  0.744843197063722  0.25515673802248684  1.0000
+  S   S3        1.0  0.7448431709192325  0.25515689149255416  0.2551567433294796  1.0000
+  S   S4        1.0  0.25515676463208703  0.7448432112200243  0.7448431826509088  1.0000
+  S   S5        1.0  0.2551568944638539  0.7448431260633931  0.2551567960913201  1.0000
+  S   S6        1.0  0.7448432373273808  0.2551567249137687  0.7448430886001094  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2SnO6
+_chemical_formula_sum              "Ca2 Sn1 O6"
+_cell_length_a       5.405571169483292
+_cell_length_b       5.405572611638433
+_cell_length_c       5.405571017096603
+_cell_angle_alpha    60.000002820606646
+_cell_angle_beta     60.00000333343479
+_cell_angle_gamma    59.999998085743165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2500000770801446  0.2500001157752081  0.24999984162157265  1.0000
+  Ca  Ca2       1.0  0.7499998976229763  0.7499999191068623  0.7499999964300671  1.0000
+  Sn  Sn1       1.0  9.180914212356313e-08  7.703406652933952e-08  0.9999998249311706  1.0000
+  O   O1        1.0  0.27068395768993275  0.27068384163271286  0.7293160749462364  1.0000
+  O   O2        1.0  0.7293161045761346  0.7293160074612801  0.27068409525930814  1.0000
+  O   O3        1.0  0.7293158403639451  0.27068397949680145  0.2706839052750417  1.0000
+  O   O4        1.0  0.2706841033744981  0.7293161482792857  0.729315999858919  1.0000
+  O   O5        1.0  0.27068393432685145  0.7293160389715854  0.2706840255819839  1.0000
+  O   O6        1.0  0.7293159502923022  0.2706839777848056  0.7293161551656365  1.0000

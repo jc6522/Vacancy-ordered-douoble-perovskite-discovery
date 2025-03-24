@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2GaTe6
+_chemical_formula_sum              "Fe2 Ga1 Te6"
+_cell_length_a       7.179812806261696
+_cell_length_b       7.179812610428293
+_cell_length_c       7.179812177269504
+_cell_angle_alpha    60.00000378098637
+_cell_angle_beta     60.00000325783531
+_cell_angle_gamma    60.000008193184854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999957934699737  0.2500000375776989  0.25000005093020283  1.0000
+  Fe  Fe2       1.0  0.7500001487498086  0.7499998176268243  0.7499999988996237  1.0000
+  Ga  Ga1       1.0  1.5536851548936686e-07  0.9999999488255015  3.2952857311713314e-07  1.0000
+  Te  Te1       1.0  0.278189044998604  0.27818922784988004  0.721810808575902  1.0000
+  Te  Te2       1.0  0.7218110949576311  0.7218107041164462  0.27818894540992906  1.0000
+  Te  Te3       1.0  0.7218111801977931  0.27818909455003615  0.27818911230199894  1.0000
+  Te  Te4       1.0  0.2781890923521211  0.7218107435963583  0.721810941246805  1.0000
+  Te  Te5       1.0  0.27818889317979  0.7218110371510515  0.2781891848298985  1.0000
+  Te  Te6       1.0  0.721810812261764  0.278189387796423  0.7218106471678496  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2BiO6
+_chemical_formula_sum              "Zr2 Bi1 O6"
+_cell_length_a       5.601551209389681
+_cell_length_b       5.601551017162353
+_cell_length_c       5.601551180275845
+_cell_angle_alpha    60.0000026346996
+_cell_angle_beta     60.000008447576654
+_cell_angle_gamma    60.00000490158943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.2500008965157561  0.24999886196757157  0.2500020587082558  1.0000
+  Zr  Zr2       1.0  0.7500000396746872  0.750000385933191  0.7500002632385968  1.0000
+  Bi  Bi1       1.0  0.9999999570037166  0.9999999125424465  0.999999984892023  1.0000
+  O   O1        1.0  0.25845220744364  0.2584521793841982  0.7415471495602415  1.0000
+  O   O2        1.0  0.7415471887380369  0.741548373820438  0.25845176214469934  1.0000
+  O   O3        1.0  0.741547326447159  0.25845208935002345  0.25845228377806045  1.0000
+  O   O4        1.0  0.258452029442658  0.741548522888462  0.7415469648885233  1.0000
+  O   O5        1.0  0.2584521522037563  0.7415474709872628  0.2584521594325191  1.0000
+  O   O6        1.0  0.7415480576181123  0.25845224918422627  0.741547277897446  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K2FeCl6
+_chemical_formula_sum              "K2 Fe1 Cl6"
+_cell_length_a       6.959603179720734
+_cell_length_b       6.95960318146364
+_cell_length_c       6.959603212695049
+_cell_angle_alpha    59.99999993895983
+_cell_angle_beta     60.00000110069056
+_cell_angle_gamma    60.00000074303673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.2500000021924991  0.2500000084372691  0.24999998912962745  1.0000
+  K   K2        1.0  0.7499999926343477  0.750000002434521  0.7500000073520531  1.0000
+  Fe  Fe1       1.0  0.9999999905971793  5.8073110821576956e-08  0.9999999842860361  1.0000
+  Cl  Cl1       1.0  0.23191598144563966  0.23191597634496317  0.7680840144533603  1.0000
+  Cl  Cl2       1.0  0.7680839871540538  0.7680839887722546  0.23191600077682067  1.0000
+  Cl  Cl3       1.0  0.768083994753572  0.23191599851261874  0.23191596986526808  1.0000
+  Cl  Cl4       1.0  0.23191599011839228  0.7680840123591715  0.7680840330307173  1.0000
+  Cl  Cl5       1.0  0.23191602376334525  0.768083975660089  0.23191597210368703  1.0000
+  Cl  Cl6       1.0  0.7680840260339108  0.23191599473650293  0.7680840171303885  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2OsF6
+_chemical_formula_sum              "Cr2 Os1 F6"
+_cell_length_a       5.605485873987939
+_cell_length_b       5.605486226973149
+_cell_length_c       5.605486104275076
+_cell_angle_alpha    60.00000096825673
+_cell_angle_beta     60.00000010204332
+_cell_angle_gamma    60.00000030977901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24999994646641094  0.25000008017063424  0.24999997525020812  1.0000
+  Cr  Cr2       1.0  0.7500000446301354  0.7499998843725693  0.7500000939711046  1.0000
+  Os  Os1       1.0  3.5165492586906507e-09  0.9999999956301924  0.9999999576114308  1.0000
+  F   F1        1.0  0.25036130220571295  0.25036144440976243  0.7496386487796856  1.0000
+  F   F2        1.0  0.7496386893477817  0.7496385682013263  0.25036132660451293  1.0000
+  F   F3        1.0  0.7496386199471067  0.25036139005099844  0.2503613268719845  1.0000
+  F   F4        1.0  0.2503613120143119  0.7496385788620138  0.7496387001572896  1.0000
+  F   F5        1.0  0.25036137517914636  0.7496386392288554  0.25036133791512927  1.0000
+  F   F6        1.0  0.749638702892135  0.2503613733822319  0.7496386316734762  1.0000

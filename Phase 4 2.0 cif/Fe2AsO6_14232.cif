@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2AsO6
+_chemical_formula_sum              "Fe2 As1 O6"
+_cell_length_a       5.133283812359918
+_cell_length_b       5.133284004722663
+_cell_length_c       5.133283519689732
+_cell_angle_alpha    59.999999007230706
+_cell_angle_beta     59.99999587250957
+_cell_angle_gamma    59.999994878964245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999989914910933  0.25000016115189566  0.24999989229462638  1.0000
+  Fe  Fe2       1.0  0.749999862662328  0.7500001160286721  0.7500000838370141  1.0000
+  As  As1       1.0  1.6291875497217893e-08  0.999999971369324  2.2732586964883185e-09  1.0000
+  O   O1        1.0  0.2458832922959625  0.24588319904940173  0.7541166732217544  1.0000
+  O   O2        1.0  0.7541171018886313  0.7541165914096536  0.24588325151282975  1.0000
+  O   O3        1.0  0.7541168407478683  0.24588333635534057  0.24588308156718647  1.0000
+  O   O4        1.0  0.24588319963542507  0.7541166449748986  0.7541170356725047  1.0000
+  O   O5        1.0  0.2458831772943835  0.7541166356810479  0.24588331766383117  1.0000
+  O   O6        1.0  0.7541167385082885  0.24588323351238875  0.7541168146868259  1.0000

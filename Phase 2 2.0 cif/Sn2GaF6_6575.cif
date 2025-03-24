@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2GaF6
+_chemical_formula_sum              "Sn2 Ga1 F6"
+_cell_length_a       5.683163885073823
+_cell_length_b       5.68316351300032
+_cell_length_c       5.683163900403086
+_cell_angle_alpha    60.00000084669071
+_cell_angle_beta     60.00000153580829
+_cell_angle_gamma    59.99999953188164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2499999910816478  0.24999993816400987  0.24999999148464513  1.0000
+  Sn  Sn2       1.0  0.7499998731693736  0.7500000903372437  0.7500000009420295  1.0000
+  Ga  Ga1       1.0  3.7741299085507764e-08  4.5255854390168996e-08  0.9999999426651756  1.0000
+  F   F1        1.0  0.2379786662370703  0.23797868736274547  0.762021342187679  1.0000
+  F   F2        1.0  0.7620212553161606  0.7620212484717608  0.2379787787750077  1.0000
+  F   F3        1.0  0.7620213394128013  0.23797870523569065  0.23797865617054356  1.0000
+  F   F4        1.0  0.2379787589872615  0.7620212974050736  0.7620212109968585  1.0000
+  F   F5        1.0  0.23797879960084864  0.7620212412514678  0.23797872022327113  1.0000
+  F   F6        1.0  0.7620212882916569  0.237978744148976  0.7620213385359773  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2AsF6
+_chemical_formula_sum              "Ag2 As1 F6"
+_cell_length_a       5.850977576137182
+_cell_length_b       5.850977532849309
+_cell_length_c       5.85097761778495
+_cell_angle_alpha    59.99999992631155
+_cell_angle_beta     59.9999988358794
+_cell_angle_gamma    60.000000678626485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2499999932589622  0.2500000379691958  0.25000001948012496  1.0000
+  Ag  Ag2       1.0  0.7500000193088512  0.7500000071527965  0.7500000100142148  1.0000
+  As  As1       1.0  8.35238527666458e-09  1.0466156052837774e-08  0.9999999905907293  1.0000
+  F   F1        1.0  0.2288860554038662  0.22888604577623153  0.7711139762311808  1.0000
+  F   F2        1.0  0.7711139184118844  0.7711139616675986  0.22888606242329804  1.0000
+  F   F3        1.0  0.7711138396617181  0.22888610643536664  0.22888615693529382  1.0000
+  F   F4        1.0  0.22888611768869033  0.7711138675167638  0.7711138520059909  1.0000
+  F   F5        1.0  0.22888614675604824  0.7711138547423129  0.22888611077840101  1.0000
+  F   F6        1.0  0.7711139042868448  0.22888610455720024  0.771113833006208  1.0000

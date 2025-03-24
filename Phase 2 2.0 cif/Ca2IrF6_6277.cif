@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2IrF6
+_chemical_formula_sum              "Ca2 Ir1 F6"
+_cell_length_a       5.594006486728271
+_cell_length_b       5.594006434019274
+_cell_length_c       5.59400651162024
+_cell_angle_alpha    59.99999987578906
+_cell_angle_beta     60.00000028351797
+_cell_angle_gamma    60.00000220929222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25000011117092347  0.2500000562848994  0.2499999256177045  1.0000
+  Ca  Ca2       1.0  0.7500001299967077  0.7499999805673544  0.7499999727548157  1.0000
+  Ir  Ir1       1.0  3.5842244139897744e-08  0.9999999605910234  9.652762495486591e-08  1.0000
+  F   F1        1.0  0.2578985577638094  0.2578986435603445  0.7421014005400843  1.0000
+  F   F2        1.0  0.7421014116196256  0.7421014655416943  0.2578984974924995  1.0000
+  F   F3        1.0  0.742101323672824  0.25789868237237185  0.25789867449147336  1.0000
+  F   F4        1.0  0.25789857878421873  0.7421012559574279  0.7421013495409355  1.0000
+  F   F5        1.0  0.25789863749800157  0.7421012592872223  0.2578986930174697  1.0000
+  F   F6        1.0  0.742101222466387  0.25789867028502594  0.7421014335080254  1.0000

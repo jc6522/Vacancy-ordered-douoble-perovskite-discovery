@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2CuF6
+_chemical_formula_sum              "Sn2 Cu1 F6"
+_cell_length_a       5.51305874314813
+_cell_length_b       5.513058842882773
+_cell_length_c       5.513058965569629
+_cell_angle_alpha    59.99999862399212
+_cell_angle_beta     59.99999898527953
+_cell_angle_gamma    59.9999997629995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2500000058439539  0.24999997186147965  0.2499999955265673  1.0000
+  Sn  Sn2       1.0  0.7499999535321217  0.7500000133319439  0.7500000059833194  1.0000
+  Cu  Cu1       1.0  0.9999999345410353  6.44244920323313e-08  0.9999999950756108  1.0000
+  F   F1        1.0  0.2518011731633623  0.25180117647046213  0.748198905188262  1.0000
+  F   F2        1.0  0.7481988692733039  0.7481987731784134  0.2518011777683554  1.0000
+  F   F3        1.0  0.7481989147150829  0.2518011559397437  0.25180107892571035  1.0000
+  F   F4        1.0  0.25180114718538565  0.748198798152201  0.7481988868727194  1.0000
+  F   F5        1.0  0.2518011542546596  0.7481988601127313  0.25180116151301446  1.0000
+  F   F6        1.0  0.7481988458676033  0.2518011850621159  0.7481988150273168  1.0000

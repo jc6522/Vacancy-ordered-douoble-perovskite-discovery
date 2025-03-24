@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2HfO6
+_chemical_formula_sum              "Nb2 Hf1 O6"
+_cell_length_a       5.095705862621896
+_cell_length_b       5.095706006047978
+_cell_length_c       5.095705884265541
+_cell_angle_alpha    60.00000018023964
+_cell_angle_beta     59.99999805727679
+_cell_angle_gamma    59.99999994759173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2499999852786154  0.2500000712323227  0.249999849021573  1.0000
+  Nb  Nb2       1.0  0.7500002095054995  0.7499995070726265  0.7500003033999593  1.0000
+  Hf  Hf1       1.0  1.350991690718785e-09  0.999999968754706  0.9999999894354747  1.0000
+  O   O1        1.0  0.26721490135313153  0.267215285937733  0.7327849045702609  1.0000
+  O   O2        1.0  0.732784956676371  0.732784840361604  0.2672150539217363  1.0000
+  O   O3        1.0  0.732784968557346  0.26721512823620647  0.26721506009920726  1.0000
+  O   O4        1.0  0.2672149736136434  0.7327849427829947  0.7327848780748037  1.0000
+  O   O5        1.0  0.26721522554544636  0.732785007727703  0.2672149705414311  1.0000
+  O   O6        1.0  0.7327847795675823  0.2672152483597778  0.7327850045472242  1.0000

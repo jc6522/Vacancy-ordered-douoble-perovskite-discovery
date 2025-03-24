@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2AsS6
+_chemical_formula_sum              "Ga2 As1 S6"
+_cell_length_a       6.660317196797922
+_cell_length_b       6.660317065629485
+_cell_length_c       6.660317073355812
+_cell_angle_alpha    59.999998386440126
+_cell_angle_beta     59.99999957071463
+_cell_angle_gamma    60.00000195309893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.2500000305107411  0.25000009085483527  0.24999985379320772  1.0000
+  Ga  Ga2       1.0  0.7499999304603234  0.7499999912175837  0.7499997765833186  1.0000
+  As  As1       1.0  9.281466032670878e-09  0.9999999981611312  2.780873178366863e-08  1.0000
+  S   S1        1.0  0.25106588882637293  0.2510658573142363  0.7489339638090354  1.0000
+  S   S2        1.0  0.7489342807508494  0.7489341346536179  0.2510659226169983  1.0000
+  S   S3        1.0  0.748934018866032  0.251065902503022  0.25106603297657176  1.0000
+  S   S4        1.0  0.25106602683423485  0.7489338577673648  0.7489342069039896  1.0000
+  S   S5        1.0  0.2510658644692335  0.7489341681099172  0.25106610448976463  1.0000
+  S   S6        1.0  0.7489339483107765  0.25106610888257425  0.7489340820742394  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2SbSe6
+_chemical_formula_sum              "Fe2 Sb1 Se6"
+_cell_length_a       6.619041774976946
+_cell_length_b       6.619041802902329
+_cell_length_c       6.619041790820691
+_cell_angle_alpha    60.00000070619743
+_cell_angle_beta     60.00000048019215
+_cell_angle_gamma    60.000001328747516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2499997051019404  0.25000015385918956  0.2500000432740401  1.0000
+  Fe  Fe2       1.0  0.7500000049411191  0.7500002210339493  0.7499994713910975  1.0000
+  Sb  Sb1       1.0  3.307623903116824e-08  0.9999999426395975  5.1422691763209575e-08  1.0000
+  Se  Se1       1.0  0.29685420015195607  0.29685392712710545  0.7031459570698076  1.0000
+  Se  Se2       1.0  0.7031461455412716  0.703145681727111  0.2968542497686752  1.0000
+  Se  Se3       1.0  0.7031459212091857  0.2968540168386673  0.2968541340246445  1.0000
+  Se  Se4       1.0  0.2968540697067155  0.7031459916880309  0.7031458872006496  1.0000
+  Se  Se5       1.0  0.2968539826770126  0.7031459266608935  0.2968542347602328  1.0000
+  Se  Se6       1.0  0.7031459300169541  0.2968541281241946  0.7031459837419572  1.0000

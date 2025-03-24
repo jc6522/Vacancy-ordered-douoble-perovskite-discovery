@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2CrF6
+_chemical_formula_sum              "Ag2 Cr1 F6"
+_cell_length_a       5.625423860821776
+_cell_length_b       5.625423840089013
+_cell_length_c       5.625423787508748
+_cell_angle_alpha    59.99999996817241
+_cell_angle_beta     60.0000002029684
+_cell_angle_gamma    60.000000411727726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.25000002339668886  0.25000000769833475  0.25000003070611926  1.0000
+  Ag  Ag2       1.0  0.7500000397739143  0.7500000035005632  0.7499999233604747  1.0000
+  Cr  Cr1       1.0  0.9999999387727901  1.741728088533122e-08  6.63460608061348e-08  1.0000
+  F   F1        1.0  0.23607547628601017  0.23607553195998365  0.7639244935267517  1.0000
+  F   F2        1.0  0.7639245355684358  0.763924479238914  0.23607551464022286  1.0000
+  F   F3        1.0  0.7639244046028412  0.23607559861168176  0.23607556097744056  1.0000
+  F   F4        1.0  0.23607556366934074  0.763924401701415  0.7639244246495387  1.0000
+  F   F5        1.0  0.23607562029516718  0.7639243401493239  0.2360756619061293  1.0000
+  F   F6        1.0  0.7639243969097099  0.23607560573476882  0.7639243726877446  1.0000

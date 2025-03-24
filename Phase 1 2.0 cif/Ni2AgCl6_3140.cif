@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2AgCl6
+_chemical_formula_sum              "Ni2 Ag1 Cl6"
+_cell_length_a       6.5735619457012735
+_cell_length_b       6.573561964385583
+_cell_length_c       6.573562102529278
+_cell_angle_alpha    60.00000025725579
+_cell_angle_beta     59.99999997366615
+_cell_angle_gamma    60.00000018431702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2499999899325775  0.24999997388401143  0.2500000180976565  1.0000
+  Ni  Ni2       1.0  0.7499999775850907  0.7500000353034106  0.7499999266388125  1.0000
+  Ag  Ag1       1.0  1.3519889019637604e-08  2.7947060184747406e-08  1.2733920761744167e-08  1.0000
+  Cl  Cl1       1.0  0.25976800320776194  0.2597679876466677  0.7402320121192052  1.0000
+  Cl  Cl2       1.0  0.7402320130862868  0.7402320122250684  0.25976800416163054  1.0000
+  Cl  Cl3       1.0  0.7402319828921022  0.25976795973264494  0.2597680345947209  1.0000
+  Cl  Cl4       1.0  0.25976802155036743  0.7402319861081085  0.7402319948512073  1.0000
+  Cl  Cl5       1.0  0.2597680042376843  0.7402319953475363  0.25976800832406244  1.0000
+  Cl  Cl6       1.0  0.7402319970629928  0.2597680231555729  0.7402319802766036  1.0000

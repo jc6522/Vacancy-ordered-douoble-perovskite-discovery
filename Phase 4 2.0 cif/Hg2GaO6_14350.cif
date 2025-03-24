@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2GaO6
+_chemical_formula_sum              "Hg2 Ga1 O6"
+_cell_length_a       5.346521096739708
+_cell_length_b       5.346521059039923
+_cell_length_c       5.346521634938486
+_cell_angle_alpha    59.999996589238776
+_cell_angle_beta     60.00000026821008
+_cell_angle_gamma    59.99999958002276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000008002286567  0.24999994678086915  0.2500000035095243  1.0000
+  Hg  Hg2       1.0  0.750000020929585  0.75000004421779  0.7500000013271074  1.0000
+  Ga  Ga1       1.0  1.511805989977524e-08  8.31990139941418e-16  0.9999999419408471  1.0000
+  O   O1        1.0  0.25621168896250224  0.25621164904055543  0.7437882512997797  1.0000
+  O   O2        1.0  0.7437881853275413  0.743788374028357  0.2562116151656824  1.0000
+  O   O3        1.0  0.7437882979753657  0.2562116548548749  0.25621173762605365  1.0000
+  O   O4        1.0  0.25621170646706815  0.743788262840345  0.743788365209928  1.0000
+  O   O5        1.0  0.25621170092997503  0.7437883236048004  0.25621169281755324  1.0000
+  O   O6        1.0  0.7437882842695386  0.2562116971733774  0.7437884316911565  1.0000

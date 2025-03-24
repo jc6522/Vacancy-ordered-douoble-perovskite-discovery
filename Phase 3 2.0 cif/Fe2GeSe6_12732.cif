@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2GeSe6
+_chemical_formula_sum              "Fe2 Ge1 Se6"
+_cell_length_a       6.518177203934256
+_cell_length_b       6.51817716799643
+_cell_length_c       6.51817714971694
+_cell_angle_alpha    60.00000070669324
+_cell_angle_beta     59.999999399998366
+_cell_angle_gamma    60.0000008685842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999986404858043  0.2500000809436892  0.2500000216624196  1.0000
+  Fe  Fe2       1.0  0.7500000694521467  0.7500001714302746  0.7499999003887305  1.0000
+  Ge  Ge1       1.0  0.9999999662707554  0.9999999417519806  1.2236864429065476e-08  1.0000
+  Se  Se1       1.0  0.29245559747832056  0.29245548333072696  0.7075443946263313  1.0000
+  Se  Se2       1.0  0.7075445141435454  0.707544532293225  0.29245540792464164  1.0000
+  Se  Se3       1.0  0.7075445680331535  0.29245543567091786  0.2924555589125135  1.0000
+  Se  Se4       1.0  0.29245547573725356  0.7075444221196945  0.7075445758673473  1.0000
+  Se  Se5       1.0  0.29245542035364663  0.7075444610744174  0.2924556431318657  1.0000
+  Se  Se6       1.0  0.7075445433396306  0.2924554775118333  0.7075444851520568  1.0000

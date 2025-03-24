@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2IrCl6
+_chemical_formula_sum              "Bi2 Ir1 Cl6"
+_cell_length_a       7.101176453935042
+_cell_length_b       7.101176134841331
+_cell_length_c       7.101176636817693
+_cell_angle_alpha    59.99999361909814
+_cell_angle_beta     59.99999696939539
+_cell_angle_gamma    59.99999551787175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999977699885326  0.2499997791222552  0.250000235757269  1.0000
+  Bi  Bi2       1.0  0.7499997052487681  0.7499997219764692  0.7500003898023958  1.0000
+  Ir  Ir1       1.0  6.150873941493734e-08  1.5694835510573383e-07  0.9999998978125336  1.0000
+  Cl  Cl1       1.0  0.23341555474281117  0.2334153328912077  0.7665845203088011  1.0000
+  Cl  Cl2       1.0  0.7665846466104037  0.7665848304950896  0.23341520895451826  1.0000
+  Cl  Cl3       1.0  0.7665847427069691  0.2334154340607408  0.23341532797492368  1.0000
+  Cl  Cl4       1.0  0.23341540344450787  0.7665845827254424  0.7665845514769334  1.0000
+  Cl  Cl5       1.0  0.23341545256934035  0.7665845924213591  0.23341535818885006  1.0000
+  Cl  Cl6       1.0  0.7665846600235968  0.23341556406610678  0.7665844907231094  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2NiO6
+_chemical_formula_sum              "Bi2 Ni1 O6"
+_cell_length_a       5.293038386545529
+_cell_length_b       5.293038804317117
+_cell_length_c       5.293038491161709
+_cell_angle_alpha    59.99999923206418
+_cell_angle_beta     59.99999933074189
+_cell_angle_gamma    60.000000949383214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999978438499576  0.24999993538164408  0.25000013577375807  1.0000
+  Bi  Bi2       1.0  0.7499999145796511  0.7500000329050288  0.7499999225437374  1.0000
+  Ni  Ni1       1.0  1.2779202432946644e-09  9.255513880941761e-09  0.9999999985118307  1.0000
+  O   O1        1.0  0.24003829901336532  0.24003819172483187  0.7599617381042797  1.0000
+  O   O2        1.0  0.7599617962213184  0.7599617788757163  0.24003824939189156  1.0000
+  O   O3        1.0  0.75996185181082  0.24003822832868857  0.24003824604986707  1.0000
+  O   O4        1.0  0.2400382729068431  0.759961797804942  0.7599617499486702  1.0000
+  O   O5        1.0  0.24003821903378775  0.759961769872324  0.24003824890197578  1.0000
+  O   O6        1.0  0.7599618603780413  0.2400382678307004  0.7599617148436574  1.0000

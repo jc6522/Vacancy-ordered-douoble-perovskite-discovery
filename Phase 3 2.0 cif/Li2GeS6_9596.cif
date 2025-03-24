@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2GeS6
+_chemical_formula_sum              "Li2 Ge1 S6"
+_cell_length_a       6.393819010957399
+_cell_length_b       6.393818150941736
+_cell_length_c       6.3938187433933
+_cell_angle_alpha    59.999995889371064
+_cell_angle_beta     60.000000199071216
+_cell_angle_gamma    59.99999394622029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000005074604487  0.25000021859692156  0.249999813928242  1.0000
+  Li  Li2       1.0  0.7499999276011338  0.749999839781711  0.7500001450969969  1.0000
+  Ge  Ge1       1.0  6.753435945976057e-08  0.9999998678295182  0.9999999462974811  1.0000
+  S   S1        1.0  0.25664278427105175  0.25664287712187844  0.7433570487094526  1.0000
+  S   S2        1.0  0.7433573495737574  0.7433570452552429  0.2566427066304174  1.0000
+  S   S3        1.0  0.7433571646490988  0.25664317351323745  0.2566426790540817  1.0000
+  S   S4        1.0  0.25664300372487775  0.7433569270067026  0.7433573672084743  1.0000
+  S   S5        1.0  0.25664271351251117  0.743356986145124  0.25664291749200385  1.0000
+  S   S6        1.0  0.7433569391226837  0.256643074149028  0.7433574067528423  1.0000

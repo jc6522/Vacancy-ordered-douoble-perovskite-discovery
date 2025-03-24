@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2MoBr6
+_chemical_formula_sum              "Hg2 Mo1 Br6"
+_cell_length_a       7.8103574522269055
+_cell_length_b       7.810357428807761
+_cell_length_c       7.81035740403257
+_cell_angle_alpha    60.000000140424284
+_cell_angle_beta     60.000000176084676
+_cell_angle_gamma    59.99999741019144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000000598160615  0.249999995941216  0.2500000231211951  1.0000
+  Hg  Hg2       1.0  0.7499999785501216  0.7499999862555456  0.7500000104632143  1.0000
+  Mo  Mo1       1.0  4.3681375801159485e-08  0.9999999576612042  5.566416010003647e-08  1.0000
+  Br  Br1       1.0  0.22733763723745076  0.22733764277292393  0.77266229803446  1.0000
+  Br  Br2       1.0  0.7726623659449008  0.7726624209652191  0.22733759326866482  1.0000
+  Br  Br3       1.0  0.7726623168348972  0.22733762945163413  0.227337593542811  1.0000
+  Br  Br4       1.0  0.22733756546017594  0.7726624421270302  0.7726623773300126  1.0000
+  Br  Br5       1.0  0.22733763210242627  0.7726623712851931  0.2273375998235695  1.0000
+  Br  Br6       1.0  0.7726624439428873  0.22733756700466776  0.7726624573304893  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2RuO6
+_chemical_formula_sum              "Ag2 Ru1 O6"
+_cell_length_a       5.6113723644393625
+_cell_length_b       5.6113723968699745
+_cell_length_c       5.6113727186874645
+_cell_angle_alpha    60.00000075523461
+_cell_angle_beta     60.000000630848014
+_cell_angle_gamma    60.000000844180036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2500000027136728  0.25000002702742974  0.24999998292064876  1.0000
+  Ag  Ag2       1.0  0.74999995767355  0.7500000658040064  0.7500000350976744  1.0000
+  Ru  Ru1       1.0  0.9999999821860436  3.4921791216533315e-08  0.9999999736251316  1.0000
+  O   O1        1.0  0.23048254563514972  0.23048266004072346  0.7695175243708391  1.0000
+  O   O2        1.0  0.76951752706022  0.7695172625469839  0.23048278458325777  1.0000
+  O   O3        1.0  0.7695173020798688  0.230482614860916  0.230482495673358  1.0000
+  O   O4        1.0  0.23048247649461576  0.769517480153127  0.7695173876160406  1.0000
+  O   O5        1.0  0.2304827272870963  0.7695173625360145  0.23048243569151386  1.0000
+  O   O6        1.0  0.7695174485900639  0.23048247274720463  0.7695173805940569  1.0000

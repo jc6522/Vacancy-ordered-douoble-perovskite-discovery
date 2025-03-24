@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2AsO6
+_chemical_formula_sum              "Cu2 As1 O6"
+_cell_length_a       5.266029161305262
+_cell_length_b       5.266029613342144
+_cell_length_c       5.266029214264957
+_cell_angle_alpha    60.00000219787628
+_cell_angle_beta     59.99999985283409
+_cell_angle_gamma    60.00000264328697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999997111132696  0.2500000349019788  0.2500000865558447  1.0000
+  Cu  Cu2       1.0  0.7500003658393225  0.7499998325936352  0.7499998485460964  1.0000
+  As  As1       1.0  2.5936602878946877e-08  0.9999999813940307  0.999999965951259  1.0000
+  O   O1        1.0  0.24476393525455242  0.2447638594653869  0.7552360123503659  1.0000
+  O   O2        1.0  0.7552359529568059  0.7552362359533525  0.24476397239280825  1.0000
+  O   O3        1.0  0.7552360319671162  0.24476395908252668  0.24476394766443096  1.0000
+  O   O4        1.0  0.24476385976709047  0.7552360665638276  0.7552359847501309  1.0000
+  O   O5        1.0  0.2447638570105772  0.7552361640654887  0.2447639117537454  1.0000
+  O   O6        1.0  0.7552360383110314  0.2447639034442964  0.7552361061763491  1.0000

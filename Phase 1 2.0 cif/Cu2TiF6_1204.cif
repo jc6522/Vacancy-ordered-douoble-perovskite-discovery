@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2TiF6
+_chemical_formula_sum              "Cu2 Ti1 F6"
+_cell_length_a       5.512315364960537
+_cell_length_b       5.5123155777271435
+_cell_length_c       5.512315801790208
+_cell_angle_alpha    59.99999941075087
+_cell_angle_beta     59.99999907590232
+_cell_angle_gamma    60.0000033340612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999990667184954  0.2500000748313417  0.24999998288007538  1.0000
+  Cu  Cu2       1.0  0.7499998546977819  0.7500000089761598  0.7500000126415972  1.0000
+  Ti  Ti1       1.0  0.9999999361623009  1.5552833600928775e-08  0.9999999769753231  1.0000
+  F   F1        1.0  0.24192217808770483  0.24192197260417017  0.7580780104490309  1.0000
+  F   F2        1.0  0.7580779968656455  0.7580778068121281  0.24192215724133417  1.0000
+  F   F3        1.0  0.7580780403189287  0.24192205043710835  0.24192222980955982  1.0000
+  F   F4        1.0  0.24192218185913927  0.758077888951219  0.7580778669365859  1.0000
+  F   F5        1.0  0.24192215526673977  0.75807792339124  0.24192213966398296  1.0000
+  F   F6        1.0  0.7580777802841927  0.24192225373328333  0.7580776386590304  1.0000

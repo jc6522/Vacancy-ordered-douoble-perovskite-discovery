@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2FeO6
+_chemical_formula_sum              "Rh2 Fe1 O6"
+_cell_length_a       5.113036702040081
+_cell_length_b       5.1130367966905075
+_cell_length_c       5.113036598881172
+_cell_angle_alpha    59.99999857187528
+_cell_angle_beta     59.99999838241562
+_cell_angle_gamma    59.999999362320295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.250000358586484  0.25000052001619516  0.24999958657876487  1.0000
+  Rh  Rh2       1.0  0.7499998659521812  0.749999945591066  0.7500016934694305  1.0000
+  Fe  Fe1       1.0  1.3699199155265876e-10  0.999999992813988  0.9999999780993059  1.0000
+  O   O1        1.0  0.25212310024999335  0.25212325948725145  0.7478768108366637  1.0000
+  O   O2        1.0  0.7478770122719328  0.747876566564942  0.25212263104889326  1.0000
+  O   O3        1.0  0.7478765634206365  0.25212347117884376  0.25212285591133143  1.0000
+  O   O4        1.0  0.25212296217779895  0.7478766183604754  0.747876773117617  1.0000
+  O   O5        1.0  0.25212362374752534  0.747876727507072  0.25212269404352666  1.0000
+  O   O6        1.0  0.7478764909897676  0.2521229428481795  0.7478769693109067  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2PtO6
+_chemical_formula_sum              "Sb2 Pt1 O6"
+_cell_length_a       5.37504068052098
+_cell_length_b       5.375040657563533
+_cell_length_c       5.375040762958351
+_cell_angle_alpha    60.000000382822485
+_cell_angle_beta     60.00000051986825
+_cell_angle_gamma    60.00000123650377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.25000008255975137  0.24999948558928045  0.25000033860875137  1.0000
+  Sb  Sb2       1.0  0.7499997630416518  0.7500008902889783  0.7499987948823272  1.0000
+  Pt  Pt1       1.0  0.9999999959417427  2.5064356738459026e-08  3.4147774589765724e-08  1.0000
+  O   O1        1.0  0.2578110323224221  0.2578104658758382  0.742189150176349  1.0000
+  O   O2        1.0  0.7421891327711083  0.7421894155510378  0.25781115171639096  1.0000
+  O   O3        1.0  0.7421893019238711  0.25781023494129357  0.2578112717817228  1.0000
+  O   O4        1.0  0.2578109479535769  0.7421894436921538  0.7421890593485556  1.0000
+  O   O5        1.0  0.2578104928720786  0.742189337372542  0.2578110004573079  1.0000
+  O   O6        1.0  0.7421892542407326  0.2578106830475766  0.7421892176750474  1.0000

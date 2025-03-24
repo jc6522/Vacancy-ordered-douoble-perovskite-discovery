@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2NCl6
+_chemical_formula_sum              "Na2 N1 Cl6"
+_cell_length_a       6.502870753478955
+_cell_length_b       6.502871121490349
+_cell_length_c       6.502871230556026
+_cell_angle_alpha    59.999996829974016
+_cell_angle_beta     59.999997137080186
+_cell_angle_gamma    59.99999840998263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000006714955375  0.2499999557991389  0.2500000250069206  1.0000
+  Na  Na2       1.0  0.7500000243085255  0.7500000312524411  0.7499999002050083  1.0000
+  N   N1        1.0  1.4776884436869443e-07  4.143460232631389e-07  0.9999996958758236  1.0000
+  Cl  Cl1       1.0  0.23571626246859534  0.23571639293312951  0.7642838128673339  1.0000
+  Cl  Cl2       1.0  0.7642832615264555  0.764283554567237  0.23571660192337165  1.0000
+  Cl  Cl3       1.0  0.764283801257846  0.23571629773354022  0.2357163308079909  1.0000
+  Cl  Cl4       1.0  0.2357165061560694  0.7642834143429558  0.7642834286152198  1.0000
+  Cl  Cl5       1.0  0.23571637314533225  0.7642836871668544  0.23571644601180952  1.0000
+  Cl  Cl6       1.0  0.7642835550765477  0.23571626221690198  0.764283727279229  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2CuS6
+_chemical_formula_sum              "Ni2 Cu1 S6"
+_cell_length_a       5.817637507213583
+_cell_length_b       5.817637211429152
+_cell_length_c       5.817637229770284
+_cell_angle_alpha    60.00000242032618
+_cell_angle_beta     60.000001542001705
+_cell_angle_gamma    59.99999984162458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.25000026868734776  0.25000017799046753  0.24999954159550394  1.0000
+  Ni  Ni2       1.0  0.7499998255438373  0.7500001529252848  0.7499996424752016  1.0000
+  Cu  Cu1       1.0  0.9999999673208793  0.9999999789477301  1.145301504039871e-07  1.0000
+  S   S1        1.0  0.26729610042101104  0.26729605317593436  0.7327039317069248  1.0000
+  S   S2        1.0  0.7327039426933587  0.7327038356421114  0.26729620028667705  1.0000
+  S   S3        1.0  0.7327037230312373  0.2672960655026727  0.2672960563435594  1.0000
+  S   S4        1.0  0.2672963040705543  0.7327034485849215  0.73270436728056  1.0000
+  S   S5        1.0  0.26729617217827994  0.7327038983525328  0.267295965603964  1.0000
+  S   S6        1.0  0.7327036695395567  0.26729638624824603  0.7327042153039713  1.0000

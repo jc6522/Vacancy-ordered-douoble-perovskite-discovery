@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2FeTe6
+_chemical_formula_sum              "Ba2 Fe1 Te6"
+_cell_length_a       7.449418643250418
+_cell_length_b       7.449419000280228
+_cell_length_c       7.449418107868296
+_cell_angle_alpha    60.00000342573129
+_cell_angle_beta     59.999999233005276
+_cell_angle_gamma    59.99999718563896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.24999996677409841  0.2499999790236375  0.24999994444363657  1.0000
+  Ba  Ba2       1.0  0.750000016952483  0.7499999173419357  0.750000222498375  1.0000
+  Fe  Fe1       1.0  0.9999999492860632  3.1237542735415834e-08  7.148798763766128e-08  1.0000
+  Te  Te1       1.0  0.23018912888367526  0.23018910107776064  0.7698108950095512  1.0000
+  Te  Te2       1.0  0.7698110000133817  0.7698109317465275  0.2301888868034766  1.0000
+  Te  Te3       1.0  0.7698109835148349  0.23018911871959918  0.23018894592904315  1.0000
+  Te  Te4       1.0  0.23018897517442424  0.7698108713585929  0.7698110604909678  1.0000
+  Te  Te5       1.0  0.23018901304064895  0.7698109718095174  0.23018903002052857  1.0000
+  Te  Te6       1.0  0.7698109639510522  0.23018906101478034  0.7698109485599817  1.0000

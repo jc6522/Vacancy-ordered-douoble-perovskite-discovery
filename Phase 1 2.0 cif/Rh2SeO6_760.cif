@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2SeO6
+_chemical_formula_sum              "Rh2 Se1 O6"
+_cell_length_a       5.100924207073236
+_cell_length_b       5.100924189537931
+_cell_length_c       5.1009241819731574
+_cell_angle_alpha    60.00000128154504
+_cell_angle_beta     60.000001543098044
+_cell_angle_gamma    60.00000149224798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.24999987680835686  0.25000067723794295  0.24999924741489976  1.0000
+  Rh  Rh2       1.0  0.7499998984541056  0.7499995298453721  0.7499996256921521  1.0000
+  Se  Se1       1.0  2.4399385160338863e-07  3.817630488143365e-07  6.751778022117183e-07  1.0000
+  O   O1        1.0  0.25111827907812084  0.2511181332507604  0.748881814090825  1.0000
+  O   O2        1.0  0.7488818015420027  0.7488815720182594  0.2511183883939922  1.0000
+  O   O3        1.0  0.7488817474017255  0.25111826440124674  0.2511182199527411  1.0000
+  O   O4        1.0  0.2511182744521754  0.7488815152995593  0.7488819021634192  1.0000
+  O   O5        1.0  0.2511182265203513  0.7488814821288942  0.25111835136917593  1.0000
+  O   O6        1.0  0.7488816226717618  0.25111844883651124  0.7488818284958756  1.0000

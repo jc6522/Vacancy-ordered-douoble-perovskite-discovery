@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2CrS6
+_chemical_formula_sum              "Mo2 Cr1 S6"
+_cell_length_a       5.948603759695047
+_cell_length_b       5.9486038377515165
+_cell_length_c       5.948603876349968
+_cell_angle_alpha    60.000000288974455
+_cell_angle_beta     59.999999965845646
+_cell_angle_gamma    60.000000849461486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.24999996272401673  0.2499999965058671  0.2500000043127678  1.0000
+  Mo  Mo2       1.0  0.750000044932477  0.7500000142241363  0.7499999524640245  1.0000
+  Cr  Cr1       1.0  5.685436969865608e-10  4.1177558345256535e-09  4.1364584941983805e-08  1.0000
+  S   S1        1.0  0.2654351534065733  0.26543520163566886  0.7345648488704904  1.0000
+  S   S2        1.0  0.7345648648773545  0.7345647946821897  0.26543512492825755  1.0000
+  S   S3        1.0  0.734564821910807  0.2654351272879715  0.26543520329285836  1.0000
+  S   S4        1.0  0.26543516086426144  0.7345648649121315  0.7345648508375988  1.0000
+  S   S5        1.0  0.26543514023473175  0.7345648365578318  0.26543515380024274  1.0000
+  S   S6        1.0  0.7345648459717995  0.26543514534788176  0.7345648432432759  1.0000

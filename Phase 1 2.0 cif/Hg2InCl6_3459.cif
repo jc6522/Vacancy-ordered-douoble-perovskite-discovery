@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2InCl6
+_chemical_formula_sum              "Hg2 In1 Cl6"
+_cell_length_a       7.25905923938752
+_cell_length_b       7.259059572321311
+_cell_length_c       7.259059579546166
+_cell_angle_alpha    59.99999866139221
+_cell_angle_beta     59.99999692138653
+_cell_angle_gamma    59.99999860274478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000000269292855  0.2500000101582497  0.24999998825083752  1.0000
+  Hg  Hg2       1.0  0.7500000057326993  0.7500000422851133  0.7500000178791077  1.0000
+  In  In1       1.0  2.076003235277066e-09  0.9999998076597736  2.2119901040775164e-08  1.0000
+  Cl  Cl1       1.0  0.24645010040853285  0.2464501710797764  0.7535498314877894  1.0000
+  Cl  Cl2       1.0  0.7535498802831468  0.7535499454769958  0.2464501633403696  1.0000
+  Cl  Cl3       1.0  0.7535497714791636  0.24645013571560573  0.24645024560284226  1.0000
+  Cl  Cl4       1.0  0.24645018072602326  0.7535498897326379  0.7535498310642517  1.0000
+  Cl  Cl5       1.0  0.24645021183628696  0.7535498436937396  0.24645015575807167  1.0000
+  Cl  Cl6       1.0  0.7535498464166995  0.24645012607706965  0.7535498103133262  1.0000

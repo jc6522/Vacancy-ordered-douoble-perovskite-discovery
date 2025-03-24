@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2ZnO6
+_chemical_formula_sum              "Cr2 Zn1 O6"
+_cell_length_a       5.1381255780409525
+_cell_length_b       5.138125772999937
+_cell_length_c       5.138125481137233
+_cell_angle_alpha    60.00000014151517
+_cell_angle_beta     59.99999961920438
+_cell_angle_gamma    59.99999999668412
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24999985934010754  0.24999993872134288  0.25000020272050677  1.0000
+  Cr  Cr2       1.0  0.7500000971469215  0.7500000521445127  0.7500001138338678  1.0000
+  Zn  Zn1       1.0  0.9999999698539879  9.534565868260716e-09  0.9999999752734919  1.0000
+  O   O1        1.0  0.26305500199321324  0.2630551982886757  0.736944929218366  1.0000
+  O   O2        1.0  0.7369449943534848  0.7369449022246839  0.2630549447439925  1.0000
+  O   O3        1.0  0.7369448740769454  0.2630550770620995  0.2630551595949746  1.0000
+  O   O4        1.0  0.26305511289489897  0.7369450043821304  0.7369447052345548  1.0000
+  O   O5        1.0  0.2630551606530049  0.7369447878549809  0.2630552049954903  1.0000
+  O   O6        1.0  0.7369449609127132  0.2630550313887077  0.736944737261021  1.0000

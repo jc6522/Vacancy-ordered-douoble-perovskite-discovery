@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ru2GaN6
+_chemical_formula_sum              "Ru2 Ga1 N6"
+_cell_length_a       4.574727747693408
+_cell_length_b       4.574728159890449
+_cell_length_c       4.57472742010909
+_cell_angle_alpha    60.0000000082716
+_cell_angle_beta     60.00000040586252
+_cell_angle_gamma    59.99999842585342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.2499996708893683  0.25000117347048384  0.24999979571599182  1.0000
+  Ru  Ru2       1.0  0.7499995532961101  0.7500011564464673  0.7499997588936733  1.0000
+  Ga  Ga1       1.0  0.9999969493184965  0.9999958021552455  1.5782398016445485e-06  1.0000
+  N   N1        1.0  0.28064618765143096  0.28064582907443947  0.7193538296648507  1.0000
+  N   N2        1.0  0.7193584698970865  0.7193579652691416  0.2806415678109217  1.0000
+  N   N3        1.0  0.7193552296742355  0.28064414117452996  0.2806447751963917  1.0000
+  N   N4        1.0  0.28064293888874514  0.7193563200588686  0.7193571924427153  1.0000
+  N   N5        1.0  0.28064438841694866  0.7193548976813704  0.2806446883312645  1.0000
+  N   N6        1.0  0.7193566076048128  0.2806426695019395  0.719356916951583  1.0000

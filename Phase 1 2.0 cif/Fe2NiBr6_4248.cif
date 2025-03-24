@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2NiBr6
+_chemical_formula_sum              "Fe2 Ni1 Br6"
+_cell_length_a       6.810538082784273
+_cell_length_b       6.81053841478934
+_cell_length_c       6.810538346551301
+_cell_angle_alpha    59.99999939729529
+_cell_angle_beta     59.999999146784056
+_cell_angle_gamma    60.00000047493661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25000008579260324  0.24999987668713194  0.25000005109393947  1.0000
+  Fe  Fe2       1.0  0.75000001604905  0.7500001048148257  0.7499998574353288  1.0000
+  Ni  Ni1       1.0  2.741828021724681e-08  1.4386467760966648e-08  0.9999999614778735  1.0000
+  Br  Br1       1.0  0.24929360595867817  0.24929358674178465  0.7507063958608662  1.0000
+  Br  Br2       1.0  0.750706337605615  0.7507063965584804  0.24929366285525068  1.0000
+  Br  Br3       1.0  0.7507063398772161  0.2492936264059986  0.24929365781307425  1.0000
+  Br  Br4       1.0  0.24929359897678996  0.7507063964570516  0.7507063996282329  1.0000
+  Br  Br5       1.0  0.2492935949800906  0.7507063917878357  0.24929362478944983  1.0000
+  Br  Br6       1.0  0.7507063923576623  0.24929360769720554  0.7507063966059856  1.0000

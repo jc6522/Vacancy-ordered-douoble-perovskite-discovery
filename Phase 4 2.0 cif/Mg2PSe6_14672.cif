@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2PSe6
+_chemical_formula_sum              "Mg2 P1 Se6"
+_cell_length_a       6.509587300816479
+_cell_length_b       6.509587053892962
+_cell_length_c       6.509587313035716
+_cell_angle_alpha    59.99999984865144
+_cell_angle_beta     60.000000811604615
+_cell_angle_gamma    59.99999800005407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.24999987909946575  0.2500001013550318  0.25000002184153264  1.0000
+  Mg  Mg2       1.0  0.7499999818765644  0.750000063239759  0.7500000013586173  1.0000
+  P   P1        1.0  1.0032225623293121e-07  0.9999999172162909  0.9999999927669221  1.0000
+  Se  Se1       1.0  0.24987438698562492  0.24987439737149783  0.7501256265679921  1.0000
+  Se  Se2       1.0  0.7501256926070443  0.7501255583825729  0.24987439481658938  1.0000
+  Se  Se3       1.0  0.75012559004768  0.2498743547861638  0.24987442696243925  1.0000
+  Se  Se4       1.0  0.24987431409405195  0.7501256856330649  0.7501256213806832  1.0000
+  Se  Se5       1.0  0.2498744218068165  0.7501255621436992  0.24987430250993276  1.0000
+  Se  Se6       1.0  0.7501256366257648  0.24987435598141242  0.7501256054029721  1.0000

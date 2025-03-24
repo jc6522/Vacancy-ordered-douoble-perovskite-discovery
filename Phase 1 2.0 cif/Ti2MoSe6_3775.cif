@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2MoSe6
+_chemical_formula_sum              "Ti2 Mo1 Se6"
+_cell_length_a       6.403833868806887
+_cell_length_b       6.403834681708418
+_cell_length_c       6.4038344094289075
+_cell_angle_alpha    60.000001184511085
+_cell_angle_beta     59.99999853038112
+_cell_angle_gamma    60.00000378399634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000009164802994  0.24999962174909984  0.25000022428531604  1.0000
+  Ti  Ti2       1.0  0.7500004338230827  0.7499998004685432  0.749999788507914  1.0000
+  Mo  Mo1       1.0  0.9999997839514017  0.9999999827873355  1.74408513080965e-07  1.0000
+  Se  Se1       1.0  0.27002585525324235  0.2700265013661346  0.7299737693716595  1.0000
+  Se  Se2       1.0  0.7299736132559581  0.7299736629084252  0.2700265336070326  1.0000
+  Se  Se3       1.0  0.7299739472732288  0.2700262270137239  0.27002571280211124  1.0000
+  Se  Se4       1.0  0.27002639743359264  0.7299739755112117  0.7299734630414525  1.0000
+  Se  Se5       1.0  0.2700261245941215  0.729974099456703  0.2700263477761008  1.0000
+  Se  Se6       1.0  0.7299737219711842  0.27002619104404013  0.7299739591580162  1.0000

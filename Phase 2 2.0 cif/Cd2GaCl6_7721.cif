@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2GaCl6
+_chemical_formula_sum              "Cd2 Ga1 Cl6"
+_cell_length_a       6.90988171396607
+_cell_length_b       6.909882135175582
+_cell_length_c       6.909881548457407
+_cell_angle_alpha    60.00000073124864
+_cell_angle_beta     60.00000051078033
+_cell_angle_gamma    60.000003645087055
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2500000365843037  0.25000003081201694  0.2499999771518433  1.0000
+  Cd  Cd2       1.0  0.7499999905497822  0.7500000339450656  0.7499999884641262  1.0000
+  Ga  Ga1       1.0  0.9999999098975162  0.9999999344191974  1.3283535118765222e-07  1.0000
+  Cl  Cl1       1.0  0.2425385924392346  0.24253858701345474  0.7574614047254788  1.0000
+  Cl  Cl2       1.0  0.7574615176931043  0.7574614192526476  0.2425385139039874  1.0000
+  Cl  Cl3       1.0  0.7574614893044487  0.2425385151689297  0.24253862690876024  1.0000
+  Cl  Cl4       1.0  0.24253853767907302  0.7574614698277209  0.7574614090539676  1.0000
+  Cl  Cl5       1.0  0.24253857157202643  0.7574614477305214  0.24253855606411492  1.0000
+  Cl  Cl6       1.0  0.757461370962282  0.24253855499067017  0.7574613859071014  1.0000

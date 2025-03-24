@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2CaTe6
+_chemical_formula_sum              "Sn2 Ca1 Te6"
+_cell_length_a       7.577381205224318
+_cell_length_b       7.5773810617720425
+_cell_length_c       7.577381169366215
+_cell_angle_alpha    59.99999881960262
+_cell_angle_beta     60.00000115898085
+_cell_angle_gamma    60.00000128490885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2500000614526784  0.2500000082376224  0.25000005350909354  1.0000
+  Sn  Sn2       1.0  0.7499997380597685  0.750000147552943  0.7500000002453837  1.0000
+  Ca  Ca1       1.0  0.999999966921015  3.232633536790774e-09  0.9999999687330746  1.0000
+  Te  Te1       1.0  0.28343239600844045  0.28343216626410234  0.7165677235314701  1.0000
+  Te  Te2       1.0  0.7165677191660887  0.716567764858424  0.28343238898364514  1.0000
+  Te  Te3       1.0  0.7165676451471406  0.28343228530219855  0.2834322954618321  1.0000
+  Te  Te4       1.0  0.28343235873670664  0.7165677282524876  0.716567673116483  1.0000
+  Te  Te5       1.0  0.2834324172247846  0.7165676768116583  0.2834321486732333  1.0000
+  Te  Te6       1.0  0.7165676959029508  0.283432228449801  0.716567752124177  1.0000

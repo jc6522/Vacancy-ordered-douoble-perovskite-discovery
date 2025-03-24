@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2FeO6
+_chemical_formula_sum              "Ag2 Fe1 O6"
+_cell_length_a       5.304392708527123
+_cell_length_b       5.304392383711727
+_cell_length_c       5.3043928344794935
+_cell_angle_alpha    59.999999501906586
+_cell_angle_beta     59.999998328745235
+_cell_angle_gamma    59.99999884231141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2500000344862764  0.2499999949167441  0.24999998851546498  1.0000
+  Ag  Ag2       1.0  0.7499999873788336  0.7500000978876021  0.7500000537382862  1.0000
+  Fe  Fe1       1.0  6.066577294116573e-08  5.3105296702459306e-08  0.9999999864747535  1.0000
+  O   O1        1.0  0.24471468939045202  0.24471471441307968  0.7552852263693758  1.0000
+  O   O2        1.0  0.7552852963506945  0.7552851798236342  0.2447146994616619  1.0000
+  O   O3        1.0  0.7552852678258363  0.24471466521035465  0.2447147801338104  1.0000
+  O   O4        1.0  0.24471473084451473  0.7552852359531402  0.7552852507682586  1.0000
+  O   O5        1.0  0.24471469889591824  0.7552853062867665  0.24471479599341228  1.0000
+  O   O6        1.0  0.7552851959860527  0.2447147103230226  0.7552852573581511  1.0000

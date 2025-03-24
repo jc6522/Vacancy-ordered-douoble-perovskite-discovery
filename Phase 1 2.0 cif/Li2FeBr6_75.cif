@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2FeBr6
+_chemical_formula_sum              "Li2 Fe1 Br6"
+_cell_length_a       7.115763343671722
+_cell_length_b       7.115763636232683
+_cell_length_c       7.115763507203051
+_cell_angle_alpha    59.999999533602754
+_cell_angle_beta     60.00000040009239
+_cell_angle_gamma    60.00000228455001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000017220786  0.2499999384886966  0.25000003097157514  1.0000
+  Li  Li2       1.0  0.7500000261604753  0.7499999910255706  0.7499999412353022  1.0000
+  Fe  Fe1       1.0  0.999999925337256  2.9259912400624052e-08  0.9999999847574895  1.0000
+  Br  Br1       1.0  0.22506192600254457  0.22506189327593737  0.7749380431326162  1.0000
+  Br  Br2       1.0  0.7749381268594324  0.7749380878734713  0.22506189217230949  1.0000
+  Br  Br3       1.0  0.7749380092591075  0.2250620258840784  0.22506195929535316  1.0000
+  Br  Br4       1.0  0.22506195297429912  0.7749380275545235  0.7749381510082674  1.0000
+  Br  Br5       1.0  0.22506190123639813  0.7749380417753731  0.22506193989501352  1.0000
+  Br  Br6       1.0  0.7749381345291911  0.22506195658574749  0.7749380838880761  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2FeS6
+_chemical_formula_sum              "Ti2 Fe1 S6"
+_cell_length_a       5.744693504874375
+_cell_length_b       5.744693933043155
+_cell_length_c       5.744693861298789
+_cell_angle_alpha    59.99999817624848
+_cell_angle_beta     59.99999538124309
+_cell_angle_gamma    59.99999883423275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000048527178664  0.24999944456402962  0.25000036881909504  1.0000
+  Ti  Ti2       1.0  0.7499995493794299  0.7500003505248333  0.7499992339296635  1.0000
+  Fe  Fe1       1.0  9.517847451004165e-08  2.0893192593937468e-07  0.9999999819815278  1.0000
+  S   S1        1.0  0.26546029445536107  0.2654602373115382  0.7345398025873037  1.0000
+  S   S2        1.0  0.7345395907429726  0.7345395599092736  0.26546056663517037  1.0000
+  S   S3        1.0  0.7345391717651445  0.265460309659083  0.26546055509267474  1.0000
+  S   S4        1.0  0.2654608382325687  0.734539794563749  0.7345393875999392  1.0000
+  S   S5        1.0  0.2654603449228502  0.7345396164292405  0.26546043988906337  1.0000
+  S   S6        1.0  0.7345396256650063  0.2654605517523441  0.7345395793066789  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2MnI6
+_chemical_formula_sum              "Hg2 Mn1 I6"
+_cell_length_a       7.981103065629694
+_cell_length_b       7.981103136630788
+_cell_length_c       7.981103573347787
+_cell_angle_alpha    60.00000063117708
+_cell_angle_beta     59.99999905664034
+_cell_angle_gamma    60.00000124443105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999993855240282  0.25000002244452946  0.24999995530562696  1.0000
+  Hg  Hg2       1.0  0.7500000606819356  0.74999976195698  0.7500000877956303  1.0000
+  Mn  Mn1       1.0  1.9816291621043168e-08  2.301833988728517e-08  5.7519136954079605e-08  1.0000
+  I   I1        1.0  0.22820472450256746  0.22820476158824707  0.7717952940718006  1.0000
+  I   I2        1.0  0.771795250808274  0.7717950381588224  0.22820482097824157  1.0000
+  I   I3        1.0  0.7717951681049234  0.228205072559571  0.22820479697509746  1.0000
+  I   I4        1.0  0.22820481259170786  0.7717951277065775  0.7717951414346681  1.0000
+  I   I5        1.0  0.2282049736611177  0.7717951549461247  0.22820494095856964  1.0000
+  I   I6        1.0  0.7717950236222247  0.22820506066558094  0.771794920090044  1.0000

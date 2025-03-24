@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2PdSe6
+_chemical_formula_sum              "Sn2 Pd1 Se6"
+_cell_length_a       6.729364018977868
+_cell_length_b       6.72936394557432
+_cell_length_c       6.729363927057637
+_cell_angle_alpha    59.999999232934314
+_cell_angle_beta     59.999999120878705
+_cell_angle_gamma    59.99999899889115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.24999999757058194  0.25000002785101966  0.24999995588040366  1.0000
+  Sn  Sn2       1.0  0.7500000473622848  0.750000007113018  0.7500000018759996  1.0000
+  Pd  Pd1       1.0  2.4629453982179126e-08  0.9999999981799991  0.9999999707629786  1.0000
+  Se  Se1       1.0  0.26243592214981437  0.2624359318564051  0.7375640690924322  1.0000
+  Se  Se2       1.0  0.7375640695035102  0.7375640776276193  0.26243591615555295  1.0000
+  Se  Se3       1.0  0.7375640690809553  0.26243591502705543  0.26243595645996054  1.0000
+  Se  Se4       1.0  0.26243589352378877  0.7375640580569497  0.7375640838026933  1.0000
+  Se  Se5       1.0  0.26243590225375324  0.7375641076091665  0.26243592596222315  1.0000
+  Se  Se6       1.0  0.7375640804215123  0.26243589277485296  0.7375641173636042  1.0000

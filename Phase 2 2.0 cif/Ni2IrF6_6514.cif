@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2IrF6
+_chemical_formula_sum              "Ni2 Ir1 F6"
+_cell_length_a       5.478244203133083
+_cell_length_b       5.478244259297945
+_cell_length_c       5.47824441193146
+_cell_angle_alpha    60.00000108941457
+_cell_angle_beta     59.99999992511301
+_cell_angle_gamma    60.000001149601765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2499997448856559  0.2500001660195107  0.25000019188012546  1.0000
+  Ni  Ni2       1.0  0.7500001109768083  0.749999898903755  0.7500000591995652  1.0000
+  Ir  Ir1       1.0  6.6850196315258214e-09  1.7885217020848595e-08  0.9999999785878705  1.0000
+  F   F1        1.0  0.2547548954681931  0.2547548439285225  0.7452450758659944  1.0000
+  F   F2        1.0  0.7452452228712332  0.7452450153147412  0.2547548182427999  1.0000
+  F   F3        1.0  0.7452452314723479  0.25475487546114206  0.25475482544975736  1.0000
+  F   F4        1.0  0.2547548358087207  0.7452451559273378  0.7452450829571046  1.0000
+  F   F5        1.0  0.25475477792758133  0.7452450843448927  0.2547549362357997  1.0000
+  F   F6        1.0  0.7452451850706897  0.25475496269315195  0.7452450310908963  1.0000

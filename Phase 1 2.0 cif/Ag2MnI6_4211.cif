@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2MnI6
+_chemical_formula_sum              "Ag2 Mn1 I6"
+_cell_length_a       7.490006331221357
+_cell_length_b       7.490003043364846
+_cell_length_c       7.490002543952213
+_cell_angle_alpha    60.00001340194305
+_cell_angle_beta     60.000026372053334
+_cell_angle_gamma    59.999943799381455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2499993519576416  0.2500007434063323  0.24999946005716178  1.0000
+  Ag  Ag2       1.0  0.7500014619859319  0.7499993147033966  0.7499999933501231  1.0000
+  Mn  Mn1       1.0  0.9999990802956893  1.2051231961281893e-06  6.610286369716358e-07  1.0000
+  I   I1        1.0  0.2456594325591255  0.24566279210385744  0.7543397122169677  1.0000
+  I   I2        1.0  0.7543421862070925  0.7543363454029558  0.24566011283199568  1.0000
+  I   I3        1.0  0.7543401163830453  0.2456620974903448  0.24565732038473947  1.0000
+  I   I4        1.0  0.24565955055161012  0.7543372068053822  0.7543427309640177  1.0000
+  I   I5        1.0  0.24566092850078183  0.7543370316023347  0.24565962412561534  1.0000
+  I   I6        1.0  0.7543378690298158  0.24566337316540432  0.7543402529442211  1.0000

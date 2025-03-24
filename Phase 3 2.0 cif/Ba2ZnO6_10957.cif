@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2ZnO6
+_chemical_formula_sum              "Ba2 Zn1 O6"
+_cell_length_a       5.922047197056142
+_cell_length_b       5.922047152513088
+_cell_length_c       5.922047248393487
+_cell_angle_alpha    59.99999987111643
+_cell_angle_beta     60.000001090049444
+_cell_angle_gamma    60.0000000657585
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.2500000223391828  0.25000001256725785  0.24999997001037655  1.0000
+  Ba  Ba2       1.0  0.7500000426159336  0.749999988067118  0.7500000129048687  1.0000
+  Zn  Zn1       1.0  0.9999999744933018  7.652009386079676e-08  0.9999999508528288  1.0000
+  O   O1        1.0  0.23384327574732838  0.2338433404187649  0.7661566987173751  1.0000
+  O   O2        1.0  0.7661567140699179  0.7661566808967174  0.23384331986927773  1.0000
+  O   O3        1.0  0.7661567109302403  0.23384326449640874  0.23384327276492103  1.0000
+  O   O4        1.0  0.2338432874162961  0.7661566844352009  0.7661567405997078  1.0000
+  O   O5        1.0  0.23384328256526354  0.766156682682371  0.23384331447819595  1.0000
+  O   O6        1.0  0.7661566977596637  0.2338432910665664  0.7661567123746256  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2NiCl6
+_chemical_formula_sum              "Cd2 Ni1 Cl6"
+_cell_length_a       6.72250297098495
+_cell_length_b       6.7225026515038655
+_cell_length_c       6.722503199214033
+_cell_angle_alpha    59.99999780836004
+_cell_angle_beta     60.00000001295454
+_cell_angle_gamma    60.00000124849904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.24999987848430133  0.2500000548442093  0.2500001197941622  1.0000
+  Cd  Cd2       1.0  0.7499999999640066  0.7500000552211278  0.7500002749213811  1.0000
+  Ni  Ni1       1.0  6.589641757503656e-08  0.9999999672065485  6.080065611649376e-08  1.0000
+  Cl  Cl1       1.0  0.24367904822819497  0.2436789549360984  0.7563209926288588  1.0000
+  Cl  Cl2       1.0  0.7563210192704718  0.7563209692996724  0.2436790018152667  1.0000
+  Cl  Cl3       1.0  0.7563209709228425  0.24367909117352146  0.2436788340610743  1.0000
+  Cl  Cl4       1.0  0.24367893976218752  0.7563210097825231  0.7563209674621728  1.0000
+  Cl  Cl5       1.0  0.243678995540019  0.7563208815269731  0.24367890478720508  1.0000
+  Cl  Cl6       1.0  0.7563210974289086  0.24367902813392972  0.7563208000888684  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2SiF6
+_chemical_formula_sum              "Tl2 Si1 F6"
+_cell_length_a       6.113898125632208
+_cell_length_b       6.113898085453083
+_cell_length_c       6.113898179622067
+_cell_angle_alpha    60.000002894959444
+_cell_angle_beta     60.00000209398346
+_cell_angle_gamma    60.000003210410846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.25000002020296097  0.2499999520866824  0.24999992668957438  1.0000
+  Tl  Tl2       1.0  0.7499999924799493  0.7500000946425642  0.7500001152956818  1.0000
+  Si  Si1       1.0  6.610269941651874e-08  0.9999999999999986  0.9999998802609148  1.0000
+  F   F1        1.0  0.19913493581755123  0.19913483640247628  0.8008650670553813  1.0000
+  F   F2        1.0  0.8008650873952882  0.8008652523942655  0.19913474417895335  1.0000
+  F   F3        1.0  0.800865127336868  0.19913480583864268  0.19913485117363125  1.0000
+  F   F4        1.0  0.19913484620165128  0.8008651146880993  0.8008652440439505  1.0000
+  F   F5        1.0  0.1991348872097013  0.8008651069065447  0.19913487603852267  1.0000
+  F   F6        1.0  0.800865036192865  0.19913486770698557  0.8008652891708202  1.0000

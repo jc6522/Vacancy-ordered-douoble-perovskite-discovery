@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2CaF6
+_chemical_formula_sum              "Ag2 Ca1 F6"
+_cell_length_a       5.744822837304661
+_cell_length_b       5.744822533364451
+_cell_length_c       5.744822827083958
+_cell_angle_alpha    59.99999878677382
+_cell_angle_beta     59.99999879792746
+_cell_angle_gamma    59.99999935408595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2500000650535547  0.24999996504584637  0.25000000722439797  1.0000
+  Ag  Ag2       1.0  0.7499999479708063  0.7500000337117342  0.7500000185380035  1.0000
+  Ca  Ca1       1.0  2.306432020985361e-08  0.9999999850766247  0.9999999645969683  1.0000
+  F   F1        1.0  0.26632993381602893  0.266329941893047  0.7336700384482537  1.0000
+  F   F2        1.0  0.7336701073690369  0.7336700206220509  0.2663299426155003  1.0000
+  F   F3        1.0  0.7336700161952726  0.2663299492663531  0.26632993515768044  1.0000
+  F   F4        1.0  0.2663299093233358  0.7336700708103336  0.7336700871433932  1.0000
+  F   F5        1.0  0.26632993373933184  0.7336700937657015  0.2663299851279529  1.0000
+  F   F6        1.0  0.7336700718128821  0.2663299454981834  0.733670025858068  1.0000

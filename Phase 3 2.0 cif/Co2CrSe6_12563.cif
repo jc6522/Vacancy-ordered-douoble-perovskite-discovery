@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2CrSe6
+_chemical_formula_sum              "Co2 Cr1 Se6"
+_cell_length_a       6.623447233439543
+_cell_length_b       6.6234474602343845
+_cell_length_c       6.623447180796296
+_cell_angle_alpha    60.00000086136941
+_cell_angle_beta     60.00000076601887
+_cell_angle_gamma    60.000000497172685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.24999983944955229  0.2499996862213603  0.2500002430847527  1.0000
+  Co  Co2       1.0  0.7499999413996666  0.7500002476384756  0.7499996076958946  1.0000
+  Cr  Cr1       1.0  0.9999999908602278  2.2189257734671383e-08  5.5535597763746695e-09  1.0000
+  Se  Se1       1.0  0.2579348899690435  0.2579346421238826  0.7420652473607063  1.0000
+  Se  Se2       1.0  0.7420651749409343  0.7420652972832623  0.25793491155225956  1.0000
+  Se  Se3       1.0  0.7420653218299754  0.2579346313605497  0.2579349121051794  1.0000
+  Se  Se4       1.0  0.2579348456205611  0.7420653246885385  0.742065099648841  1.0000
+  Se  Se5       1.0  0.2579346754175599  0.7420653729194524  0.25793487734416864  1.0000
+  Se  Se6       1.0  0.7420653185043125  0.25793478468206166  0.7420651037903034  1.0000

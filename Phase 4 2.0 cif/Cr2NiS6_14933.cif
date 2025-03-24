@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2NiS6
+_chemical_formula_sum              "Cr2 Ni1 S6"
+_cell_length_a       6.217985491840323
+_cell_length_b       6.217985484248376
+_cell_length_c       6.2179854832125345
+_cell_angle_alpha    60.0000014248982
+_cell_angle_beta     60.00000043321937
+_cell_angle_gamma    60.00000116576492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24999996233238603  0.2500000235036527  0.25000004883491  1.0000
+  Cr  Cr2       1.0  0.749999970602305  0.7500000035417977  0.7499999258993314  1.0000
+  Ni  Ni1       1.0  0.9999999968298461  3.939362214783276e-09  1.2236337841293197e-09  1.0000
+  S   S1        1.0  0.24672825625659064  0.2467282782185997  0.7532717420475772  1.0000
+  S   S2        1.0  0.7532717458389194  0.7532717251906793  0.24672830802685333  1.0000
+  S   S3        1.0  0.7532717881667254  0.24672811727426425  0.2467282541405376  1.0000
+  S   S4        1.0  0.24672826618966362  0.7532718073477698  0.7532717303934174  1.0000
+  S   S5        1.0  0.24672824968914825  0.753271717211979  0.24672829973213883  1.0000
+  S   S6        1.0  0.7532717513925308  0.24672833937868893  0.7532716760113758  1.0000

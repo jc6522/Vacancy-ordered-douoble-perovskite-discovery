@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2BiTe6
+_chemical_formula_sum              "Cr2 Bi1 Te6"
+_cell_length_a       7.548203700661868
+_cell_length_b       7.548203536028468
+_cell_length_c       7.548203650805666
+_cell_angle_alpha    59.999999751103665
+_cell_angle_beta     59.99999925117506
+_cell_angle_gamma    59.999998975189925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2499999560654414  0.2500000255678649  0.2499999991711438  1.0000
+  Cr  Cr2       1.0  0.7500000132327705  0.7499999582563691  0.7500000067407344  1.0000
+  Bi  Bi1       1.0  3.263415387474041e-08  5.354463564502904e-08  0.9999999410127829  1.0000
+  Te  Te1       1.0  0.28000038411414485  0.28000046837113385  0.7199995641924948  1.0000
+  Te  Te2       1.0  0.719999510750336  0.7199995414141361  0.28000046595573164  1.0000
+  Te  Te3       1.0  0.7199996144602644  0.2800004259226477  0.28000043510892825  1.0000
+  Te  Te4       1.0  0.2800004703129659  0.7199995189600326  0.7199995431347649  1.0000
+  Te  Te5       1.0  0.2800004664745682  0.7199995112165436  0.28000047846534676  1.0000
+  Te  Te6       1.0  0.7199995594091618  0.28000050019129097  0.7199995582269902  1.0000

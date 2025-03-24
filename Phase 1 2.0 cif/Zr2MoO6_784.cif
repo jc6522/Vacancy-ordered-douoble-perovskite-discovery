@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2MoO6
+_chemical_formula_sum              "Zr2 Mo1 O6"
+_cell_length_a       5.1894624953799795
+_cell_length_b       5.189462743144141
+_cell_length_c       5.189462576062526
+_cell_angle_alpha    59.99999868485816
+_cell_angle_beta     59.99999965367475
+_cell_angle_gamma    60.00000022363291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.2500001608043641  0.25000006255037  0.24999983827474825  1.0000
+  Zr  Zr2       1.0  0.7500000882180619  0.749999895003534  0.7500001087531882  1.0000
+  Mo  Mo1       1.0  0.9999999876597989  6.37216473308665e-08  0.9999999955060757  1.0000
+  O   O1        1.0  0.2613609274651794  0.2613610191327101  0.7386390751186735  1.0000
+  O   O2        1.0  0.7386390657609023  0.7386390115830884  0.2613608553155047  1.0000
+  O   O3        1.0  0.7386389053943365  0.26136099584996914  0.2613610251161264  1.0000
+  O   O4        1.0  0.26136094018931866  0.7386390372258882  0.7386390531115263  1.0000
+  O   O5        1.0  0.2613608606613917  0.7386390197261496  0.2613609743246955  1.0000
+  O   O6        1.0  0.7386390340554653  0.26136092602745076  0.7386390786769046  1.0000

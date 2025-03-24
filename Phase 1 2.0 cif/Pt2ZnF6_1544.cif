@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2ZnF6
+_chemical_formula_sum              "Pt2 Zn1 F6"
+_cell_length_a       5.141095378171118
+_cell_length_b       5.14109537426144
+_cell_length_c       5.141095396444798
+_cell_angle_alpha    59.99999948543469
+_cell_angle_beta     59.99999926540262
+_cell_angle_gamma    59.99999936821535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.2500000258534057  0.25000002634082874  0.25000005602010605  1.0000
+  Pt  Pt2       1.0  0.7500000058471825  0.7500000313771974  0.7500000993621697  1.0000
+  Zn  Zn1       1.0  0.9999999762241067  0.9999999904709421  5.166446945169404e-08  1.0000
+  F   F1        1.0  0.258699358619355  0.25869932858606914  0.7413006162532841  1.0000
+  F   F2        1.0  0.7413006448366769  0.7413006791044041  0.25869923592555183  1.0000
+  F   F3        1.0  0.7413006183147568  0.25869939443375806  0.25869933835844977  1.0000
+  F   F4        1.0  0.25869932447534577  0.741300653755211  0.7413006211596412  1.0000
+  F   F5        1.0  0.2586993800341918  0.7413006308415899  0.25869933824397057  1.0000
+  F   F6        1.0  0.7413006645781798  0.2586992601179246  0.7413006392521596  1.0000

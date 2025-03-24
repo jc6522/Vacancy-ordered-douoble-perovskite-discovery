@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2NiF6
+_chemical_formula_sum              "In2 Ni1 F6"
+_cell_length_a       5.412961683438986
+_cell_length_b       5.412961700733767
+_cell_length_c       5.412961790571161
+_cell_angle_alpha    59.999999931378305
+_cell_angle_beta     59.999999042973776
+_cell_angle_gamma    59.999999779409166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000004199389103  0.2500000752647344  0.2499998483597969  1.0000
+  In  In2       1.0  0.7500000305306583  0.7499999361794748  0.7499997985770371  1.0000
+  Ni  Ni1       1.0  0.9999999871785145  3.846445635292368e-08  1.4889776336936956e-08  1.0000
+  F   F1        1.0  0.24700723153912818  0.24700730629782236  0.7529927682567775  1.0000
+  F   F2        1.0  0.7529927434601784  0.7529927481360763  0.24700735487027067  1.0000
+  F   F3        1.0  0.7529926745816431  0.24700724760896048  0.24700729703555424  1.0000
+  F   F4        1.0  0.24700733562869945  0.7529926755932639  0.7529928205267072  1.0000
+  F   F5        1.0  0.24700722722477536  0.7529926790475534  0.2470072895135981  1.0000
+  F   F6        1.0  0.7529927345242483  0.24700728714435707  0.7529928178525579  1.0000

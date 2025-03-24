@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2CoSe6
+_chemical_formula_sum              "Ag2 Co1 Se6"
+_cell_length_a       6.51613465714469
+_cell_length_b       6.5161348233921315
+_cell_length_c       6.516134818780119
+_cell_angle_alpha    59.99999987808766
+_cell_angle_beta     59.999999198395344
+_cell_angle_gamma    59.99999914020752
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2500000047931057  0.2500000074637936  0.249999987587779  1.0000
+  Ag  Ag2       1.0  0.7500000057524292  0.7499999791615631  0.7500000224540361  1.0000
+  Co  Co1       1.0  3.5960298921836645e-08  3.7591141481442765e-09  0.9999999770709893  1.0000
+  Se  Se1       1.0  0.2513723620634952  0.25137233903105877  0.748627649399854  1.0000
+  Se  Se2       1.0  0.7486276254452119  0.7486276475942983  0.2513723629524622  1.0000
+  Se  Se3       1.0  0.7486276479770616  0.25137236528226936  0.25137231224698525  1.0000
+  Se  Se4       1.0  0.2513723456708999  0.7486276401386606  0.7486276646181357  1.0000
+  Se  Se5       1.0  0.25137235196772284  0.7486276315956867  0.2513723556359805  1.0000
+  Se  Se6       1.0  0.7486276257316657  0.25137237382524336  0.7486276691043816  1.0000

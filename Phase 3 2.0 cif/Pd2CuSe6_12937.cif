@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2CuSe6
+_chemical_formula_sum              "Pd2 Cu1 Se6"
+_cell_length_a       6.244305651036633
+_cell_length_b       6.244305700268805
+_cell_length_c       6.244305269426612
+_cell_angle_alpha    60.00000240276447
+_cell_angle_beta     60.0000033639426
+_cell_angle_gamma    60.000003873713986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.2500001803482611  0.24999994614534837  0.24999984427582791  1.0000
+  Pd  Pd2       1.0  0.7499998019745548  0.7500000973380192  0.7499999202458484  1.0000
+  Cu  Cu1       1.0  0.9999999467095566  0.9999999823475904  1.3050997414538051e-08  1.0000
+  Se  Se1       1.0  0.2801735546272672  0.280173497084572  0.7198264533111008  1.0000
+  Se  Se2       1.0  0.7198265131692112  0.7198265895491284  0.28017350473350666  1.0000
+  Se  Se3       1.0  0.7198264466037837  0.28017348423783633  0.2801735890404228  1.0000
+  Se  Se4       1.0  0.28017353816759816  0.7198264631379726  0.7198265762332285  1.0000
+  Se  Se5       1.0  0.2801736043187215  0.719826502034452  0.2801734619922689  1.0000
+  Se  Se6       1.0  0.7198264114597078  0.28017343553446433  0.7198266318258568  1.0000

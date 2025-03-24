@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2CrSe6
+_chemical_formula_sum              "Fe2 Cr1 Se6"
+_cell_length_a       6.184954031273598
+_cell_length_b       6.184953876207266
+_cell_length_c       6.184953803154826
+_cell_angle_alpha    60.000001937030774
+_cell_angle_beta     59.9999991856844
+_cell_angle_gamma    59.999999980895396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25000015473719484  0.25000003785351194  0.24999991222840942  1.0000
+  Fe  Fe2       1.0  0.7500000557862369  0.7499999274216973  0.7500001212759807  1.0000
+  Cr  Cr1       1.0  0.9999999826311973  2.9703004043520807e-08  0.9999998790381864  1.0000
+  Se  Se1       1.0  0.2767222597088668  0.27672219608744153  0.7232778336272906  1.0000
+  Se  Se2       1.0  0.7232778145660123  0.7232777018609512  0.27672223375805355  1.0000
+  Se  Se3       1.0  0.7232776331433611  0.27672226943196543  0.2767222222509857  1.0000
+  Se  Se4       1.0  0.27672208508738294  0.7232778285166714  0.7232777744082323  1.0000
+  Se  Se5       1.0  0.2767222589122473  0.7232777657707274  0.27672221693580423  1.0000
+  Se  Se6       1.0  0.7232777628032162  0.2767222450490909  0.7232777960411328  1.0000

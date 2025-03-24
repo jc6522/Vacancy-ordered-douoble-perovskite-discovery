@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2InO6
+_chemical_formula_sum              "Sn2 In1 O6"
+_cell_length_a       5.49329367978353
+_cell_length_b       5.493293540173199
+_cell_length_c       5.493293622279289
+_cell_angle_alpha    60.000000337865664
+_cell_angle_beta     59.999999832780475
+_cell_angle_gamma    59.999999719912644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2499999453541913  0.25000017527198015  0.24999984178009527  1.0000
+  Sn  Sn2       1.0  0.7499999370982389  0.7499998569577093  0.7499999730877003  1.0000
+  In  In1       1.0  6.539195884497155e-09  2.452480218977043e-08  1.1774023728452099e-08  1.0000
+  O   O1        1.0  0.2761789111805551  0.27617892655932774  0.7238210613561148  1.0000
+  O   O2        1.0  0.7238211314734436  0.7238209718987182  0.27617899697332965  1.0000
+  O   O3        1.0  0.7238211504121033  0.276178948534021  0.27617888930048884  1.0000
+  O   O4        1.0  0.2761790371536687  0.7238209566126077  0.7238211369184133  1.0000
+  O   O5        1.0  0.276178924853123  0.723821098669267  0.27617897525489365  1.0000
+  O   O6        1.0  0.723820961992727  0.2761790338891612  0.7238211058220874  1.0000

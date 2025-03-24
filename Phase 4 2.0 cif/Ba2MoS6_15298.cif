@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2MoS6
+_chemical_formula_sum              "Ba2 Mo1 S6"
+_cell_length_a       6.723902590364573
+_cell_length_b       6.723902910714092
+_cell_length_c       6.723902667660132
+_cell_angle_alpha    60.00000025907014
+_cell_angle_beta     60.00000236767253
+_cell_angle_gamma    60.00000151636195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.2500000492087151  0.25000001312971315  0.24999993747698626  1.0000
+  Ba  Ba2       1.0  0.7499999701542414  0.75000001024547  0.750000074872515  1.0000
+  Mo  Mo1       1.0  3.507534577003716e-08  0.9999999617489383  2.835802632080478e-08  1.0000
+  S   S1        1.0  0.2479956518847873  0.24799567252137916  0.7520043236928383  1.0000
+  S   S2        1.0  0.7520043740527509  0.7520043362819728  0.24799561383201713  1.0000
+  S   S3        1.0  0.7520042564769779  0.24799572633921785  0.24799563580333403  1.0000
+  S   S4        1.0  0.24799559788458653  0.7520043644306921  0.7520044045282546  1.0000
+  S   S5        1.0  0.24799569570373295  0.7520043021568814  0.24799559491218845  1.0000
+  S   S6        1.0  0.752004368675338  0.24799561192955713  0.7520043796737478  1.0000

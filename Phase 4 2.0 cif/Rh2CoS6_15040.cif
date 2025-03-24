@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2CoS6
+_chemical_formula_sum              "Rh2 Co1 S6"
+_cell_length_a       5.751102473449589
+_cell_length_b       5.751102401325763
+_cell_length_c       5.751102248683695
+_cell_angle_alpha    60.00000091779883
+_cell_angle_beta     60.00000234151276
+_cell_angle_gamma    60.00000276965527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000123334898994  0.2499995063438886  0.2500000157293583  1.0000
+  Rh  Rh2       1.0  0.7499998552643817  0.7500001268665601  0.7500009239690931  1.0000
+  Co  Co1       1.0  0.9999998787809569  7.45353941301854e-08  0.9999999259691851  1.0000
+  S   S1        1.0  0.261575776094735  0.26157562075625274  0.7384241283366871  1.0000
+  S   S2        1.0  0.7384239671286839  0.7384245129061195  0.26157532463153593  1.0000
+  S   S3        1.0  0.7384238279528479  0.2615758694799951  0.26157554061219473  1.0000
+  S   S4        1.0  0.26157569096528577  0.7384243046444435  0.7384242459704348  1.0000
+  S   S5        1.0  0.2615758077006833  0.7384243489104722  0.2615754430134877  1.0000
+  S   S6        1.0  0.7384239660885489  0.26157562077402696  0.7384244383305655  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2NbSe6
+_chemical_formula_sum              "Cu2 Nb1 Se6"
+_cell_length_a       6.53144278682572
+_cell_length_b       6.531442790441164
+_cell_length_c       6.531442644859182
+_cell_angle_alpha    60.00000109023094
+_cell_angle_beta     60.00000059463715
+_cell_angle_gamma    60.00000130812706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.25000000991758053  0.250000006791153  0.250000042230245  1.0000
+  Cu  Cu2       1.0  0.7500001204187339  0.7499998703612929  0.7500000782799999  1.0000
+  Nb  Nb1       1.0  0.9999999720719587  0.99999991936846  0.9999999869133565  1.0000
+  Se  Se1       1.0  0.26957043266659514  0.26957053453090035  0.730429499281246  1.0000
+  Se  Se2       1.0  0.7304295832334021  0.730429595767075  0.2695704156104703  1.0000
+  Se  Se3       1.0  0.7304295676764752  0.2695704525395853  0.2695703564277029  1.0000
+  Se  Se4       1.0  0.26957025459291795  0.7304296646323241  0.7304296649044595  1.0000
+  Se  Se5       1.0  0.2695703909875787  0.7304295913162324  0.26957036326667744  1.0000
+  Se  Se6       1.0  0.7304296737920128  0.2695703552168392  0.730429594570808  1.0000

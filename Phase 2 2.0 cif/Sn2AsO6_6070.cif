@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2AsO6
+_chemical_formula_sum              "Sn2 As1 O6"
+_cell_length_a       5.291962268747505
+_cell_length_b       5.29196226104778
+_cell_length_c       5.291962234390963
+_cell_angle_alpha    59.9999998951167
+_cell_angle_beta     60.0000000173894
+_cell_angle_gamma    60.000000494083416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2500000204157016  0.24999994629889236  0.25000003707300367  1.0000
+  Sn  Sn2       1.0  0.7499999342038061  0.7500000171015659  0.7500000119415446  1.0000
+  As  As1       1.0  0.9999999785771858  0.9999999791708569  3.246392809964564e-08  1.0000
+  O   O1        1.0  0.2461034611549854  0.2461034026236518  0.7538965664088492  1.0000
+  O   O2        1.0  0.7538965848206465  0.753896614006839  0.2461033592918481  1.0000
+  O   O3        1.0  0.7538965923342699  0.24610340648367227  0.24610346968182625  1.0000
+  O   O4        1.0  0.24610339062839034  0.753896596260723  0.753896511475329  1.0000
+  O   O5        1.0  0.2461034196321364  0.7538965581010253  0.24610344970515377  1.0000
+  O   O6        1.0  0.7538966120830303  0.24610348167295748  0.7538965358024101  1.0000

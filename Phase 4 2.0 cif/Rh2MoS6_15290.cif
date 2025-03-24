@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2MoS6
+_chemical_formula_sum              "Rh2 Mo1 S6"
+_cell_length_a       6.1466308191549155
+_cell_length_b       6.1466311347728695
+_cell_length_c       6.146631014332817
+_cell_angle_alpha    60.0000012742647
+_cell_angle_beta     60.00000060486973
+_cell_angle_gamma    60.00000007331405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.2500001624869944  0.24999984181094123  0.24999993103843823  1.0000
+  Rh  Rh2       1.0  0.7499997080797721  0.7500002686526931  0.7500003252987443  1.0000
+  Mo  Mo1       1.0  0.9999999292581723  3.188074568462755e-08  1.1296002865673264e-08  1.0000
+  S   S1        1.0  0.26406003522516197  0.26405985205452426  0.7359399918778814  1.0000
+  S   S2        1.0  0.7359400036400029  0.7359400691171865  0.2640597820030974  1.0000
+  S   S3        1.0  0.7359400952530755  0.2640599413920111  0.2640599249727355  1.0000
+  S   S4        1.0  0.2640599720937231  0.7359400295933626  0.7359401091115725  1.0000
+  S   S5        1.0  0.26406004706878144  0.7359401248379914  0.2640598129988854  1.0000
+  S   S6        1.0  0.7359400395001964  0.26405985611011445  0.7359400974901658  1.0000

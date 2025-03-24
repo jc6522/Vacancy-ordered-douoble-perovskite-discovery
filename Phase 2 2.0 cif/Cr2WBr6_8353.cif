@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2WBr6
+_chemical_formula_sum              "Cr2 W1 Br6"
+_cell_length_a       7.211615889700164
+_cell_length_b       7.2116158973186435
+_cell_length_c       7.211615818041546
+_cell_angle_alpha    60.00000093495515
+_cell_angle_beta     60.00000019340766
+_cell_angle_gamma    60.00000016439624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.25000004467013637  0.24999999497794062  0.2499999742022918  1.0000
+  Cr  Cr2       1.0  0.7500000343661767  0.7499999764423492  0.749999989154594  1.0000
+  W   W1        1.0  0.9999999721335907  0.9999999779221698  2.0812164320258764e-08  1.0000
+  Br  Br1       1.0  0.24775915010983002  0.2477591581476976  0.7522408358660118  1.0000
+  Br  Br2       1.0  0.7522408252862344  0.7522408744111995  0.24775913764848081  1.0000
+  Br  Br3       1.0  0.7522408320620886  0.2477591424794654  0.2477591818570535  1.0000
+  Br  Br4       1.0  0.24775917293200847  0.7522408493203606  0.7522408402241636  1.0000
+  Br  Br5       1.0  0.24775914171973715  0.7522408729678854  0.24775914506489752  1.0000
+  Br  Br6       1.0  0.7522408376390145  0.24775914770294943  0.7522408726251842  1.0000

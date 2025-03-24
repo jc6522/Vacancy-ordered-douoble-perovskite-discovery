@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2MoF6
+_chemical_formula_sum              "Co2 Mo1 F6"
+_cell_length_a       5.5715831872886135
+_cell_length_b       5.571582209298485
+_cell_length_c       5.571583492369466
+_cell_angle_alpha    59.99999801100669
+_cell_angle_beta     59.999997522684566
+_cell_angle_gamma    59.99999803767407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.24999983232687012  0.2499998663576051  0.2500005196836919  1.0000
+  Co  Co2       1.0  0.7500002179886324  0.7499999727667116  0.7500004965862471  1.0000
+  Mo  Mo1       1.0  1.168059079480174e-08  3.956758344024894e-08  0.9999998613021356  1.0000
+  F   F1        1.0  0.2550516935501151  0.2550517555369356  0.7449480781929431  1.0000
+  F   F2        1.0  0.7449482794944424  0.7449482594432439  0.2550514762597197  1.0000
+  F   F3        1.0  0.7449483235038682  0.25505174134091413  0.2550516284425434  1.0000
+  F   F4        1.0  0.25505161007724264  0.7449484231168416  0.7449480612541813  1.0000
+  F   F5        1.0  0.25505174676701564  0.7449483026954854  0.2550516163640294  1.0000
+  F   F6        1.0  0.7449483420240842  0.2550516199603368  0.7449481938059975  1.0000

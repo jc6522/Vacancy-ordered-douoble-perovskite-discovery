@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2CoF6
+_chemical_formula_sum              "Hg2 Co1 F6"
+_cell_length_a       5.357921765317383
+_cell_length_b       5.357922638924692
+_cell_length_c       5.357922379678608
+_cell_angle_alpha    60.00000209534997
+_cell_angle_beta     60.000000579466324
+_cell_angle_gamma    59.99999949737035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500002090997881  0.2500001974670919  0.2499998003435088  1.0000
+  Hg  Hg2       1.0  0.7500000278976793  0.7500001923762162  0.7500001359096579  1.0000
+  Co  Co1       1.0  0.999999831985903  7.086159730568834e-08  0.9999998395399949  1.0000
+  F   F1        1.0  0.24356268472362355  0.24356397155402437  0.7564366864796913  1.0000
+  F   F2        1.0  0.7564367579320834  0.7564359565460843  0.24356350080411995  1.0000
+  F   F3        1.0  0.7564369270156421  0.24356327248429976  0.24356280327383936  1.0000
+  F   F4        1.0  0.24356328576401004  0.7564364658895882  0.7564369986249853  1.0000
+  F   F5        1.0  0.24356341681342641  0.7564367549333495  0.24356291037099936  1.0000
+  F   F6        1.0  0.7564366767132801  0.24356313430714482  0.7564372004737364  1.0000

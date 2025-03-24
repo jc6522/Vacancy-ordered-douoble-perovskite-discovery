@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2CrS6
+_chemical_formula_sum              "In2 Cr1 S6"
+_cell_length_a       6.018773346070608
+_cell_length_b       6.018773916564311
+_cell_length_c       6.018773874170377
+_cell_angle_alpha    59.99999212133455
+_cell_angle_beta     59.99999289294578
+_cell_angle_gamma    59.99999204532438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2500001598052325  0.24999952086051877  0.2500003811172496  1.0000
+  In  In2       1.0  0.7499998537650163  0.750000117225797  0.7499997966154026  1.0000
+  Cr  Cr1       1.0  6.844755124556101e-08  0.9999998982562759  0.999999938559096  1.0000
+  S   S1        1.0  0.2613249520805054  0.2613248287941447  0.738675052977795  1.0000
+  S   S2        1.0  0.7386748791656458  0.7386753159759473  0.2613248479337026  1.0000
+  S   S3        1.0  0.7386751311761519  0.2613250815764474  0.2613245235402556  1.0000
+  S   S4        1.0  0.26132498626851225  0.738675447784898  0.7386752878735855  1.0000
+  S   S5        1.0  0.2613247645653703  0.738674993691196  0.26132479152159827  1.0000
+  S   S6        1.0  0.7386751663896453  0.26132485195232363  0.7386753553079498  1.0000

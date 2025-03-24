@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2IrS6
+_chemical_formula_sum              "Na2 Ir1 S6"
+_cell_length_a       6.300392427181004
+_cell_length_b       6.3003918937254575
+_cell_length_c       6.300392010483336
+_cell_angle_alpha    59.99999863493371
+_cell_angle_beta     59.9999987893049
+_cell_angle_gamma    59.99999918171235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2500000056813608  0.25000000329991645  0.2500000344514997  1.0000
+  Na  Na2       1.0  0.7499999769460721  0.7499999982362365  0.7499999927358186  1.0000
+  Ir  Ir1       1.0  0.9999998862014804  1.0497160229054861e-07  3.9331923159514915e-08  1.0000
+  S   S1        1.0  0.25863112251287745  0.2586311305102873  0.7413688383165266  1.0000
+  S   S2        1.0  0.7413689939239354  0.7413688379792515  0.25863102738520793  1.0000
+  S   S3        1.0  0.7413689750994007  0.2586310714002013  0.2586310623740922  1.0000
+  S   S4        1.0  0.2586310885213573  0.7413688795940699  0.7413690432324694  1.0000
+  S   S5        1.0  0.25863102473539445  0.7413689610986205  0.25863101982752695  1.0000
+  S   S6        1.0  0.7413689429156426  0.25863102488618306  0.7413689178682782  1.0000

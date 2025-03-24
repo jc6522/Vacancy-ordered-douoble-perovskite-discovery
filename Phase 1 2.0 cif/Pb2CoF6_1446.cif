@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2CoF6
+_chemical_formula_sum              "Pb2 Co1 F6"
+_cell_length_a       5.65299751215562
+_cell_length_b       5.652997510928662
+_cell_length_c       5.652997321108016
+_cell_angle_alpha    60.00000306147438
+_cell_angle_beta     60.00000162408447
+_cell_angle_gamma    60.00000123848107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999994407997497  0.24999998465453357  0.2500000348696872  1.0000
+  Pb  Pb2       1.0  0.7500000351403584  0.7500000254594381  0.7499999974834703  1.0000
+  Co  Co1       1.0  3.1621894700214834e-07  0.9999998418425405  5.718018114050598e-08  1.0000
+  F   F1        1.0  0.24131167824576896  0.2413117165616259  0.7586882697324074  1.0000
+  F   F2        1.0  0.7586882041671954  0.7586882285561282  0.24131175684286169  1.0000
+  F   F3        1.0  0.7586881873192075  0.24131177305143428  0.24131177859937764  1.0000
+  F   F4        1.0  0.24131177326960632  0.7586882500617812  0.7586882760286215  1.0000
+  F   F5        1.0  0.24131171004969867  0.7586882786079544  0.2413116621968862  1.0000
+  F   F6        1.0  0.7586881537280987  0.2413118939965556  0.7586881644280461  1.0000

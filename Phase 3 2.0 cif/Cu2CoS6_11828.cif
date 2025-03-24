@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2CoS6
+_chemical_formula_sum              "Cu2 Co1 S6"
+_cell_length_a       6.01117229937779
+_cell_length_b       6.011172227748843
+_cell_length_c       6.011172215480174
+_cell_angle_alpha    59.9999990640777
+_cell_angle_beta     60.00000102279661
+_cell_angle_gamma    60.00000037484773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.25000001647327097  0.24999993654158223  0.25000002802350224  1.0000
+  Cu  Cu2       1.0  0.7500000350942702  0.7500001580283003  0.749999734038904  1.0000
+  Co  Co1       1.0  1.3233413678288194e-08  0.9999999775880752  4.4514912758187936e-08  1.0000
+  S   S1        1.0  0.2539791277904831  0.25397912828962577  0.7460208269464528  1.0000
+  S   S2        1.0  0.7460208476992177  0.7460208256963646  0.2539792114672934  1.0000
+  S   S3        1.0  0.7460208158525665  0.25397909367300125  0.2539792201753516  1.0000
+  S   S4        1.0  0.25397913982528403  0.7460209255113139  0.7460208271529687  1.0000
+  S   S5        1.0  0.25397911542750107  0.7460208751031223  0.2539791954813104  1.0000
+  S   S6        1.0  0.7460208784757681  0.2539790870326576  0.7460209278013301  1.0000

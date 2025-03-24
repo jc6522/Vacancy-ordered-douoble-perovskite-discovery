@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2CoS6
+_chemical_formula_sum              "Ni2 Co1 S6"
+_cell_length_a       5.696106378335335
+_cell_length_b       5.69610604866446
+_cell_length_c       5.696106308770692
+_cell_angle_alpha    59.99999767714567
+_cell_angle_beta     59.99999931843196
+_cell_angle_gamma    59.99999999955703
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500004032673517  0.25000040582543837  0.24999985970247418  1.0000
+  Ni  Ni2       1.0  0.7500000804376638  0.7500001660558097  0.7499996969056792  1.0000
+  Co  Co1       1.0  0.9999999557710536  0.9999999806487021  0.9999999545443733  1.0000
+  S   S1        1.0  0.2630901787493993  0.26309019512634596  0.7369097199695654  1.0000
+  S   S2        1.0  0.7369097827738712  0.7369097661139544  0.2630903925164309  1.0000
+  S   S3        1.0  0.7369094435728091  0.2630901287687805  0.26309034254931923  1.0000
+  S   S4        1.0  0.263090314354686  0.7369097013127228  0.7369099004466765  1.0000
+  S   S5        1.0  0.26309015332504865  0.7369095188198557  0.26309027431471554  1.0000
+  S   S6        1.0  0.7369096983058042  0.2630901457005522  0.7369098852303548  1.0000

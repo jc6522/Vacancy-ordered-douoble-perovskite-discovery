@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2FeBr6
+_chemical_formula_sum              "Se2 Fe1 Br6"
+_cell_length_a       7.555260127446468
+_cell_length_b       7.555260422527561
+_cell_length_c       7.5552600176954545
+_cell_angle_alpha    60.000001207439695
+_cell_angle_beta     60.00000226128589
+_cell_angle_gamma    60.000001168159244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.24999998037121526  0.2499998742300367  0.25000013206277005  1.0000
+  Se  Se2       1.0  0.7500000151756343  0.7500001203522019  0.7500000362057225  1.0000
+  Fe  Fe1       1.0  4.66182286154446e-09  2.2694688041603187e-08  0.999999996910394  1.0000
+  Br  Br1       1.0  0.2103570381113821  0.21035695996460999  0.7896429039311106  1.0000
+  Br  Br2       1.0  0.7896429788163141  0.7896430621754672  0.21035701221207598  1.0000
+  Br  Br3       1.0  0.7896429378804781  0.2103570029058012  0.21035699825294157  1.0000
+  Br  Br4       1.0  0.2103570698930855  0.7896429916764403  0.7896429494820411  1.0000
+  Br  Br5       1.0  0.21035697253254884  0.7896430187378043  0.2103569799475685  1.0000
+  Br  Br6       1.0  0.7896430207760939  0.21035695963394563  0.789642981801539  1.0000

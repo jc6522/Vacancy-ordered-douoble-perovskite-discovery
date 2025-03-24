@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2CuF6
+_chemical_formula_sum              "Se2 Cu1 F6"
+_cell_length_a       5.11653006896002
+_cell_length_b       5.116529985858681
+_cell_length_c       5.116530034780944
+_cell_angle_alpha    59.999999447421075
+_cell_angle_beta     60.00000023321072
+_cell_angle_gamma    59.99999972136193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.2500000548453397  0.249999979690877  0.24999996913745015  1.0000
+  Se  Se2       1.0  0.7499999887086416  0.7500000467892268  0.7499999688300353  1.0000
+  Cu  Cu1       1.0  3.478685836128702e-08  0.9999999904251915  1.0751221967307068e-09  1.0000
+  F   F1        1.0  0.25748038895369046  0.2574803526099881  0.7425196161210722  1.0000
+  F   F2        1.0  0.742519601782489  0.7425196427519878  0.2574803755410757  1.0000
+  F   F3        1.0  0.7425196170228453  0.2574803521275723  0.25748039209665036  1.0000
+  F   F4        1.0  0.257480349299185  0.742519621691084  0.7425196753143708  1.0000
+  F   F5        1.0  0.25748033033372036  0.7425196445560364  0.25748037854374717  1.0000
+  F   F6        1.0  0.7425196246808018  0.2574803699555566  0.7425196311766687  1.0000

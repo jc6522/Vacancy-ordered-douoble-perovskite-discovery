@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2GaBr6
+_chemical_formula_sum              "Zn2 Ga1 Br6"
+_cell_length_a       7.296046842773978
+_cell_length_b       7.296046872864433
+_cell_length_c       7.296046864186168
+_cell_angle_alpha    59.99999936459152
+_cell_angle_beta     60.00000021494553
+_cell_angle_gamma    60.00000037513662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2500000003790279  0.25000001329465527  0.25000002234426416  1.0000
+  Zn  Zn2       1.0  0.7500000409279971  0.7499999727382974  0.7499999916208305  1.0000
+  Ga  Ga1       1.0  0.9999999837100699  0.9999999966427164  1.1194212045739384e-08  1.0000
+  Br  Br1       1.0  0.2460871350306933  0.2460871285459682  0.7539128395512027  1.0000
+  Br  Br2       1.0  0.7539128829838253  0.753912889381178  0.24608710980641824  1.0000
+  Br  Br3       1.0  0.7539128425061523  0.24608715432091824  0.24608712453731874  1.0000
+  Br  Br4       1.0  0.24608710026032443  0.7539129089295538  0.75391287130658  1.0000
+  Br  Br5       1.0  0.24608713993340392  0.7539128563389513  0.2460871306217502  1.0000
+  Br  Br6       1.0  0.7539128848286247  0.24608708437067445  0.7539129033126646  1.0000

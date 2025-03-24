@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cl2MnO6
+_chemical_formula_sum              "Cl2 Mn1 O6"
+_cell_length_a       5.506842966850888
+_cell_length_b       5.5068425239176815
+_cell_length_c       5.506842895466331
+_cell_angle_alpha    59.99999912495565
+_cell_angle_beta     60.00000212627184
+_cell_angle_gamma    59.999995111867435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2500000232302692  0.25000009407330415  0.2499997931771947  1.0000
+  Cl  Cl2       1.0  0.7500000203735202  0.7499996061111458  0.7500002561506753  1.0000
+  Mn  Mn1       1.0  1.494902629231117e-07  4.448076988770917e-09  0.9999997941003335  1.0000
+  O   O1        1.0  0.24608862902101433  0.24608877387426684  0.7539112905287281  1.0000
+  O   O2        1.0  0.7539113797138577  0.7539112888290334  0.24608860223786871  1.0000
+  O   O3        1.0  0.7539111170689894  0.24608889615730178  0.24608871520949238  1.0000
+  O   O4        1.0  0.24608848554974028  0.7539114979282769  0.7539114546258066  1.0000
+  O   O5        1.0  0.24608882500093857  0.753911239833633  0.2460886517797016  1.0000
+  O   O6        1.0  0.7539113740201346  0.24608866718671965  0.7539113471680003  1.0000

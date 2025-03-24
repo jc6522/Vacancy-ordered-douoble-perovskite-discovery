@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2TiO6
+_chemical_formula_sum              "Cu2 Ti1 O6"
+_cell_length_a       5.291003874756397
+_cell_length_b       5.291005285490988
+_cell_length_c       5.29100441405443
+_cell_angle_alpha    60.00000841222588
+_cell_angle_beta     60.000004146293705
+_cell_angle_gamma    60.000003617345875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500000210054031  0.24999968058611033  0.24999990497040805  1.0000
+  Cu  Cu2       1.0  0.7500001276740346  0.7500002292340929  0.7499992967444953  1.0000
+  Ti  Ti1       1.0  1.457129306234977e-07  0.9999999884261519  0.9999997666104392  1.0000
+  O   O1        1.0  0.2537483148692206  0.25374839115577386  0.746251834532536  1.0000
+  O   O2        1.0  0.7462516404139237  0.7462516274585245  0.2537486757836678  1.0000
+  O   O3        1.0  0.7462518540585333  0.25374795765555064  0.2537484096460644  1.0000
+  O   O4        1.0  0.25374838736678446  0.7462516280971908  0.7462517752397714  1.0000
+  O   O5        1.0  0.253747856093369  0.7462521671961084  0.2537484399976706  1.0000
+  O   O6        1.0  0.7462514995745936  0.253748471775937  0.7462518142471893  1.0000

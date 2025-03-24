@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2TaO6
+_chemical_formula_sum              "Rh2 Ta1 O6"
+_cell_length_a       5.258538763931374
+_cell_length_b       5.258538927252285
+_cell_length_c       5.258538773277268
+_cell_angle_alpha    60.00000154951784
+_cell_angle_beta     60.00000117735677
+_cell_angle_gamma    60.000001353221776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000022433300567  0.24999983648106744  0.2500000440270446  1.0000
+  Rh  Rh2       1.0  0.7500005112211404  0.7499991647424403  0.7500001438084912  1.0000
+  Ta  Ta1       1.0  0.9999999611177052  4.658118461142306e-09  1.7112087854203302e-08  1.0000
+  O   O1        1.0  0.2606413587369471  0.26064188652112547  0.7393584449837223  1.0000
+  O   O2        1.0  0.7393583139983382  0.7393584981635496  0.26064150075889086  1.0000
+  O   O3        1.0  0.7393583016155365  0.2606417572512478  0.26064152229682896  1.0000
+  O   O4        1.0  0.26064151786549417  0.7393586088009532  0.7393582376823359  1.0000
+  O   O5        1.0  0.2606415071998435  0.7393583330555771  0.2606416482486175  1.0000
+  O   O6        1.0  0.7393583341979832  0.2606418816077761  0.7393583932568351  1.0000

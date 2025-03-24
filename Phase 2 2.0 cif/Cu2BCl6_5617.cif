@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2BCl6
+_chemical_formula_sum              "Cu2 B1 Cl6"
+_cell_length_a       6.453599288575373
+_cell_length_b       6.453599070053705
+_cell_length_c       6.453598976206137
+_cell_angle_alpha    60.000001104839235
+_cell_angle_beta     60.00000090256549
+_cell_angle_gamma    60.000002507270636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500000043668005  0.2499997847654779  0.2500001288293643  1.0000
+  Cu  Cu2       1.0  0.7499999161619634  0.7500000906312994  0.7500000032594403  1.0000
+  B   B1        1.0  2.680596312546963e-07  1.7079940070000052e-08  0.9999998946187648  1.0000
+  Cl  Cl1       1.0  0.2258451814593096  0.22584536168298833  0.774154753681463  1.0000
+  Cl  Cl2       1.0  0.7741547007512033  0.774154709184127  0.22584533237128174  1.0000
+  Cl  Cl3       1.0  0.7741545853968158  0.22584538889977365  0.22584523778206625  1.0000
+  Cl  Cl4       1.0  0.22584539135478543  0.7741546345230861  0.77415471005756  1.0000
+  Cl  Cl5       1.0  0.2258453331909137  0.774154659562644  0.22584521388947165  1.0000
+  Cl  Cl6       1.0  0.7741546095838464  0.22584533159811945  0.774154698890612  1.0000

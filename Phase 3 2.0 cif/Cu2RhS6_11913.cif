@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2RhS6
+_chemical_formula_sum              "Cu2 Rh1 S6"
+_cell_length_a       6.1271339069411805
+_cell_length_b       6.127133816615887
+_cell_length_c       6.127134054267338
+_cell_angle_alpha    59.9999986194387
+_cell_angle_beta     59.99999880111684
+_cell_angle_gamma    60.000000147477266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500000637868678  0.249999940055842  0.249999984543218  1.0000
+  Cu  Cu2       1.0  0.7499999623151636  0.7500000380462185  0.7499998939296516  1.0000
+  Rh  Rh1       1.0  3.293260207976953e-08  0.9999999860077906  0.9999999513597776  1.0000
+  S   S1        1.0  0.26246139442464417  0.2624614384914822  0.7375385834838128  1.0000
+  S   S2        1.0  0.7375385587115663  0.7375385775894326  0.2624615426064429  1.0000
+  S   S3        1.0  0.7375385466126568  0.2624614153096683  0.26246148204229963  1.0000
+  S   S4        1.0  0.2624614427876342  0.7375385767846016  0.7375385709937772  1.0000
+  S   S5        1.0  0.2624614193912717  0.7375385905776061  0.26246144279676087  1.0000
+  S   S6        1.0  0.7375385524763091  0.26246143149997025  0.7375385844290051  1.0000

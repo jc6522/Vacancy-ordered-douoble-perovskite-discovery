@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2GeCl6
+_chemical_formula_sum              "Au2 Ge1 Cl6"
+_cell_length_a       7.47454285864117
+_cell_length_b       7.4745428056892065
+_cell_length_c       7.4745433171461695
+_cell_angle_alpha    60.00000054277915
+_cell_angle_beta     60.00000202216024
+_cell_angle_gamma    60.00000148822114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.25000008514999045  0.25000028617293546  0.24999984086486973  1.0000
+  Au  Au2       1.0  0.7500001003876698  0.749999970422057  0.7500000896618397  1.0000
+  Ge  Ge1       1.0  0.9999999941017516  0.9999999852530047  0.9999999340637817  1.0000
+  Cl  Cl1       1.0  0.21321356038189912  0.21321328506011655  0.786786591386699  1.0000
+  Cl  Cl2       1.0  0.7867864568214732  0.7867865635347041  0.21321342796394405  1.0000
+  Cl  Cl3       1.0  0.7867865624249939  0.2132134998216351  0.213213367698185  1.0000
+  Cl  Cl4       1.0  0.21321346925756  0.7867864536406983  0.7867865799382444  1.0000
+  Cl  Cl5       1.0  0.2132132839158898  0.7867865408491774  0.21321353321911463  1.0000
+  Cl  Cl6       1.0  0.7867864923050909  0.21321344210714252  0.7867866183765586  1.0000

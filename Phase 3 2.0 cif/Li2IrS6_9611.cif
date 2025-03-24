@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2IrS6
+_chemical_formula_sum              "Li2 Ir1 S6"
+_cell_length_a       6.208431033069078
+_cell_length_b       6.208430661565109
+_cell_length_c       6.208431169601923
+_cell_angle_alpha    60.00000007673687
+_cell_angle_beta     60.00000015850864
+_cell_angle_gamma    60.00000003352878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999998286115666  0.25000006259061863  0.24999995121987922  1.0000
+  Li  Li2       1.0  0.749999991045181  0.7499999766916233  0.7500000845437659  1.0000
+  Ir  Ir1       1.0  0.9999999292433865  3.2944299668387585e-07  2.4112077543795355e-07  1.0000
+  S   S1        1.0  0.260460532279228  0.2604605031866375  0.7395394831117591  1.0000
+  S   S2        1.0  0.7395394106504984  0.7395393723604644  0.26046056625068836  1.0000
+  S   S3        1.0  0.7395394849682401  0.2604604838805998  0.26046044040531746  1.0000
+  S   S4        1.0  0.2604606033714528  0.7395393739120866  0.7395393792259295  1.0000
+  S   S5        1.0  0.26046059010914546  0.7395394176067404  0.26046041978902085  1.0000
+  S   S6        1.0  0.7395394764372466  0.260460477667485  0.7395394548159097  1.0000

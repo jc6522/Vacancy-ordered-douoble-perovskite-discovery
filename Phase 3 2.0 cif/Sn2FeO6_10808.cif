@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2FeO6
+_chemical_formula_sum              "Sn2 Fe1 O6"
+_cell_length_a       5.318522765627359
+_cell_length_b       5.318522563550925
+_cell_length_c       5.318522685411075
+_cell_angle_alpha    60.000001135532834
+_cell_angle_beta     60.00000098523397
+_cell_angle_gamma    60.00000046496808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.24999967740624773  0.24999998754837877  0.24999999852991361  1.0000
+  Sn  Sn2       1.0  0.7499998274106112  0.7499998567167356  0.7499999311109926  1.0000
+  Fe  Fe1       1.0  2.5308110042085616e-08  0.9999999631553353  0.9999999738045137  1.0000
+  O   O1        1.0  0.23818525236940644  0.2381851478061748  0.7618148219808245  1.0000
+  O   O2        1.0  0.7618148840584976  0.7618147816622376  0.2381852287093625  1.0000
+  O   O3        1.0  0.7618150243010908  0.23818518626315532  0.23818515503241902  1.0000
+  O   O4        1.0  0.23818513804434616  0.7618149780899931  0.7618148592677055  1.0000
+  O   O5        1.0  0.23818528083795576  0.7618148872149114  0.238185127330276  1.0000
+  O   O6        1.0  0.7618148796449788  0.23818518502657637  0.7618149245558219  1.0000

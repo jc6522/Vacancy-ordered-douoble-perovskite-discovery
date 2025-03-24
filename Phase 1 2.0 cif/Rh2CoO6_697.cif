@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2CoO6
+_chemical_formula_sum              "Rh2 Co1 O6"
+_cell_length_a       5.027432094638524
+_cell_length_b       5.027432072728039
+_cell_length_c       5.027431864182608
+_cell_angle_alpha    60.00000069168661
+_cell_angle_beta     60.00000052432854
+_cell_angle_gamma    60.00000037228495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000022205413325  0.2499990817224276  0.25000032265571914  1.0000
+  Rh  Rh2       1.0  0.7499992407286266  0.7499987653087417  0.750001964884059  1.0000
+  Co  Co1       1.0  0.9999999819718612  1.0231721392820337e-07  0.9999999399536779  1.0000
+  O   O1        1.0  0.25207405066785177  0.25207422144044245  0.7479258241240435  1.0000
+  O   O2        1.0  0.747925679449953  0.747926268785424  0.25207352827002577  1.0000
+  O   O3        1.0  0.7479259261936714  0.25207472920008817  0.25207347806242364  1.0000
+  O   O4        1.0  0.2520742416335329  0.7479260533606743  0.7479257479999484  1.0000
+  O   O5        1.0  0.2520746778683899  0.7479262891950313  0.25207345467475195  1.0000
+  O   O6        1.0  0.747925982564672  0.2520744763128613  0.7479257484325322  1.0000

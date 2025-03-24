@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2SO6
+_chemical_formula_sum              "Tl2 S1 O6"
+_cell_length_a       5.172742205908918
+_cell_length_b       5.172742623003848
+_cell_length_c       5.172742964269389
+_cell_angle_alpha    59.99999697037386
+_cell_angle_beta     59.99999410960939
+_cell_angle_gamma    59.99999392308911
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.2500000182969971  0.24999994321593264  0.2500000539281131  1.0000
+  Tl  Tl2       1.0  0.7500000039043385  0.7500001232413166  0.7500000656126388  1.0000
+  S   S1        1.0  0.9999997827918359  3.5515355654e-08  2.89967067053156e-07  1.0000
+  O   O1        1.0  0.2217999623543593  0.22179978041637385  0.7782000743612091  1.0000
+  O   O2        1.0  0.7782000966042584  0.7782000753164966  0.22179979578449913  1.0000
+  O   O3        1.0  0.7782001582684435  0.22179986701592724  0.22179989251157656  1.0000
+  O   O4        1.0  0.22179988271576911  0.7782001899705626  0.7782001663100176  1.0000
+  O   O5        1.0  0.2218000096007869  0.778199994240516  0.22179990018009366  1.0000
+  O   O6        1.0  0.7782001344977485  0.22180000118603854  0.7781999310108038  1.0000

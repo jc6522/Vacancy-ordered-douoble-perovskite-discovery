@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2NiCl6
+_chemical_formula_sum              "Pb2 Ni1 Cl6"
+_cell_length_a       6.72805561403863
+_cell_length_b       6.728056397880647
+_cell_length_c       6.728055766469454
+_cell_angle_alpha    60.00000423201178
+_cell_angle_beta     60.000003678934604
+_cell_angle_gamma    60.00000378970489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.25000001978472935  0.24999991250304568  0.24999999928319783  1.0000
+  Pb  Pb2       1.0  0.749999952854518  0.7500000724543741  0.7499999817234991  1.0000
+  Ni  Ni1       1.0  0.9999999587743468  6.189205530883113e-08  0.9999998975153621  1.0000
+  Cl  Cl1       1.0  0.2446341117691652  0.24463393134348124  0.7553659134384008  1.0000
+  Cl  Cl2       1.0  0.755366088387369  0.7553659425723093  0.24463395582318853  1.0000
+  Cl  Cl3       1.0  0.7553659225384656  0.24463401107253804  0.24463402078427907  1.0000
+  Cl  Cl4       1.0  0.24463398822659219  0.7553661286150181  0.7553660386447765  1.0000
+  Cl  Cl5       1.0  0.24463392843070073  0.7553659358552121  0.24463410364495963  1.0000
+  Cl  Cl6       1.0  0.7553660241519902  0.2446339908508619  0.7553660904143645  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2CoTe6
+_chemical_formula_sum              "Cs2 Co1 Te6"
+_cell_length_a       8.33193077402331
+_cell_length_b       8.331929515498084
+_cell_length_c       8.331929149926486
+_cell_angle_alpha    60.000003765145934
+_cell_angle_beta     60.000007772504006
+_cell_angle_gamma    59.999996712943954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.24999991735354202  0.25000010243948695  0.24999999758191435  1.0000
+  Cs  Cs2       1.0  0.7500000417973032  0.7500000118602104  0.7499999031909554  1.0000
+  Co  Co1       1.0  1.1025506875672886e-07  0.9999999353225717  3.9621696063999955e-08  1.0000
+  Te  Te1       1.0  0.20146806539798834  0.20146803961638118  0.7985318150178783  1.0000
+  Te  Te2       1.0  0.7985319420927963  0.7985319379787574  0.20146814193932128  1.0000
+  Te  Te3       1.0  0.7985319328902295  0.20146803583044673  0.20146790630227565  1.0000
+  Te  Te4       1.0  0.20146804306172916  0.7985319241253963  0.7985321028486357  1.0000
+  Te  Te5       1.0  0.201467889097787  0.798531867354865  0.20146803970408023  1.0000
+  Te  Te6       1.0  0.7985320728825133  0.20146814698881568  0.7985320728595726  1.0000

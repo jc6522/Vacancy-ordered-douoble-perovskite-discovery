@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2CoTe6
+_chemical_formula_sum              "Hg2 Co1 Te6"
+_cell_length_a       7.103774485899425
+_cell_length_b       7.103775240234612
+_cell_length_c       7.103772465544682
+_cell_angle_alpha    60.00000476664064
+_cell_angle_beta     60.000007750422604
+_cell_angle_gamma    60.000006652573965
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000182933746  0.24999993124268852  0.2500000527578352  1.0000
+  Hg  Hg2       1.0  0.750000068404968  0.7500000506153844  0.7499999737978124  1.0000
+  Co  Co1       1.0  3.717604716804426e-07  0.9999998258683234  4.195588304265901e-08  1.0000
+  Te  Te1       1.0  0.2424399808133589  0.24244021850217773  0.7575597056213768  1.0000
+  Te  Te2       1.0  0.7575599374891099  0.7575599564524369  0.24243985530364298  1.0000
+  Te  Te3       1.0  0.7575598825045976  0.24244007542041085  0.24243991364816397  1.0000
+  Te  Te4       1.0  0.24243998250666637  0.7575598254060808  0.7575603712522299  1.0000
+  Te  Te5       1.0  0.24243984120000855  0.7575600508235238  0.2424396960756693  1.0000
+  Te  Te6       1.0  0.7575599071347665  0.24244005861616438  0.7575604288324369  1.0000

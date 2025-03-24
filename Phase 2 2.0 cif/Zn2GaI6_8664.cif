@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2GaI6
+_chemical_formula_sum              "Zn2 Ga1 I6"
+_cell_length_a       7.7989809642224035
+_cell_length_b       7.798980883033944
+_cell_length_c       7.79898083287854
+_cell_angle_alpha    60.000000816084906
+_cell_angle_beta     60.00000017217489
+_cell_angle_gamma    60.00000059349887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.24999998984278782  0.25000000339602985  0.25000000168539893  1.0000
+  Zn  Zn2       1.0  0.7500000022807197  0.7500000007657444  0.7499999985200664  1.0000
+  Ga  Ga1       1.0  0.9999999790024612  1.4133518112788369e-08  1.4971979837262865e-08  1.0000
+  I   I1        1.0  0.25180637806359646  0.25180636067475853  0.7481936140085498  1.0000
+  I   I2        1.0  0.7481936615282428  0.7481936387758432  0.25180636353611713  1.0000
+  I   I3        1.0  0.748193646469486  0.25180635104485116  0.2518063407662604  1.0000
+  I   I4        1.0  0.25180633677054926  0.748193653116923  0.7481936523409717  1.0000
+  I   I5        1.0  0.25180637012894347  0.7481936254439014  0.25180637237105963  1.0000
+  I   I6        1.0  0.7481936373392244  0.2518063504508367  0.748193636860031  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2SnSe6
+_chemical_formula_sum              "Ca2 Sn1 Se6"
+_cell_length_a       6.96937332923321
+_cell_length_b       6.9693733551599
+_cell_length_c       6.969373283114607
+_cell_angle_alpha    60.000000104083306
+_cell_angle_beta     60.00000038547327
+_cell_angle_gamma    59.99999978943211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.24999993255261446  0.2500000519794214  0.24999999733187253  1.0000
+  Ca  Ca2       1.0  0.7500000571959536  0.7499999837204877  0.749999964118793  1.0000
+  Sn  Sn1       1.0  3.188161463445452e-08  0.9999999789121091  0.9999999458182638  1.0000
+  Se  Se1       1.0  0.26612468149779295  0.2661247144361426  0.7338752942684827  1.0000
+  Se  Se2       1.0  0.733875336634985  0.7338752808453088  0.2661247133750857  1.0000
+  Se  Se3       1.0  0.7338752861088325  0.2661247166692489  0.26612471975923657  1.0000
+  Se  Se4       1.0  0.2661246631064902  0.7338753014574178  0.7338753252689442  1.0000
+  Se  Se5       1.0  0.2661247024537707  0.733875285439941  0.2661247358156277  1.0000
+  Se  Se6       1.0  0.7338753039979998  0.2661246852389712  0.7338753129273022  1.0000

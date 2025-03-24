@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2SiO6
+_chemical_formula_sum              "Rh2 Si1 O6"
+_cell_length_a       4.5723146253372215
+_cell_length_b       4.572315019354037
+_cell_length_c       4.5723149091605615
+_cell_angle_alpha    60.000007947875545
+_cell_angle_beta     60.00000636926154
+_cell_angle_gamma    60.00000782656322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000008384416406  0.24999967048345298  0.25000008564597764  1.0000
+  Rh  Rh2       1.0  0.7499998917802875  0.750000219503346  0.7499998983998625  1.0000
+  Si  Si1       1.0  0.9999999488525991  7.767968362103529e-08  3.047537868433931e-08  1.0000
+  O   O1        1.0  0.2672351927540678  0.2672355284495573  0.7327646557245873  1.0000
+  O   O2        1.0  0.7327647036107232  0.7327645008249493  0.2672353507970549  1.0000
+  O   O3        1.0  0.7327647365056481  0.2672354143741773  0.2672352832342627  1.0000
+  O   O4        1.0  0.2672353276353307  0.7327645131131558  0.732764563442472  1.0000
+  O   O5        1.0  0.2672354436658156  0.732764591980289  0.26723530356973496  1.0000
+  O   O6        1.0  0.7327645174406853  0.267235485509193  0.7327646333511154  1.0000

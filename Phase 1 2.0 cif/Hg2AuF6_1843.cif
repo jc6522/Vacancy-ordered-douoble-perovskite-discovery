@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2AuF6
+_chemical_formula_sum              "Hg2 Au1 F6"
+_cell_length_a       5.917282030834805
+_cell_length_b       5.917281849271178
+_cell_length_c       5.917282022306663
+_cell_angle_alpha    60.00000091393863
+_cell_angle_beta     59.999999028270594
+_cell_angle_gamma    60.00000038588869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000368109031  0.2500000718932338  0.24999997412084946  1.0000
+  Hg  Hg2       1.0  0.7499998425797942  0.7500001059815617  0.7499999489014284  1.0000
+  Au  Au1       1.0  1.5374485438340164e-08  1.2418654662621507e-08  0.999999903295141  1.0000
+  F   F1        1.0  0.24225676915911432  0.24225658217371632  0.7577433491812242  1.0000
+  F   F2        1.0  0.7577433156059319  0.757743365955937  0.24225676009284888  1.0000
+  F   F3        1.0  0.7577432400478498  0.24225669508828698  0.24225672381153507  1.0000
+  F   F4        1.0  0.24225678631377198  0.7577432116458414  0.7577433390340029  1.0000
+  F   F5        1.0  0.2422567465177908  0.7577433000856386  0.24225663881914217  1.0000
+  F   F6        1.0  0.757743251813946  0.2422566439044591  0.7577434042036685  1.0000

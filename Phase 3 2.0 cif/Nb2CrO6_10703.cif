@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2CrO6
+_chemical_formula_sum              "Nb2 Cr1 O6"
+_cell_length_a       4.922158740022996
+_cell_length_b       4.922158638301091
+_cell_length_c       4.922158967763563
+_cell_angle_alpha    59.99999994599274
+_cell_angle_beta     60.00000029658807
+_cell_angle_gamma    59.999999446427225
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2500000263838047  0.24999953778762768  0.25000039734760515  1.0000
+  Nb  Nb2       1.0  0.7500000022514067  0.7500003501454268  0.7499998948269464  1.0000
+  Cr  Cr1       1.0  6.06605551074383e-09  9.952908268912131e-09  0.999999973705859  1.0000
+  O   O1        1.0  0.259833570310259  0.259833460672945  0.7401665699944907  1.0000
+  O   O2        1.0  0.7401664207169344  0.740166554159691  0.2598334987509449  1.0000
+  O   O3        1.0  0.7401664122122181  0.25983355221555  0.2598334721059153  1.0000
+  O   O4        1.0  0.25983346042502925  0.7401666840692984  0.7401662952180446  1.0000
+  O   O5        1.0  0.259833502551353  0.7401664467062605  0.25983351137437705  1.0000
+  O   O6        1.0  0.740166584329432  0.2598334213209698  0.7401663817157114  1.0000

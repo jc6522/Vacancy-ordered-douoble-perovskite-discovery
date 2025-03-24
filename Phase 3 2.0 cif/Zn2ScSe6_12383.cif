@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2ScSe6
+_chemical_formula_sum              "Zn2 Sc1 Se6"
+_cell_length_a       6.989867963305703
+_cell_length_b       6.989867568997901
+_cell_length_c       6.989867750085506
+_cell_angle_alpha    59.999999278025115
+_cell_angle_beta     60.000001024664364
+_cell_angle_gamma    59.99999778549548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000024861046344  0.25000001633143015  0.24999986709219535  1.0000
+  Zn  Zn2       1.0  0.7500000312641754  0.7500001260898594  0.7499999457639694  1.0000
+  Sc  Sc1       1.0  5.0626804887881936e-08  1.7521710254924761e-09  0.9999998607897758  1.0000
+  Se  Se1       1.0  0.2705345431737076  0.2705345541358625  0.7294654530715788  1.0000
+  Se  Se2       1.0  0.7294653791955503  0.7294654218291086  0.2705346189041507  1.0000
+  Se  Se3       1.0  0.7294653065865558  0.27053448854697737  0.2705346211249115  1.0000
+  Se  Se4       1.0  0.2705345529250826  0.7294654628875892  0.7294654473336365  1.0000
+  Se  Se5       1.0  0.27053458281345444  0.7294654622121463  0.2705346096138507  1.0000
+  Se  Se6       1.0  0.7294653010939932  0.2705344804615611  0.7294655654786008  1.0000

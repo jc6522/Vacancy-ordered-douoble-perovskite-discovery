@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2CaO6
+_chemical_formula_sum              "Sr2 Ca1 O6"
+_cell_length_a       5.576333191666531
+_cell_length_b       5.576332849259235
+_cell_length_c       5.576333130304828
+_cell_angle_alpha    59.99999622066447
+_cell_angle_beta     59.99999922724754
+_cell_angle_gamma    60.0000036900501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2500001800493487  0.25000008853978295  0.24999990706200412  1.0000
+  Sr  Sr2       1.0  0.7499999221773986  0.7500001316433718  0.750000000321502  1.0000
+  Ca  Ca1       1.0  0.9999995956579489  0.9999992686231671  2.594130354727846e-07  1.0000
+  O   O1        1.0  0.28203307425498503  0.2820331136789344  0.7179668703607989  1.0000
+  O   O2        1.0  0.7179675839212873  0.7179674886651196  0.28203245499001567  1.0000
+  O   O3        1.0  0.7179669606949446  0.2820329535217621  0.2820330596784377  1.0000
+  O   O4        1.0  0.28203269162292055  0.7179671875935907  0.7179673435282318  1.0000
+  O   O5        1.0  0.28203284063875406  0.7179670226490505  0.282032956398957  1.0000
+  O   O6        1.0  0.7179671531860037  0.28203276485772716  0.7179671659316528  1.0000

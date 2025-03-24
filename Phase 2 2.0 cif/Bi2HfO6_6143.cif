@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2HfO6
+_chemical_formula_sum              "Bi2 Hf1 O6"
+_cell_length_a       5.514995931132059
+_cell_length_b       5.514996113945006
+_cell_length_c       5.514996170178073
+_cell_angle_alpha    59.99999932443159
+_cell_angle_beta     59.99999938011172
+_cell_angle_gamma    59.999999911370224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000008843692434  0.2500001394937157  0.25000000024462177  1.0000
+  Bi  Bi2       1.0  0.7500000037051023  0.7500000098624434  0.750000192600259  1.0000
+  Hf  Hf1       1.0  2.425770468415988e-08  8.883014937981537e-09  3.238706325255725e-08  1.0000
+  O   O1        1.0  0.2591620424139184  0.2591620624843862  0.7408379013060281  1.0000
+  O   O2        1.0  0.740837939332919  0.7408379469642848  0.25916197063367075  1.0000
+  O   O3        1.0  0.7408378688771992  0.259162105273864  0.2591620018517708  1.0000
+  O   O4        1.0  0.2591620021332781  0.7408379286030992  0.7408379603861465  1.0000
+  O   O5        1.0  0.25916209710851995  0.740837883075114  0.2591619837616806  1.0000
+  O   O6        1.0  0.7408379255227262  0.2591619220642044  0.7408379662640152  1.0000

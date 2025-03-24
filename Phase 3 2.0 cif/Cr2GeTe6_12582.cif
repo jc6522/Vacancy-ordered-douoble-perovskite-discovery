@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2GeTe6
+_chemical_formula_sum              "Cr2 Ge1 Te6"
+_cell_length_a       7.185529630316889
+_cell_length_b       7.185529553438903
+_cell_length_c       7.185529583562468
+_cell_angle_alpha    60.00000062419327
+_cell_angle_beta     60.00000121980191
+_cell_angle_gamma    60.00000074243544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.25000001214804807  0.24999990530255772  0.24999999565714096  1.0000
+  Cr  Cr2       1.0  0.750000062425805  0.7500000670264602  0.7499997858960283  1.0000
+  Ge  Ge1       1.0  0.9999999840276755  0.9999999948866194  0.9999999799257632  1.0000
+  Te  Te1       1.0  0.266565922019643  0.26656585409792144  0.7334340774305339  1.0000
+  Te  Te2       1.0  0.733434102623615  0.7334341523203  0.26656592636295523  1.0000
+  Te  Te3       1.0  0.733434166224994  0.2665658329454649  0.26656597262287474  1.0000
+  Te  Te4       1.0  0.2665658061510243  0.7334341615415355  0.7334341300707661  1.0000
+  Te  Te5       1.0  0.26656582203211604  0.7334341575717737  0.2665659537196776  1.0000
+  Te  Te6       1.0  0.7334341168563037  0.26656587952673005  0.7334341736374141  1.0000

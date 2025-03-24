@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Te2TaO6
+_chemical_formula_sum              "Te2 Ta1 O6"
+_cell_length_a       5.349724071310804
+_cell_length_b       5.349724083076383
+_cell_length_c       5.349724167745907
+_cell_angle_alpha    60.0000006023774
+_cell_angle_beta     60.00000069478835
+_cell_angle_gamma    60.000000341131326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.24999987988184977  0.2499997009656938  0.2500003274434894  1.0000
+  Te  Te2       1.0  0.75000009728084  0.7500001193732753  0.7499997873072018  1.0000
+  Ta  Ta1       1.0  1.21874599997904e-08  2.2893606733499346e-09  0.9999999778075478  1.0000
+  O   O1        1.0  0.2560392689517256  0.2560393134321064  0.7439606596979949  1.0000
+  O   O2        1.0  0.7439606567751162  0.743960751868469  0.2560393601590742  1.0000
+  O   O3        1.0  0.7439607407244889  0.25603923533877515  0.25603930365279876  1.0000
+  O   O4        1.0  0.2560392887379267  0.7439608230937174  0.7439606247776549  1.0000
+  O   O5        1.0  0.2560392395014454  0.7439607963528081  0.25603931987965256  1.0000
+  O   O6        1.0  0.7439608208111812  0.2560392666584062  0.7439606319599507  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2GaTe6
+_chemical_formula_sum              "Ni2 Ga1 Te6"
+_cell_length_a       7.163675496086395
+_cell_length_b       7.163675684048464
+_cell_length_c       7.1636755978976
+_cell_angle_alpha    60.00000053951503
+_cell_angle_beta     60.00000010140605
+_cell_angle_gamma    60.0000011010034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999996179891557  0.2500000245006725  0.24999996646657202  1.0000
+  Ni  Ni2       1.0  0.7499998808237544  0.7499999469871896  0.750000002633775  1.0000
+  Ga  Ga1       1.0  0.999999973525436  3.5902856411831715e-08  0.9999999841184022  1.0000
+  Te  Te1       1.0  0.27027798792304214  0.27027796109311386  0.7297220258463443  1.0000
+  Te  Te2       1.0  0.7297220147481358  0.7297220138140686  0.2702780192603423  1.0000
+  Te  Te3       1.0  0.7297220681086659  0.27027795636270396  0.2702779560006925  1.0000
+  Te  Te4       1.0  0.2702780633343582  0.7297219997382208  0.729722042498789  1.0000
+  Te  Te5       1.0  0.2702780251253684  0.7297220290566978  0.2702779410487511  1.0000
+  Te  Te6       1.0  0.7297220231980888  0.2702780313334765  0.7297220678048605  1.0000

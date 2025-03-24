@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2BiO6
+_chemical_formula_sum              "Li2 Bi1 O6"
+_cell_length_a       5.555113631903981
+_cell_length_b       5.555112760605897
+_cell_length_c       5.5551133065310845
+_cell_angle_alpha    59.999999900357274
+_cell_angle_beta     60.00000585344411
+_cell_angle_gamma    60.00000063460523
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000010377015247  0.25000002097596935  0.24999998279417476  1.0000
+  Li  Li2       1.0  0.7499998894321575  0.7500001312741064  0.7499999685360972  1.0000
+  Bi  Bi1       1.0  0.9999999634673646  0.9999999537009547  1.782267289806082e-07  1.0000
+  O   O1        1.0  0.26074975562622243  0.2607498216669263  0.7392500386896204  1.0000
+  O   O2        1.0  0.7392502901109982  0.7392501916860019  0.26074960839411127  1.0000
+  O   O3        1.0  0.7392502397256601  0.260749897499333  0.26074983383526995  1.0000
+  O   O4        1.0  0.2607500348298135  0.7392500342790972  0.7392501104561089  1.0000
+  O   O5        1.0  0.26074973948945507  0.7392500904074452  0.26074996853280974  1.0000
+  O   O6        1.0  0.7392500445102413  0.26074984137097257  0.7392502300371661  1.0000

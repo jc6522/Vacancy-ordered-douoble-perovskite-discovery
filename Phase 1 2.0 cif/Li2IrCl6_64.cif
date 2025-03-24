@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2IrCl6
+_chemical_formula_sum              "Li2 Ir1 Cl6"
+_cell_length_a       6.792135999237954
+_cell_length_b       6.792136158058979
+_cell_length_c       6.792136092215924
+_cell_angle_alpha    59.99999971994119
+_cell_angle_beta     59.9999997987174
+_cell_angle_gamma    60.000000498899105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000000376200865  0.25000004578450413  0.24999997514002162  1.0000
+  Li  Li2       1.0  0.7499999933780715  0.7499999768704321  0.7499999940035107  1.0000
+  Ir  Ir1       1.0  0.9999999902121719  0.9999999783618315  5.399256115344169e-08  1.0000
+  Cl  Cl1       1.0  0.24270473105150628  0.24270472627000472  0.757295296873741  1.0000
+  Cl  Cl2       1.0  0.7572952698334475  0.7572952188481616  0.2427047857248655  1.0000
+  Cl  Cl3       1.0  0.7572952605137625  0.24270474616216933  0.24270475607866937  1.0000
+  Cl  Cl4       1.0  0.24270475505293337  0.7572952314132498  0.7572951984177871  1.0000
+  Cl  Cl5       1.0  0.24270475710505407  0.7572952570449525  0.24270474902709271  1.0000
+  Cl  Cl6       1.0  0.7572952248022693  0.2427048215085847  0.7572951997835172  1.0000

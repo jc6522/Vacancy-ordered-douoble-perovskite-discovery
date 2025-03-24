@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2MoS6
+_chemical_formula_sum              "Ge2 Mo1 S6"
+_cell_length_a       6.3996087904813
+_cell_length_b       6.399608717985065
+_cell_length_c       6.399608867543139
+_cell_angle_alpha    60.0000008383761
+_cell_angle_beta     60.00000150456968
+_cell_angle_gamma    60.000000764321165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.24999999029301365  0.24999983431529527  0.2500000843708494  1.0000
+  Ge  Ge2       1.0  0.749999961125576  0.7499996675310433  0.7500005647829826  1.0000
+  Mo  Mo1       1.0  0.9999999843458441  0.9999999062247382  6.096508940229487e-08  1.0000
+  S   S1        1.0  0.25549464416151535  0.25549490179724904  0.7445051935629049  1.0000
+  S   S2        1.0  0.7445052329570772  0.7445053425960536  0.25549455424528605  1.0000
+  S   S3        1.0  0.7445052516426343  0.25549494084005847  0.2554945376500249  1.0000
+  S   S4        1.0  0.2554947535833784  0.7445053035532452  0.7445051929823223  1.0000
+  S   S5        1.0  0.25549485403436306  0.744505342153366  0.2554946253509034  1.0000
+  S   S6        1.0  0.7445053218400532  0.2554947529650329  0.7445052024137844  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2RhF6
+_chemical_formula_sum              "Ca2 Rh1 F6"
+_cell_length_a       5.607952664767589
+_cell_length_b       5.607952515358632
+_cell_length_c       5.607952860851602
+_cell_angle_alpha    59.99999886859667
+_cell_angle_beta     59.99999758138432
+_cell_angle_gamma    59.99999908971679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.24999998115886812  0.24999999128012212  0.2500000059003482  1.0000
+  Ca  Ca2       1.0  0.7500000540617507  0.7499999694724808  0.7499999610260495  1.0000
+  Rh  Rh1       1.0  7.065513865775439e-10  3.4943088499038605e-08  0.9999999750424527  1.0000
+  F   F1        1.0  0.25319903942728306  0.25319907352570503  0.74680091772701  1.0000
+  F   F2        1.0  0.7468009396996149  0.7468009134342148  0.2531991158548654  1.0000
+  F   F3        1.0  0.7468009801531529  0.2531990682377472  0.2531990244756456  1.0000
+  F   F4        1.0  0.2531990257198517  0.7468009558492041  0.7468009468555685  1.0000
+  F   F5        1.0  0.2531990485322586  0.746800930951079  0.2531991205143702  1.0000
+  F   F6        1.0  0.746800939412453  0.25319909750375935  0.7468009307075046  1.0000

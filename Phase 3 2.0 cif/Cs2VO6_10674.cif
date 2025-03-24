@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2VO6
+_chemical_formula_sum              "Cs2 V1 O6"
+_cell_length_a       6.670902210453628
+_cell_length_b       6.670902772313509
+_cell_length_c       6.670902955828206
+_cell_angle_alpha    60.000000546068705
+_cell_angle_beta     60.00000403972636
+_cell_angle_gamma    60.000004170123745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25000003163715706  0.24999999853546628  0.25000006855155066  1.0000
+  Cs  Cs2       1.0  0.750000064609254  0.7500001020915417  0.7499998497651312  1.0000
+  V   V1        1.0  9.742531438022395e-08  0.9999998531239468  8.168917620418058e-08  1.0000
+  O   O1        1.0  0.19457932423837607  0.1945795725172944  0.8054204878141781  1.0000
+  O   O2        1.0  0.8054205033086351  0.8054205189299564  0.1945794390249391  1.0000
+  O   O3        1.0  0.8054205338309333  0.19457940181406358  0.19457937309804982  1.0000
+  O   O4        1.0  0.1945793237722399  0.8054206565860759  0.8054205267546418  1.0000
+  O   O5        1.0  0.194579473728256  0.8054205156473206  0.19457948963289967  1.0000
+  O   O6        1.0  0.8054205807174601  0.1945793261106402  0.8054206089995966  1.0000

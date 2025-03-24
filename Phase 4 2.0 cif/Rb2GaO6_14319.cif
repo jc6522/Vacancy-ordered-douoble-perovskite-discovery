@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rb2GaO6
+_chemical_formula_sum              "Rb2 Ga1 O6"
+_cell_length_a       6.401946532343041
+_cell_length_b       6.401946190697031
+_cell_length_c       6.4019462438918335
+_cell_angle_alpha    60.00000109670729
+_cell_angle_beta     60.00000326170914
+_cell_angle_gamma    60.00000213833604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.2500000123686675  0.24999995141500253  0.2500000096839336  1.0000
+  Rb  Rb2       1.0  0.7499999472286942  0.7500000589447892  0.7499999528962652  1.0000
+  Ga  Ga1       1.0  3.137196673700942e-08  5.739246345483037e-08  0.9999999603038608  1.0000
+  O   O1        1.0  0.21218934367425926  0.21218923238574283  0.7878107039057634  1.0000
+  O   O2        1.0  0.7878106958660025  0.7878108736281557  0.2121892427290834  1.0000
+  O   O3        1.0  0.787810718934532  0.21218917164069076  0.2121892652894825  1.0000
+  O   O4        1.0  0.21218931968056762  0.7878106990641097  0.7878107057409927  1.0000
+  O   O5        1.0  0.21218924305711567  0.7878107628377005  0.21218921526316592  1.0000
+  O   O6        1.0  0.7878106967186382  0.21218921499969556  0.7878108047295336  1.0000

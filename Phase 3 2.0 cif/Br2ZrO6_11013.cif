@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br2ZrO6
+_chemical_formula_sum              "Br2 Zr1 O6"
+_cell_length_a       6.001075053493111
+_cell_length_b       6.001074776374992
+_cell_length_c       6.001074363984759
+_cell_angle_alpha    60.000001341549066
+_cell_angle_beta     60.00000284100494
+_cell_angle_gamma    60.00000170627158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.25000005263088276  0.2500000405946569  0.2500002077686655  1.0000
+  Br  Br2       1.0  0.7499995868416879  0.7500003687299435  0.7500002821152706  1.0000
+  Zr  Zr1       1.0  0.9999998567919729  2.4490509738059984e-07  2.924233310097844e-07  1.0000
+  O   O1        1.0  0.24717567694203615  0.24717529551666262  0.7528243162746528  1.0000
+  O   O2        1.0  0.7528245564648401  0.7528244403189229  0.24717528355313487  1.0000
+  O   O3        1.0  0.7528244708348685  0.2471755558972598  0.24717542470150136  1.0000
+  O   O4        1.0  0.24717556192937923  0.7528245105602084  0.7528244034174767  1.0000
+  O   O5        1.0  0.24717567492432319  0.7528242324259703  0.24717537285313756  1.0000
+  O   O6        1.0  0.7528245684569297  0.2471752829950234  0.7528243738539664  1.0000

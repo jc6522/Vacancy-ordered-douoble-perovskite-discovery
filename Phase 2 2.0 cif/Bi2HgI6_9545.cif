@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2HgI6
+_chemical_formula_sum              "Bi2 Hg1 I6"
+_cell_length_a       7.955039012545256
+_cell_length_b       7.955039082942025
+_cell_length_c       7.955038952757267
+_cell_angle_alpha    60.00000018035218
+_cell_angle_beta     60.00000024315234
+_cell_angle_gamma    59.999998673608864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500000080691928  0.24999994909950746  0.25000006014749837  1.0000
+  Bi  Bi2       1.0  0.7499999562897899  0.7500000597610789  0.7500000189185049  1.0000
+  Hg  Hg1       1.0  7.622381664866039e-10  1.0777086181435038e-08  0.9999999753743648  1.0000
+  I   I1        1.0  0.2640494089346807  0.2640493226932872  0.7359506456787561  1.0000
+  I   I2        1.0  0.7359506028419268  0.7359506353610356  0.2640493697141936  1.0000
+  I   I3        1.0  0.7359506570078855  0.26404930891783246  0.2640493510659443  1.0000
+  I   I4        1.0  0.2640493357075788  0.7359506845469165  0.7359506385534558  1.0000
+  I   I5        1.0  0.26404935336177715  0.7359506926267053  0.2640492871394216  1.0000
+  I   I6        1.0  0.7359506754508158  0.26404933624846877  0.7359506579267473  1.0000

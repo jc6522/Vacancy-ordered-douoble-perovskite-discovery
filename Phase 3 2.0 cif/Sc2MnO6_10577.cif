@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sc2MnO6
+_chemical_formula_sum              "Sc2 Mn1 O6"
+_cell_length_a       5.072378905000458
+_cell_length_b       5.072379041925373
+_cell_length_c       5.072379139006097
+_cell_angle_alpha    60.00000141765626
+_cell_angle_beta     59.999999985367026
+_cell_angle_gamma    60.00000129360651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.2500000869291706  0.24999972016434144  0.2500002393124157  1.0000
+  Sc  Sc2       1.0  0.7500000201068093  0.7500004015651954  0.7499997603624696  1.0000
+  Mn  Mn1       1.0  0.9999998817154242  7.485065537923534e-08  0.9999999546872703  1.0000
+  O   O1        1.0  0.2502339644515326  0.25023411289922876  0.7497659051704597  1.0000
+  O   O2        1.0  0.7497660207176633  0.7497657939364841  0.2502341031963464  1.0000
+  O   O3        1.0  0.7497659318248846  0.2502340151491743  0.25023416493734635  1.0000
+  O   O4        1.0  0.25023401054939637  0.749766026900629  0.7497658445349488  1.0000
+  O   O5        1.0  0.25023408301220906  0.7497657525413933  0.2502342502841092  1.0000
+  O   O6        1.0  0.7497660089686182  0.25023400459300754  0.7497658623289174  1.0000

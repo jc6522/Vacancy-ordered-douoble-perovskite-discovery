@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2GeO6
+_chemical_formula_sum              "Mn2 Ge1 O6"
+_cell_length_a       5.193038188842413
+_cell_length_b       5.193038233181421
+_cell_length_c       5.193038250339552
+_cell_angle_alpha    60.00000021356656
+_cell_angle_beta     60.00000052906962
+_cell_angle_gamma    60.000000797550534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.25000000731384386  0.25000015815264554  0.24999990514141154  1.0000
+  Mn  Mn2       1.0  0.7499999546147011  0.7499999626773101  0.7500000377140963  1.0000
+  Ge  Ge1       1.0  2.733392258101401e-08  4.7168722754487426e-09  0.9999999936028777  1.0000
+  O   O1        1.0  0.253188472575343  0.2531884666570478  0.7468116174269677  1.0000
+  O   O2        1.0  0.7468115547150065  0.7468114914408197  0.253188522389116  1.0000
+  O   O3        1.0  0.7468114941366777  0.2531884432514273  0.25318839458076164  1.0000
+  O   O4        1.0  0.25318839266507004  0.7468115360723641  0.7468115891933016  1.0000
+  O   O5        1.0  0.253188467915972  0.7468115100404349  0.25318840095077494  1.0000
+  O   O6        1.0  0.746811622038555  0.2531884268315082  0.7468115005471692  1.0000

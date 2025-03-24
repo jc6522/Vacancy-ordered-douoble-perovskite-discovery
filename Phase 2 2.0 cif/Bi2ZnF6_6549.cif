@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2ZnF6
+_chemical_formula_sum              "Bi2 Zn1 F6"
+_cell_length_a       5.772646278764869
+_cell_length_b       5.772646281919214
+_cell_length_c       5.772646500808493
+_cell_angle_alpha    59.99999933829148
+_cell_angle_beta     60.000000195672975
+_cell_angle_gamma    60.00000069803535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000008566558485  0.25000005783074014  0.24999986797985785  1.0000
+  Bi  Bi2       1.0  0.7499999798673351  0.7500000207344927  0.7499998171508357  1.0000
+  Zn  Zn1       1.0  3.4355383546155878e-09  0.9999999596889338  3.5760840786339483e-08  1.0000
+  F   F1        1.0  0.24579803102978878  0.2457980985978586  0.7542019579294973  1.0000
+  F   F2        1.0  0.7542019505114924  0.7542019438995775  0.24579811117245334  1.0000
+  F   F3        1.0  0.7542019330224801  0.24579801275983143  0.24579814657738705  1.0000
+  F   F4        1.0  0.2457980769286056  0.7542019385072973  0.7542019279501992  1.0000
+  F   F5        1.0  0.24579804808809028  0.7542019124525415  0.24579814276372314  1.0000
+  F   F6        1.0  0.7542018988830919  0.24579808973382808  0.7542019776372716  1.0000

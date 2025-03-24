@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2SiSe6
+_chemical_formula_sum              "Co2 Si1 Se6"
+_cell_length_a       6.418264834950526
+_cell_length_b       6.418264801123005
+_cell_length_c       6.418264455979246
+_cell_angle_alpha    60.00000249390923
+_cell_angle_beta     60.00000200491885
+_cell_angle_gamma    60.00000261436737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2500013311256508  0.25000168162705433  0.24999724426850733  1.0000
+  Co  Co2       1.0  0.7499981609552147  0.7499978928800757  0.7499996677745211  1.0000
+  Si  Si1       1.0  5.006571009618583e-08  0.999999984734258  1.4463758961739535e-07  1.0000
+  Se  Se1       1.0  0.2884379311107753  0.28843802417033093  0.7115624858411582  1.0000
+  Se  Se2       1.0  0.7115620648883253  0.7115619815941113  0.2884390394268677  1.0000
+  Se  Se3       1.0  0.7115615597932119  0.2884384610365563  0.2884375144792964  1.0000
+  Se  Se4       1.0  0.28843944037948405  0.7115608692187259  0.7115632715347325  1.0000
+  Se  Se5       1.0  0.2884384216733253  0.7115615013081724  0.28843758266320957  1.0000
+  Se  Se6       1.0  0.7115610568247822  0.28843960358982024  0.7115630347993204  1.0000

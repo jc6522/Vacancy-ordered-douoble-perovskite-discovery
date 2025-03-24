@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2BeO6
+_chemical_formula_sum              "Cd2 Be1 O6"
+_cell_length_a       5.159174270066064
+_cell_length_b       5.159174054947198
+_cell_length_c       5.159174309953795
+_cell_angle_alpha    59.99999652834319
+_cell_angle_beta     60.0000007953472
+_cell_angle_gamma    59.99999583946842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.24999995785229612  0.24999992091041914  0.2500001667143752  1.0000
+  Cd  Cd2       1.0  0.7500000101033133  0.7499999573924301  0.7500000360419479  1.0000
+  Be  Be1       1.0  6.253242852681555e-08  7.121750983000858e-09  0.9999998740730618  1.0000
+  O   O1        1.0  0.2267829621908225  0.22678278782186745  0.7732170461245532  1.0000
+  O   O2        1.0  0.7732170077506858  0.7732172993856551  0.22678283603577368  1.0000
+  O   O3        1.0  0.7732172342231268  0.2267827711569516  0.2267828273094336  1.0000
+  O   O4        1.0  0.2267827973510466  0.773217057293648  0.7732172813404736  1.0000
+  O   O5        1.0  0.2267827199883793  0.7732173794500079  0.22678288852928377  1.0000
+  O   O6        1.0  0.7732173322874883  0.22678285019251146  0.7732169800993913  1.0000

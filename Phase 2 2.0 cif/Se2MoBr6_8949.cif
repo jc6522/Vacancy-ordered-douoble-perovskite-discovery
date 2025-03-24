@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2MoBr6
+_chemical_formula_sum              "Se2 Mo1 Br6"
+_cell_length_a       7.329091166760711
+_cell_length_b       7.329090692699817
+_cell_length_c       7.329090726689849
+_cell_angle_alpha    59.99999997968234
+_cell_angle_beta     60.00000029618233
+_cell_angle_gamma    59.999999461275635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.24999999082967633  0.2499999748016503  0.2500001011094865  1.0000
+  Se  Se2       1.0  0.74999994252168  0.749999981221446  0.7500000756890466  1.0000
+  Mo  Mo1       1.0  0.9999999962755709  3.007932219411885e-08  2.3662048362094626e-08  1.0000
+  Br  Br1       1.0  0.24031494375456416  0.24031492498912638  0.7596851273800649  1.0000
+  Br  Br2       1.0  0.7596851021728777  0.759685076152953  0.24031492690930878  1.0000
+  Br  Br3       1.0  0.7596850589955376  0.24031495257223265  0.24031487814801683  1.0000
+  Br  Br4       1.0  0.2403149544989394  0.7596850418855514  0.7596850060448103  1.0000
+  Br  Br5       1.0  0.2403148779789493  0.7596850143900148  0.24031492989491784  1.0000
+  Br  Br6       1.0  0.7596851393027308  0.24031500179172385  0.7596849238047957  1.0000

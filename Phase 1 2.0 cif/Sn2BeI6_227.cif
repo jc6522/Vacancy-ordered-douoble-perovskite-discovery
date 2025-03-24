@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2BeI6
+_chemical_formula_sum              "Sn2 Be1 I6"
+_cell_length_a       7.454850679985284
+_cell_length_b       7.454850568536021
+_cell_length_c       7.454850563553059
+_cell_angle_alpha    60.00000013905932
+_cell_angle_beta     60.000000495021816
+_cell_angle_gamma    59.99999940606771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.24999991129000482  0.2500001067558386  0.24999999360168532  1.0000
+  Sn  Sn2       1.0  0.7500000293766541  0.7499999588332108  0.7500001680308671  1.0000
+  Be  Be1       1.0  0.9999999908943656  0.9999999901427009  3.496822845827237e-08  1.0000
+  I   I1        1.0  0.24602110488204218  0.24602112980463434  0.7539788836986887  1.0000
+  I   I2        1.0  0.7539789469019177  0.7539788487116046  0.24602103250653737  1.0000
+  I   I3        1.0  0.7539788869860214  0.24602116271893382  0.24602104066591576  1.0000
+  I   I4        1.0  0.2460211131196613  0.7539788453692029  0.753978894640951  1.0000
+  I   I5        1.0  0.2460211304907314  0.7539788725832773  0.24602108463449654  1.0000
+  I   I6        1.0  0.753978890690559  0.24602108621836324  0.7539788594121805  1.0000

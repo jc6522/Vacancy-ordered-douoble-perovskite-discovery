@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2InI6
+_chemical_formula_sum              "Ca2 In1 I6"
+_cell_length_a       7.961078957994576
+_cell_length_b       7.961079130092073
+_cell_length_c       7.961079055334019
+_cell_angle_alpha    60.00000025948083
+_cell_angle_beta     60.00000033790455
+_cell_angle_gamma    60.000000100002985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.24999999244805543  0.2499999880798349  0.2499999837006234  1.0000
+  Ca  Ca2       1.0  0.7500000195222865  0.750000059621274  0.7499999890913717  1.0000
+  In  In1       1.0  1.8078863183198624e-08  1.538415633689701e-08  0.9999999845246015  1.0000
+  I   I1        1.0  0.2571526951291883  0.2571526498903696  0.7428473382124265  1.0000
+  I   I2        1.0  0.742847264758864  0.7428473147362948  0.2571527172312688  1.0000
+  I   I3        1.0  0.7428473300760733  0.25715265750046873  0.2571526824371087  1.0000
+  I   I4        1.0  0.25715267604984265  0.7428473163566895  0.7428473113574076  1.0000
+  I   I5        1.0  0.25715266819089766  0.742847333384971  0.25715267880527864  1.0000
+  I   I6        1.0  0.7428473331438045  0.25715266354842176  0.7428473146395053  1.0000

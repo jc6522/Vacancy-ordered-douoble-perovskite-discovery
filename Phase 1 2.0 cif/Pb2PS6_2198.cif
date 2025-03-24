@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2PS6
+_chemical_formula_sum              "Pb2 P1 S6"
+_cell_length_a       6.532851691679058
+_cell_length_b       6.532851972052775
+_cell_length_c       6.532851942731076
+_cell_angle_alpha    59.99999959174819
+_cell_angle_beta     59.9999993113605
+_cell_angle_gamma    60.00000067009166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2499999835431107  0.250000039978763  0.2499999758330999  1.0000
+  Pb  Pb2       1.0  0.7500000670749685  0.7499999455847605  0.7500000084968983  1.0000
+  P   P1        1.0  4.993017770794358e-10  3.5620205183820496e-08  0.9999999329570454  1.0000
+  S   S1        1.0  0.23703091401095266  0.23703092159912034  0.7629691109070151  1.0000
+  S   S2        1.0  0.7629690195397277  0.7629690545906643  0.237030967258052  1.0000
+  S   S3        1.0  0.7629690325072548  0.23703093112620502  0.2370309256092219  1.0000
+  S   S4        1.0  0.2370309064164406  0.7629691031807561  0.7629690917269737  1.0000
+  S   S5        1.0  0.23703095239953195  0.7629690514154427  0.23703088874415515  1.0000
+  S   S6        1.0  0.762969124838702  0.23703092852383814  0.7629690544733866  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2TaI6
+_chemical_formula_sum              "Ge2 Ta1 I6"
+_cell_length_a       7.697982701201309
+_cell_length_b       7.697982651026191
+_cell_length_c       7.697982627288404
+_cell_angle_alpha    60.00000053260185
+_cell_angle_beta     60.00000102656011
+_cell_angle_gamma    60.000000287217915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.2499999818488565  0.24999998593436024  0.25000003597459175  1.0000
+  Ge  Ge2       1.0  0.7500000362279021  0.7500000007599343  0.7500000839730567  1.0000
+  Ta  Ta1       1.0  1.1014748420920419e-08  2.5455913308857252e-08  3.848377208102172e-09  1.0000
+  I   I1        1.0  0.2511652738063101  0.25116526487562896  0.7488347188848697  1.0000
+  I   I2        1.0  0.748834714421124  0.7488347663665135  0.25116521704385375  1.0000
+  I   I3        1.0  0.748834758337627  0.2511652481786027  0.25116523277127417  1.0000
+  I   I4        1.0  0.25116523354236064  0.7488347226057457  0.7488347341581524  1.0000
+  I   I5        1.0  0.25116524914022603  0.7488347326466269  0.25116524019194036  1.0000
+  I   I6        1.0  0.7488347408757954  0.2511652572296565  0.7488347233196685  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2BiO6
+_chemical_formula_sum              "Ag2 Bi1 O6"
+_cell_length_a       5.645672056721734
+_cell_length_b       5.64567219477244
+_cell_length_c       5.645672052401216
+_cell_angle_alpha    59.99999844651503
+_cell_angle_beta     59.99999977410443
+_cell_angle_gamma    60.00000001008515
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999997973508617  0.2500000496537028  0.2499999774501873  1.0000
+  Ag  Ag2       1.0  0.7500000037895417  0.7499999797516697  0.7500000785403631  1.0000
+  Bi  Bi1       1.0  1.797150137289484e-09  1.3016109829064747e-08  1.9162394441632642e-08  1.0000
+  O   O1        1.0  0.2568741007514147  0.2568741049122754  0.7431259235027167  1.0000
+  O   O2        1.0  0.7431258851906991  0.7431259049689327  0.25687408613185564  1.0000
+  O   O3        1.0  0.7431259282294443  0.2568741135776142  0.25687405647902706  1.0000
+  O   O4        1.0  0.25687411177982217  0.7431258138682294  0.7431259000314566  1.0000
+  O   O5        1.0  0.25687410716450876  0.743125911172915  0.25687406390517764  1.0000
+  O   O6        1.0  0.7431258620431272  0.2568741182324602  0.743125889425232  1.0000

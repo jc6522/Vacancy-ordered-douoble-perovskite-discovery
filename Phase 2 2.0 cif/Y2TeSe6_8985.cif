@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y2TeSe6
+_chemical_formula_sum              "Y2 Te1 Se6"
+_cell_length_a       6.921977678423161
+_cell_length_b       6.9219777453531135
+_cell_length_c       6.921977697991059
+_cell_angle_alpha    60.00000077474427
+_cell_angle_beta     60.000000041969116
+_cell_angle_gamma    60.00000036010246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000003515130514  0.25000001582168513  0.24999991527443546  1.0000
+  Y   Y2        1.0  0.7500000247748171  0.7500000793134796  0.7499999450441763  1.0000
+  Te  Te1       1.0  1.2755539587875384e-08  1.7693567113094253e-09  0.9999999768461398  1.0000
+  Se  Se1       1.0  0.2660414539248728  0.2660414995412289  0.73395855382568  1.0000
+  Se  Se2       1.0  0.7339584543340896  0.7339585301277338  0.2660414742912391  1.0000
+  Se  Se3       1.0  0.7339585408407923  0.2660414264021743  0.26604154297476706  1.0000
+  Se  Se4       1.0  0.2660414550735044  0.7339585554941541  0.7339584984282999  1.0000
+  Se  Se5       1.0  0.2660415369316805  0.733958443124619  0.26604152358156696  1.0000
+  Se  Se6       1.0  0.7339584879833025  0.26604144676515434  0.7339585724392154  1.0000

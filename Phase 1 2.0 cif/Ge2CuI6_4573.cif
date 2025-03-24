@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2CuI6
+_chemical_formula_sum              "Ge2 Cu1 I6"
+_cell_length_a       7.32981890115006
+_cell_length_b       7.329818815211771
+_cell_length_c       7.32981888373404
+_cell_angle_alpha    60.00000014940037
+_cell_angle_beta     59.99999993128108
+_cell_angle_gamma    60.00000003510602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.249999994231892  0.24999998968513154  0.24999999336779152  1.0000
+  Ge  Ge2       1.0  0.7500000149179077  0.7500000141698955  0.749999982363714  1.0000
+  Cu  Cu1       1.0  0.9999999990771834  0.9999999933163702  0.999999995617482  1.0000
+  I   I1        1.0  0.2536452063306519  0.25364519074530895  0.7463547947279248  1.0000
+  I   I2        1.0  0.7463548043944942  0.746354813109718  0.25364519113022915  1.0000
+  I   I3        1.0  0.7463548135607342  0.2536451818987208  0.2536452106958524  1.0000
+  I   I4        1.0  0.2536451724202743  0.7463548252981214  0.7463548281564587  1.0000
+  I   I5        1.0  0.2536451987620031  0.7463547957275778  0.2536451902442475  1.0000
+  I   I6        1.0  0.7463547990900833  0.2536451947601899  0.7463548128269365  1.0000

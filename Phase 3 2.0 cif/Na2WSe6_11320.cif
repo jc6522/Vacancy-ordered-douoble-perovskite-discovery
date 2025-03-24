@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2WSe6
+_chemical_formula_sum              "Na2 W1 Se6"
+_cell_length_a       6.857280201683356
+_cell_length_b       6.857280008762684
+_cell_length_c       6.857280383885331
+_cell_angle_alpha    59.999998720535324
+_cell_angle_beta     59.99999786111588
+_cell_angle_gamma    60.00000455433802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2500000041328681  0.2500000026505854  0.2499999949461107  1.0000
+  Na  Na2       1.0  0.7499999757612865  0.7499999865191472  0.750000016789904  1.0000
+  W   W1        1.0  0.9999999159244412  0.9999999642789839  8.031454539159394e-08  1.0000
+  Se  Se1       1.0  0.24706555171394037  0.24706549644520467  0.7529344637830214  1.0000
+  Se  Se2       1.0  0.7529344589661774  0.7529345266594902  0.2470655039260979  1.0000
+  Se  Se3       1.0  0.7529342379948747  0.24706582470426608  0.2470656872498726  1.0000
+  Se  Se4       1.0  0.2470657893199968  0.7529342091167335  0.7529342915748867  1.0000
+  Se  Se5       1.0  0.2470658943759257  0.7529341304400713  0.24706574365945835  1.0000
+  Se  Se6       1.0  0.7529341716016522  0.2470658480133644  0.7529342376845128  1.0000

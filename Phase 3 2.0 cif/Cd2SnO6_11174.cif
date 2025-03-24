@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2SnO6
+_chemical_formula_sum              "Cd2 Sn1 O6"
+_cell_length_a       5.429611622902693
+_cell_length_b       5.429610800612753
+_cell_length_c       5.429611465463717
+_cell_angle_alpha    60.00000306353104
+_cell_angle_beta     60.00000535462614
+_cell_angle_gamma    60.000004741984135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.25000001555067936  0.2500001260229461  0.2499998454760136  1.0000
+  Cd  Cd2       1.0  0.7500000688958015  0.7499997690360624  0.7500001705467108  1.0000
+  Sn  Sn1       1.0  0.9999999412272013  0.9999999593978072  1.801929034329638e-09  1.0000
+  O   O1        1.0  0.2693414839047082  0.26934154753265327  0.7306584219826663  1.0000
+  O   O2        1.0  0.7306585113726721  0.7306583024128012  0.26934153041695885  1.0000
+  O   O3        1.0  0.7306584459965934  0.26934165272079436  0.26934141217702917  1.0000
+  O   O4        1.0  0.2693414936850322  0.730658287451743  0.7306585928935263  1.0000
+  O   O5        1.0  0.26934163305787967  0.7306585353581634  0.2693414346916801  1.0000
+  O   O6        1.0  0.7306583401085528  0.2693416935410409  0.7306584884685089  1.0000

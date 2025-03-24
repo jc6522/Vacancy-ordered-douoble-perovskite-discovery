@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2MoS6
+_chemical_formula_sum              "In2 Mo1 S6"
+_cell_length_a       6.620920780384535
+_cell_length_b       6.62092043575047
+_cell_length_c       6.620920857982564
+_cell_angle_alpha    59.99999877117893
+_cell_angle_beta     60.00000074722916
+_cell_angle_gamma    59.99999983080903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2500001061471502  0.24999998922680253  0.25000004387486197  1.0000
+  In  In2       1.0  0.7499997908653592  0.7500000749694153  0.7500001665659085  1.0000
+  Mo  Mo1       1.0  5.7147578583253965e-08  0.9999999907509488  1.7994986630374425e-07  1.0000
+  S   S1        1.0  0.24778099407330775  0.24778097957590617  0.7522189674126633  1.0000
+  S   S2        1.0  0.752219012760997  0.7522189958294018  0.24778093043988028  1.0000
+  S   S3        1.0  0.7522189949045205  0.24778095159972977  0.2477809729086351  1.0000
+  S   S4        1.0  0.24778113843618016  0.7522188221762225  0.75221893229811  1.0000
+  S   S5        1.0  0.24778106796581756  0.7522190005844676  0.2477808912819005  1.0000
+  S   S6        1.0  0.752218861811199  0.2477811746003857  0.7522189029193252  1.0000

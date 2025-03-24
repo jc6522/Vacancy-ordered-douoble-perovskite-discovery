@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2NiO6
+_chemical_formula_sum              "Pb2 Ni1 O6"
+_cell_length_a       5.405534512517822
+_cell_length_b       5.40553431331963
+_cell_length_c       5.405534432856884
+_cell_angle_alpha    59.99999771062366
+_cell_angle_beta     59.99999526223716
+_cell_angle_gamma    59.9999929266318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999981893732584  0.25000012976597735  0.2499999820439932  1.0000
+  Pb  Pb2       1.0  0.7500000027879435  0.7499999497474342  0.7500001981619432  1.0000
+  Ni  Ni1       1.0  1.4784948062877835e-07  0.999999864056547  0.999999492708949  1.0000
+  O   O1        1.0  0.23784235228202466  0.23784254153451512  0.7621575625700951  1.0000
+  O   O2        1.0  0.7621576492275397  0.7621573703153055  0.23784243397972304  1.0000
+  O   O3        1.0  0.7621577094608412  0.23784229882163901  0.23784228355690043  1.0000
+  O   O4        1.0  0.23784216987363996  0.7621578962436975  0.7621578692670506  1.0000
+  O   O5        1.0  0.23784233576882435  0.7621577569414834  0.2378423243234717  1.0000
+  O   O6        1.0  0.7621578721693287  0.2378421956913603  0.7621577632154098  1.0000

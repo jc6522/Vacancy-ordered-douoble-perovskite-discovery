@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2CoTe6
+_chemical_formula_sum              "In2 Co1 Te6"
+_cell_length_a       7.159328452973883
+_cell_length_b       7.159328587663389
+_cell_length_c       7.159328156605116
+_cell_angle_alpha    60.00000527771087
+_cell_angle_beta     60.0000004558834
+_cell_angle_gamma    60.0000006211324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2500000756334956  0.24999996646721986  0.2499999780821848  1.0000
+  In  In2       1.0  0.7500000835653885  0.7500000294147016  0.7499999674463897  1.0000
+  Co  Co1       1.0  0.9999998004943481  0.9999999743395458  3.1511602449462236e-07  1.0000
+  Te  Te1       1.0  0.24185108288723772  0.24185107608945625  0.7581491781393151  1.0000
+  Te  Te2       1.0  0.7581488046185727  0.7581488736036366  0.24185107857913413  1.0000
+  Te  Te3       1.0  0.758148825618901  0.2418512431048193  0.2418512538246791  1.0000
+  Te  Te4       1.0  0.2418511202069888  0.758148918714793  0.7581485408241642  1.0000
+  Te  Te5       1.0  0.24185127948679327  0.7581487454479361  0.24185115801445345  1.0000
+  Te  Te6       1.0  0.7581489039218056  0.24185122135211098  0.7581485385299603  1.0000

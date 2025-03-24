@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2RhCl6
+_chemical_formula_sum              "Ta2 Rh1 Cl6"
+_cell_length_a       6.744219926814414
+_cell_length_b       6.744220175450461
+_cell_length_c       6.744220059485766
+_cell_angle_alpha    60.000001135161995
+_cell_angle_beta     59.99999865142831
+_cell_angle_gamma    59.999996945302144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.25000010449295246  0.25000028842996674  0.24999909902148587  1.0000
+  Ta  Ta2       1.0  0.7500006615272425  0.7499977563119232  0.7500023354763075  1.0000
+  Rh  Rh1       1.0  7.595883123128669e-10  7.990363945328477e-08  0.9999998988755896  1.0000
+  Cl  Cl1       1.0  0.24951674688411818  0.24951792378568002  0.7504828691131052  1.0000
+  Cl  Cl2       1.0  0.750482776636088  0.7504827287205089  0.24951680182696773  1.0000
+  Cl  Cl3       1.0  0.7504826160695456  0.24951823108579751  0.24951636352656456  1.0000
+  Cl  Cl4       1.0  0.24951706790144906  0.7504827464829172  0.7504828036926506  1.0000
+  Cl  Cl5       1.0  0.24951743400386536  0.7504829017527355  0.2495170273205546  1.0000
+  Cl  Cl6       1.0  0.7504825811303487  0.2495173494192407  0.7504827897545137  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Te2MnO6
+_chemical_formula_sum              "Te2 Mn1 O6"
+_cell_length_a       5.316247288340716
+_cell_length_b       5.316247256710746
+_cell_length_c       5.316247264567493
+_cell_angle_alpha    60.000000161847765
+_cell_angle_beta     60.00000017058536
+_cell_angle_gamma    59.99999996615449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.25000013461157816  0.24999943708662178  0.25000027435512656  1.0000
+  Te  Te2       1.0  0.7500001091953793  0.7500003224572774  0.7500003090141357  1.0000
+  Mn  Mn1       1.0  0.9999999845097307  5.298687336542482e-08  0.9999999737275935  1.0000
+  O   O1        1.0  0.2417181967489208  0.24171806220830133  0.7582818700885934  1.0000
+  O   O2        1.0  0.7582817629784971  0.7582820152568364  0.24171786118421973  1.0000
+  O   O3        1.0  0.7582818608461765  0.24171812585684863  0.24171813910215553  1.0000
+  O   O4        1.0  0.24171793861082697  0.7582820414555964  0.7582816875750472  1.0000
+  O   O5        1.0  0.24171814766709568  0.7582820264431192  0.2417180743481886  1.0000
+  O   O6        1.0  0.7582818785837421  0.24171790358028422  0.7582817989591922  1.0000

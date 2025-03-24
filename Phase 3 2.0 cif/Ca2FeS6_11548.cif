@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2FeS6
+_chemical_formula_sum              "Ca2 Fe1 S6"
+_cell_length_a       6.244985536350659
+_cell_length_b       6.244985646308572
+_cell_length_c       6.244985914324298
+_cell_angle_alpha    60.00000203940514
+_cell_angle_beta     60.00000205602491
+_cell_angle_gamma    60.00000331403516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2499999687233355  0.2500001080328147  0.2499998946137132  1.0000
+  Ca  Ca2       1.0  0.7499999929868918  0.7499999083314347  0.7500000901101733  1.0000
+  Fe  Fe1       1.0  0.9999999874126957  0.9999999490097057  4.780164397830412e-08  1.0000
+  S   S1        1.0  0.24693241185630366  0.2469323535633896  0.7530675921954855  1.0000
+  S   S2        1.0  0.753067551610012  0.7530676353445487  0.24693245822090462  1.0000
+  S   S3        1.0  0.7530676008199706  0.24693231782431066  0.24693246751480305  1.0000
+  S   S4        1.0  0.2469324325912679  0.7530676553943068  0.7530675269506646  1.0000
+  S   S5        1.0  0.24693246033719843  0.7530675766290429  0.2469324204738873  1.0000
+  S   S6        1.0  0.7530676072885912  0.24693247699734633  0.7530674750470212  1.0000

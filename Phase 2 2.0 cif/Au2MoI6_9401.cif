@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2MoI6
+_chemical_formula_sum              "Au2 Mo1 I6"
+_cell_length_a       7.7608220569476725
+_cell_length_b       7.760822170540847
+_cell_length_c       7.760822125601863
+_cell_angle_alpha    59.99999894798815
+_cell_angle_beta     60.00000053129527
+_cell_angle_gamma    60.00000003873952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.25000002980530006  0.24999999896934658  0.2499999844589279  1.0000
+  Au  Au2       1.0  0.7499999853560567  0.7499999921737023  0.7500000309672924  1.0000
+  Mo  Mo1       1.0  4.329521557995866e-09  0.999999928984949  0.9999999147986234  1.0000
+  I   I1        1.0  0.2509732205471173  0.2509732216834652  0.7490267451538848  1.0000
+  I   I2        1.0  0.7490268559464837  0.7490268041780549  0.2509731681290002  1.0000
+  I   I3        1.0  0.7490266652642977  0.25097330777489607  0.25097331805662887  1.0000
+  I   I4        1.0  0.2509731756499333  0.749026822242032  0.7490268104069352  1.0000
+  I   I5        1.0  0.25097322754281426  0.749026707721131  0.25097322865733845  1.0000
+  I   I6        1.0  0.7490268309779177  0.25097322029742636  0.7490267979399644  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2TaS6
+_chemical_formula_sum              "Hg2 Ta1 S6"
+_cell_length_a       6.342923675577521
+_cell_length_b       6.3429234317052465
+_cell_length_c       6.342923593955652
+_cell_angle_alpha    60.00000292584896
+_cell_angle_beta     60.000003352162864
+_cell_angle_gamma    60.000006115007224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999999671708203  0.2500001184298516  0.2499999303340258  1.0000
+  Hg  Hg2       1.0  0.750000034107394  0.7499998957392108  0.7500000539787653  1.0000
+  Ta  Ta1       1.0  0.9999999972425213  0.9999999536587876  9.00943325223202e-10  1.0000
+  S   S1        1.0  0.26593615060609804  0.26593612668389005  0.734063836356669  1.0000
+  S   S2        1.0  0.7340639373150443  0.7340638527292659  0.2659361084076615  1.0000
+  S   S3        1.0  0.7340638072876986  0.26593607678020853  0.26593624955038053  1.0000
+  S   S4        1.0  0.2659361648594596  0.7340639277344327  0.7340638051891599  1.0000
+  S   S5        1.0  0.26593617862006774  0.7340638723452446  0.2659361060306701  1.0000
+  S   S6        1.0  0.7340637489716934  0.26593614568558005  0.7340639311207156  1.0000

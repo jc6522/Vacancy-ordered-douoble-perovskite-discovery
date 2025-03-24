@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2AgSe6
+_chemical_formula_sum              "Hg2 Ag1 Se6"
+_cell_length_a       6.649364329430987
+_cell_length_b       6.649364056907717
+_cell_length_c       6.649364736093961
+_cell_angle_alpha    59.99999833879434
+_cell_angle_beta     60.000000266291416
+_cell_angle_gamma    59.999993374007616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000038348319  0.24999993828566838  0.25000006688233495  1.0000
+  Hg  Hg2       1.0  0.7500000282349134  0.7500000303590489  0.7499999446677922  1.0000
+  Ag  Ag1       1.0  0.9999999665298089  1.1603956370898937e-07  0.9999997962937837  1.0000
+  Se  Se1       1.0  0.29349400714479335  0.29349408558617146  0.7065059300240303  1.0000
+  Se  Se2       1.0  0.7065059381843237  0.7065059088451197  0.2934940187611328  1.0000
+  Se  Se3       1.0  0.7065059301239627  0.2934941254919579  0.2934941443457928  1.0000
+  Se  Se4       1.0  0.29349422552437526  0.7065057068523145  0.7065060389945982  1.0000
+  Se  Se5       1.0  0.29349412793748475  0.7065058147389754  0.2934941749685153  1.0000
+  Se  Se6       1.0  0.7065057616622165  0.2934942791548036  0.706505885797485  1.0000

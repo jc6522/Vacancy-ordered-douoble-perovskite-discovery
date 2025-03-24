@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2MnSe6
+_chemical_formula_sum              "Ge2 Mn1 Se6"
+_cell_length_a       6.574639286551696
+_cell_length_b       6.57463932001625
+_cell_length_c       6.574639487525395
+_cell_angle_alpha    59.999998194514276
+_cell_angle_beta     59.999998519949536
+_cell_angle_gamma    59.99999964420445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.2500000088075855  0.2500000811011762  0.24999996089456195  1.0000
+  Ge  Ge2       1.0  0.7500001100919587  0.7499999079937577  0.7500001088897047  1.0000
+  Mn  Mn1       1.0  0.9999999665421381  0.9999999739203506  7.23566424515416e-08  1.0000
+  Se  Se1       1.0  0.2501501312173838  0.2501502226584564  0.7498498450680491  1.0000
+  Se  Se2       1.0  0.7498498337308738  0.7498497962417912  0.2501500936227195  1.0000
+  Se  Se3       1.0  0.7498498139808403  0.2501501991558768  0.25015018036173886  1.0000
+  Se  Se4       1.0  0.25015019758991874  0.7498497694479052  0.7498497981909105  1.0000
+  Se  Se5       1.0  0.25015017215371627  0.7498498317636604  0.2501501861485406  1.0000
+  Se  Se6       1.0  0.7498497730491487  0.2501502094905715  0.7498497831788468  1.0000

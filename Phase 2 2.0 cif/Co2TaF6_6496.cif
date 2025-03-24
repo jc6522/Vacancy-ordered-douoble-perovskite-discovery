@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2TaF6
+_chemical_formula_sum              "Co2 Ta1 F6"
+_cell_length_a       6.330392075587968
+_cell_length_b       6.330392976036235
+_cell_length_c       6.3303920111599705
+_cell_angle_alpha    60.00000330361965
+_cell_angle_beta     60.00000322178011
+_cell_angle_gamma    59.99999646503945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000017815441067  0.24999844462868767  0.25000025864069975  1.0000
+  Co  Co2       1.0  0.7499989228344279  0.7499990852808849  0.7500000630469125  1.0000
+  Ta  Ta1       1.0  9.180659494818609e-08  2.5538116361380273e-07  0.9999999259260225  1.0000
+  F   F1        1.0  0.2156973092718554  0.2156970743859738  0.7843030420702753  1.0000
+  F   F2        1.0  0.7843029912346859  0.7843033633863554  0.21569714681919452  1.0000
+  F   F3        1.0  0.7843031515496015  0.21569742764356428  0.2156968255789903  1.0000
+  F   F4        1.0  0.2156974284549519  0.7843034028740417  0.7843026954558256  1.0000
+  F   F5        1.0  0.21569720602963804  0.7843033912578333  0.21569689934286476  1.0000
+  F   F6        1.0  0.7843029762005411  0.2156974779539201  0.7843030018515426  1.0000

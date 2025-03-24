@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br2SiO6
+_chemical_formula_sum              "Br2 Si1 O6"
+_cell_length_a       5.943484935535874
+_cell_length_b       5.943497535767223
+_cell_length_c       5.9434968372621215
+_cell_angle_alpha    60.00023768924437
+_cell_angle_beta     60.000282138092295
+_cell_angle_gamma    60.00017966329705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.24995984152276524  0.24996741474389794  0.2500459483879064  1.0000
+  Br  Br2       1.0  0.750062900476506  0.7500019112099389  0.7499768291221234  1.0000
+  Si  Si1       1.0  0.9999989171461915  5.201058365766456e-06  0.9999971198385945  1.0000
+  O   O1        1.0  0.2104330912761342  0.21044287470353132  0.7895512701026977  1.0000
+  O   O2        1.0  0.789568424494547  0.7895636045770056  0.2104297741857302  1.0000
+  O   O3        1.0  0.7895700039983462  0.2104297479944961  0.2104442011447316  1.0000
+  O   O4        1.0  0.21041973257358687  0.7895794183794794  0.7895519250552244  1.0000
+  O   O5        1.0  0.21041743296011287  0.7895790002955062  0.210451490077835  1.0000
+  O   O6        1.0  0.7895647061653941  0.21043671481271137  0.7895553968679263  1.0000

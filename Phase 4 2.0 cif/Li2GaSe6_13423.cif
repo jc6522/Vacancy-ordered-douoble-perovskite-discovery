@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2GaSe6
+_chemical_formula_sum              "Li2 Ga1 Se6"
+_cell_length_a       6.440617995382834
+_cell_length_b       6.4406182737082185
+_cell_length_c       6.440617676393814
+_cell_angle_alpha    60.000003066600605
+_cell_angle_beta     59.9999988378918
+_cell_angle_gamma    59.99999954441491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000729511722  0.24999985704440578  0.25000007191006934  1.0000
+  Li  Li2       1.0  0.7499999932721819  0.7500001187926191  0.7499999646377046  1.0000
+  Ga  Ga1       1.0  0.9999999975205186  0.9999999106250286  0.9999999962425509  1.0000
+  Se  Se1       1.0  0.2812043711515424  0.2812041874515009  0.7187957308305845  1.0000
+  Se  Se2       1.0  0.71879568505098  0.7187961572949794  0.28120417595755354  1.0000
+  Se  Se3       1.0  0.71879559849619  0.281204233539357  0.2812044753627004  1.0000
+  Se  Se4       1.0  0.2812041535417295  0.7187959533747355  0.7187955677125266  1.0000
+  Se  Se5       1.0  0.28120435641045644  0.7187955969552353  0.28120435253312287  1.0000
+  Se  Se6       1.0  0.7187957718447883  0.28120397764521426  0.7187956797206273  1.0000

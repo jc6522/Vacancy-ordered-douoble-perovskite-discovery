@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2NiS6
+_chemical_formula_sum              "Fe2 Ni1 S6"
+_cell_length_a       6.008737600057715
+_cell_length_b       6.008737655619867
+_cell_length_c       6.00873775925138
+_cell_angle_alpha    59.999999285953905
+_cell_angle_beta     59.99999928958461
+_cell_angle_gamma    59.99999963017489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999984753607685  0.2499999620000648  0.25000001212451206  1.0000
+  Fe  Fe2       1.0  0.7499998163791066  0.7500001081719702  0.7499999082277095  1.0000
+  Ni  Ni1       1.0  2.2264433516828163e-08  8.153092800465129e-09  0.9999999381924317  1.0000
+  S   S1        1.0  0.25084645613451706  0.2508461418287437  0.7491537144994873  1.0000
+  S   S2        1.0  0.7491536588978788  0.7491537856641679  0.25084631957682  1.0000
+  S   S3        1.0  0.7491537920370789  0.25084632760583314  0.25084631170900923  1.0000
+  S   S4        1.0  0.250846381888667  0.7491536019253515  0.7491537767778818  1.0000
+  S   S5        1.0  0.2508462133160709  0.7491537131154271  0.2508463888424186  1.0000
+  S   S6        1.0  0.7491538079191891  0.25084636317142645  0.7491536293851867  1.0000

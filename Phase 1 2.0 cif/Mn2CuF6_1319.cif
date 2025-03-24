@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2CuF6
+_chemical_formula_sum              "Mn2 Cu1 F6"
+_cell_length_a       5.286186695079752
+_cell_length_b       5.2861867792623
+_cell_length_c       5.286186705357223
+_cell_angle_alpha    60.00000105896694
+_cell_angle_beta     60.0000008013265
+_cell_angle_gamma    60.000000550511785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.250000135613671  0.24999999133541986  0.24999995391502322  1.0000
+  Mn  Mn2       1.0  0.7500000055561066  0.7499999786400171  0.7500001281726629  1.0000
+  Cu  Cu1       1.0  5.53855281437539e-09  0.9999999768312224  3.529923170258229e-08  1.0000
+  F   F1        1.0  0.25545070853371604  0.2554507190574721  0.7445492747716432  1.0000
+  F   F2        1.0  0.7445492434549081  0.7445493204242978  0.25545068743978505  1.0000
+  F   F3        1.0  0.7445492711623807  0.2554507670907672  0.2554506250568232  1.0000
+  F   F4        1.0  0.2554506385508572  0.7445492747078803  0.7445493098407885  1.0000
+  F   F5        1.0  0.25545069420655125  0.7445492915355192  0.2554506654512509  1.0000
+  F   F6        1.0  0.7445492890485558  0.2554506738061624  0.7445493011714743  1.0000

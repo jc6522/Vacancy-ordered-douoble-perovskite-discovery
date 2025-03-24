@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2CuBr6
+_chemical_formula_sum              "Sn2 Cu1 Br6"
+_cell_length_a       6.974557349719485
+_cell_length_b       6.974557478911911
+_cell_length_c       6.974557412858884
+_cell_angle_alpha    60.00000013714719
+_cell_angle_beta     59.99999994017152
+_cell_angle_gamma    60.000000356964776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000005822097693  0.25000003727658404  0.24999992420748093  1.0000
+  Sn  Sn2       1.0  0.7500000473691046  0.7499999573001651  0.7500000913232084  1.0000
+  Cu  Cu1       1.0  0.9999999863880301  0.9999999613676034  1.321813864299272e-08  1.0000
+  Br  Br1       1.0  0.2523067731461051  0.25230676744628294  0.7476932351501178  1.0000
+  Br  Br2       1.0  0.7476932721052871  0.7476933237114579  0.2523066590270634  1.0000
+  Br  Br3       1.0  0.7476932583096279  0.25230674704794226  0.2523067340079111  1.0000
+  Br  Br4       1.0  0.2523066901170899  0.7476932124084464  0.747693303107938  1.0000
+  Br  Br5       1.0  0.2523067027221256  0.7476932753068155  0.25230674468183667  1.0000
+  Br  Br6       1.0  0.7476932135453892  0.2523067210259518  0.74769329294299  1.0000

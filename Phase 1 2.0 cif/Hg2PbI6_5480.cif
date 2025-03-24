@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2PbI6
+_chemical_formula_sum              "Hg2 Pb1 I6"
+_cell_length_a       8.384035987666447
+_cell_length_b       8.384036058246616
+_cell_length_c       8.384036256899883
+_cell_angle_alpha    59.999997637868354
+_cell_angle_beta     59.99999978553547
+_cell_angle_gamma    60.00000049066507
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000000129267963  0.2499999456078932  0.2500000086559716  1.0000
+  Hg  Hg2       1.0  0.7499999827702771  0.7500000530229437  0.7500000166851379  1.0000
+  Pb  Pb1       1.0  0.9999999693804149  0.9999999926959683  1.0722478533579021e-07  1.0000
+  I   I1        1.0  0.27063676198209713  0.27063659218324637  0.7293633241784234  1.0000
+  I   I2        1.0  0.7293632570685288  0.7293634254380685  0.27063661692195184  1.0000
+  I   I3        1.0  0.7293633211975764  0.2706366694525585  0.27063670567896086  1.0000
+  I   I4        1.0  0.2706367252598463  0.7293633072661929  0.7293632421692984  1.0000
+  I   I5        1.0  0.2706367059417433  0.7293633534636502  0.2706367153709932  1.0000
+  I   I6        1.0  0.7293632718745995  0.270636659775246  0.7293632664288768  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2CrO6
+_chemical_formula_sum              "Se2 Cr1 O6"
+_cell_length_a       5.352082930948019
+_cell_length_b       5.3520834723398885
+_cell_length_c       5.352082909143829
+_cell_angle_alpha    59.99999743320558
+_cell_angle_beta     59.9999926761505
+_cell_angle_gamma    59.99999611283018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.25000996675672893  0.24999566825166825  0.24999787360029818  1.0000
+  Se  Se2       1.0  0.7500033361176165  0.7500041605284692  0.7499892724408133  1.0000
+  Cr  Cr1       1.0  0.9999990745499145  3.2036937397718815e-08  8.801827197939078e-07  1.0000
+  O   O1        1.0  0.2527495955637886  0.2527503748164472  0.7472502376719533  1.0000
+  O   O2        1.0  0.7472464410725602  0.7472506576369017  0.2527534783841693  1.0000
+  O   O3        1.0  0.7472466337366853  0.2527491525518759  0.25275366379688924  1.0000
+  O   O4        1.0  0.2527495683385044  0.7472499920114078  0.747250014769398  1.0000
+  O   O5        1.0  0.2527482961133204  0.7472493506429728  0.25275305460048525  1.0000
+  O   O6        1.0  0.7472470570775627  0.2527506383220546  0.7472515604228148  1.0000

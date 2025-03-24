@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2FeN6
+_chemical_formula_sum              "Ta2 Fe1 N6"
+_cell_length_a       4.809307808010712
+_cell_length_b       4.809307812214042
+_cell_length_c       4.809307710302119
+_cell_angle_alpha    60.00000037173828
+_cell_angle_beta     60.000000207593644
+_cell_angle_gamma    59.99999990909108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.24999998511046234  0.2500000339686592  0.2500000273964837  1.0000
+  Ta  Ta2       1.0  0.7499999450742555  0.7500000102278883  0.7500000187954878  1.0000
+  Fe  Fe1       1.0  1.896645340079069e-08  0.9999999286948192  0.9999999741868301  1.0000
+  N   N1        1.0  0.2699423066483742  0.2699422329450913  0.7300576931730808  1.0000
+  N   N2        1.0  0.7300576972881849  0.7300577628657977  0.2699422696395534  1.0000
+  N   N3        1.0  0.7300577363381772  0.2699423259251302  0.2699422760559078  1.0000
+  N   N4        1.0  0.2699422948579265  0.730057667339145  0.7300577866825337  1.0000
+  N   N5        1.0  0.26994228889769917  0.7300577421006869  0.2699422734449045  1.0000
+  N   N6        1.0  0.730057719815812  0.2699422970026333  0.7300576798881474  1.0000

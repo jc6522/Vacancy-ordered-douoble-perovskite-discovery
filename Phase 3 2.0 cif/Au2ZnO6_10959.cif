@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2ZnO6
+_chemical_formula_sum              "Au2 Zn1 O6"
+_cell_length_a       5.31227476657303
+_cell_length_b       5.312274981865757
+_cell_length_c       5.312274569306572
+_cell_angle_alpha    59.99999993437131
+_cell_angle_beta     60.00000091386968
+_cell_angle_gamma    59.99999928607128
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.25000007479354136  0.2500004915630039  0.24999938283037867  1.0000
+  Au  Au2       1.0  0.7499998466981798  0.7499998885051486  0.7500001205839857  1.0000
+  Zn  Zn1       1.0  6.8072681396531745e-09  0.9999999469735074  0.9999999478123005  1.0000
+  O   O1        1.0  0.25958141840637033  0.25958143784028104  0.7404189182365127  1.0000
+  O   O2        1.0  0.7404186462486924  0.7404183497144101  0.25958144988008175  1.0000
+  O   O3        1.0  0.7404187289184382  0.25958126823692784  0.25958126563402856  1.0000
+  O   O4        1.0  0.2595813315664304  0.740418434014278  0.7404189269747674  1.0000
+  O   O5        1.0  0.2595813975191368  0.7404187037144823  0.2595811486907155  1.0000
+  O   O6        1.0  0.7404185369957235  0.2595814873026767  0.740418868167397  1.0000

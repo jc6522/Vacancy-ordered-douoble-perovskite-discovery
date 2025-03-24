@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2MoO6
+_chemical_formula_sum              "Hg2 Mo1 O6"
+_cell_length_a       5.535509947059891
+_cell_length_b       5.535510182754575
+_cell_length_c       5.535510252557591
+_cell_angle_alpha    59.99999656459993
+_cell_angle_beta     59.99999684180371
+_cell_angle_gamma    59.999998848243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999987369419419  0.24999997486324363  0.25000010430354175  1.0000
+  Hg  Hg2       1.0  0.7499998878322165  0.7500001569047501  0.7500000868630272  1.0000
+  Mo  Mo1       1.0  0.9999999102374005  1.1283872757544521e-07  0.999999829488333  1.0000
+  O   O1        1.0  0.24806790428878844  0.2480678604178827  0.7519320999952236  1.0000
+  O   O2        1.0  0.7519319827405166  0.7519318885834663  0.24806806986221758  1.0000
+  O   O3        1.0  0.7519320868352254  0.24806802928766306  0.24806782508364653  1.0000
+  O   O4        1.0  0.2480677549672884  0.7519322684196357  0.7519320532908033  1.0000
+  O   O5        1.0  0.24806799178951894  0.7519323229479923  0.24806777174631076  1.0000
+  O   O6        1.0  0.7519325938974236  0.2480674703038352  0.7519321729850384  1.0000

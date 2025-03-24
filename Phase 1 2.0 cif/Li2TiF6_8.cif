@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2TiF6
+_chemical_formula_sum              "Li2 Ti1 F6"
+_cell_length_a       5.529333158598435
+_cell_length_b       5.529333449348431
+_cell_length_c       5.529333315993167
+_cell_angle_alpha    60.000000395861065
+_cell_angle_beta     59.999999099280245
+_cell_angle_gamma    59.99999926212968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000302538209  0.2499998288761229  0.25000006830667604  1.0000
+  Li  Li2       1.0  0.7499999703879057  0.7500001046121121  0.7499999705832231  1.0000
+  Ti  Ti1       1.0  0.999999985866751  1.1074977789718907e-08  0.9999999834437726  1.0000
+  F   F1        1.0  0.2401404258106592  0.24014049637989343  0.7598595245058444  1.0000
+  F   F2        1.0  0.7598595021597138  0.7598595611480904  0.24014046880595774  1.0000
+  F   F3        1.0  0.7598596140800883  0.2401403903912736  0.24014042580258255  1.0000
+  F   F4        1.0  0.24014042056464543  0.7598595851818748  0.7598596021714009  1.0000
+  F   F5        1.0  0.24014039320765326  0.7598596540802238  0.24014041712316925  1.0000
+  F   F6        1.0  0.7598596474269445  0.24014037243782102  0.7598595425956354  1.0000

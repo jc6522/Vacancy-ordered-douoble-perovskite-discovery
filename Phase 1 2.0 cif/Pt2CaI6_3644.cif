@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2CaI6
+_chemical_formula_sum              "Pt2 Ca1 I6"
+_cell_length_a       7.853493398749975
+_cell_length_b       7.8534934424866085
+_cell_length_c       7.85349345868904
+_cell_angle_alpha    60.00000016841069
+_cell_angle_beta     60.00000104346364
+_cell_angle_gamma    60.00000112222354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.24999996896315727  0.25000002248039827  0.2500000047106859  1.0000
+  Pt  Pt2       1.0  0.7500000329786688  0.7500000861550823  0.7499999264506924  1.0000
+  Ca  Ca1       1.0  0.9999999726732847  0.9999999937620377  0.9999999734895031  1.0000
+  I   I1        1.0  0.2729493438081009  0.27294930645306387  0.7270506743778383  1.0000
+  I   I2        1.0  0.7270506897108948  0.7270506368764205  0.2729493554809205  1.0000
+  I   I3        1.0  0.7270506243332254  0.2729493109298828  0.27294938817906955  1.0000
+  I   I4        1.0  0.27294934126902043  0.7270506729463547  0.7270506528180498  1.0000
+  I   I5        1.0  0.2729493346624474  0.7270506661543744  0.2729493352137711  1.0000
+  I   I6        1.0  0.7270506856085303  0.2729493036864488  0.7270506892866458  1.0000

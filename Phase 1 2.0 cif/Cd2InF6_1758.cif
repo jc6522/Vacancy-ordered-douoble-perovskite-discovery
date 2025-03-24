@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2InF6
+_chemical_formula_sum              "Cd2 In1 F6"
+_cell_length_a       5.904954221263848
+_cell_length_b       5.9049542647781585
+_cell_length_c       5.904954350581381
+_cell_angle_alpha    60.000000019458184
+_cell_angle_beta     59.9999971243076
+_cell_angle_gamma    60.00000311236553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.25000032676277856  0.250000142513167  0.2499997799748888  1.0000
+  Cd  Cd2       1.0  0.7499998962286664  0.7500000894616257  0.7499996056047452  1.0000
+  In  In1       1.0  0.999999992672916  0.9999999398511844  6.591432038882482e-08  1.0000
+  F   F1        1.0  0.2498278061295601  0.24982791430873247  0.7501721297909896  1.0000
+  F   F2        1.0  0.7501722261402842  0.7501719277358061  0.2498280931128749  1.0000
+  F   F3        1.0  0.7501719473826512  0.24982778322119917  0.2498280267834946  1.0000
+  F   F4        1.0  0.24982798819775823  0.7501721728986751  0.7501721349291324  1.0000
+  F   F5        1.0  0.2498277916178547  0.750172020807799  0.24982806702510607  1.0000
+  F   F6        1.0  0.7501720924491204  0.2498279021265208  0.7501722047767438  1.0000

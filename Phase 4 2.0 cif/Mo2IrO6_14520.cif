@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2IrO6
+_chemical_formula_sum              "Mo2 Ir1 O6"
+_cell_length_a       5.353469451232922
+_cell_length_b       5.353469627214184
+_cell_length_c       5.35346960416429
+_cell_angle_alpha    60.000000465865206
+_cell_angle_beta     60.00000125572938
+_cell_angle_gamma    60.00000086317952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2500028866184035  0.2500004160545442  0.24999866499093007  1.0000
+  Mo  Mo2       1.0  0.7500026300939807  0.7500008569568466  0.7499982696150146  1.0000
+  Ir  Ir1       1.0  0.9999997514981884  0.9999999107773975  1.072199362124711e-07  1.0000
+  O   O1        1.0  0.24948933133663115  0.24949075134346116  0.7505098244132968  1.0000
+  O   O2        1.0  0.7505094410499717  0.7505096729093313  0.24949042480427644  1.0000
+  O   O3        1.0  0.7505082278217841  0.2494898092542874  0.24949079213868977  1.0000
+  O   O4        1.0  0.24948961907105371  0.7505093796086172  0.7505102498567812  1.0000
+  O   O5        1.0  0.24948923152467217  0.7505097777203585  0.2494911208428969  1.0000
+  O   O6        1.0  0.7505088755929143  0.24948941343030148  0.7505105165278919  1.0000

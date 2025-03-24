@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2IrI6
+_chemical_formula_sum              "Ga2 Ir1 I6"
+_cell_length_a       7.61210207815478
+_cell_length_b       7.612101997003233
+_cell_length_c       7.612101968548378
+_cell_angle_alpha    59.999999704197904
+_cell_angle_beta     59.99999983019966
+_cell_angle_gamma    59.99999908111751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25000000016565366  0.2499999999278784  0.2500000052606557  1.0000
+  Ga  Ga2       1.0  0.7500000034387985  0.7500000046104683  0.7499999935058655  1.0000
+  Ir  Ir1       1.0  1.3376294498141613e-08  1.4480499492160558e-08  0.9999999519154656  1.0000
+  I   I1        1.0  0.24875414027319237  0.2487541496973595  0.751245845320006  1.0000
+  I   I2        1.0  0.7512458345254289  0.751245827488933  0.2487541723295748  1.0000
+  I   I3        1.0  0.7512458525612142  0.24875415831509454  0.2487541454682747  1.0000
+  I   I4        1.0  0.2487541250556515  0.7512458832289732  0.751245867494643  1.0000
+  I   I5        1.0  0.24875415723718608  0.7512458329053048  0.24875415538223414  1.0000
+  I   I6        1.0  0.7512458727991496  0.2487541378452099  0.751245857571842  1.0000

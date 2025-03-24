@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2IrF6
+_chemical_formula_sum              "Zn2 Ir1 F6"
+_cell_length_a       6.2088418636885425
+_cell_length_b       6.208840433675152
+_cell_length_c       6.208840923196651
+_cell_angle_alpha    60.00000367316214
+_cell_angle_beta     60.000005760836444
+_cell_angle_gamma    60.00000191232163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000030685013885  0.24999986346314682  0.24999999551615948  1.0000
+  Zn  Zn2       1.0  0.7499998557185203  0.7500002630399231  0.7499996881829935  1.0000
+  Ir  Ir1       1.0  2.4383252795253762e-08  2.16984058059237e-08  0.9999999785697784  1.0000
+  F   F1        1.0  0.22351983971607756  0.22351967237268885  0.7764803245744659  1.0000
+  F   F2        1.0  0.7764801067843946  0.776480276597991  0.22351985871900143  1.0000
+  F   F3        1.0  0.7764800740788581  0.2235197349275392  0.22351987620566288  1.0000
+  F   F4        1.0  0.22351989804582456  0.7764801706463248  0.7764802161164975  1.0000
+  F   F5        1.0  0.22351966939517962  0.7764801466475769  0.22351984265238664  1.0000
+  F   F6        1.0  0.7764801687875017  0.22351982599407655  0.7764802396205047  1.0000

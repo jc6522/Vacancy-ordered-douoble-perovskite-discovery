@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2IrO6
+_chemical_formula_sum              "Ti2 Ir1 O6"
+_cell_length_a       5.095292877551792
+_cell_length_b       5.0952928172580725
+_cell_length_c       5.095292925973963
+_cell_angle_alpha    60.00000086992131
+_cell_angle_beta     60.00000098685581
+_cell_angle_gamma    60.00000206087922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999994055435393  0.25000008689307773  0.250000042153186  1.0000
+  Ti  Ti2       1.0  0.7499999754041685  0.7499999626230326  0.7500000043201284  1.0000
+  Ir  Ir1       1.0  7.144256590654091e-08  1.682575439658013e-08  0.9999999382024795  1.0000
+  O   O1        1.0  0.26013651135815996  0.26013647777668203  0.7398634726268434  1.0000
+  O   O2        1.0  0.7398635081155662  0.7398634515554785  0.26013660180680076  1.0000
+  O   O3        1.0  0.7398635655407597  0.2601365293535001  0.2601364626861891  1.0000
+  O   O4        1.0  0.2601364414549945  0.7398635393920431  0.7398634383743918  1.0000
+  O   O5        1.0  0.2601365781092939  0.739863355309324  0.2601364502146438  1.0000
+  O   O6        1.0  0.7398634484379996  0.2601365596007612  0.7398635356512561  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2CdO6
+_chemical_formula_sum              "Ag2 Cd1 O6"
+_cell_length_a       5.457204161823147
+_cell_length_b       5.457203896254251
+_cell_length_c       5.457203047065607
+_cell_angle_alpha    60.0000003764032
+_cell_angle_beta     59.999999443129184
+_cell_angle_gamma    59.9999842830293
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.25000000116042537  0.2499999203948973  0.2499998233351666  1.0000
+  Ag  Ag2       1.0  0.7500001458858215  0.7499999497034979  0.749999696686081  1.0000
+  Cd  Cd1       1.0  0.9999995867538635  3.366414185979023e-08  4.591597757147678e-07  1.0000
+  O   O1        1.0  0.2862100073457519  0.28621055727249045  0.7137897543907802  1.0000
+  O   O2        1.0  0.7137902146963606  0.713789411573841  0.28621025048000165  1.0000
+  O   O3        1.0  0.7137900347454845  0.2862098371001931  0.28620974719852305  1.0000
+  O   O4        1.0  0.28620961864202477  0.7137905110281915  0.7137902295850366  1.0000
+  O   O5        1.0  0.2862097051405277  0.7137905111154381  0.2862094659349231  1.0000
+  O   O6        1.0  0.7137906850458311  0.2862092579906634  0.7137906005448617  1.0000

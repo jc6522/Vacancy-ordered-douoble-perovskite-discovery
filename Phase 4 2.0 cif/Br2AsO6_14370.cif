@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br2AsO6
+_chemical_formula_sum              "Br2 As1 O6"
+_cell_length_a       5.866428192025623
+_cell_length_b       5.8664280942136005
+_cell_length_c       5.866427795099635
+_cell_angle_alpha    60.00000101783144
+_cell_angle_beta     60.00000079862888
+_cell_angle_gamma    59.99999924157702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.24999989445244794  0.250000055173974  0.24999999605170403  1.0000
+  Br  Br2       1.0  0.7500001187961052  0.7500000047676154  0.7499999752497658  1.0000
+  As  As1       1.0  0.9999999770555847  3.34034913137176e-08  2.886275927684568e-08  1.0000
+  O   O1        1.0  0.22218652182991525  0.22218656244005605  0.777813439818462  1.0000
+  O   O2        1.0  0.7778135543674105  0.7778133617998501  0.22218652183486184  1.0000
+  O   O3        1.0  0.7778135108612695  0.22218651628453207  0.22218657113330773  1.0000
+  O   O4        1.0  0.22218648878990332  0.777813430920275  0.7778135093598451  1.0000
+  O   O5        1.0  0.22218649969382623  0.7778134341982248  0.22218656985822186  1.0000
+  O   O6        1.0  0.7778134329935104  0.2221865839890018  0.7778134353272007  1.0000

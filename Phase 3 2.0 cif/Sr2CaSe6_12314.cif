@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2CaSe6
+_chemical_formula_sum              "Sr2 Ca1 Se6"
+_cell_length_a       7.189258639053143
+_cell_length_b       7.1892584663000125
+_cell_length_c       7.1892585998885945
+_cell_angle_alpha    59.99999870314983
+_cell_angle_beta     60.000000160696914
+_cell_angle_gamma    59.999998131164304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.24999997171877536  0.24999998723838512  0.25000002615824524  1.0000
+  Sr  Sr2       1.0  0.7500000237730218  0.7500000213403186  0.7499999401062094  1.0000
+  Ca  Ca1       1.0  3.4962231500533e-08  0.9999999914821187  3.267963737093238e-08  1.0000
+  Se  Se1       1.0  0.28154336358244225  0.2815433966558923  0.7184566003207804  1.0000
+  Se  Se2       1.0  0.718456578436078  0.7184566085156597  0.2815433860381047  1.0000
+  Se  Se3       1.0  0.7184565972718276  0.2815434452276728  0.2815433758524542  1.0000
+  Se  Se4       1.0  0.28154341382772585  0.7184565309830847  0.7184566071378798  1.0000
+  Se  Se5       1.0  0.28154342713927494  0.7184565684011653  0.28154345556437954  1.0000
+  Se  Se6       1.0  0.7184565872365679  0.28154346062045077  0.7184565744944368  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2FeO6
+_chemical_formula_sum              "Mn2 Fe1 O6"
+_cell_length_a       5.202089078434737
+_cell_length_b       5.202089285143697
+_cell_length_c       5.202088953679633
+_cell_angle_alpha    60.00000014996957
+_cell_angle_beta     60.000001291942716
+_cell_angle_gamma    60.0000000683026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999998166470383  0.2500001195309993  0.2499998511375061  1.0000
+  Mn  Mn2       1.0  0.7499999424899625  0.749999946584774  0.7500001297512118  1.0000
+  Fe  Fe1       1.0  8.340159086257177e-09  2.8251990884938685e-08  2.0150018452976327e-08  1.0000
+  O   O1        1.0  0.2443337556536454  0.24433379388086152  0.7556662372094413  1.0000
+  O   O2        1.0  0.7556662350031629  0.7556661992505993  0.24433372193040206  1.0000
+  O   O3        1.0  0.7556662513172531  0.2443337690426423  0.2443337758212654  1.0000
+  O   O4        1.0  0.2443338073881521  0.7556661864194936  0.7556662392542165  1.0000
+  O   O5        1.0  0.2443337655808039  0.755666217566109  0.24433379070209246  1.0000
+  O   O6        1.0  0.7556662075878088  0.24433376143935467  0.7556662380693789  1.0000

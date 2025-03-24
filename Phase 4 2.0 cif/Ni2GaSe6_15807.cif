@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2GaSe6
+_chemical_formula_sum              "Ni2 Ga1 Se6"
+_cell_length_a       6.318651432610748
+_cell_length_b       6.318651588673102
+_cell_length_c       6.318651564867057
+_cell_angle_alpha    59.99999871559235
+_cell_angle_beta     59.99999711761085
+_cell_angle_gamma    59.99999826395576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500002302153617  0.2500001348553885  0.24999991789746506  1.0000
+  Ni  Ni2       1.0  0.7499998833037728  0.7500002882681153  0.7499999717897042  1.0000
+  Ga  Ga1       1.0  0.9999999368500788  8.528524719132311e-08  0.9999998180097932  1.0000
+  Se  Se1       1.0  0.284156953478627  0.28415674917800215  0.7158429739977474  1.0000
+  Se  Se2       1.0  0.7158428685612374  0.7158432106915638  0.2841567707927068  1.0000
+  Se  Se3       1.0  0.7158431802314972  0.2841566334169083  0.2841570679910655  1.0000
+  Se  Se4       1.0  0.28415689492427987  0.7158430221393884  0.7158433892534743  1.0000
+  Se  Se5       1.0  0.28415695281395525  0.7158429866963916  0.2841568414332411  1.0000
+  Se  Se6       1.0  0.7158431065186152  0.2841568917645254  0.7158432527215414  1.0000

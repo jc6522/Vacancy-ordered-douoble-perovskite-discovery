@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2NiSe6
+_chemical_formula_sum              "Co2 Ni1 Se6"
+_cell_length_a       6.5787372097963575
+_cell_length_b       6.578737108131449
+_cell_length_c       6.578736960566689
+_cell_angle_alpha    60.000000256776985
+_cell_angle_beta     59.999999862011286
+_cell_angle_gamma    59.999999527256165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000017730325536  0.24999963057378558  0.25000018823623943  1.0000
+  Co  Co2       1.0  0.7499999555128407  0.7499999100557804  0.7499999166063106  1.0000
+  Ni  Ni1       1.0  5.063621645501553e-08  0.9999999218097883  2.4417337679928326e-08  1.0000
+  Se  Se1       1.0  0.24893637701260807  0.24893646139477643  0.7510635330986086  1.0000
+  Se  Se2       1.0  0.7510635074224511  0.7510637401282445  0.2489365220527397  1.0000
+  Se  Se3       1.0  0.7510635481068653  0.24893637398310325  0.24893638214337377  1.0000
+  Se  Se4       1.0  0.2489364043916828  0.7510637865831402  0.7510634937693192  1.0000
+  Se  Se5       1.0  0.248936379105866  0.7510637308553256  0.24893634788754188  1.0000
+  Se  Se6       1.0  0.7510636141699172  0.2489364390192764  0.7510635744246388  1.0000

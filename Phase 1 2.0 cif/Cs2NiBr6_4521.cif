@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2NiBr6
+_chemical_formula_sum              "Cs2 Ni1 Br6"
+_cell_length_a       7.762127813448963
+_cell_length_b       7.762127239240213
+_cell_length_c       7.762127178752751
+_cell_angle_alpha    60.000002574640014
+_cell_angle_beta     59.99999742545511
+_cell_angle_gamma    60.00000201638359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.24999998541720447  0.2500001010363722  0.24999997444569289  1.0000
+  Cs  Cs2       1.0  0.7500000786172372  0.7499999449378747  0.7500000077439041  1.0000
+  Ni  Ni1       1.0  0.9999999088356633  0.999999970020909  1.1081567605076845e-07  1.0000
+  Br  Br1       1.0  0.22459547118600626  0.22459552626025028  0.7754044757960641  1.0000
+  Br  Br2       1.0  0.7754045887748743  0.7754046033398821  0.22459547563551854  1.0000
+  Br  Br3       1.0  0.7754045735662494  0.2245953816645092  0.22459530932813412  1.0000
+  Br  Br4       1.0  0.2245954129347477  0.7754045175699683  0.7754046458609528  1.0000
+  Br  Br5       1.0  0.22459542077413608  0.7754045284052847  0.22459537875941563  1.0000
+  Br  Br6       1.0  0.7754045732086915  0.2245954465658461  0.775404582487776  1.0000

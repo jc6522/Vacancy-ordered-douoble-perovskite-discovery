@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2SnF6
+_chemical_formula_sum              "Ba2 Sn1 F6"
+_cell_length_a       6.1141620270123855
+_cell_length_b       6.11416155402833
+_cell_length_c       6.114161583770577
+_cell_angle_alpha    60.000001084723706
+_cell_angle_beta     60.00000218140531
+_cell_angle_gamma    60.00000108840895
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.24999998366718562  0.2499999860192247  0.25000000534369426  1.0000
+  Ba  Ba2       1.0  0.7499999799388035  0.7500000582140796  0.7500000447104492  1.0000
+  Sn  Sn1       1.0  2.28919271631705e-08  0.9999999879812309  0.999999922599343  1.0000
+  F   F1        1.0  0.26088139363950813  0.26088136995898215  0.7391186081639235  1.0000
+  F   F2        1.0  0.7391186323481631  0.7391185721147902  0.2608813816373301  1.0000
+  F   F3        1.0  0.7391186574390068  0.2608813663001321  0.2608813083042448  1.0000
+  F   F4        1.0  0.2608812821491029  0.7391187159926047  0.7391187118314615  1.0000
+  F   F5        1.0  0.2608813677194209  0.7391186267196417  0.26088133805281666  1.0000
+  F   F6        1.0  0.7391187013812661  0.26088129932910753  0.7391186774575739  1.0000

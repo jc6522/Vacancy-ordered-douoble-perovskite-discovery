@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2InS6
+_chemical_formula_sum              "Sr2 In1 S6"
+_cell_length_a       6.733088425541981
+_cell_length_b       6.733088393116145
+_cell_length_c       6.733088326415363
+_cell_angle_alpha    60.00000212138081
+_cell_angle_beta     60.00000145292797
+_cell_angle_gamma    60.00000198623768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000005687862803  0.24999995471796135  0.2499999692351617  1.0000
+  Sr  Sr2       1.0  0.7499999667096666  0.74999994600862  0.7500000177529098  1.0000
+  In  In1       1.0  0.9999999389538041  2.3646923947143826e-08  4.840368700137847e-08  1.0000
+  S   S1        1.0  0.26818321229309  0.26818328178214385  0.7318167665139242  1.0000
+  S   S2        1.0  0.7318168419534384  0.7318168099388241  0.2681831348962832  1.0000
+  S   S3        1.0  0.7318167282948754  0.2681832437261902  0.2681832056691784  1.0000
+  S   S4        1.0  0.26818325789108577  0.7318167897869641  0.7318167514492054  1.0000
+  S   S5        1.0  0.26818325909248797  0.731816767499922  0.2681832674256532  1.0000
+  S   S6        1.0  0.7318167332965144  0.2681831805205096  0.7318168674614083  1.0000

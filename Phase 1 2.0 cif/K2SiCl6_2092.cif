@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K2SiCl6
+_chemical_formula_sum              "K2 Si1 Cl6"
+_cell_length_a       6.91379581951831
+_cell_length_b       6.913795250084071
+_cell_length_c       6.913796263117952
+_cell_angle_alpha    60.00000085129143
+_cell_angle_beta     59.9999983653431
+_cell_angle_gamma    60.000004189456725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.24999993864661493  0.24999995872090472  0.25000009025978276  1.0000
+  K   K2        1.0  0.7500000503990654  0.7499999594209099  0.7499999774069901  1.0000
+  Si  Si1       1.0  0.9999999218391489  9.920124642035884e-08  5.022790822278855e-08  1.0000
+  Cl  Cl1       1.0  0.22930701597057163  0.22930681765660457  0.7706928909620863  1.0000
+  Cl  Cl2       1.0  0.7706929917997509  0.7706931695717748  0.22930682761219326  1.0000
+  Cl  Cl3       1.0  0.7706928927536583  0.2293070109469593  0.2293071923036334  1.0000
+  Cl  Cl4       1.0  0.2293070443468534  0.7706930329678667  0.7706929107683924  1.0000
+  Cl  Cl5       1.0  0.22930718907043043  0.7706928413348816  0.22930734408537876  1.0000
+  Cl  Cl6       1.0  0.7706929905738019  0.22930706617825103  0.7706928158407652  1.0000

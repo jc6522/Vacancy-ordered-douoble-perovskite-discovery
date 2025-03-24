@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2TiF6
+_chemical_formula_sum              "Ag2 Ti1 F6"
+_cell_length_a       5.700536559423087
+_cell_length_b       5.7005365105689085
+_cell_length_c       5.700536538926444
+_cell_angle_alpha    60.00000035045295
+_cell_angle_beta     60.00000070077298
+_cell_angle_gamma    60.00000104170212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999999837307169  0.24999999599892803  0.24999997515875477  1.0000
+  Ag  Ag2       1.0  0.7499999933182806  0.750000011629987  0.7499999654325344  1.0000
+  Ti  Ti1       1.0  0.9999999688402184  0.9999998990217701  1.555342681525749e-07  1.0000
+  F   F1        1.0  0.23481577215386845  0.234815731502324  0.7651842169765114  1.0000
+  F   F2        1.0  0.7651842191688644  0.7651842954628478  0.23481574921537596  1.0000
+  F   F3        1.0  0.7651842723405555  0.23481569292729398  0.23481578352889923  1.0000
+  F   F4        1.0  0.234815777029493  0.7651842996623108  0.7651841743355555  1.0000
+  F   F5        1.0  0.2348157342971907  0.7651842848411032  0.2348157686053753  1.0000
+  F   F6        1.0  0.7651842585596491  0.23481576790574443  0.765184215504596  1.0000

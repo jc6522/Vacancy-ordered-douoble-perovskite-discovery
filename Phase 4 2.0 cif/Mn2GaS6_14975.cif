@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2GaS6
+_chemical_formula_sum              "Mn2 Ga1 S6"
+_cell_length_a       6.175462190895446
+_cell_length_b       6.175462487837503
+_cell_length_c       6.175462274231646
+_cell_angle_alpha    60.000003319283564
+_cell_angle_beta     60.0000032160199
+_cell_angle_gamma    60.00000182549306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999981551964243  0.24999978274067558  0.2500004196380177  1.0000
+  Mn  Mn2       1.0  0.7499999343223648  0.7500001792012051  0.7499999097158717  1.0000
+  Ga  Ga1       1.0  0.9999999685533232  0.999999982150805  0.9999999906423833  1.0000
+  S   S1        1.0  0.26371526559800135  0.26371520068366877  0.7362846952233072  1.0000
+  S   S2        1.0  0.7362847070150538  0.7362848782695963  0.2637152456322581  1.0000
+  S   S3        1.0  0.7362848942500372  0.2637150927218419  0.2637153290580361  1.0000
+  S   S4        1.0  0.26371521686260957  0.7362849465665434  0.7362845607608643  1.0000
+  S   S5        1.0  0.2637152474961529  0.7362848303927219  0.2637152426626935  1.0000
+  S   S6        1.0  0.7362849415462476  0.263715109733467  0.7362846027158217  1.0000

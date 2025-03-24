@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2PbCl6
+_chemical_formula_sum              "Li2 Pb1 Cl6"
+_cell_length_a       6.977081331160109
+_cell_length_b       6.977081434696704
+_cell_length_c       6.977081116012828
+_cell_angle_alpha    60.00000188478206
+_cell_angle_beta     60.00000199736692
+_cell_angle_gamma    60.00000143835057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999994880628715  0.2500000223119491  0.25000002444576197  1.0000
+  Li  Li2       1.0  0.7499999965727331  0.750000003742068  0.7499999395616013  1.0000
+  Pb  Pb1       1.0  1.975949711125925e-08  5.266148258583688e-09  0.9999999831873851  1.0000
+  Cl  Cl1       1.0  0.2590018737173637  0.25900182021570334  0.7409981476500959  1.0000
+  Cl  Cl2       1.0  0.7409981015518828  0.7409982005721655  0.25900185277620863  1.0000
+  Cl  Cl3       1.0  0.7409981660087352  0.259001823145025  0.259001848061513  1.0000
+  Cl  Cl4       1.0  0.259001857473252  0.7409981572690402  0.740998171377549  1.0000
+  Cl  Cl5       1.0  0.25900183305458746  0.7409981517402473  0.2590018265437537  1.0000
+  Cl  Cl6       1.0  0.7409982045536294  0.2590018111199905  0.7409981946091072  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2TaBr6
+_chemical_formula_sum              "Rh2 Ta1 Br6"
+_cell_length_a       6.864428727905548
+_cell_length_b       6.864428606159711
+_cell_length_c       6.864428681395551
+_cell_angle_alpha    59.99999896759416
+_cell_angle_beta     59.99999881134211
+_cell_angle_gamma    59.99999839390495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.2500000277820733  0.24999996485380535  0.25000010307730414  1.0000
+  Rh  Rh2       1.0  0.7500000027720422  0.7499999445187536  0.7499999195539709  1.0000
+  Ta  Ta1       1.0  0.9999999859305546  3.211543068653188e-08  0.9999999676684397  1.0000
+  Br  Br1       1.0  0.25573434497826736  0.25573443251772443  0.7442655939125027  1.0000
+  Br  Br2       1.0  0.7442656527636464  0.7442655803378888  0.2557344356301247  1.0000
+  Br  Br3       1.0  0.7442656281271205  0.2557344047756582  0.2557343479574196  1.0000
+  Br  Br4       1.0  0.2557343808796526  0.7442656348428139  0.744265610127071  1.0000
+  Br  Br5       1.0  0.25573435689995394  0.744265621670896  0.255734407002106  1.0000
+  Br  Br6       1.0  0.7442656236297994  0.2557343822637644  0.7442656224960088  1.0000

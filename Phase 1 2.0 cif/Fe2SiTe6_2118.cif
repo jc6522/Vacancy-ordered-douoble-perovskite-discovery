@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2SiTe6
+_chemical_formula_sum              "Fe2 Si1 Te6"
+_cell_length_a       7.111098997323886
+_cell_length_b       7.111098674442606
+_cell_length_c       7.111099598083459
+_cell_angle_alpha    59.999999572867864
+_cell_angle_beta     60.00000030194001
+_cell_angle_gamma    59.999996975710836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999989183147922  0.25000028891032094  0.25000001573805264  1.0000
+  Fe  Fe2       1.0  0.7500002322924009  0.749999995246868  0.7499996336187866  1.0000
+  Si  Si1       1.0  0.9999999883378957  1.550070382852794e-08  0.9999999629243935  1.0000
+  Te  Te1       1.0  0.27945451885825995  0.2794548707718276  0.7205454804794472  1.0000
+  Te  Te2       1.0  0.7205454358052026  0.7205451033712906  0.27945499220931813  1.0000
+  Te  Te3       1.0  0.7205452002053574  0.27945494785372643  0.27945456467623775  1.0000
+  Te  Te4       1.0  0.27945469258466676  0.7205453190804644  0.7205452623966092  1.0000
+  Te  Te5       1.0  0.27945466038118133  0.7205449018747131  0.2794548320293364  1.0000
+  Te  Te6       1.0  0.720545368788808  0.2794545710789323  0.7205452479061576  1.0000

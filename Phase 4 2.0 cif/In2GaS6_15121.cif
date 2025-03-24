@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2GaS6
+_chemical_formula_sum              "In2 Ga1 S6"
+_cell_length_a       6.416278476969963
+_cell_length_b       6.416278296650684
+_cell_length_c       6.416278185563031
+_cell_angle_alpha    60.00000342674312
+_cell_angle_beta     60.00000237304343
+_cell_angle_gamma    60.00000335683669
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000016919663415  0.24999998431880283  0.2500001605094221  1.0000
+  In  In2       1.0  0.7500002398049744  0.7500000598496663  0.749999611267193  1.0000
+  Ga  Ga1       1.0  1.5467878585270925e-07  0.9999999732766798  0.9999999157613008  1.0000
+  S   S1        1.0  0.25899860910343425  0.2589987267177977  0.7410013603325094  1.0000
+  S   S2        1.0  0.7410012709125562  0.7410013117242407  0.25899887361711615  1.0000
+  S   S3        1.0  0.7410009678832181  0.2589986947136374  0.25899888201895377  1.0000
+  S   S4        1.0  0.25899884716478216  0.7410012902817411  0.7410009544869717  1.0000
+  S   S5        1.0  0.2589985522834093  0.7410012228262554  0.25899887974344976  1.0000
+  S   S6        1.0  0.7410012162109582  0.25899871826653137  0.7410013698050633  1.0000

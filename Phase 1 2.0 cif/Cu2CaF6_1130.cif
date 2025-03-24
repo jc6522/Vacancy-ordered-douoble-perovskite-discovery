@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2CaF6
+_chemical_formula_sum              "Cu2 Ca1 F6"
+_cell_length_a       5.57448007512426
+_cell_length_b       5.574480117478066
+_cell_length_c       5.574480139230167
+_cell_angle_alpha    60.00000041796582
+_cell_angle_beta     60.000000899705135
+_cell_angle_gamma    60.000000177532016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499999293383196  0.2500001727301119  0.24999999195259412  1.0000
+  Cu  Cu2       1.0  0.7499999907471725  0.7500001337054188  0.7499998568490919  1.0000
+  Ca  Ca1       1.0  0.9999999810235176  0.9999999450735836  3.1569781271222514e-08  1.0000
+  F   F1        1.0  0.2664707715110426  0.2664705580120721  0.7335294036361922  1.0000
+  F   F2        1.0  0.7335293393808456  0.7335293375738628  0.2664707543088006  1.0000
+  F   F3        1.0  0.733529220705108  0.26647072524102144  0.26647071828151153  1.0000
+  F   F4        1.0  0.26647073635709145  0.73352927140952  0.733529248985422  1.0000
+  F   F5        1.0  0.26647067930534285  0.7335291697077506  0.26647080183210675  1.0000
+  F   F6        1.0  0.7335293261961965  0.2664707126958442  0.7335291786058483  1.0000

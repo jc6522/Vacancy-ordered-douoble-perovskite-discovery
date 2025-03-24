@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2SiO6
+_chemical_formula_sum              "Co2 Si1 O6"
+_cell_length_a       4.563909593642716
+_cell_length_b       4.563909649137814
+_cell_length_c       4.563909602950238
+_cell_angle_alpha    60.00000070705973
+_cell_angle_beta     60.00000058040841
+_cell_angle_gamma    60.00000112067574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2500000680542722  0.24999987450623912  0.2499997454804864  1.0000
+  Co  Co2       1.0  0.7500000532486908  0.7499998865059485  0.749999715034251  1.0000
+  Si  Si1       1.0  0.9999995057022105  8.453161027539563e-07  3.021311391763409e-06  1.0000
+  O   O1        1.0  0.26873294184686475  0.26873308659044404  0.731267212890504  1.0000
+  O   O2        1.0  0.731266704438883  0.7312668622697651  0.26873347799634856  1.0000
+  O   O3        1.0  0.7312680656222322  0.2687319749708746  0.2687320679822855  1.0000
+  O   O4        1.0  0.26873434136430036  0.7312657411814242  0.7312658303742694  1.0000
+  O   O5        1.0  0.26873231179508783  0.7312676993482304  0.2687326141820879  1.0000
+  O   O6        1.0  0.7312659969998241  0.26873401528337715  0.731266311262941  1.0000

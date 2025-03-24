@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2TeBr6
+_chemical_formula_sum              "Cu2 Te1 Br6"
+_cell_length_a       7.3170154306298265
+_cell_length_b       7.317015580976003
+_cell_length_c       7.317015483643816
+_cell_angle_alpha    60.000000558308294
+_cell_angle_beta     60.00000024348885
+_cell_angle_gamma    60.00000002756998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500000262100991  0.2499998673439915  0.2500000951106223  1.0000
+  Cu  Cu2       1.0  0.7499999746092166  0.7500001744822301  0.7499999759500204  1.0000
+  Te  Te1       1.0  8.075402222601333e-08  1.3390648669951623e-08  0.9999999283274709  1.0000
+  Br  Br1       1.0  0.25735229684038363  0.25735225743453793  0.7426477344677258  1.0000
+  Br  Br2       1.0  0.7426476145385387  0.7426477023739579  0.25735235672145884  1.0000
+  Br  Br3       1.0  0.742647713470915  0.25735225240137366  0.2573523028301872  1.0000
+  Br  Br4       1.0  0.25735226834828245  0.7426477375360826  0.742647682040605  1.0000
+  Br  Br5       1.0  0.25735228798412124  0.7426477662265494  0.25735222042244327  1.0000
+  Br  Br6       1.0  0.7426477326339841  0.2573522304062311  0.742647710267652  1.0000

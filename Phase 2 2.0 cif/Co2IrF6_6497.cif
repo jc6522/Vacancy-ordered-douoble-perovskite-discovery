@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2IrF6
+_chemical_formula_sum              "Co2 Ir1 F6"
+_cell_length_a       5.453684941551803
+_cell_length_b       5.453685397660526
+_cell_length_c       5.4536848920158905
+_cell_angle_alpha    60.00000058931301
+_cell_angle_beta     60.000000221035236
+_cell_angle_gamma    60.000000233725146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2499998826182416  0.2500001250293061  0.24999993706814116  1.0000
+  Co  Co2       1.0  0.7500000251243185  0.7499999102239349  0.7500000456983795  1.0000
+  Ir  Ir1       1.0  0.9999999812013046  0.9999999865256812  5.280895976281157e-08  1.0000
+  F   F1        1.0  0.2565628686621538  0.25656279783073416  0.7434371999317669  1.0000
+  F   F2        1.0  0.7434371699044448  0.7434371498394367  0.25656278871861077  1.0000
+  F   F3        1.0  0.7434372020278277  0.25656286603822354  0.2565628208187402  1.0000
+  F   F4        1.0  0.25656284522071  0.743437144512097  0.7434371668894216  1.0000
+  F   F5        1.0  0.2565628170839936  0.743437122109755  0.2565628617613043  1.0000
+  F   F6        1.0  0.7434372043718194  0.2565629086520433  0.7434371232366128  1.0000

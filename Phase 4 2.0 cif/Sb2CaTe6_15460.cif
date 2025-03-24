@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2CaTe6
+_chemical_formula_sum              "Sb2 Ca1 Te6"
+_cell_length_a       7.541821590509274
+_cell_length_b       7.541821305641654
+_cell_length_c       7.541821316186276
+_cell_angle_alpha    60.00000157696047
+_cell_angle_beta     59.99999960811073
+_cell_angle_gamma    59.99999812844518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.24999976961739262  0.2500000623228887  0.2500001943887729  1.0000
+  Sb  Sb2       1.0  0.7500003368457159  0.750000152865943  0.7499998276626646  1.0000
+  Ca  Ca1       1.0  0.9999999907976842  2.7606943736559038e-08  3.455369531244729e-08  1.0000
+  Te  Te1       1.0  0.2848522159239275  0.2848522796370704  0.7151477275928046  1.0000
+  Te  Te2       1.0  0.7151477641616081  0.7151476578583973  0.2848523148403658  1.0000
+  Te  Te3       1.0  0.7151478170801565  0.28485215272014985  0.28485230119563826  1.0000
+  Te  Te4       1.0  0.2848520055685619  0.7151477977668194  0.7151476357842774  1.0000
+  Te  Te5       1.0  0.2848521491461705  0.7151477093062657  0.28485241772115055  1.0000
+  Te  Te6       1.0  0.7151479521109798  0.2848521632316864  0.7151475435673816  1.0000

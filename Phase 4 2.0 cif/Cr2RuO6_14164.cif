@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2RuO6
+_chemical_formula_sum              "Cr2 Ru1 O6"
+_cell_length_a       5.337770260988864
+_cell_length_b       5.337770194187451
+_cell_length_c       5.337770185050244
+_cell_angle_alpha    60.00000041049752
+_cell_angle_beta     59.99999977619388
+_cell_angle_gamma    60.000000765895095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.25000013612763144  0.2500001420476431  0.24999983544113294  1.0000
+  Cr  Cr2       1.0  0.7500000326613419  0.7499998984107309  0.7500001079255919  1.0000
+  Ru  Ru1       1.0  4.632459395447977e-08  0.999999990822049  0.9999999570719392  1.0000
+  O   O1        1.0  0.2461294260264131  0.24612951418921272  0.7538704964640867  1.0000
+  O   O2        1.0  0.7538705636053348  0.7538705056187682  0.2461294025514552  1.0000
+  O   O3        1.0  0.7538704682721088  0.24612946436454966  0.24612939375599757  1.0000
+  O   O4        1.0  0.24612949301978929  0.7538704911977729  0.7538706227430744  1.0000
+  O   O5        1.0  0.24612935085624146  0.7538704740616703  0.2461295509303277  1.0000
+  O   O6        1.0  0.7538704943617236  0.2461295182124567  0.7538705989218822  1.0000

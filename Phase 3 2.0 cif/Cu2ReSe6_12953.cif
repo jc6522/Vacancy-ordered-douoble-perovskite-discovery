@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2ReSe6
+_chemical_formula_sum              "Cu2 Re1 Se6"
+_cell_length_a       6.555596397611138
+_cell_length_b       6.555596508678396
+_cell_length_c       6.55559649648435
+_cell_angle_alpha    59.999999875045134
+_cell_angle_beta     60.00000042909686
+_cell_angle_gamma    59.999999990760344
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.25000002431686663  0.25000007060159757  0.24999986421049084  1.0000
+  Cu  Cu2       1.0  0.7499999368286396  0.7499999913520914  0.7500001095607557  1.0000
+  Re  Re1       1.0  0.9999999615514826  1.4945945695823867e-08  4.531039801157421e-08  1.0000
+  Se  Se1       1.0  0.26326276426958334  0.26326282164049314  0.7367371953278613  1.0000
+  Se  Se2       1.0  0.736737232638088  0.7367372122895476  0.263262713557559  1.0000
+  Se  Se3       1.0  0.736737309814471  0.2632627186155748  0.26326277569650564  1.0000
+  Se  Se4       1.0  0.2632628732884872  0.7367371266218996  0.7367372564706921  1.0000
+  Se  Se5       1.0  0.2632627838693232  0.7367372600602228  0.26326274412837536  1.0000
+  Se  Se6       1.0  0.73673712600032  0.2632627813427909  0.7367372853865246  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2FeO6
+_chemical_formula_sum              "Hg2 Fe1 O6"
+_cell_length_a       5.3932640842628965
+_cell_length_b       5.393263893322702
+_cell_length_c       5.393263959983276
+_cell_angle_alpha    60.00000053436455
+_cell_angle_beta     60.00000049421173
+_cell_angle_gamma    59.99999997776994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2499999458725634  0.2500000872484469  0.24999999027918562  1.0000
+  Hg  Hg2       1.0  0.7499999921634977  0.7500000164904275  0.7499998140881485  1.0000
+  Fe  Fe1       1.0  1.0605582629075873e-07  0.9999999772912108  0.9999998415141009  1.0000
+  O   O1        1.0  0.24016391541793694  0.24016386780563911  0.7598360725334732  1.0000
+  O   O2        1.0  0.759836075627578  0.759836038366781  0.2401639858205065  1.0000
+  O   O3        1.0  0.7598360487291498  0.24016392052464008  0.2401639032432669  1.0000
+  O   O4        1.0  0.24016389990434348  0.7598361514219351  0.759836252887817  1.0000
+  O   O5        1.0  0.24016390087197761  0.7598360499619423  0.2401639487312472  1.0000
+  O   O6        1.0  0.7598360950603491  0.24016389935717658  0.7598361912933689  1.0000

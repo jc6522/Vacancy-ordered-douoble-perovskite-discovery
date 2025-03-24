@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2BiF6
+_chemical_formula_sum              "Li2 Bi1 F6"
+_cell_length_a       5.938811144820961
+_cell_length_b       5.938811842221357
+_cell_length_c       5.9388114822619045
+_cell_angle_alpha    59.99999956607934
+_cell_angle_beta     60.000001607648535
+_cell_angle_gamma    60.000001470257565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000356489219  0.24999990428226618  0.25000003855995545  1.0000
+  Li  Li2       1.0  0.7500000798573965  0.7500000799313161  0.7499998598065162  1.0000
+  Bi  Bi1       1.0  2.755421171993153e-08  1.6498175907874162e-08  8.405563828135322e-08  1.0000
+  F   F1        1.0  0.2530181995506395  0.253018304322479  0.746981667179018  1.0000
+  F   F2        1.0  0.7469816526051289  0.7469817933161007  0.2530181697592944  1.0000
+  F   F3        1.0  0.7469818347428534  0.2530181423705869  0.25301822099155485  1.0000
+  F   F4        1.0  0.2530179964363685  0.7469820356966149  0.7469817680752862  1.0000
+  F   F5        1.0  0.2530183754293956  0.7469816165989356  0.2530182284554675  1.0000
+  F   F6        1.0  0.7469818682107215  0.2530181057060254  0.7469819018146063  1.0000

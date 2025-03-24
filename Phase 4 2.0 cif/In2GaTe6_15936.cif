@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2GaTe6
+_chemical_formula_sum              "In2 Ga1 Te6"
+_cell_length_a       7.3825819321475254
+_cell_length_b       7.382580969121214
+_cell_length_c       7.382580739266656
+_cell_angle_alpha    60.00000375605181
+_cell_angle_beta     60.00000356705141
+_cell_angle_gamma    59.99999648505958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.24999998657735584  0.2500000409802562  0.24999987021727968  1.0000
+  In  In2       1.0  0.750000081815101  0.749999817691093  0.7500002088330658  1.0000
+  Ga  Ga1       1.0  3.82022407549532e-08  0.9999999651617316  3.4372568101061414e-07  1.0000
+  Te  Te1       1.0  0.2688641904596916  0.26886448147504416  0.7311356186496362  1.0000
+  Te  Te2       1.0  0.7311355324400715  0.7311355596825392  0.26886432653210735  1.0000
+  Te  Te3       1.0  0.7311356253745824  0.26886438469114016  0.26886437706249816  1.0000
+  Te  Te4       1.0  0.2688647134018123  0.7311353478987964  0.7311354334282965  1.0000
+  Te  Te5       1.0  0.2688646226166019  0.7311357717918535  0.26886428731730666  1.0000
+  Te  Te6       1.0  0.7311352236507085  0.2688646077947323  0.7311355448111364  1.0000

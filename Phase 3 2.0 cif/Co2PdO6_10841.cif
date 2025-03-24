@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2PdO6
+_chemical_formula_sum              "Co2 Pd1 O6"
+_cell_length_a       5.109068036767188
+_cell_length_b       5.109068166898405
+_cell_length_c       5.109068160376312
+_cell_angle_alpha    59.99999984077676
+_cell_angle_beta     60.000000814825675
+_cell_angle_gamma    60.000000500209275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2499999815837052  0.2500000694752247  0.25000009062836703  1.0000
+  Co  Co2       1.0  0.7499999194827492  0.7499999926778438  0.7500001046694985  1.0000
+  Pd  Pd1       1.0  0.9999999535876375  2.3971981407829008e-08  9.262885882103221e-09  1.0000
+  O   O1        1.0  0.26587817671389186  0.2658782499676824  0.7341217835543118  1.0000
+  O   O2        1.0  0.7341218509887323  0.7341216899282822  0.2658782490550873  1.0000
+  O   O3        1.0  0.7341217108509219  0.26587818972479116  0.26587828638584715  1.0000
+  O   O4        1.0  0.2658782277010661  0.7341218820170717  0.7341216602848847  1.0000
+  O   O5        1.0  0.2658784030301405  0.7341216654019976  0.2658780629324296  1.0000
+  O   O6        1.0  0.7341217693424104  0.26587823374159997  0.7341217474327358  1.0000

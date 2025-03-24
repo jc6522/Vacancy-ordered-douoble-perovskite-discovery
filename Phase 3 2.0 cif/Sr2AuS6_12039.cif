@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2AuS6
+_chemical_formula_sum              "Sr2 Au1 S6"
+_cell_length_a       6.518577658675925
+_cell_length_b       6.51857786155038
+_cell_length_c       6.518577800397405
+_cell_angle_alpha    59.999999559419344
+_cell_angle_beta     59.999999619735256
+_cell_angle_gamma    59.99999832592934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.249999986953108  0.24999996834040009  0.2500000077376771  1.0000
+  Sr  Sr2       1.0  0.7500000139275651  0.7500000327831947  0.7499999757520677  1.0000
+  Au  Au1       1.0  8.665425152493784e-08  6.95175547930433e-08  0.9999999234481737  1.0000
+  S   S1        1.0  0.26278325057808466  0.2627832573221495  0.7372167513070301  1.0000
+  S   S2        1.0  0.7372167077184186  0.7372166855570067  0.2627832964037117  1.0000
+  S   S3        1.0  0.7372167625424229  0.26278322873135385  0.2627832424929068  1.0000
+  S   S4        1.0  0.2627832287475147  0.7372167799076526  0.7372167512389618  1.0000
+  S   S5        1.0  0.2627832239329446  0.7372167469768435  0.2627832794487865  1.0000
+  S   S6        1.0  0.7372167467449192  0.26278322784281133  0.7372167568395642  1.0000

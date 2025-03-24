@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2HgSe6
+_chemical_formula_sum              "Sr2 Hg1 Se6"
+_cell_length_a       6.925579889977974
+_cell_length_b       6.925579992427216
+_cell_length_c       6.925580103597731
+_cell_angle_alpha    59.999996965926485
+_cell_angle_beta     59.999998800753836
+_cell_angle_gamma    59.99999783826625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2499999871724497  0.25000000919618814  0.2500000383624364  1.0000
+  Sr  Sr2       1.0  0.7499999968513746  0.7499999816092178  0.7499999283682958  1.0000
+  Hg  Hg1       1.0  6.872906691354917e-08  3.890560503445993e-08  0.9999999317434396  1.0000
+  Se  Se1       1.0  0.2804202381346305  0.2804202135181229  0.7195797925169809  1.0000
+  Se  Se2       1.0  0.7195797676999129  0.7195797118551256  0.28042031153826097  1.0000
+  Se  Se3       1.0  0.7195798754674991  0.2804201224406231  0.2804201832796615  1.0000
+  Se  Se4       1.0  0.280420263667099  0.7195797781745139  0.7195797943084908  1.0000
+  Se  Se5       1.0  0.28042012917575465  0.7195797938758572  0.28042025631178336  1.0000
+  Se  Se6       1.0  0.7195796687145458  0.28042034017291345  0.7195797766256192  1.0000

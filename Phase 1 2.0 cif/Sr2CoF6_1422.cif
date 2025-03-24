@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2CoF6
+_chemical_formula_sum              "Sr2 Co1 F6"
+_cell_length_a       5.576827715802049
+_cell_length_b       5.57682769534331
+_cell_length_c       5.576827669525136
+_cell_angle_alpha    60.00000000490608
+_cell_angle_beta     60.00000040879501
+_cell_angle_gamma    59.99999969831119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000002039743563  0.24999993344953625  0.2500000024717053  1.0000
+  Sr  Sr2       1.0  0.7499999659440945  0.7500000177656585  0.7500000521256102  1.0000
+  Co  Co1       1.0  0.9999999659707315  8.345300899295191e-08  5.4186031127548305e-08  1.0000
+  F   F1        1.0  0.246233370739414  0.2462333225321164  0.7537666426646352  1.0000
+  F   F2        1.0  0.7537666849954436  0.7537666813902417  0.2462333311579594  1.0000
+  F   F3        1.0  0.7537667711412143  0.24623319172277985  0.24623328402632183  1.0000
+  F   F4        1.0  0.24623335470116417  0.7537666826278011  0.7537666424236341  1.0000
+  F   F5        1.0  0.2462331961149858  0.753766764995128  0.24623327664700956  1.0000
+  F   F6        1.0  0.7537666643402333  0.24623330920344916  0.7537667220214781  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2CrS6
+_chemical_formula_sum              "Zn2 Cr1 S6"
+_cell_length_a       6.210982485491706
+_cell_length_b       6.210982506987754
+_cell_length_c       6.210982775234717
+_cell_angle_alpha    59.999997647509
+_cell_angle_beta     59.999997836422864
+_cell_angle_gamma    59.99999757028444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2500005779340951  0.2499996183983403  0.2499999443812412  1.0000
+  Zn  Zn2       1.0  0.7499999317470192  0.7499998273427448  0.7500001257336085  1.0000
+  Cr  Cr1       1.0  4.890117899344949e-08  0.9999999704214689  0.9999999887286248  1.0000
+  S   S1        1.0  0.25129247545801464  0.25129272654604495  0.7487074499642169  1.0000
+  S   S2        1.0  0.7487072475541618  0.7487075454220015  0.25129259393141407  1.0000
+  S   S3        1.0  0.7487071969448285  0.25129267785628884  0.2512925965130324  1.0000
+  S   S4        1.0  0.2512927354173311  0.7487075349546964  0.748707105017645  1.0000
+  S   S5        1.0  0.25129270182048996  0.7487074108241208  0.2512926245754404  1.0000
+  S   S6        1.0  0.7487070847049548  0.25129271522317387  0.7487075088254679  1.0000

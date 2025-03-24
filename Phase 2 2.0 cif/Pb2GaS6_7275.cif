@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2GaS6
+_chemical_formula_sum              "Pb2 Ga1 S6"
+_cell_length_a       6.441071739057677
+_cell_length_b       6.441071726192302
+_cell_length_c       6.441071707651381
+_cell_angle_alpha    59.999998089536504
+_cell_angle_beta     60.00000037731553
+_cell_angle_gamma    59.99999840434172
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999995644413958  0.250000011474686  0.250000033800802  1.0000
+  Pb  Pb2       1.0  0.749999956234047  0.75000002111383  0.7499999667968961  1.0000
+  Ga  Ga1       1.0  2.37775964994385e-08  0.9999999125327779  7.940808349629135e-10  1.0000
+  S   S1        1.0  0.2585922933430589  0.25859225288261045  0.7414076911509678  1.0000
+  S   S2        1.0  0.7414077751925785  0.7414077854102894  0.2585921898523966  1.0000
+  S   S3        1.0  0.7414076832760697  0.25859227391452566  0.258592335591292  1.0000
+  S   S4        1.0  0.25859220247407805  0.7414078233236728  0.741407818477153  1.0000
+  S   S5        1.0  0.2585922747751956  0.7414077377210088  0.25859221133716775  1.0000
+  S   S6        1.0  0.741407834107459  0.2585921902871307  0.7414077512111698  1.0000

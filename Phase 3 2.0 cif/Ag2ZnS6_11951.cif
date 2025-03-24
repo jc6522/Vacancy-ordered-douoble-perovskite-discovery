@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2ZnS6
+_chemical_formula_sum              "Ag2 Zn1 S6"
+_cell_length_a       6.327270540235582
+_cell_length_b       6.327270260890958
+_cell_length_c       6.327270188477546
+_cell_angle_alpha    60.000005478500945
+_cell_angle_beta     59.99999936463946
+_cell_angle_gamma    60.00000414336836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999999947042092  0.2500000943796289  0.24999986569894722  1.0000
+  Ag  Ag2       1.0  0.7499998787231771  0.7500000837658503  0.7499999225757397  1.0000
+  Zn  Zn1       1.0  4.4401835699555164e-07  0.9999999709651566  6.064453419937446e-07  1.0000
+  S   S1        1.0  0.264066321988536  0.2640662237257641  0.7359337484277714  1.0000
+  S   S2        1.0  0.7359334783488382  0.7359334434053177  0.26406647968456504  1.0000
+  S   S3        1.0  0.7359336529108634  0.2640664502065881  0.264066138648385  1.0000
+  S   S4        1.0  0.2640665696338688  0.7359334066192372  0.7359336554956073  1.0000
+  S   S5        1.0  0.2640663025097168  0.735933624626939  0.26406615566124486  1.0000
+  S   S6        1.0  0.7359333495154953  0.26406670643570873  0.735933446394144  1.0000

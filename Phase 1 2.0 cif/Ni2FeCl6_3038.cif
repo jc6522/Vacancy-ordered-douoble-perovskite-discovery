@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2FeCl6
+_chemical_formula_sum              "Ni2 Fe1 Cl6"
+_cell_length_a       6.470537752752117
+_cell_length_b       6.470537838380968
+_cell_length_c       6.470537665412124
+_cell_angle_alpha    60.000001974223885
+_cell_angle_beta     60.00000224640098
+_cell_angle_gamma    60.000001736168045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.25000004181038343  0.24999998916748897  0.24999986591549686  1.0000
+  Ni  Ni2       1.0  0.7499998536535287  0.7500001511042863  0.7500002971122381  1.0000
+  Fe  Fe1       1.0  0.999999997890693  1.7035219212545564e-08  0.9999998395358483  1.0000
+  Cl  Cl1       1.0  0.24124133342737483  0.24124123510658582  0.7587586707103483  1.0000
+  Cl  Cl2       1.0  0.7587586772066737  0.7587586988497449  0.24124119788738352  1.0000
+  Cl  Cl3       1.0  0.7587586488919751  0.24124134058009616  0.2412413777204186  1.0000
+  Cl  Cl4       1.0  0.24124133115106153  0.7587586690883251  0.7587587264097004  1.0000
+  Cl  Cl5       1.0  0.241241411842419  0.7587586718921538  0.24124129535768796  1.0000
+  Cl  Cl6       1.0  0.7587586958068977  0.24124122799373782  0.7587587380418916  1.0000

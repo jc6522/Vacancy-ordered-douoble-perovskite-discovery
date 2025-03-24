@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2GaS6
+_chemical_formula_sum              "Hg2 Ga1 S6"
+_cell_length_a       6.311665407793464
+_cell_length_b       6.311665408980211
+_cell_length_c       6.311665253205615
+_cell_angle_alpha    60.00000084004376
+_cell_angle_beta     60.00000265137412
+_cell_angle_gamma    60.0000011538855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500001447700046  0.2499999031679885  0.24999987393988818  1.0000
+  Hg  Hg2       1.0  0.7500000688184941  0.7499999442979808  0.7499999612640632  1.0000
+  Ga  Ga1       1.0  5.821341116485407e-09  0.9999999825359815  9.613031065834103e-08  1.0000
+  S   S1        1.0  0.2649440571260693  0.2649441491074987  0.7350559032779674  1.0000
+  S   S2        1.0  0.7350558403856492  0.7350559001648974  0.26494416175726054  1.0000
+  S   S3        1.0  0.7350559148674327  0.2649440843037052  0.2649440177484336  1.0000
+  S   S4        1.0  0.2649440229845678  0.7350559921349418  0.7350559089652452  1.0000
+  S   S5        1.0  0.26494403901082164  0.7350560496122773  0.26494405212080513  1.0000
+  S   S6        1.0  0.7350558988602223  0.2649439938387793  0.7350560336702605  1.0000

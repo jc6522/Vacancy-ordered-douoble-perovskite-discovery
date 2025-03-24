@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2NiSe6
+_chemical_formula_sum              "Hg2 Ni1 Se6"
+_cell_length_a       6.621113784031731
+_cell_length_b       6.621114483859241
+_cell_length_c       6.621113422710819
+_cell_angle_alpha    60.00000023384635
+_cell_angle_beta     60.00000279149699
+_cell_angle_gamma    60.00000100184962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000006641009215  0.24999989639133946  0.25000002729670523  1.0000
+  Hg  Hg2       1.0  0.7499998690521231  0.7499999629379621  0.7500001538964876  1.0000
+  Ni  Ni1       1.0  1.955544655381634e-09  0.9999999889014639  0.9999999698341362  1.0000
+  Se  Se1       1.0  0.248064458196407  0.24806442690840944  0.7519355992270429  1.0000
+  Se  Se2       1.0  0.7519356570334029  0.7519355471057895  0.24806433958974103  1.0000
+  Se  Se3       1.0  0.7519353874632667  0.2480646271070048  0.24806445075842443  1.0000
+  Se  Se4       1.0  0.24806457281638164  0.7519354245969639  0.7519355191369511  1.0000
+  Se  Se5       1.0  0.24806446901443752  0.7519354332248431  0.24806459714405021  1.0000
+  Se  Se6       1.0  0.7519355167718359  0.2480646832205913  0.7519354348599974  1.0000

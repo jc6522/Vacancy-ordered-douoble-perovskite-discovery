@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ru2GeN6
+_chemical_formula_sum              "Ru2 Ge1 N6"
+_cell_length_a       5.015181695223395
+_cell_length_b       5.015181886427692
+_cell_length_c       5.0151818998410205
+_cell_angle_alpha    59.99999969954374
+_cell_angle_beta     60.00000092814925
+_cell_angle_gamma    60.00000301742202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.24999974604815225  0.2499992087541762  0.25000069002130765  1.0000
+  Ru  Ru2       1.0  0.7499997477302051  0.7499998412242729  0.7499994456226022  1.0000
+  Ge  Ge1       1.0  0.999999941254653  0.9999999413902058  1.3045961215491982e-07  1.0000
+  N   N1        1.0  0.26563533520689814  0.26563531442172217  0.7343647970073696  1.0000
+  N   N2        1.0  0.7343644192819813  0.7343649150787817  0.2656358108997374  1.0000
+  N   N3        1.0  0.7343646721627264  0.26563529547216097  0.26563538454029917  1.0000
+  N   N4        1.0  0.2656357101857823  0.7343649706594865  0.7343642829680169  1.0000
+  N   N5        1.0  0.26563529508849676  0.7343649196526031  0.2656353518646487  1.0000
+  N   N6        1.0  0.7343651254431899  0.2656355980127366  0.7343640710879512  1.0000

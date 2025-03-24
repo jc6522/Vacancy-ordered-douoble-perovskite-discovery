@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2PBr6
+_chemical_formula_sum              "Co2 P1 Br6"
+_cell_length_a       7.032393238295022
+_cell_length_b       7.032393245086376
+_cell_length_c       7.032393099033188
+_cell_angle_alpha    60.000001033693714
+_cell_angle_beta     59.999999953990056
+_cell_angle_gamma    59.99999841396527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.250000342925551  0.2500012432797643  0.24999882235888482  1.0000
+  Co  Co2       1.0  0.7499994846686185  0.7500001752823127  0.7499983765131913  1.0000
+  P   P1        1.0  2.388405401651636e-08  0.9999999529774435  2.1491397018063037e-07  1.0000
+  Br  Br1       1.0  0.2511133973560383  0.251113023504305  0.7488869255458479  1.0000
+  Br  Br2       1.0  0.7488868433676641  0.7488865054476104  0.2511139451340577  1.0000
+  Br  Br3       1.0  0.7488865940343991  0.25111295074007234  0.2511136540577085  1.0000
+  Br  Br4       1.0  0.2511137247956103  0.7488862995596496  0.7488872344196589  1.0000
+  Br  Br5       1.0  0.2511130742221038  0.7488863554983055  0.25111364016079735  1.0000
+  Br  Br6       1.0  0.748886514168296  0.25111348519576304  0.7488871988919593  1.0000

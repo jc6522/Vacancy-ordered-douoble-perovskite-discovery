@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2CrSe6
+_chemical_formula_sum              "Li2 Cr1 Se6"
+_cell_length_a       6.314407388248561
+_cell_length_b       6.3144075299725255
+_cell_length_c       6.3144075597817375
+_cell_angle_alpha    59.99999773893499
+_cell_angle_beta     59.999999298336775
+_cell_angle_gamma    59.99999737316845
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999993831595776  0.25000002678550637  0.2500000376169304  1.0000
+  Li  Li2       1.0  0.7500000619300676  0.7500000745377025  0.7500000017711819  1.0000
+  Cr  Cr1       1.0  5.707883853639229e-08  0.999999883623771  0.9999999362115861  1.0000
+  Se  Se1       1.0  0.27055223475990575  0.27055222506054666  0.729447745635336  1.0000
+  Se  Se2       1.0  0.7294477905362121  0.7294477133359428  0.2705522264946254  1.0000
+  Se  Se3       1.0  0.7294476812461481  0.27055232439851823  0.27055232589808864  1.0000
+  Se  Se4       1.0  0.27055219411429904  0.7294477730454861  0.7294477509498575  1.0000
+  Se  Se5       1.0  0.27055221570670823  0.7294477494241717  0.2705522241469455  1.0000
+  Se  Se6       1.0  0.7294478229067164  0.27055222582478944  0.7294477688248416  1.0000

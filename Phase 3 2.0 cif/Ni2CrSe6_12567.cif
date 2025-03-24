@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2CrSe6
+_chemical_formula_sum              "Ni2 Cr1 Se6"
+_cell_length_a       6.112065977239738
+_cell_length_b       6.11206639331719
+_cell_length_c       6.112066285588614
+_cell_angle_alpha    60.000006294481395
+_cell_angle_beta     60.00000303950582
+_cell_angle_gamma    60.00000509313265
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500001752090613  0.24999964274307349  0.24999959815184367  1.0000
+  Ni  Ni2       1.0  0.7499997748882752  0.7499997918733861  0.7500005099077801  1.0000
+  Cr  Cr1       1.0  0.9999999963361695  0.999999993988555  0.9999999786599107  1.0000
+  Se  Se1       1.0  0.2747564781315356  0.27475638870078867  0.7252439096191214  1.0000
+  Se  Se2       1.0  0.7252435371417664  0.7252437232050081  0.27475600390753724  1.0000
+  Se  Se3       1.0  0.725243628235031  0.27475666226270445  0.27475636571762335  1.0000
+  Se  Se4       1.0  0.27475648032998595  0.7252437422000271  0.7252434645039562  1.0000
+  Se  Se5       1.0  0.27475645465608495  0.7252435567348313  0.27475663139415807  1.0000
+  Se  Se6       1.0  0.7252435057547173  0.27475649305272154  0.7252435156864139  1.0000

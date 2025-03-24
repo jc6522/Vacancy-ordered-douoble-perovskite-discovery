@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2MnN6
+_chemical_formula_sum              "Ga2 Mn1 N6"
+_cell_length_a       5.003208190383848
+_cell_length_b       5.003208271312532
+_cell_length_c       5.003208110621803
+_cell_angle_alpha    59.99999981643919
+_cell_angle_beta     60.00000057763333
+_cell_angle_gamma    59.999999484580016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.24999992723463224  0.2500001257465497  0.24999994820283464  1.0000
+  Ga  Ga2       1.0  0.7500000486588315  0.7500000541143363  0.7499997187924422  1.0000
+  Mn  Mn1       1.0  1.4523495457194634e-08  4.895837996207374e-09  0.9999999862928981  1.0000
+  N   N1        1.0  0.2553165843616556  0.2553164650378068  0.7446834828623519  1.0000
+  N   N2        1.0  0.7446834678372986  0.7446834651353329  0.25531656263682206  1.0000
+  N   N3        1.0  0.7446835332206034  0.255316420109445  0.25531664535672377  1.0000
+  N   N4        1.0  0.2553165555571387  0.7446834072510937  0.7446835172054959  1.0000
+  N   N5        1.0  0.25531638838781157  0.7446834925897585  0.2553166707426975  1.0000
+  N   N6        1.0  0.7446834702697599  0.25531658201060514  0.7446834492814937  1.0000

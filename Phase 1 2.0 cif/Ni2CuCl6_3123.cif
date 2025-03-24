@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2CuCl6
+_chemical_formula_sum              "Ni2 Cu1 Cl6"
+_cell_length_a       6.420694896325156
+_cell_length_b       6.420694903843766
+_cell_length_c       6.4206948972743305
+_cell_angle_alpha    60.00000032590708
+_cell_angle_beta     59.999999526306944
+_cell_angle_gamma    59.99999915455547
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.25000012028832647  0.24999997311688338  0.2499999453883999  1.0000
+  Ni  Ni2       1.0  0.749999983034827  0.7500000223554286  0.7499999891525267  1.0000
+  Cu  Cu1       1.0  0.9999999561837468  3.4334925227877143e-08  0.9999999969533451  1.0000
+  Cl  Cl1       1.0  0.25208523385188625  0.252085225270813  0.7479147565092717  1.0000
+  Cl  Cl2       1.0  0.7479147499412842  0.747914751126542  0.252085230202023  1.0000
+  Cl  Cl3       1.0  0.7479147765330464  0.25208520341769636  0.2520852070036435  1.0000
+  Cl  Cl4       1.0  0.252085220684252  0.7479147920546168  0.7479147728028913  1.0000
+  Cl  Cl5       1.0  0.25208522686494084  0.7479147265872681  0.25208528851752343  1.0000
+  Cl  Cl6       1.0  0.7479147469731005  0.25208526888504573  0.7479148042137878  1.0000

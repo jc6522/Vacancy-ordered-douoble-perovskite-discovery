@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2FeO6
+_chemical_formula_sum              "Ga2 Fe1 O6"
+_cell_length_a       5.12930574799824
+_cell_length_b       5.129305717944217
+_cell_length_c       5.129305641015822
+_cell_angle_alpha    59.999998966997794
+_cell_angle_beta     59.99999909217586
+_cell_angle_gamma    59.99999850964818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25000006202664493  0.2499998966404354  0.2500001433319465  1.0000
+  Ga  Ga2       1.0  0.7499999396125673  0.749999510840808  0.7500000929877604  1.0000
+  Fe  Fe1       1.0  0.9999999156137733  5.7305762231386386e-08  6.422935467953537e-08  1.0000
+  O   O1        1.0  0.25660003962266165  0.2566000749254425  0.7433998935732608  1.0000
+  O   O2        1.0  0.7433999018116094  0.7434001682648311  0.2566000524734737  1.0000
+  O   O3        1.0  0.7434000804105841  0.2566000378546188  0.2565999039721695  1.0000
+  O   O4        1.0  0.2565999951427852  0.7434000190919278  0.743399990153615  1.0000
+  O   O5        1.0  0.2566000270027132  0.7433999672855329  0.25659991552407235  1.0000
+  O   O6        1.0  0.7434000431352259  0.2566002950066601  0.743399985863591  1.0000

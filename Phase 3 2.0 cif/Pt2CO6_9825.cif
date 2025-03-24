@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2CO6
+_chemical_formula_sum              "Pt2 C1 O6"
+_cell_length_a       4.969613461272915
+_cell_length_b       4.969613481513027
+_cell_length_c       4.969613863541133
+_cell_angle_alpha    60.00000163590808
+_cell_angle_beta     59.99999808554537
+_cell_angle_gamma    60.00000120413036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.2499993421355282  0.25000009594856026  0.24999932205700806  1.0000
+  Pt  Pt2       1.0  0.7499990086483203  0.7500001572290449  0.7499999590574594  1.0000
+  C   C1        1.0  0.99999904697742  1.8237052630467943e-07  0.9999998299508861  1.0000
+  O   O1        1.0  0.22250119150676  0.2225005108569738  0.7774996152040194  1.0000
+  O   O2        1.0  0.7774997226454046  0.7774993085745506  0.2225006817438815  1.0000
+  O   O3        1.0  0.7774998133149007  0.22250052716947488  0.2225007575560662  1.0000
+  O   O4        1.0  0.2225011025044231  0.7774992454371775  0.7774995800807486  1.0000
+  O   O5        1.0  0.2225011101953444  0.7774993907943925  0.2225006795565689  1.0000
+  O   O6        1.0  0.7774996917914461  0.22250058389854868  0.7774995193786215  1.0000

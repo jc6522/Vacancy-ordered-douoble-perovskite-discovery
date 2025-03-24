@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2GaCl6
+_chemical_formula_sum              "Mn2 Ga1 Cl6"
+_cell_length_a       6.577237992517476
+_cell_length_b       6.577238024396834
+_cell_length_c       6.577238136946631
+_cell_angle_alpha    60.00000038156142
+_cell_angle_beta     59.9999997289123
+_cell_angle_gamma    59.99999945265255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2500001074835028  0.24999999061221767  0.24999990974346195  1.0000
+  Mn  Mn2       1.0  0.7499999519456152  0.7500000984591856  0.7499999423952659  1.0000
+  Ga  Ga1       1.0  0.9999999609325264  5.400078483795941e-08  1.3818874684016593e-08  1.0000
+  Cl  Cl1       1.0  0.2523728916607144  0.252372839841304  0.7476271510725977  1.0000
+  Cl  Cl2       1.0  0.7476270676474686  0.7476271598494927  0.2523729220096852  1.0000
+  Cl  Cl3       1.0  0.7476271386573499  0.25237283885298956  0.25237291545983054  1.0000
+  Cl  Cl4       1.0  0.25237292574049347  0.747627050974141  0.7476270839897045  1.0000
+  Cl  Cl5       1.0  0.2523729058407733  0.7476270669890224  0.2523729758973923  1.0000
+  Cl  Cl6       1.0  0.7476270405757759  0.2523729029082381  0.7476270881195752  1.0000

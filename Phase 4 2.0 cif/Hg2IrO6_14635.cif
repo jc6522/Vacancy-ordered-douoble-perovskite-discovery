@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2IrO6
+_chemical_formula_sum              "Hg2 Ir1 O6"
+_cell_length_a       5.583520888272083
+_cell_length_b       5.583520980649326
+_cell_length_c       5.5835211097868775
+_cell_angle_alpha    59.99999967566357
+_cell_angle_beta     59.9999995725325
+_cell_angle_gamma    60.000003035804504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000277021552  0.25000002922388337  0.24999998212013827  1.0000
+  Hg  Hg2       1.0  0.7499999515254193  0.750000010899175  0.7500000380002825  1.0000
+  Ir  Ir1       1.0  0.9999999317543208  0.9999999999999977  2.6958902136766663e-08  1.0000
+  O   O1        1.0  0.23648826012054364  0.23648821514139498  0.7635117289567832  1.0000
+  O   O2        1.0  0.7635117624321722  0.7635117942726765  0.23648815411368906  1.0000
+  O   O3        1.0  0.7635116809640125  0.23648830060134857  0.236488311500331  1.0000
+  O   O4        1.0  0.23648833273230532  0.7635116671362386  0.7635117705620827  1.0000
+  O   O5        1.0  0.23648834852345113  0.7635116552978153  0.23648826636557493  1.0000
+  O   O6        1.0  0.7635116865845415  0.2364883102462734  0.7635117720590446  1.0000

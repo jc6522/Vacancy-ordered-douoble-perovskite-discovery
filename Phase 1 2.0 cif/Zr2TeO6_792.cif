@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2TeO6
+_chemical_formula_sum              "Zr2 Te1 O6"
+_cell_length_a       5.288783859757362
+_cell_length_b       5.288783838892482
+_cell_length_c       5.288783762711591
+_cell_angle_alpha    59.999996045742854
+_cell_angle_beta     59.99999704163611
+_cell_angle_gamma    59.9999954831971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000007229683857  0.24999977512929758  0.2500000855032767  1.0000
+  Zr  Zr2       1.0  0.7499999638353403  0.7500000780034561  0.750000152320747  1.0000
+  Te  Te1       1.0  0.9999999583621209  4.631480315458548e-08  4.304059083627494e-08  1.0000
+  O   O1        1.0  0.2530301559722884  0.2530300903028006  0.7469698629498039  1.0000
+  O   O2        1.0  0.7469699687481528  0.7469698114605078  0.2530299640311142  1.0000
+  O   O3        1.0  0.7469698014242296  0.25303012533764585  0.2530301844613575  1.0000
+  O   O4        1.0  0.2530301108953801  0.7469699616848784  0.7469697771011765  1.0000
+  O   O5        1.0  0.2530301529134929  0.7469699543667037  0.25303011177046925  1.0000
+  O   O6        1.0  0.7469698372103056  0.25303017433914077  0.7469698335365661  1.0000

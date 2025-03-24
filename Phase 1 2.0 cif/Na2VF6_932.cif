@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2VF6
+_chemical_formula_sum              "Na2 V1 F6"
+_cell_length_a       5.560528308839914
+_cell_length_b       5.560528405340219
+_cell_length_c       5.560528360579422
+_cell_angle_alpha    59.99999877983657
+_cell_angle_beta     60.0000004687405
+_cell_angle_gamma    60.000001260332255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24999996674923058  0.2500000757966524  0.2499999683417256  1.0000
+  Na  Na2       1.0  0.7500000534593146  0.7499999608790819  0.7499999832554901  1.0000
+  V   V1        1.0  2.46240692172206e-08  8.810276902571951e-08  0.9999999832011656  1.0000
+  F   F1        1.0  0.2380312875850433  0.2380313066810486  0.7619686960905149  1.0000
+  F   F2        1.0  0.761968764463501  0.7619688026794708  0.2380312212282107  1.0000
+  F   F3        1.0  0.7619686200779903  0.2380313252096603  0.23803133191531414  1.0000
+  F   F4        1.0  0.23803132422126505  0.7619685903247665  0.7619686372796398  1.0000
+  F   F5        1.0  0.23803133548149838  0.7619685940831955  0.23803140275175605  1.0000
+  F   F6        1.0  0.7619686104121054  0.23803131043838222  0.7619687114268879  1.0000

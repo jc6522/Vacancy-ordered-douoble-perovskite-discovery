@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Te2RuS6
+_chemical_formula_sum              "Te2 Ru1 S6"
+_cell_length_a       6.33111198928942
+_cell_length_b       6.331111602950025
+_cell_length_c       6.331111994211898
+_cell_angle_alpha    59.999999686742406
+_cell_angle_beta     60.000000989689
+_cell_angle_gamma    59.99999965757378
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.24999981648962727  0.25000012554302325  0.25000009780996246  1.0000
+  Te  Te2       1.0  0.7499999851376945  0.7499998311039251  0.7500000219453128  1.0000
+  Ru  Ru1       1.0  0.9999999598562942  3.2886266873769674e-08  0.9999999783566978  1.0000
+  S   S1        1.0  0.2612044183874541  0.2612043088437481  0.7387956458793135  1.0000
+  S   S2        1.0  0.7387955933873135  0.7387956903619  0.2612042938198448  1.0000
+  S   S3        1.0  0.7387957370259889  0.2612042796221181  0.26120448654742895  1.0000
+  S   S4        1.0  0.2612043648919272  0.7387956789593197  0.7387955405368567  1.0000
+  S   S5        1.0  0.26120434461185554  0.7387956540093008  0.2612044270664324  1.0000
+  S   S6        1.0  0.7387957787117668  0.26120439355850733  0.7387954863802662  1.0000

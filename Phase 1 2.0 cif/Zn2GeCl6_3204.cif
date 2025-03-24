@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2GeCl6
+_chemical_formula_sum              "Zn2 Ge1 Cl6"
+_cell_length_a       7.166856127487065
+_cell_length_b       7.166856365326422
+_cell_length_c       7.1668557313353185
+_cell_angle_alpha    59.9999998218497
+_cell_angle_beta     59.99999860449264
+_cell_angle_gamma    60.00000063634739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000000680230017  0.24999995419146676  0.25000015884451804  1.0000
+  Zn  Zn2       1.0  0.7500000214958777  0.749999946310566  0.7499998983211623  1.0000
+  Ge  Ge1       1.0  4.503172319890155e-08  0.9999999760753845  8.980813990414745e-09  1.0000
+  Cl  Cl1       1.0  0.22403526700814358  0.22403524120010598  0.775964754528951  1.0000
+  Cl  Cl2       1.0  0.7759647496515879  0.775964790887309  0.22403532219604416  1.0000
+  Cl  Cl3       1.0  0.7759646659657595  0.22403534922605084  0.22403519296486382  1.0000
+  Cl  Cl4       1.0  0.22403530977808472  0.7759648007755434  0.7759646527079238  1.0000
+  Cl  Cl5       1.0  0.22403517388265573  0.7759647160680324  0.22403531050136014  1.0000
+  Cl  Cl6       1.0  0.7759647629363761  0.22403522202982543  0.7759647136075648  1.0000

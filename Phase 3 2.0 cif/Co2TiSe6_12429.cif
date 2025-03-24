@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2TiSe6
+_chemical_formula_sum              "Co2 Ti1 Se6"
+_cell_length_a       6.714740892065902
+_cell_length_b       6.714741064569554
+_cell_length_c       6.714741003855115
+_cell_angle_alpha    60.00000090019384
+_cell_angle_beta     60.000002107870706
+_cell_angle_gamma    60.00000205642832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000017385648843  0.24999968896485605  0.24999993744903884  1.0000
+  Co  Co2       1.0  0.7499999722616779  0.7499996469152359  0.7500001603702832  1.0000
+  Ti  Ti1       1.0  0.9999999705573205  1.0943785877303269e-08  5.3927267765958976e-08  1.0000
+  Se  Se1       1.0  0.2589631910391043  0.25896338164553867  0.7410366866993835  1.0000
+  Se  Se2       1.0  0.7410366601005163  0.7410368443291692  0.2589631939819799  1.0000
+  Se  Se3       1.0  0.7410367822019583  0.2589633741932826  0.2589632109225489  1.0000
+  Se  Se4       1.0  0.25896333515566516  0.7410367186320272  0.7410367030049854  1.0000
+  Se  Se5       1.0  0.2589633076484667  0.7410369171782759  0.2589632406952682  1.0000
+  Se  Se6       1.0  0.7410366141338571  0.2589634218822235  0.7410368087424756  1.0000

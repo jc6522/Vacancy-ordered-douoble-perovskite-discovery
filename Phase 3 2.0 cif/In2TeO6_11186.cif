@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2TeO6
+_chemical_formula_sum              "In2 Te1 O6"
+_cell_length_a       5.428950003814458
+_cell_length_b       5.4289505998128345
+_cell_length_c       5.428950348050067
+_cell_angle_alpha    60.00000094749529
+_cell_angle_beta     60.00000214096523
+_cell_angle_gamma    60.0000032874462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.24999997548830344  0.2499999211138411  0.2500000154919015  1.0000
+  In  In2       1.0  0.7500002194173633  0.7500000904544555  0.750000410606489  1.0000
+  Te  Te1       1.0  0.9999999835853757  4.2863076013681265e-08  0.9999999628300764  1.0000
+  O   O1        1.0  0.24832165905577908  0.24832165567516482  0.7516783645830339  1.0000
+  O   O2        1.0  0.7516782617337151  0.7516783423574399  0.24832139487153568  1.0000
+  O   O3        1.0  0.7516784036887109  0.24832164247825522  0.24832163106480418  1.0000
+  O   O4        1.0  0.24832152223565904  0.75167834653054  0.7516783108479482  1.0000
+  O   O5        1.0  0.2483215635993171  0.7516783940345133  0.24832159434924483  1.0000
+  O   O6        1.0  0.7516783663430104  0.2483215701588175  0.7516783450684245  1.0000

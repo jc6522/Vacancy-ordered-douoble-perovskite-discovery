@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2PCl6
+_chemical_formula_sum              "In2 P1 Cl6"
+_cell_length_a       7.4081691396915765
+_cell_length_b       7.408169829178171
+_cell_length_c       7.408169570058531
+_cell_angle_alpha    60.00000376067379
+_cell_angle_beta     60.00000852163135
+_cell_angle_gamma    60.000007431185125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000028758393544  0.25000041489355784  0.24999957014358465  1.0000
+  In  In2       1.0  0.7500000707459246  0.7499996741070879  0.7500001778909497  1.0000
+  P   P1        1.0  0.9999998703617157  0.9999999867741114  2.8875971471978824e-07  1.0000
+  Cl  Cl1       1.0  0.2143633828317847  0.2143633326670756  0.7856365540406866  1.0000
+  Cl  Cl2       1.0  0.7856365114204907  0.7856366802847323  0.214363383065354  1.0000
+  Cl  Cl3       1.0  0.785636588531931  0.21436335228923514  0.2143634780172109  1.0000
+  Cl  Cl4       1.0  0.21436344518629655  0.7856364854196317  0.7856365444703873  1.0000
+  Cl  Cl5       1.0  0.21436341909994674  0.7856366779179413  0.21436336472180662  1.0000
+  Cl  Cl6       1.0  0.7856364261388028  0.21436342596180724  0.7856366351184138  1.0000

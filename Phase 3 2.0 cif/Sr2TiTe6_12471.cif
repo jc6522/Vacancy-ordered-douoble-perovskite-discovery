@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2TiTe6
+_chemical_formula_sum              "Sr2 Ti1 Te6"
+_cell_length_a       7.409734445086042
+_cell_length_b       7.409734407925909
+_cell_length_c       7.409734478371031
+_cell_angle_alpha    59.99999904619556
+_cell_angle_beta     59.99999927385201
+_cell_angle_gamma    60.0000013623553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.24999997690887069  0.24999999529577988  0.2500001601618462  1.0000
+  Sr  Sr2       1.0  0.7499999844804034  0.7500000817547512  0.7499998375034302  1.0000
+  Ti  Ti1       1.0  3.511050534314434e-09  0.9999999520662961  8.159267199366497e-08  1.0000
+  Te  Te1       1.0  0.26226101360430876  0.2622608427236952  0.7377390507499063  1.0000
+  Te  Te2       1.0  0.7377390410676186  0.7377391368065446  0.26226091394521256  1.0000
+  Te  Te3       1.0  0.7377390181436632  0.2622608995690569  0.2622609781903744  1.0000
+  Te  Te4       1.0  0.2622609889430268  0.7377390964900451  0.7377389993337801  1.0000
+  Te  Te5       1.0  0.26226090401762225  0.7377390790636923  0.262260945284148  1.0000
+  Te  Te6       1.0  0.7377390723583763  0.26226092030118175  0.7377390324467058  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2PtO6
+_chemical_formula_sum              "Se2 Pt1 O6"
+_cell_length_a       5.39251669467337
+_cell_length_b       5.392516539793463
+_cell_length_c       5.392516285605489
+_cell_angle_alpha    60.00000296348077
+_cell_angle_beta     60.0000028720533
+_cell_angle_gamma    60.00000132811126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.25000004901307643  0.24999973025919953  0.2500000686762703  1.0000
+  Se  Se2       1.0  0.7500001464374971  0.7500002332554065  0.7499997722486109  1.0000
+  Pt  Pt1       1.0  4.04510609075612e-09  0.9999999750168719  2.3449963657247813e-08  1.0000
+  O   O1        1.0  0.24831436773738122  0.24831444156806148  0.7516854752317174  1.0000
+  O   O2        1.0  0.7516855938993477  0.7516855809975761  0.24831450870722568  1.0000
+  O   O3        1.0  0.751685502038849  0.24831436205982454  0.24831446545967967  1.0000
+  O   O4        1.0  0.24831436600777845  0.7516856650482007  0.7516855963827134  1.0000
+  O   O5        1.0  0.2483144177629037  0.7516856327421073  0.24831442257923436  1.0000
+  O   O6        1.0  0.7516855506874053  0.2483143693827905  0.7516856738753336  1.0000

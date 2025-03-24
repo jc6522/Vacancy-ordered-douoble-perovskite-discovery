@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2SeBr6
+_chemical_formula_sum              "Bi2 Se1 Br6"
+_cell_length_a       7.686104219825465
+_cell_length_b       7.686104568947793
+_cell_length_c       7.686104425530462
+_cell_angle_alpha    59.999999775079225
+_cell_angle_beta     60.00000046939944
+_cell_angle_gamma    60.00000030927978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999992048225794  0.2500000573428411  0.2500000780495952  1.0000
+  Bi  Bi2       1.0  0.7499999999099377  0.7499999569123302  0.74999995315812  1.0000
+  Se  Se1       1.0  0.9999999757805818  9.560720035956667e-09  0.9999999995230536  1.0000
+  Br  Br1       1.0  0.24479379074119226  0.24479378396337056  0.7552061569313029  1.0000
+  Br  Br2       1.0  0.7552062449054313  0.7552062000161879  0.24479381097021885  1.0000
+  Br  Br3       1.0  0.7552062254138809  0.2447938092486032  0.24479377033042654  1.0000
+  Br  Br4       1.0  0.24479379316041175  0.7552062034131144  0.7552062138840171  1.0000
+  Br  Br5       1.0  0.24479378406200672  0.755206191777454  0.24479380557912334  1.0000
+  Br  Br6       1.0  0.7552062587473397  0.24479378423483747  0.7552062082613925  1.0000

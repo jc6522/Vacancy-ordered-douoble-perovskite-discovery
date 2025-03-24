@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2InO6
+_chemical_formula_sum              "Bi2 In1 O6"
+_cell_length_a       5.520403858538135
+_cell_length_b       5.520403632635615
+_cell_length_c       5.520403463922658
+_cell_angle_alpha    59.999999537636796
+_cell_angle_beta     59.99999945314286
+_cell_angle_gamma    59.999997103848976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999984903683473  0.2499997180287451  0.2500002748514221  1.0000
+  Bi  Bi2       1.0  0.7500000852920239  0.7500002190039137  0.7499999523576335  1.0000
+  In  In1       1.0  0.9999999675043891  2.2185786072574176e-08  0.9999999743600623  1.0000
+  O   O1        1.0  0.2715261972829041  0.27152617165649545  0.7284738239364071  1.0000
+  O   O2        1.0  0.7284737809280301  0.7284738408078333  0.27152612624035777  1.0000
+  O   O3        1.0  0.7284739254571557  0.2715261431650956  0.27152621601775034  1.0000
+  O   O4        1.0  0.2715260275881144  0.728473982446738  0.7284737463234093  1.0000
+  O   O5        1.0  0.2715261582976831  0.7284738940897459  0.2715261783807542  1.0000
+  O   O6        1.0  0.7284739953003624  0.27152602519428126  0.7284737234467558  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2NiS6
+_chemical_formula_sum              "Nb2 Ni1 S6"
+_cell_length_a       5.933144633123797
+_cell_length_b       5.933144723344623
+_cell_length_c       5.933144740675667
+_cell_angle_alpha    59.999998357391576
+_cell_angle_beta     60.00000020255296
+_cell_angle_gamma    60.00000137063817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000011277533224  0.2500001967279626  0.24999964490340548  1.0000
+  Nb  Nb2       1.0  0.7500001475696509  0.750000047288115  0.7500002993208051  1.0000
+  Ni  Ni1       1.0  2.0682928233205598e-08  0.9999998678884922  0.9999998349207566  1.0000
+  S   S1        1.0  0.25876147076341127  0.2587613804230984  0.7412385054204643  1.0000
+  S   S2        1.0  0.7412386506806842  0.7412385271214768  0.2587611944521507  1.0000
+  S   S3        1.0  0.7412385659567293  0.25876148663740195  0.25876142239334776  1.0000
+  S   S4        1.0  0.25876123788457006  0.7412384745774597  0.7412388291217802  1.0000
+  S   S5        1.0  0.2587613248980048  0.7412386805987362  0.25876154693387005  1.0000
+  S   S6        1.0  0.7412384515381212  0.2587613569930923  0.7412387289733182  1.0000

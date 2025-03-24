@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2CoSe6
+_chemical_formula_sum              "Au2 Co1 Se6"
+_cell_length_a       6.394070213909576
+_cell_length_b       6.394070080726437
+_cell_length_c       6.39407004505244
+_cell_angle_alpha    59.99999834308464
+_cell_angle_beta     59.99999940164116
+_cell_angle_gamma    59.99999932564303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24999996275540032  0.2500001327547079  0.2499999205663858  1.0000
+  Au  Au2       1.0  0.7500000198493715  0.7499999059963933  0.7499998904311229  1.0000
+  Co  Co1       1.0  0.999999989875078  5.746315938820375e-08  0.9999999716390333  1.0000
+  Se  Se1       1.0  0.26296908588028084  0.262969249958161  0.7370308872635184  1.0000
+  Se  Se2       1.0  0.7370309432239477  0.7370306547122302  0.2629693084655189  1.0000
+  Se  Se3       1.0  0.7370307613605981  0.26296917443954776  0.2629691659695349  1.0000
+  Se  Se4       1.0  0.2629693966005017  0.7370307283154088  0.7370307614114525  1.0000
+  Se  Se5       1.0  0.26296916453058344  0.7370307413211757  0.26296926407304444  1.0000
+  Se  Se6       1.0  0.7370306880123128  0.26296936255483444  0.7370308546479871  1.0000

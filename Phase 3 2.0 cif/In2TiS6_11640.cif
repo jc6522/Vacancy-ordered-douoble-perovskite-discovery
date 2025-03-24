@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2TiS6
+_chemical_formula_sum              "In2 Ti1 S6"
+_cell_length_a       6.506288709942709
+_cell_length_b       6.506288678668042
+_cell_length_c       6.506288274711665
+_cell_angle_alpha    60.00000029820706
+_cell_angle_beta     59.99999980548292
+_cell_angle_gamma    60.00000077805817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000021318316856  0.2499999603854266  0.2499999072936712  1.0000
+  In  In2       1.0  0.7499999341080331  0.750000299049444  0.7499998149350122  1.0000
+  Ti  Ti1       1.0  0.999999897889079  1.8824014598015023e-08  1.523056280624309e-07  1.0000
+  S   S1        1.0  0.2535367617399124  0.2535368691499595  0.7464631466516973  1.0000
+  S   S2        1.0  0.7464630119444464  0.7464631587495028  0.25353690581366506  1.0000
+  S   S3        1.0  0.7464631919148486  0.2535368383050303  0.25353699904423604  1.0000
+  S   S4        1.0  0.2535370370056677  0.746462894057374  0.7464630166068617  1.0000
+  S   S5        1.0  0.2535368041520671  0.7464630800941523  0.25353700068417395  1.0000
+  S   S6        1.0  0.7464631482802264  0.2535369120396794  0.7464630340841454  1.0000

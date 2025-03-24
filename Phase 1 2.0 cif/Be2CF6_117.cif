@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Be2CF6
+_chemical_formula_sum              "Be2 C1 F6"
+_cell_length_a       4.840847908403753
+_cell_length_b       4.840847812936848
+_cell_length_c       4.840847874595012
+_cell_angle_alpha    60.00000564149081
+_cell_angle_beta     60.00000951681981
+_cell_angle_gamma    60.00000235790733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.24999986811095087  0.250000597765879  0.24999957971500647  1.0000
+  Be  Be2       1.0  0.7500005904378728  0.7499989065433915  0.750002757113995  1.0000
+  C   C1        1.0  4.021861142265533e-07  0.9999996736272382  0.9999998650029074  1.0000
+  F   F1        1.0  0.23267681887248712  0.23267732616523265  0.7673226643162602  1.0000
+  F   F2        1.0  0.7673230041577475  0.7673227322186168  0.2326766455903011  1.0000
+  F   F3        1.0  0.7673226635163419  0.23267733203080007  0.23267677583383514  1.0000
+  F   F4        1.0  0.23267701918461683  0.7673229970653418  0.7673227105744175  1.0000
+  F   F5        1.0  0.2326769354417804  0.7673232270213723  0.23267658639427533  1.0000
+  F   F6        1.0  0.7673226606390756  0.2326771830354386  0.7673224587066199  1.0000

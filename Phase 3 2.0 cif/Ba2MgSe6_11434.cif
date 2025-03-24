@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2MgSe6
+_chemical_formula_sum              "Ba2 Mg1 Se6"
+_cell_length_a       7.030243505644424
+_cell_length_b       7.030241157975076
+_cell_length_c       7.030240372268102
+_cell_angle_alpha    60.000003076752236
+_cell_angle_beta     60.00000210470809
+_cell_angle_gamma    59.99999191380042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.2500000151714722  0.25000002876497973  0.24999995210768067  1.0000
+  Ba  Ba2       1.0  0.74999997442398  0.7500000531948658  0.7499999382892599  1.0000
+  Mg  Mg1       1.0  2.578439807997192e-08  0.9999998536628139  1.285528628207041e-07  1.0000
+  Se  Se1       1.0  0.2723322588203891  0.27233241289265314  0.7276676109277833  1.0000
+  Se  Se2       1.0  0.7276678329387021  0.7276677666253132  0.27233219952223786  1.0000
+  Se  Se3       1.0  0.7276676128897194  0.2723325060715408  0.27233240781323975  1.0000
+  Se  Se4       1.0  0.27233258021061707  0.727667354640409  0.7276676180511443  1.0000
+  Se  Se5       1.0  0.2723322714865318  0.7276675974120584  0.2723324120464686  1.0000
+  Se  Se6       1.0  0.727667438142236  0.2723324375108521  0.7276677428445881  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2HfF6
+_chemical_formula_sum              "Na2 Hf1 F6"
+_cell_length_a       5.795622004609023
+_cell_length_b       5.795621994490283
+_cell_length_c       5.795622246373713
+_cell_angle_alpha    59.999999974614255
+_cell_angle_beta     60.00000013507516
+_cell_angle_gamma    59.99999988895658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24999999194872863  0.2500000018174413  0.2500000167249902  1.0000
+  Na  Na2       1.0  0.7499999596448002  0.7500000540564807  0.7500000270718243  1.0000
+  Hf  Hf1       1.0  4.081419666518461e-08  0.999999949282619  2.738231553128971e-08  1.0000
+  F   F1        1.0  0.2429993477838365  0.24299943190963716  0.7570005695679427  1.0000
+  F   F2        1.0  0.7570005955191238  0.757000571133679  0.2429994495753698  1.0000
+  F   F3        1.0  0.7570005872528869  0.2429994139377572  0.24299941382626122  1.0000
+  F   F4        1.0  0.24299943423581113  0.7570005637468679  0.757000542669283  1.0000
+  F   F5        1.0  0.2429994042428195  0.7570005584602182  0.24299948443430544  1.0000
+  F   F6        1.0  0.7570006062170644  0.2429994403566495  0.7570005170472922  1.0000

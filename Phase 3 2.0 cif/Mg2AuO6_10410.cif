@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2AuO6
+_chemical_formula_sum              "Mg2 Au1 O6"
+_cell_length_a       5.25385940955483
+_cell_length_b       5.253859232069153
+_cell_length_c       5.253859031000794
+_cell_angle_alpha    59.99999976460034
+_cell_angle_beta     60.00000139514075
+_cell_angle_gamma    59.99999927278435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2500001479490991  0.24999987961292397  0.25000006802274094  1.0000
+  Mg  Mg2       1.0  0.7500000762751683  0.7499998975946286  0.7499999710685714  1.0000
+  Au  Au1       1.0  3.03694345231477e-08  2.09802033886684e-08  2.7619339852948373e-08  1.0000
+  O   O1        1.0  0.2630028118688822  0.26300307712934873  0.736997057975171  1.0000
+  O   O2        1.0  0.7369970236468565  0.7369970683973468  0.26300289043260294  1.0000
+  O   O3        1.0  0.7369968730687837  0.2630029598679065  0.26300289950857897  1.0000
+  O   O4        1.0  0.26300308319732885  0.7369969618699438  0.7369971099352464  1.0000
+  O   O5        1.0  0.26300281162146505  0.7369971709757575  0.26300308740792083  1.0000
+  O   O6        1.0  0.7369971465947662  0.2630029559018655  0.7369969307893637  1.0000

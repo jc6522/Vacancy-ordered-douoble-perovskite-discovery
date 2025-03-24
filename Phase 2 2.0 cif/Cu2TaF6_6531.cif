@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2TaF6
+_chemical_formula_sum              "Cu2 Ta1 F6"
+_cell_length_a       5.964706209981703
+_cell_length_b       5.964707788132463
+_cell_length_c       5.964707760656849
+_cell_angle_alpha    59.99999925992453
+_cell_angle_beta     59.99999802563788
+_cell_angle_gamma    60.000001422049415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999997967623802  0.24999986894857187  0.2500000378451801  1.0000
+  Cu  Cu2       1.0  0.7500000058586384  0.7500000277761257  0.7500000322785966  1.0000
+  Ta  Ta1       1.0  0.9999999429399419  1.4373231808702989e-08  1.1858203836820366e-07  1.0000
+  F   F1        1.0  0.2301054240745255  0.23010530667888307  0.7698946361005062  1.0000
+  F   F2        1.0  0.7698945621447927  0.7698945879924947  0.2301054565025744  1.0000
+  F   F3        1.0  0.7698946072852124  0.23010539887386766  0.2301053474978015  1.0000
+  F   F4        1.0  0.2301052783985993  0.7698948612883152  0.7698945824501171  1.0000
+  F   F5        1.0  0.23010556744809404  0.7698946235988169  0.23010517408871983  1.0000
+  F   F6        1.0  0.7698946969721409  0.23010526696591876  0.7698946859051375  1.0000

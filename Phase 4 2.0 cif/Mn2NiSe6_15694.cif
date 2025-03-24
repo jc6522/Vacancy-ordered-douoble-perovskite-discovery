@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2NiSe6
+_chemical_formula_sum              "Mn2 Ni1 Se6"
+_cell_length_a       6.537940699663653
+_cell_length_b       6.537941146267182
+_cell_length_c       6.537940853931189
+_cell_angle_alpha    60.00000139793493
+_cell_angle_beta     60.0000018680829
+_cell_angle_gamma    60.000001492562795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.250000437607395  0.24999993196886972  0.249999676750698  1.0000
+  Mn  Mn2       1.0  0.7500000975465002  0.749999897064175  0.7500004759701321  1.0000
+  Ni  Ni1       1.0  1.018676170776452e-08  0.999999990633558  5.0064448085119533e-08  1.0000
+  Se  Se1       1.0  0.2524882483013921  0.25248845133256437  0.7475116973078081  1.0000
+  Se  Se2       1.0  0.7475114711864096  0.7475117635978764  0.25248813801967246  1.0000
+  Se  Se3       1.0  0.7475115213675637  0.25248850098231895  0.25248822277040717  1.0000
+  Se  Se4       1.0  0.2524882608142159  0.7475114516877625  0.7475117826988097  1.0000
+  Se  Se5       1.0  0.25248846058703056  0.7475117399643081  0.25248821675864497  1.0000
+  Se  Se6       1.0  0.7475114864346708  0.2524882745242843  0.747511751858037  1.0000

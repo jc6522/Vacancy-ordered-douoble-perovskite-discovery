@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hf2NiTe6
+_chemical_formula_sum              "Hf2 Ni1 Te6"
+_cell_length_a       6.897778262826294
+_cell_length_b       6.897778153431151
+_cell_length_c       6.897778361042238
+_cell_angle_alpha    59.99999989526638
+_cell_angle_beta     59.99999958358638
+_cell_angle_gamma    60.00000029855668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2499999688179289  0.24999986848026037  0.2500001801945019  1.0000
+  Hf  Hf2       1.0  0.7500000114350732  0.7500000990476579  0.7499999846850676  1.0000
+  Ni  Ni1       1.0  0.9999999980213432  1.5980079113950552e-08  2.6343358283363915e-08  1.0000
+  Te  Te1       1.0  0.2541565396912469  0.25415649081796526  0.7458434690135141  1.0000
+  Te  Te2       1.0  0.7458434328502214  0.7458435299768807  0.25415652086543344  1.0000
+  Te  Te3       1.0  0.7458435278250073  0.2541565170486307  0.2541564713854517  1.0000
+  Te  Te4       1.0  0.2541564599682937  0.7458435232774222  0.7458434474615165  1.0000
+  Te  Te5       1.0  0.254156532744993  0.7458434598194253  0.254156473102613  1.0000
+  Te  Te6       1.0  0.7458435270833521  0.2541564899528481  0.745843430358106  1.0000

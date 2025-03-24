@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2GeI6
+_chemical_formula_sum              "Ni2 Ge1 I6"
+_cell_length_a       7.5409130552229255
+_cell_length_b       7.540912965503769
+_cell_length_c       7.540913069508322
+_cell_angle_alpha    59.99999989465334
+_cell_angle_beta     59.99999915850099
+_cell_angle_gamma    59.99999917692388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2499999514761152  0.2500000236163307  0.25000000571038594  1.0000
+  Ni  Ni2       1.0  0.7500000427426704  0.749999965280319  0.7499999426058468  1.0000
+  Ge  Ge1       1.0  0.9999999979433114  0.9999999740138653  8.71701414647048e-09  1.0000
+  I   I1        1.0  0.2608467072288353  0.2608467419664499  0.7391532786022318  1.0000
+  I   I2        1.0  0.7391532943515937  0.739153289157669  0.26084673376810197  1.0000
+  I   I3        1.0  0.739153301413027  0.2608467103512458  0.26084671115636787  1.0000
+  I   I4        1.0  0.26084669108873865  0.7391532882902048  0.7391533127119361  1.0000
+  I   I5        1.0  0.26084669639442065  0.7391532882282095  0.2608467128977221  1.0000
+  I   I6        1.0  0.7391533173590409  0.26084672015804145  0.7391532928201349  1.0000

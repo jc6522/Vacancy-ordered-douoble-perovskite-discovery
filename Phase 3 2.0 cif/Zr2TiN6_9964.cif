@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2TiN6
+_chemical_formula_sum              "Zr2 Ti1 N6"
+_cell_length_a       5.008187169618092
+_cell_length_b       5.008187032832357
+_cell_length_c       5.008187134487053
+_cell_angle_alpha    59.99999974919915
+_cell_angle_beta     59.999998344521565
+_cell_angle_gamma    60.000001374402736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.24999993181541982  0.24999997764050044  0.2500000909724777  1.0000
+  Zr  Zr2       1.0  0.7499999922156212  0.7499999720492723  0.7500000032173462  1.0000
+  Ti  Ti1       1.0  0.9999999944337267  9.781942010694121e-09  1.7859470754125313e-08  1.0000
+  N   N1        1.0  0.2675455445790656  0.2675455891320577  0.7324544532432633  1.0000
+  N   N2        1.0  0.7324544735630524  0.7324543825670875  0.2675456627555545  1.0000
+  N   N3        1.0  0.7324544218505664  0.2675456029960248  0.2675455582007593  1.0000
+  N   N4        1.0  0.2675455899779944  0.7324544983138487  0.7324543304208418  1.0000
+  N   N5        1.0  0.26754560981945114  0.7324543753976775  0.2675455661580328  1.0000
+  N   N6        1.0  0.7324544364097587  0.267545574292097  0.7324543730863704  1.0000

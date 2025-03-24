@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2BTe6
+_chemical_formula_sum              "Fe2 B1 Te6"
+_cell_length_a       7.003221068766971
+_cell_length_b       7.003221497420599
+_cell_length_c       7.003221106071602
+_cell_angle_alpha    59.99999622266687
+_cell_angle_beta     60.0000011826523
+_cell_angle_gamma    59.99999626467093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999981007456937  0.250000068263312  0.2500001908432824  1.0000
+  Fe  Fe2       1.0  0.7500001247227767  0.7500002729943077  0.750000254006363  1.0000
+  B   B1        1.0  3.007870978572101e-08  0.9999999790140351  0.9999999154904244  1.0000
+  Te  Te1       1.0  0.2283881124078105  0.228387961059282  0.7716118093871829  1.0000
+  Te  Te2       1.0  0.7716120046822017  0.7716119569813491  0.22838779779410656  1.0000
+  Te  Te3       1.0  0.771612027089988  0.2283879609562305  0.2283881034292649  1.0000
+  Te  Te4       1.0  0.22838780102328993  0.7716120375305914  0.771612116354803  1.0000
+  Te  Te5       1.0  0.22838791161182326  0.7716121484156275  0.22838791453487506  1.0000
+  Te  Te6       1.0  0.7716121925735264  0.22838761048139486  0.7716119000432777  1.0000

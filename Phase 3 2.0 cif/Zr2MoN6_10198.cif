@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2MoN6
+_chemical_formula_sum              "Zr2 Mo1 N6"
+_cell_length_a       5.132069944099911
+_cell_length_b       5.1320701669490285
+_cell_length_c       5.132070113611259
+_cell_angle_alpha    59.99999879970026
+_cell_angle_beta     59.99999835841606
+_cell_angle_gamma    59.99999850748809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.24999998153123398  0.2500000590385732  0.24999998028000858  1.0000
+  Zr  Zr2       1.0  0.7499999540732849  0.7500000339284856  0.7500000154879791  1.0000
+  Mo  Mo1       1.0  0.9999999860907267  2.147808525558164e-08  0.9999999981641253  1.0000
+  N   N1        1.0  0.27010781618280794  0.2701078271065753  0.7298921811731136  1.0000
+  N   N2        1.0  0.7298922068313572  0.7298921656294186  0.27010781126292677  1.0000
+  N   N3        1.0  0.7298922173300282  0.27010777595609625  0.2701078196551938  1.0000
+  N   N4        1.0  0.27010781775289067  0.7298921738237275  0.7298921726363038  1.0000
+  N   N5        1.0  0.2701078486590146  0.7298921427348796  0.27010780350368446  1.0000
+  N   N6        1.0  0.729892172128597  0.27010780943139834  0.7298921888966454  1.0000

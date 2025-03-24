@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2TaCl6
+_chemical_formula_sum              "Li2 Ta1 Cl6"
+_cell_length_a       6.94779434661615
+_cell_length_b       6.947794369000005
+_cell_length_c       6.947794493624428
+_cell_angle_alpha    59.999998039878584
+_cell_angle_beta     60.00000012457041
+_cell_angle_gamma    59.99999713498677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2499999582464253  0.25000010762912867  0.2499999017277586  1.0000
+  Li  Li2       1.0  0.750000067081221  0.7499999103963169  0.7499999232057684  1.0000
+  Ta  Ta1       1.0  0.9999999657525047  5.288347050849823e-08  0.9999999820461776  1.0000
+  Cl  Cl1       1.0  0.2425951225641239  0.2425950289624688  0.7574049615821099  1.0000
+  Cl  Cl2       1.0  0.7574049577438503  0.7574049238400262  0.2425950613396891  1.0000
+  Cl  Cl3       1.0  0.7574049134542742  0.24259505228720418  0.24259510541443707  1.0000
+  Cl  Cl4       1.0  0.242595013817318  0.7574049657382395  0.7574049973967187  1.0000
+  Cl  Cl5       1.0  0.24259506181379314  0.757404913621232  0.24259509492077533  1.0000
+  Cl  Cl6       1.0  0.7574049018540397  0.24259505504630632  0.7574049884637116  1.0000

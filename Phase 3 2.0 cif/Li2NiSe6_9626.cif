@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2NiSe6
+_chemical_formula_sum              "Li2 Ni1 Se6"
+_cell_length_a       6.4238934292928755
+_cell_length_b       6.423894028917172
+_cell_length_c       6.423893648852255
+_cell_angle_alpha    59.99999859722896
+_cell_angle_beta     59.999999168870055
+_cell_angle_gamma    59.99999910737422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000352207442  0.2500000567744302  0.2499999522011843  1.0000
+  Li  Li2       1.0  0.7500000152448115  0.7500000101734318  0.7500001048655717  1.0000
+  Ni  Ni1       1.0  9.470407925195115e-08  6.100946472462064e-08  0.9999999828540699  1.0000
+  Se  Se1       1.0  0.25458421811805404  0.254584259970168  0.7454157490194923  1.0000
+  Se  Se2       1.0  0.745415727113856  0.7454156697063986  0.2545842362703898  1.0000
+  Se  Se3       1.0  0.7454157584174957  0.2545842473659017  0.2545842468299179  1.0000
+  Se  Se4       1.0  0.2545842034094365  0.7454156918433915  0.7454157923336857  1.0000
+  Se  Se5       1.0  0.2545842338570948  0.7454157740100383  0.25458420107991026  1.0000
+  Se  Se6       1.0  0.7454157128077983  0.25458423764800137  0.7454157549562478  1.0000

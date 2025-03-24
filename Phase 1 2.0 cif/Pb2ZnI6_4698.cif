@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2ZnI6
+_chemical_formula_sum              "Pb2 Zn1 I6"
+_cell_length_a       7.7762139353498405
+_cell_length_b       7.776213894628897
+_cell_length_c       7.776213721523252
+_cell_angle_alpha    60.00000115000711
+_cell_angle_beta     60.00000044747017
+_cell_angle_gamma    59.99999902317233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2499999790509966  0.24999996201385094  0.25000004985352864  1.0000
+  Pb  Pb2       1.0  0.7499999842635586  0.7499999852658363  0.7499999387940609  1.0000
+  Zn  Zn1       1.0  0.9999999810564246  0.9999999811001365  2.7923529617193036e-08  1.0000
+  I   I1        1.0  0.2528556032163406  0.2528555897066788  0.7471443839602931  1.0000
+  I   I2        1.0  0.7471444478418993  0.7471444284474965  0.2528555716732341  1.0000
+  I   I3        1.0  0.7471444251099688  0.25285560626298337  0.2528555648707466  1.0000
+  I   I4        1.0  0.2528555595466275  0.7471444418159776  0.7471444257188573  1.0000
+  I   I5        1.0  0.25285554954451783  0.7471444386351084  0.2528556154583488  1.0000
+  I   I6        1.0  0.747144463611116  0.2528555684941475  0.7471444263656397  1.0000

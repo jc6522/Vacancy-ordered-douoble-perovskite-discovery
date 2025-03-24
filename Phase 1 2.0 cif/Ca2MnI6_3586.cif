@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2MnI6
+_chemical_formula_sum              "Ca2 Mn1 I6"
+_cell_length_a       7.749956244955648
+_cell_length_b       7.749956379431169
+_cell_length_c       7.749956571855266
+_cell_angle_alpha    60.00000034779884
+_cell_angle_beta     59.999999141481446
+_cell_angle_gamma    60.00000048653271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.24999996080295678  0.24999992013311256  0.250000210378211  1.0000
+  Ca  Ca2       1.0  0.7499999108183867  0.750000041697155  0.7500000053105876  1.0000
+  Mn  Mn1       1.0  0.9999999270986012  0.9999999683935031  6.902823480048985e-08  1.0000
+  I   I1        1.0  0.2513633624385751  0.2513633541694046  0.7486365905035234  1.0000
+  I   I2        1.0  0.7486367253279635  0.748636732506524  0.25136326114037777  1.0000
+  I   I3        1.0  0.748636675958195  0.2513633570705266  0.2513632700745653  1.0000
+  I   I4        1.0  0.2513633529646142  0.748636637946561  0.7486366774658967  1.0000
+  I   I5        1.0  0.25136338816519527  0.7486366181416686  0.251363300005488  1.0000
+  I   I6        1.0  0.7486366951031551  0.2513633658131451  0.7486366168610319  1.0000

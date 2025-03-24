@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2RhF6
+_chemical_formula_sum              "Ga2 Rh1 F6"
+_cell_length_a       5.643033999783724
+_cell_length_b       5.643033830689667
+_cell_length_c       5.6430327288442585
+_cell_angle_alpha    60.00000425527979
+_cell_angle_beta     60.00000371196496
+_cell_angle_gamma    60.0000016686319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25000012104695873  0.2499999993169406  0.2499999490726488  1.0000
+  Ga  Ga2       1.0  0.7499998987896951  0.7499999545435068  0.750000086920434  1.0000
+  Rh  Rh1       1.0  2.9349526881000556e-08  3.472585468796361e-08  0.999999937836663  1.0000
+  F   F1        1.0  0.24534985050567173  0.24534975272880002  0.7546502176951316  1.0000
+  F   F2        1.0  0.7546501790230897  0.7546503009684794  0.245349738724125  1.0000
+  F   F3        1.0  0.7546501050154149  0.2453498389475387  0.24534978031179466  1.0000
+  F   F4        1.0  0.2453498412381125  0.7546501821942531  0.7546501968087937  1.0000
+  F   F5        1.0  0.24534985328925932  0.7546501790419842  0.24534975975516132  1.0000
+  F   F6        1.0  0.7546501605328008  0.24534976830736654  0.754650200984316  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2TiO6
+_chemical_formula_sum              "Co2 Ti1 O6"
+_cell_length_a       5.144361024273302
+_cell_length_b       5.144360614685226
+_cell_length_c       5.144361392043787
+_cell_angle_alpha    60.00000080731361
+_cell_angle_beta     60.00000073100021
+_cell_angle_gamma    60.00000083198572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2500009478598034  0.2500001702507633  0.24999992895488432  1.0000
+  Co  Co2       1.0  0.7499997795521982  0.7500003226727646  0.7500008083725448  1.0000
+  Ti  Ti1       1.0  9.203969777410835e-09  6.666106122744335e-08  0.9999998707053215  1.0000
+  O   O1        1.0  0.25818987676019356  0.25818928324798246  0.741810421417453  1.0000
+  O   O2        1.0  0.7418098430156786  0.7418108858931114  0.258189228243181  1.0000
+  O   O3        1.0  0.7418099695499822  0.25818975045041215  0.2581892329354202  1.0000
+  O   O4        1.0  0.2581893003111453  0.7418103139375706  0.7418107096101336  1.0000
+  O   O5        1.0  0.2581896926733851  0.7418100949234271  0.2581892751342378  1.0000
+  O   O6        1.0  0.7418105529877415  0.2581891766740315  0.7418104437230073  1.0000

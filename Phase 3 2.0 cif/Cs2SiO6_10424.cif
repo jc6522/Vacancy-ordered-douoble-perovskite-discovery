@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2SiO6
+_chemical_formula_sum              "Cs2 Si1 O6"
+_cell_length_a       6.642250619020591
+_cell_length_b       6.642249884027238
+_cell_length_c       6.6422504616195575
+_cell_angle_alpha    59.99999603721408
+_cell_angle_beta     59.99999957992872
+_cell_angle_gamma    59.99999560065699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25000000518233767  0.25000000232156416  0.2499999255564437  1.0000
+  Cs  Cs2       1.0  0.7499998655670005  0.7500001231285417  0.7499999471398249  1.0000
+  Si  Si1       1.0  0.9999999835106175  4.42528954104369e-08  0.9999999484803973  1.0000
+  O   O1        1.0  0.18486029531206005  0.18485977975905205  0.8151399816037056  1.0000
+  O   O2        1.0  0.8151399310628515  0.8151400506717505  0.18486001585735265  1.0000
+  O   O3        1.0  0.8151399911899244  0.18485994076742726  0.1848601573997085  1.0000
+  O   O4        1.0  0.18486014861353875  0.8151399929201297  0.8151399657094286  1.0000
+  O   O5        1.0  0.1848600256694668  0.8151400144088741  0.18486000303042865  1.0000
+  O   O6        1.0  0.8151398258006548  0.1848600280670531  0.8151400186509384  1.0000

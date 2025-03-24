@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2TiSe6
+_chemical_formula_sum              "Ag2 Ti1 Se6"
+_cell_length_a       6.733074545441297
+_cell_length_b       6.733074567348874
+_cell_length_c       6.733074615487305
+_cell_angle_alpha    60.00000038036832
+_cell_angle_beta     60.00000097585346
+_cell_angle_gamma    60.00000168417698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2499999915660826  0.2499999932956021  0.2500000085933222  1.0000
+  Ag  Ag2       1.0  0.7499999910156829  0.7500000235427566  0.7499999646039571  1.0000
+  Ti  Ti1       1.0  3.7105108576270966e-08  3.2741963142060714e-08  1.5573454436764425e-08  1.0000
+  Se  Se1       1.0  0.2594126135041025  0.25941257923605016  0.7405873947305436  1.0000
+  Se  Se2       1.0  0.740587361959247  0.7405873612043962  0.2594126380473663  1.0000
+  Se  Se3       1.0  0.7405874036935575  0.25941256753225234  0.2594126081708329  1.0000
+  Se  Se4       1.0  0.25941260948123224  0.7405874038311587  0.7405873516745298  1.0000
+  Se  Se5       1.0  0.2594126286070446  0.7405874301513174  0.25941259600741534  1.0000
+  Se  Se6       1.0  0.7405873593098365  0.25941260669601846  0.7405874239260408  1.0000

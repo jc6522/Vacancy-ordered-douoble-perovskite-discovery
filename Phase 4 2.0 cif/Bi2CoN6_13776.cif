@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2CoN6
+_chemical_formula_sum              "Bi2 Co1 N6"
+_cell_length_a       5.492529492273337
+_cell_length_b       5.492529520101089
+_cell_length_c       5.492529385937223
+_cell_angle_alpha    60.000000344907946
+_cell_angle_beta     60.00000048007728
+_cell_angle_gamma    59.99999930621091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999999330915923  0.24999999843713425  0.2500000242562638  1.0000
+  Bi  Bi2       1.0  0.7499999581610881  0.7499999975412408  0.7500000060695654  1.0000
+  Co  Co1       1.0  5.419374146691064e-08  0.9999999509435727  0.9999999901487238  1.0000
+  N   N1        1.0  0.24110817643117807  0.2411082356936928  0.7588917953618423  1.0000
+  N   N2        1.0  0.7588917609386446  0.7588917647443576  0.24110823796370714  1.0000
+  N   N3        1.0  0.7588917937724896  0.2411082130111734  0.24110819363224203  1.0000
+  N   N4        1.0  0.2411082362046648  0.7588918186446022  0.7588917504709564  1.0000
+  N   N5        1.0  0.24110822352024294  0.7588917898315107  0.2411081891634252  1.0000
+  N   N6        1.0  0.7588917974319147  0.24110823736458967  0.7588917635027641  1.0000

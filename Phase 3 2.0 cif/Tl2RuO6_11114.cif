@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2RuO6
+_chemical_formula_sum              "Tl2 Ru1 O6"
+_cell_length_a       5.600337770053228
+_cell_length_b       5.60031825737766
+_cell_length_c       5.600335281487373
+_cell_angle_alpha    59.99996435205751
+_cell_angle_beta     59.99996685995896
+_cell_angle_gamma    59.999978072612635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.25000079176991447  0.2500015047346227  0.24999874637536051  1.0000
+  Tl  Tl2       1.0  0.7500000031989816  0.749998257420332  0.7500006964196092  1.0000
+  Ru  Ru1       1.0  0.9999997335250541  0.9999998097387791  1.4479379258445645e-06  1.0000
+  O   O1        1.0  0.23468016136336584  0.23468190366345038  0.7653189064314515  1.0000
+  O   O2        1.0  0.765319466183414  0.7653192143824523  0.23468095638511444  1.0000
+  O   O3        1.0  0.7653184966186662  0.2346810184398132  0.2346835030840182  1.0000
+  O   O4        1.0  0.23468273785716295  0.765316274681637  0.7653174383724665  1.0000
+  O   O5        1.0  0.23468122601105562  0.7653176931072194  0.23468288186217287  1.0000
+  O   O6        1.0  0.765316849363353  0.23468358458162694  0.7653162826603835  1.0000

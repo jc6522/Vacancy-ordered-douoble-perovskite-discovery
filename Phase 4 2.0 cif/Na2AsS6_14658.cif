@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2AsS6
+_chemical_formula_sum              "Na2 As1 S6"
+_cell_length_a       6.551296697276604
+_cell_length_b       6.551296670680121
+_cell_length_c       6.551296463263575
+_cell_angle_alpha    60.00000194196271
+_cell_angle_beta     59.99999974641208
+_cell_angle_gamma    59.999996265377234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2500000480916937  0.24999986220648737  0.25000008326732276  1.0000
+  Na  Na2       1.0  0.7499999967305852  0.7499999605133483  0.7500000450423515  1.0000
+  As  As1       1.0  9.665318288042727e-08  1.3834072998187676e-07  0.9999998428162423  1.0000
+  S   S1        1.0  0.2572150809313113  0.25721545504977555  0.742784580871807  1.0000
+  S   S2        1.0  0.7427848235984841  0.7427843919731669  0.25721542684195214  1.0000
+  S   S3        1.0  0.7427848126698271  0.2572154390571599  0.2572150538233719  1.0000
+  S   S4        1.0  0.2572154016871424  0.7427848902888722  0.7427845837643178  1.0000
+  S   S5        1.0  0.2572152413518473  0.7427846097883702  0.25721536951564494  1.0000
+  S   S6        1.0  0.7427845565359111  0.257215160586336  0.7427849588055657  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2GeS6
+_chemical_formula_sum              "Hg2 Ge1 S6"
+_cell_length_a       6.474241907362922
+_cell_length_b       6.4742416152196585
+_cell_length_c       6.474241573849314
+_cell_angle_alpha    60.00000151636256
+_cell_angle_beta     60.000000454772945
+_cell_angle_gamma    59.99999980359725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999992879889754  0.24999988621380287  0.250000137866772  1.0000
+  Hg  Hg2       1.0  0.7499999859632502  0.7500001675139293  0.7499999250021055  1.0000
+  Ge  Ge1       1.0  0.9999998981224076  1.135031452652602e-08  0.9999999263307903  1.0000
+  S   S1        1.0  0.25439282562823073  0.25439266518867215  0.74560732515485  1.0000
+  S   S2        1.0  0.7456073836730742  0.7456071255900621  0.254392850119287  1.0000
+  S   S3        1.0  0.7456072124317932  0.2543927609669866  0.25439274408698  1.0000
+  S   S4        1.0  0.2543927170467307  0.7456074251811019  0.7456070953890335  1.0000
+  S   S5        1.0  0.25439272239198285  0.7456073153342282  0.25439270441523526  1.0000
+  S   S6        1.0  0.7456073254889755  0.25439258516422975  0.745607320626815  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2AsF6
+_chemical_formula_sum              "Sn2 As1 F6"
+_cell_length_a       5.816633169186176
+_cell_length_b       5.81663309604485
+_cell_length_c       5.816632885743834
+_cell_angle_alpha    59.99999952787881
+_cell_angle_beta     60.00000068653108
+_cell_angle_gamma    59.999999967546096
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000002659898923  0.24999999504245451  0.25000000441583325  1.0000
+  Sn  Sn2       1.0  0.7499999460680579  0.7500000230279978  0.7499999717628381  1.0000
+  As  As1       1.0  0.999999987727718  1.895031655547726e-08  1.8186056400956008e-09  1.0000
+  F   F1        1.0  0.24687045379230188  0.24687034884295253  0.7531296306786057  1.0000
+  F   F2        1.0  0.7531296288022773  0.7531295955318228  0.24687041334452278  1.0000
+  F   F3        1.0  0.7531296332933423  0.2468703481331933  0.24687044560160393  1.0000
+  F   F4        1.0  0.2468704289885154  0.7531295857136288  0.7531295897729546  1.0000
+  F   F5        1.0  0.24687035611238292  0.7531296398397375  0.2468703907978373  1.0000
+  F   F6        1.0  0.7531295667843337  0.2468704203425296  0.7531295874908841  1.0000

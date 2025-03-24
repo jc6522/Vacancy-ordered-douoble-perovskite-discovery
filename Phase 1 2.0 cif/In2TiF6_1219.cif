@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2TiF6
+_chemical_formula_sum              "In2 Ti1 F6"
+_cell_length_a       6.082716128923864
+_cell_length_b       6.082716300493346
+_cell_length_c       6.0827165845730535
+_cell_angle_alpha    60.00000133118453
+_cell_angle_beta     60.000002045383226
+_cell_angle_gamma    60.0000020825384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.24999994009762336  0.25000004002733844  0.25000001532192667  1.0000
+  In  In2       1.0  0.7500000647005145  0.749999979138177  0.7500000106739052  1.0000
+  Ti  Ti1       1.0  1.9754374936022386e-11  0.9999999657707808  0.9999999612086538  1.0000
+  F   F1        1.0  0.220882521287323  0.22088251399875514  0.7791174758731635  1.0000
+  F   F2        1.0  0.7791174847577367  0.7791174729510238  0.2208824686109397  1.0000
+  F   F3        1.0  0.7791175305470659  0.22088251956689817  0.2208824885774173  1.0000
+  F   F4        1.0  0.22088245235281728  0.7791175197334513  0.7791175383001245  1.0000
+  F   F5        1.0  0.22088251033064424  0.7791174687911894  0.2208824990399469  1.0000
+  F   F6        1.0  0.7791175025214249  0.22088252621252402  0.7791174791137422  1.0000

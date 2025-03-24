@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2PtF6
+_chemical_formula_sum              "Ag2 Pt1 F6"
+_cell_length_a       5.8039753948292745
+_cell_length_b       5.803975502251562
+_cell_length_c       5.803975329052035
+_cell_angle_alpha    60.00000108724907
+_cell_angle_beta     60.00000009493268
+_cell_angle_gamma    59.99999962946699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.25000000869950373  0.25000000814154594  0.2499999783991307  1.0000
+  Ag  Ag2       1.0  0.7499999867705508  0.7500000349755519  0.7499999995516686  1.0000
+  Pt  Pt1       1.0  8.682097959563396e-09  0.9999999620167116  0.999999990529197  1.0000
+  F   F1        1.0  0.23915882623543191  0.23915883190965037  0.7608412155625762  1.0000
+  F   F2        1.0  0.760841110094493  0.7608410782659395  0.23915894457689268  1.0000
+  F   F3        1.0  0.7608412752201257  0.2391587818238305  0.23915877531247484  1.0000
+  F   F4        1.0  0.23915885652206026  0.7608411747757754  0.7608410881672397  1.0000
+  F   F5        1.0  0.2391588128165413  0.7608412327170201  0.23915886699101097  1.0000
+  F   F6        1.0  0.7608411307644338  0.23915888847683794  0.7608411478317015  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2GeO6
+_chemical_formula_sum              "Ti2 Ge1 O6"
+_cell_length_a       4.908153568440777
+_cell_length_b       4.908153923455651
+_cell_length_c       4.908154024291808
+_cell_angle_alpha    60.00000384083153
+_cell_angle_beta     60.00000233348136
+_cell_angle_gamma    60.00000346037877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999985683968287  0.2500004859348911  0.24999967578613302  1.0000
+  Ti  Ti2       1.0  0.749999933112342  0.7499997559917849  0.7499997295669671  1.0000
+  Ge  Ge1       1.0  2.2290746854574094e-08  0.9999999825327117  0.9999999792514381  1.0000
+  O   O1        1.0  0.26026563243740647  0.26026544242515487  0.7397345178924527  1.0000
+  O   O2        1.0  0.739734637314177  0.7397343129128132  0.26026559784200315  1.0000
+  O   O3        1.0  0.7397343430598068  0.26026560696838735  0.2602655247040874  1.0000
+  O   O4        1.0  0.26026571250570396  0.739734318051806  0.7397346642179361  1.0000
+  O   O5        1.0  0.26026539889546096  0.7397345453223898  0.2602656935074232  1.0000
+  O   O6        1.0  0.7397344881581841  0.26026553939872155  0.7397345466808678  1.0000

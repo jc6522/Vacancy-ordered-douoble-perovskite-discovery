@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2NbCl6
+_chemical_formula_sum              "Se2 Nb1 Cl6"
+_cell_length_a       8.8406771418321
+_cell_length_b       8.840675991333768
+_cell_length_c       8.840675338776459
+_cell_angle_alpha    60.00002324835203
+_cell_angle_beta     60.00001058770694
+_cell_angle_gamma    60.000009036386125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.2499990320692475  0.2500007407094878  0.24999909698153705  1.0000
+  Se  Se2       1.0  0.7499989473304439  0.7499996232091205  0.7500003083057859  1.0000
+  Nb  Nb1       1.0  1.3800075406551665e-07  0.9999999778343956  6.4245038675363e-08  1.0000
+  Cl  Cl1       1.0  0.1890589966706744  0.18905993736546836  0.8109411497410385  1.0000
+  Cl  Cl2       1.0  0.8109408671983441  0.8109404861235946  0.1890589836228219  1.0000
+  Cl  Cl3       1.0  0.8109408149684136  0.18905921715160726  0.1890599389211261  1.0000
+  Cl  Cl4       1.0  0.1890606811959896  0.8109404942667651  0.8109404096180999  1.0000
+  Cl  Cl5       1.0  0.18905970170451072  0.8109403081231926  0.18905955133279007  1.0000
+  Cl  Cl6       1.0  0.8109407465833343  0.18905923982350242  0.8109405126770121  1.0000

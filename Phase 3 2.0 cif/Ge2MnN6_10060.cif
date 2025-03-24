@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2MnN6
+_chemical_formula_sum              "Ge2 Mn1 N6"
+_cell_length_a       4.994621647930749
+_cell_length_b       4.9946216937236025
+_cell_length_c       4.99462161696135
+_cell_angle_alpha    59.99999944834491
+_cell_angle_beta     60.00000067133846
+_cell_angle_gamma    59.99999945387568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.24999993596561124  0.24999994111766477  0.2500001767654982  1.0000
+  Ge  Ge2       1.0  0.7499999747253562  0.7499998846561813  0.7500002460475781  1.0000
+  Mn  Mn1       1.0  7.86921731131014e-09  3.1877656670625656e-08  0.9999999621071798  1.0000
+  N   N1        1.0  0.2638452147212446  0.26384514334398557  0.7361547383033646  1.0000
+  N   N2        1.0  0.7361549649179661  0.7361547633500714  0.2638449689939938  1.0000
+  N   N3        1.0  0.7361548037600145  0.2638452246598757  0.2638451025936916  1.0000
+  N   N4        1.0  0.2638451917654732  0.7361548806565016  0.7361547295915081  1.0000
+  N   N5        1.0  0.2638451839915921  0.7361548626430937  0.2638452021610185  1.0000
+  N   N6        1.0  0.7361547418967818  0.2638452573860453  0.7361548797254144  1.0000

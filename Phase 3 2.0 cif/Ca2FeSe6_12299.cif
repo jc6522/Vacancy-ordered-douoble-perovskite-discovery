@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2FeSe6
+_chemical_formula_sum              "Ca2 Fe1 Se6"
+_cell_length_a       6.62708788324847
+_cell_length_b       6.62708782161103
+_cell_length_c       6.627087728557039
+_cell_angle_alpha    60.00000042969074
+_cell_angle_beta     60.000000394592966
+_cell_angle_gamma    59.999999017867154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.24999994502322415  0.250000038837289  0.2499999689210672  1.0000
+  Ca  Ca2       1.0  0.7500000480314941  0.7499999742090042  0.7499999423547684  1.0000
+  Fe  Fe1       1.0  0.9999999937521433  0.9999999926076437  2.7945524725746063e-08  1.0000
+  Se  Se1       1.0  0.24406932534026593  0.24406930529996032  0.7559306765922095  1.0000
+  Se  Se2       1.0  0.7559306665880866  0.755930705898244  0.24406933576211112  1.0000
+  Se  Se3       1.0  0.7559307381756335  0.24406928936078962  0.2440693342248109  1.0000
+  Se  Se4       1.0  0.24406936368370782  0.7559306220406022  0.7559306790982548  1.0000
+  Se  Se5       1.0  0.24406928838387223  0.7559306917396197  0.2440693743468182  1.0000
+  Se  Se6       1.0  0.7559306385292571  0.24406937859743635  0.75593063943673  1.0000

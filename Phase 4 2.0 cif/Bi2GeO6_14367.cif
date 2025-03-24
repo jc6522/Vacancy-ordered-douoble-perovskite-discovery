@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2GeO6
+_chemical_formula_sum              "Bi2 Ge1 O6"
+_cell_length_a       5.381885244151004
+_cell_length_b       5.381885939360395
+_cell_length_c       5.381885724078187
+_cell_angle_alpha    60.00000054307818
+_cell_angle_beta     60.000000365575076
+_cell_angle_gamma    60.000001705053926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500000125728782  0.2500000240301544  0.25000001583907633  1.0000
+  Bi  Bi2       1.0  0.7499999548237822  0.750000031128232  0.7499999998187661  1.0000
+  Ge  Ge1       1.0  0.9999999530139433  6.371903086081577e-08  2.1362868003674252e-08  1.0000
+  O   O1        1.0  0.24874930159900105  0.24874917691507067  0.7512507591771016  1.0000
+  O   O2        1.0  0.7512507491499334  0.7512507826647701  0.2487491864124031  1.0000
+  O   O3        1.0  0.7512507583938988  0.24874921434382596  0.2487492810831044  1.0000
+  O   O4        1.0  0.2487492791360586  0.7512506883440226  0.751250716284648  1.0000
+  O   O5        1.0  0.24874923037813942  0.7512506877052039  0.24874931329556463  1.0000
+  O   O6        1.0  0.7512507418525041  0.24874930145847232  0.7512507087875399  1.0000

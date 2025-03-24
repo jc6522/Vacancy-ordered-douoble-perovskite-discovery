@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2AsO6
+_chemical_formula_sum              "Pb2 As1 O6"
+_cell_length_a       5.591669662841235
+_cell_length_b       5.59167080373472
+_cell_length_c       5.591671949349279
+_cell_angle_alpha    59.9999912247892
+_cell_angle_beta     59.999992425827536
+_cell_angle_gamma    60.00000155372438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999995550550663  0.24999990588129448  0.24999986849112552  1.0000
+  Pb  Pb2       1.0  0.7499999146314242  0.7500001184691737  0.7500000355481115  1.0000
+  As  As1       1.0  1.0006312235000576e-07  0.9999998422982292  2.666730557027409e-07  1.0000
+  O   O1        1.0  0.2340491343151901  0.2340491310911276  0.7659508958688651  1.0000
+  O   O2        1.0  0.7659507721978648  0.7659510071550502  0.23404917088817978  1.0000
+  O   O3        1.0  0.7659508953351479  0.23404898877003188  0.23404922071923068  1.0000
+  O   O4        1.0  0.23404937657154287  0.7659507223672262  0.7659506640789882  1.0000
+  O   O5        1.0  0.23404913121890095  0.7659510157853048  0.23404932735459588  1.0000
+  O   O6        1.0  0.7659505819070971  0.23404933711048484  0.7659508038828619  1.0000

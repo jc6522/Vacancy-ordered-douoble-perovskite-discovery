@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2MoF6
+_chemical_formula_sum              "Se2 Mo1 F6"
+_cell_length_a       5.303537523359175
+_cell_length_b       5.303537360455137
+_cell_length_c       5.303537539715033
+_cell_angle_alpha    60.00000192130967
+_cell_angle_beta     60.000001533207715
+_cell_angle_gamma    60.000001663239644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.25000000561483743  0.25000000722733773  0.2499999967813046  1.0000
+  Se  Se2       1.0  0.7500000186481858  0.7500000032076277  0.7499999590830568  1.0000
+  Mo  Mo1       1.0  1.1018206173759198e-08  0.9999999930721065  1.8695716880309404e-08  1.0000
+  F   F1        1.0  0.26062644181029054  0.2606264481198714  0.7393735624106612  1.0000
+  F   F2        1.0  0.7393735750192151  0.7393735715522874  0.26062644346127856  1.0000
+  F   F3        1.0  0.7393735693108752  0.2606264095859514  0.2606264377244663  1.0000
+  F   F4        1.0  0.2606264182034308  0.7393735869932254  0.7393735509842829  1.0000
+  F   F5        1.0  0.2606264312338036  0.7393735503630187  0.2606264339128482  1.0000
+  F   F6        1.0  0.7393735419417503  0.26062643697896626  0.7393735778970763  1.0000

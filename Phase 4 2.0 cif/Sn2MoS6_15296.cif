@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2MoS6
+_chemical_formula_sum              "Sn2 Mo1 S6"
+_cell_length_a       6.447183624417526
+_cell_length_b       6.447183768319436
+_cell_length_c       6.447183522125905
+_cell_angle_alpha    60.000001467085305
+_cell_angle_beta     60.00000155039875
+_cell_angle_gamma    60.00000047734389
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.24999993851748573  0.25000003765952156  0.24999999855886487  1.0000
+  Sn  Sn2       1.0  0.7500000117541258  0.7499998736215704  0.7500000498266214  1.0000
+  Mo  Mo1       1.0  2.033438893371259e-08  0.9999999981003411  0.9999999737209213  1.0000
+  S   S1        1.0  0.2555188098245721  0.2555188359056407  0.7444811993431626  1.0000
+  S   S2        1.0  0.7444811722848261  0.7444812216491684  0.25551880186532416  1.0000
+  S   S3        1.0  0.7444812463557107  0.2555188294895889  0.2555187825085376  1.0000
+  S   S4        1.0  0.2555187789739844  0.7444811843730703  0.7444812266912003  1.0000
+  S   S5        1.0  0.25551878251251153  0.7444811908367354  0.25551881676068605  1.0000
+  S   S6        1.0  0.7444812271139775  0.25551883252421737  0.7444811753776643  1.0000

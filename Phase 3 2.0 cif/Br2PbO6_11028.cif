@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br2PbO6
+_chemical_formula_sum              "Br2 Pb1 O6"
+_cell_length_a       5.875957645788039
+_cell_length_b       5.875958171028086
+_cell_length_c       5.875957564463165
+_cell_angle_alpha    60.0000016432761
+_cell_angle_beta     59.999999450031886
+_cell_angle_gamma    60.00000028324823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.24999990432444258  0.2500001600463851  0.24999967286914057  1.0000
+  Br  Br2       1.0  0.749999843710685  0.7500000820317039  0.749999831330733  1.0000
+  Pb  Pb1       1.0  0.9999998377867088  5.627697595710319e-08  0.9999997568462102  1.0000
+  O   O1        1.0  0.2568543610303428  0.2568541278122948  0.7431459876830715  1.0000
+  O   O2        1.0  0.7431458592179457  0.7431457057366717  0.25685434240732347  1.0000
+  O   O3        1.0  0.7431458316738285  0.2568541190718136  0.2568544058486257  1.0000
+  O   O4        1.0  0.25685431256791325  0.7431458186937624  0.7431458386590255  1.0000
+  O   O5        1.0  0.256854239124218  0.7431456765356581  0.2568542878405281  1.0000
+  O   O6        1.0  0.7431458256984451  0.25685426956725094  0.7431458271285196  1.0000

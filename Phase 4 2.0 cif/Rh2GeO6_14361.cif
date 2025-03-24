@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2GeO6
+_chemical_formula_sum              "Rh2 Ge1 O6"
+_cell_length_a       5.093346002845051
+_cell_length_b       5.093345949901401
+_cell_length_c       5.093345982070074
+_cell_angle_alpha    60.00000177532964
+_cell_angle_beta     60.00000132805979
+_cell_angle_gamma    60.00000111929727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.2499993642029159  0.2500002723451398  0.2500000618718948  1.0000
+  Rh  Rh2       1.0  0.7500002979362775  0.7500001317250456  0.7499992331992165  1.0000
+  Ge  Ge1       1.0  2.974703735425294e-08  0.9999999855724128  0.9999999687801241  1.0000
+  O   O1        1.0  0.25301077237162517  0.2530106694751289  0.7469893770230261  1.0000
+  O   O2        1.0  0.7469893397569952  0.7469892007743629  0.25301098875697114  1.0000
+  O   O3        1.0  0.7469895237921724  0.253010555441799  0.25301087248941245  1.0000
+  O   O4        1.0  0.2530106550679105  0.746989223432974  0.7469893721046903  1.0000
+  O   O5        1.0  0.2530105622324513  0.7469891712657831  0.25301090891317074  1.0000
+  O   O6        1.0  0.7469894467775534  0.25301075669405093  0.7469892047025357  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2GeS6
+_chemical_formula_sum              "Sr2 Ge1 S6"
+_cell_length_a       6.580097197102624
+_cell_length_b       6.580097295724963
+_cell_length_c       6.580096892607177
+_cell_angle_alpha    60.000002953449794
+_cell_angle_beta     59.99999985047898
+_cell_angle_gamma    60.00000071384945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.24999996840460037  0.2500000244764324  0.24999998902015072  1.0000
+  Sr  Sr2       1.0  0.7500000358352267  0.7500000027003971  0.7499999644694072  1.0000
+  Ge  Ge1       1.0  1.22259298335714e-09  2.7919303230393237e-08  4.773816494666682e-08  1.0000
+  S   S1        1.0  0.2514658642512831  0.25146563804421346  0.7485342576623435  1.0000
+  S   S2        1.0  0.7485341645046186  0.7485342997908494  0.2514657647136866  1.0000
+  S   S3        1.0  0.748534277301211  0.25146569716716505  0.251465735800857  1.0000
+  S   S4        1.0  0.2514657267805091  0.748534246251758  0.7485342642059104  1.0000
+  S   S5        1.0  0.25146571597363737  0.748534288127546  0.2514657474956205  1.0000
+  S   S6        1.0  0.7485342907296412  0.25146576324601266  0.7485342200190674  1.0000

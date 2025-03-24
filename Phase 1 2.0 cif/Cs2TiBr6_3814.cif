@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2TiBr6
+_chemical_formula_sum              "Cs2 Ti1 Br6"
+_cell_length_a       7.8550733045331125
+_cell_length_b       7.855072920802238
+_cell_length_c       7.855073519710808
+_cell_angle_alpha    59.9999990519435
+_cell_angle_beta     59.99999805595177
+_cell_angle_gamma    60.000000601835254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.2500000116162219  0.2499999709929295  0.24999998935795523  1.0000
+  Cs  Cs2       1.0  0.7500000020167791  0.7500000158844699  0.7500000323358494  1.0000
+  Ti  Ti1       1.0  9.618988813342243e-08  0.9999999407512794  6.427848114815687e-08  1.0000
+  Br  Br1       1.0  0.23047829930086247  0.23047819388599616  0.7695217989345877  1.0000
+  Br  Br2       1.0  0.7695216650499974  0.769521782077165  0.23047833306034798  1.0000
+  Br  Br3       1.0  0.7695217084266309  0.2304782638782602  0.23047839826065109  1.0000
+  Br  Br4       1.0  0.2304783892489315  0.7695217354725551  0.7695214911530354  1.0000
+  Br  Br5       1.0  0.23047831043402592  0.769521706588634  0.23047839163475312  1.0000
+  Br  Br6       1.0  0.7695215166992228  0.23047839878620704  0.7695215112927024  1.0000

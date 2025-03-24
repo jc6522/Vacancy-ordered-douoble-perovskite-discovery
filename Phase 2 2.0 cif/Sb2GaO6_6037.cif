@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2GaO6
+_chemical_formula_sum              "Sb2 Ga1 O6"
+_cell_length_a       5.352533875148966
+_cell_length_b       5.35253391028605
+_cell_length_c       5.352534058403064
+_cell_angle_alpha    60.00000315999383
+_cell_angle_beta     60.000003452338326
+_cell_angle_gamma    60.00000117127931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.2500009162388773  0.24999966124411394  0.2500000939518931  1.0000
+  Sb  Sb2       1.0  0.7500010092097068  0.7499993612785457  0.7499994327196182  1.0000
+  Ga  Ga1       1.0  1.6739803174586982e-07  0.9999999702539302  0.9999998825989009  1.0000
+  O   O1        1.0  0.25651537323645635  0.2565164827136725  0.7434838051346064  1.0000
+  O   O2        1.0  0.7434837007806183  0.743484285674302  0.2565163116854364  1.0000
+  O   O3        1.0  0.7434835069647018  0.25651596625618966  0.2565159671659211  1.0000
+  O   O4        1.0  0.25651583936188366  0.7434841728880608  0.7434839937001795  1.0000
+  O   O5        1.0  0.2565156270912728  0.7434840238257493  0.25651620339071696  1.0000
+  O   O6        1.0  0.7434838450128687  0.2565160809961327  0.7434843170685563  1.0000

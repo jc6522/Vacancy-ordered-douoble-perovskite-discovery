@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2NiBr6
+_chemical_formula_sum              "Ge2 Ni1 Br6"
+_cell_length_a       6.827313871043769
+_cell_length_b       6.827313779723394
+_cell_length_c       6.8273137080606565
+_cell_angle_alpha    60.00000045940278
+_cell_angle_beta     60.00000066764869
+_cell_angle_gamma    59.9999999922493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.2500000167898699  0.2500000108019326  0.2500000280715966  1.0000
+  Ge  Ge2       1.0  0.7500000861624149  0.7499998996579508  0.7499999627865392  1.0000
+  Ni  Ni1       1.0  0.9999999767996293  3.408390654338239e-08  0.9999999550111992  1.0000
+  Br  Br1       1.0  0.24703932439218249  0.24703938129553116  0.7529606122688813  1.0000
+  Br  Br2       1.0  0.75296064648365  0.7529606260344026  0.24703937715129157  1.0000
+  Br  Br3       1.0  0.7529606310760331  0.24703936936263415  0.24703938229315417  1.0000
+  Br  Br4       1.0  0.2470393035468305  0.7529607061351131  0.7529606644048429  1.0000
+  Br  Br5       1.0  0.24703935972880958  0.7529606155639236  0.24703940454989  1.0000
+  Br  Br6       1.0  0.7529606552409032  0.24703935588821377  0.7529606115210444  1.0000

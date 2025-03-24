@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2GeF6
+_chemical_formula_sum              "Zn2 Ge1 F6"
+_cell_length_a       5.144898434286839
+_cell_length_b       5.144898152041327
+_cell_length_c       5.144898599496816
+_cell_angle_alpha    59.99999905507579
+_cell_angle_beta     59.99999973150641
+_cell_angle_gamma    59.99999956501498
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2499999928318219  0.24999997097281987  0.25000003690232314  1.0000
+  Zn  Zn2       1.0  0.7499999815993934  0.7500000248021307  0.7499999987903302  1.0000
+  Ge  Ge1       1.0  4.239792705125248e-09  0.9999999738144599  2.0691237821016425e-08  1.0000
+  F   F1        1.0  0.2502454911351019  0.2502454674863507  0.7497545123364556  1.0000
+  F   F2        1.0  0.7497545230372392  0.7497545235275924  0.2502454689363535  1.0000
+  F   F3        1.0  0.7497545478287029  0.25024547312992484  0.25024547197123714  1.0000
+  F   F4        1.0  0.25024547967365646  0.7497545250255297  0.7497545223898823  1.0000
+  F   F5        1.0  0.2502454496257667  0.749754556051986  0.2502454489226896  1.0000
+  F   F6        1.0  0.7497545247820895  0.25024548019152604  0.7497545218428863  1.0000

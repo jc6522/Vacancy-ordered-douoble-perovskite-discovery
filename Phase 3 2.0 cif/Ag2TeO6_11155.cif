@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2TeO6
+_chemical_formula_sum              "Ag2 Te1 O6"
+_cell_length_a       5.639678611552198
+_cell_length_b       5.639679077253377
+_cell_length_c       5.639678960714019
+_cell_angle_alpha    60.000004640158075
+_cell_angle_beta     60.00000261137593
+_cell_angle_gamma    60.00000145304799
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999995222883448  0.25000003688365285  0.24999998087681422  1.0000
+  Ag  Ag2       1.0  0.7500000431933109  0.7499999933814807  0.7499999665257501  1.0000
+  Te  Te1       1.0  0.9999999858133003  0.9999999565668608  0.9999999862543039  1.0000
+  O   O1        1.0  0.24342863293051015  0.24342870372526218  0.7565713030676741  1.0000
+  O   O2        1.0  0.7565713734954311  0.7565712505318801  0.24342872648520222  1.0000
+  O   O3        1.0  0.756571463818071  0.2434285357132847  0.2434284915556471  1.0000
+  O   O4        1.0  0.24342848904032943  0.7565715792464727  0.7565715269853088  1.0000
+  O   O5        1.0  0.24342855868496402  0.7565714393091599  0.24342852328859665  1.0000
+  O   O6        1.0  0.7565715370023576  0.24342848671644232  0.7565715679531919  1.0000

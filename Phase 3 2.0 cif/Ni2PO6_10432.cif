@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2PO6
+_chemical_formula_sum              "Ni2 P1 O6"
+_cell_length_a       4.4029817721388795
+_cell_length_b       4.402981774390783
+_cell_length_c       4.402981784494848
+_cell_angle_alpha    60.00000004470012
+_cell_angle_beta     59.99999983885914
+_cell_angle_gamma    60.00000081695422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2499999685131346  0.2500000101749894  0.250000028413829  1.0000
+  Ni  Ni2       1.0  0.7500000117137611  0.7499999637659446  0.7499999928557999  1.0000
+  P   P1        1.0  0.9999999774561188  3.6161138126309176e-08  4.315751059128167e-08  1.0000
+  O   O1        1.0  0.2643364408457806  0.26433649493432404  0.7356635334647563  1.0000
+  O   O2        1.0  0.7356635097377322  0.7356635207309999  0.26433647949318084  1.0000
+  O   O3        1.0  0.735663537281912  0.2643364543891892  0.2643364638881406  1.0000
+  O   O4        1.0  0.2643364784424918  0.7356634917354848  0.7356635217442302  1.0000
+  O   O5        1.0  0.26433647176370606  0.7356635048775119  0.2643365084150441  1.0000
+  O   O6        1.0  0.7356635565961575  0.26433646628179636  0.73566349472129  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2CrBr6
+_chemical_formula_sum              "Rh2 Cr1 Br6"
+_cell_length_a       6.767700584375172
+_cell_length_b       6.767700581908051
+_cell_length_c       6.767700601498353
+_cell_angle_alpha    60.00000043566146
+_cell_angle_beta     59.99999969530188
+_cell_angle_gamma    59.999999290136564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.250000026917428  0.2500000572047006  0.2499999377282318  1.0000
+  Rh  Rh2       1.0  0.7499999721799481  0.7499999598802245  0.7500000575613854  1.0000
+  Cr  Cr1       1.0  1.1564876414551192e-08  0.9999999601867918  1.707937915002818e-08  1.0000
+  Br  Br1       1.0  0.2488482655878704  0.24884829349243398  0.7511517193446307  1.0000
+  Br  Br2       1.0  0.7511517377321189  0.7511517109246518  0.24884826686913875  1.0000
+  Br  Br3       1.0  0.751151722852478  0.2488482741428444  0.24884829528635105  1.0000
+  Br  Br4       1.0  0.24884827104057794  0.7511517176064026  0.7511517182284784  1.0000
+  Br  Br5       1.0  0.2488482770985484  0.7511517539741206  0.2488482870144041  1.0000
+  Br  Br6       1.0  0.7511517138640956  0.2488482721592607  0.7511517004303172  1.0000

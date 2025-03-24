@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2CoO6
+_chemical_formula_sum              "Au2 Co1 O6"
+_cell_length_a       5.368012170101092
+_cell_length_b       5.368012235016331
+_cell_length_c       5.368012172881652
+_cell_angle_alpha    60.00000025768367
+_cell_angle_beta     60.000000005107594
+_cell_angle_gamma    59.99999913986649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2499999370078464  0.24999965387222461  0.2500003670996137  1.0000
+  Au  Au2       1.0  0.7500001422701223  0.7500000909894898  0.7499998680096549  1.0000
+  Co  Co1       1.0  2.1011215159763117e-08  0.9999999885921934  2.127871348356026e-08  1.0000
+  O   O1        1.0  0.23889720741721573  0.23889723854775458  0.7611027613916874  1.0000
+  O   O2        1.0  0.7611026976606373  0.7611028804900076  0.2388972302873171  1.0000
+  O   O3        1.0  0.7611027741205487  0.23889714976042448  0.23889723533318916  1.0000
+  O   O4        1.0  0.23889711374869124  0.7611029692773382  0.7611026326851458  1.0000
+  O   O5        1.0  0.23889715645863183  0.7611028537028506  0.23889722328006682  1.0000
+  O   O6        1.0  0.7611029516257192  0.23889718548026526  0.7611026509364026  1.0000

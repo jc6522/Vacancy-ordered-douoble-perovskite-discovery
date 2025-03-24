@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2SiCl6
+_chemical_formula_sum              "Hg2 Si1 Cl6"
+_cell_length_a       7.436106552391215
+_cell_length_b       7.436108136763384
+_cell_length_c       7.436106065281623
+_cell_angle_alpha    59.99999924440128
+_cell_angle_beta     60.00000601821083
+_cell_angle_gamma    60.00000686718917
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999995148150786  0.2500000099938149  0.25000010013595586  1.0000
+  Hg  Hg2       1.0  0.750000029397521  0.7499999756297053  0.749999874324407  1.0000
+  Si  Si1       1.0  0.9999999133860202  3.6234518491660266e-08  7.629173991268879e-08  1.0000
+  Cl  Cl1       1.0  0.20914746854466604  0.2091475424710726  0.7908524558688339  1.0000
+  Cl  Cl2       1.0  0.790852399373527  0.7908522323333559  0.20914782033965038  1.0000
+  Cl  Cl3       1.0  0.7908522269759547  0.20914789890694674  0.20914726466281927  1.0000
+  Cl  Cl4       1.0  0.20914790664275482  0.7908522201255278  0.7908525129316264  1.0000
+  Cl  Cl5       1.0  0.209147676345728  0.7908523355166701  0.20914721922019966  1.0000
+  Cl  Cl6       1.0  0.7908524155026633  0.20914782963246958  0.7908525965447633  1.0000

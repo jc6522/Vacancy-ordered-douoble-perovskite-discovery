@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2FeTe6
+_chemical_formula_sum              "Cu2 Fe1 Te6"
+_cell_length_a       6.7742694275553
+_cell_length_b       6.774269131885902
+_cell_length_c       6.774269347741587
+_cell_angle_alpha    59.99999855847634
+_cell_angle_beta     59.999993619392434
+_cell_angle_gamma    60.000010762816395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2500001409144555  0.25000008500590243  0.24999982423088177  1.0000
+  Cu  Cu2       1.0  0.7499997652966227  0.749999900662065  0.7500002694001429  1.0000
+  Fe  Fe1       1.0  0.9999997918571762  0.9999999801126741  4.284401387070406e-07  1.0000
+  Te  Te1       1.0  0.25213890640346687  0.25213854307536027  0.7478611910981204  1.0000
+  Te  Te2       1.0  0.7478614533893064  0.7478613142291808  0.2521385140691317  1.0000
+  Te  Te3       1.0  0.747861170687046  0.25213893420199335  0.25213865716769246  1.0000
+  Te  Te4       1.0  0.2521389402577708  0.7478610713533015  0.7478611086313911  1.0000
+  Te  Te5       1.0  0.2521389866864023  0.7478610897754605  0.2521388990062408  1.0000
+  Te  Te6       1.0  0.7478608373936048  0.2521390911496336  0.7478611218238463  1.0000

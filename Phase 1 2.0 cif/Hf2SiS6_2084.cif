@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hf2SiS6
+_chemical_formula_sum              "Hf2 Si1 S6"
+_cell_length_a       6.204970956887209
+_cell_length_b       6.204970989176305
+_cell_length_c       6.204970966477874
+_cell_angle_alpha    59.99999981976293
+_cell_angle_beta     60.000000746371434
+_cell_angle_gamma    59.999999127156315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2500000289150366  0.24999994035308185  0.25000000127706196  1.0000
+  Hf  Hf2       1.0  0.7499999102922595  0.7499999987023651  0.7499999903431612  1.0000
+  Si  Si1       1.0  0.999999987970093  0.999999980261876  6.21434894316819e-09  1.0000
+  S   S1        1.0  0.2497744413143139  0.24977449815608227  0.7502255075950306  1.0000
+  S   S2        1.0  0.7502255860886928  0.7502255001137357  0.2497744747845955  1.0000
+  S   S3        1.0  0.7502255520957383  0.2497744605752592  0.24977452922035412  1.0000
+  S   S4        1.0  0.24977453594707683  0.7502255455898077  0.7502254188917438  1.0000
+  S   S5        1.0  0.24977448573917382  0.7502255724927348  0.24977450873070817  1.0000
+  S   S6        1.0  0.7502254511910695  0.24977451854626737  0.7502255498580391  1.0000

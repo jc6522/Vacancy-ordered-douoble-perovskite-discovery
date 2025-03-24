@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2NiO6
+_chemical_formula_sum              "Ba2 Ni1 O6"
+_cell_length_a       5.88749602106795
+_cell_length_b       5.8874961116700515
+_cell_length_c       5.8874960583009175
+_cell_angle_alpha    60.000000858417046
+_cell_angle_beta     59.99999984848559
+_cell_angle_gamma    60.000001060760745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000000591112703  0.25000001929678783  0.2499999717194959  1.0000
+  Ba  Ba2       1.0  0.7500000032532963  0.7499999601187354  0.7500000137472173  1.0000
+  Ni  Ni1       1.0  4.534729327722221e-08  0.9999999875185163  6.679432714872548e-08  1.0000
+  O   O1        1.0  0.2199147142720549  0.21991477061749426  0.7800852673605848  1.0000
+  O   O2        1.0  0.7800852320125611  0.7800852150387713  0.2199147837929895  1.0000
+  O   O3        1.0  0.7800852455364884  0.2199147797805936  0.21991478566930503  1.0000
+  O   O4        1.0  0.21991481913852273  0.7800851684312188  0.7800851774528799  1.0000
+  O   O5        1.0  0.21991477666707354  0.7800852066113179  0.21991479012541523  1.0000
+  O   O6        1.0  0.7800851662081996  0.2199148892980599  0.7800851090924084  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2GaF6
+_chemical_formula_sum              "Mg2 Ga1 F6"
+_cell_length_a       5.0721106792010575
+_cell_length_b       5.072110791109526
+_cell_length_c       5.072110664726282
+_cell_angle_alpha    60.0000001970743
+_cell_angle_beta     60.000000843190044
+_cell_angle_gamma    59.99999957432959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25000002193787785  0.2500000501130616  0.2499999519089828  1.0000
+  Mg  Mg2       1.0  0.7500000301501114  0.7499999909712909  0.7499999788730126  1.0000
+  Ga  Ga1       1.0  0.9999999824542464  4.829330483818819e-09  0.9999999905856849  1.0000
+  F   F1        1.0  0.25800360461732974  0.25800355864030433  0.7419964058470826  1.0000
+  F   F2        1.0  0.7419963995483266  0.7419964486387376  0.2580035855143926  1.0000
+  F   F3        1.0  0.7419964382080106  0.25800357954281683  0.25800361707704106  1.0000
+  F   F4        1.0  0.2580035705344761  0.7419963866869187  0.7419964280088571  1.0000
+  F   F5        1.0  0.2580035723849862  0.7419963770095166  0.2580036186202935  1.0000
+  F   F6        1.0  0.7419963680604577  0.25800358922021993  0.7419964408984672  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2SO6
+_chemical_formula_sum              "Hg2 S1 O6"
+_cell_length_a       5.314955170557061
+_cell_length_b       5.314954798791211
+_cell_length_c       5.314955354602845
+_cell_angle_alpha    59.99999605024661
+_cell_angle_beta     59.99999563276787
+_cell_angle_gamma    59.99999585263348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999999630138192  0.25000001125409393  0.2500000028866642  1.0000
+  Hg  Hg2       1.0  0.750000011025008  0.7500000130232448  0.7500000154950128  1.0000
+  S   S1        1.0  3.263348245437069e-08  0.9999999216525256  0.9999997951975103  1.0000
+  O   O1        1.0  0.2192824390171131  0.21928249611646516  0.7807175084819056  1.0000
+  O   O2        1.0  0.78071755999183  0.7807175465955725  0.21928242205587814  1.0000
+  O   O3        1.0  0.7807175829425668  0.21928249012423862  0.2192823994585346  1.0000
+  O   O4        1.0  0.21928227605543402  0.7807176793263596  0.7807176882341109  1.0000
+  O   O5        1.0  0.2192824090423681  0.7807176087869883  0.21928237657738725  1.0000
+  O   O6        1.0  0.78071772170528  0.219282247273718  0.7807177676835589  1.0000

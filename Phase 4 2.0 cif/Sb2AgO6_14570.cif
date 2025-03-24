@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2AgO6
+_chemical_formula_sum              "Sb2 Ag1 O6"
+_cell_length_a       5.415957948775822
+_cell_length_b       5.415957692960829
+_cell_length_c       5.415957579398559
+_cell_angle_alpha    60.00000105669094
+_cell_angle_beta     60.00000108354159
+_cell_angle_gamma    60.00000147742869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.25000044739894384  0.2500001632591995  0.24999937930979774  1.0000
+  Sb  Sb2       1.0  0.7499993863427279  0.7499994495504018  0.7500006348700532  1.0000
+  Ag  Ag1       1.0  0.999999997502167  0.9999999819090927  1.767995235587973e-08  1.0000
+  O   O1        1.0  0.2594857379154782  0.25948583871415765  0.7405143505348566  1.0000
+  O   O2        1.0  0.7405142257433039  0.7405142286294952  0.2594857019242177  1.0000
+  O   O3        1.0  0.7405140917829776  0.2594859988820376  0.2594854672502785  1.0000
+  O   O4        1.0  0.2594860240889402  0.7405141363025204  0.7405144641034008  1.0000
+  O   O5        1.0  0.2594860586634257  0.7405142543049597  0.25948539122347863  1.0000
+  O   O6        1.0  0.7405140194119628  0.25948596228868115  0.7405145792549779  1.0000

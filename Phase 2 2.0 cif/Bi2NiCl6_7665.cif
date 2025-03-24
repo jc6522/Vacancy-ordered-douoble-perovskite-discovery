@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2NiCl6
+_chemical_formula_sum              "Bi2 Ni1 Cl6"
+_cell_length_a       6.832734271398358
+_cell_length_b       6.832733507495178
+_cell_length_c       6.83273428095467
+_cell_angle_alpha    59.99999870961576
+_cell_angle_beta     60.00000137302596
+_cell_angle_gamma    59.99999993952291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500001000676019  0.2500002942119185  0.24999985401517566  1.0000
+  Bi  Bi2       1.0  0.7499999433477182  0.7499999810248642  0.7499998897886507  1.0000
+  Ni  Ni1       1.0  0.9999999314968211  1.792466912504112e-08  8.529451493397398e-08  1.0000
+  Cl  Cl1       1.0  0.2407511825018107  0.24075125999914512  0.7592487461418956  1.0000
+  Cl  Cl2       1.0  0.7592488802618165  0.7592485617435019  0.24075130401095604  1.0000
+  Cl  Cl3       1.0  0.759248570762708  0.24075136393087912  0.24075141095046015  1.0000
+  Cl  Cl4       1.0  0.24075143151986736  0.7592485277179777  0.7592486447346137  1.0000
+  Cl  Cl5       1.0  0.24075144840012117  0.7592486272063056  0.2407513899192557  1.0000
+  Cl  Cl6       1.0  0.7592485028235341  0.24075137199056745  0.7592486609379585  1.0000

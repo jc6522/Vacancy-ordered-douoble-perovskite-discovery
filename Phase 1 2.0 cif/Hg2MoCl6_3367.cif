@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2MoCl6
+_chemical_formula_sum              "Hg2 Mo1 Cl6"
+_cell_length_a       7.696354905335136
+_cell_length_b       7.696355362930995
+_cell_length_c       7.696354685476352
+_cell_angle_alpha    60.00000007884098
+_cell_angle_beta     60.000000689139306
+_cell_angle_gamma    59.99999757570573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000006045518713  0.24999993925340763  0.24999998355955894  1.0000
+  Hg  Hg2       1.0  0.7499999159724076  0.7499999928066416  0.7500000153417874  1.0000
+  Mo  Mo1       1.0  1.0817660624929653e-07  0.9999998870154997  0.9999998646764089  1.0000
+  Cl  Cl1       1.0  0.21671633345544475  0.21671609482355297  0.7832838359606755  1.0000
+  Cl  Cl2       1.0  0.7832837130607524  0.7832839645429699  0.21671615259664645  1.0000
+  Cl  Cl3       1.0  0.783283938718446  0.21671598528980002  0.2167162586039849  1.0000
+  Cl  Cl4       1.0  0.2167161086793018  0.7832839229002765  0.7832838869577224  1.0000
+  Cl  Cl5       1.0  0.21671597874256612  0.7832841235508118  0.21671609086226623  1.0000
+  Cl  Cl6       1.0  0.7832838268250523  0.21671611404479169  0.7832839251568521  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2GaSe6
+_chemical_formula_sum              "Ca2 Ga1 Se6"
+_cell_length_a       6.711866014414305
+_cell_length_b       6.711865882237835
+_cell_length_c       6.711866074538889
+_cell_angle_alpha    60.00000162265471
+_cell_angle_beta     59.99999971100581
+_cell_angle_gamma    60.00000145856136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.24999996020223725  0.2500001481491748  0.24999994812166415  1.0000
+  Ca  Ca2       1.0  0.7499999566587549  0.7500000046838101  0.7500000485692987  1.0000
+  Ga  Ga1       1.0  2.2782462877128184e-08  0.9999999781030532  4.872389599275244e-08  1.0000
+  Se  Se1       1.0  0.26303082744675993  0.26303085808664256  0.7369691646610459  1.0000
+  Se  Se2       1.0  0.7369691078376673  0.736969110447024  0.26303084345272115  1.0000
+  Se  Se3       1.0  0.7369691767025272  0.26303087492179283  0.2630308016348932  1.0000
+  Se  Se4       1.0  0.2630309017914361  0.736969071714927  0.7369691532720719  1.0000
+  Se  Se5       1.0  0.2630309004637136  0.7369690962376818  0.26303087850405066  1.0000
+  Se  Se6       1.0  0.7369691543443657  0.263030859522767  0.7369691105021674  1.0000

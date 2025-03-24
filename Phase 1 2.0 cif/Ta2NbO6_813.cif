@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2NbO6
+_chemical_formula_sum              "Ta2 Nb1 O6"
+_cell_length_a       4.9708467204078515
+_cell_length_b       4.970846691960473
+_cell_length_c       4.970846792173286
+_cell_angle_alpha    59.99999974885219
+_cell_angle_beta     59.99999963701367
+_cell_angle_gamma    60.000000314861765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.2499999845919201  0.249999996138649  0.250000021482632  1.0000
+  Ta  Ta2       1.0  0.7499999937811201  0.7500000426207714  0.7499999449205359  1.0000
+  Nb  Nb1       1.0  1.0934351896079394e-08  0.9999999950722889  2.3149165377082174e-08  1.0000
+  O   O1        1.0  0.2696700632378641  0.2696699781291007  0.7303300061126414  1.0000
+  O   O2        1.0  0.7303299740784482  0.7303299743953725  0.26967004032344316  1.0000
+  O   O3        1.0  0.7303299713156509  0.26967002953066904  0.26966999491442256  1.0000
+  O   O4        1.0  0.26966997399668946  0.7303299969094728  0.7303299921670048  1.0000
+  O   O5        1.0  0.26966998479865834  0.7303299629077504  0.2696700426501047  1.0000
+  O   O6        1.0  0.730330002350875  0.2696700216468454  0.7303299263499321  1.0000

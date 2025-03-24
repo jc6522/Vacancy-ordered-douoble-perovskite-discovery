@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2CrO6
+_chemical_formula_sum              "Co2 Cr1 O6"
+_cell_length_a       5.053118943995831
+_cell_length_b       5.053118881875835
+_cell_length_c       5.053118371646267
+_cell_angle_alpha    60.000003266778116
+_cell_angle_beta     60.00000423644588
+_cell_angle_gamma    60.00000339547331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000028210208886  0.2500001964821201  0.24999944568474108  1.0000
+  Co  Co2       1.0  0.7500002068404465  0.7499992515416576  0.7500004141762849  1.0000
+  Cr  Cr1       1.0  1.1702853619397379e-08  0.9999999854575577  3.506238640596802e-08  1.0000
+  O   O1        1.0  0.25049390898411056  0.2504941025393109  0.7495060956282401  1.0000
+  O   O2        1.0  0.7495058893990224  0.7495061283525997  0.2504937853636019  1.0000
+  O   O3        1.0  0.7495059585708214  0.25049417334975493  0.25049394276737336  1.0000
+  O   O4        1.0  0.25049411885500483  0.7495058442530056  0.7495061408458427  1.0000
+  O   O5        1.0  0.2504939866848249  0.749505993439563  0.25049402643709556  1.0000
+  O   O6        1.0  0.7495057084756506  0.25049421806242267  0.7495060979268293  1.0000

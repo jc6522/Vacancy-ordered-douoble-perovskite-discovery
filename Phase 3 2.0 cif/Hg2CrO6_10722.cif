@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2CrO6
+_chemical_formula_sum              "Hg2 Cr1 O6"
+_cell_length_a       5.542385607980259
+_cell_length_b       5.542385619496035
+_cell_length_c       5.542385449966038
+_cell_angle_alpha    60.000000761915345
+_cell_angle_beta     60.000002015721115
+_cell_angle_gamma    60.00000329801009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000981497087  0.2499999761067165  0.2499999274415348  1.0000
+  Hg  Hg2       1.0  0.7499999678391968  0.7499999393690341  0.7500002197680983  1.0000
+  Cr  Cr1       1.0  0.9999999729771338  1.060694018923268e-07  0.9999998774799781  1.0000
+  O   O1        1.0  0.23953202489948838  0.23953206262003712  0.7604680208853508  1.0000
+  O   O2        1.0  0.7604679773019473  0.7604679567153352  0.2395319980315704  1.0000
+  O   O3        1.0  0.7604679802200429  0.23953217005427843  0.2395320502735574  1.0000
+  O   O4        1.0  0.23953209629055627  0.7604677763583826  0.760467908408989  1.0000
+  O   O5        1.0  0.2395320300964037  0.7604678705466699  0.23953213740539747  1.0000
+  O   O6        1.0  0.7604678432086847  0.23953209796377722  0.7604679280695049  1.0000

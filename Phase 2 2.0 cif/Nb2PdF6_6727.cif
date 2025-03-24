@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2PdF6
+_chemical_formula_sum              "Nb2 Pd1 F6"
+_cell_length_a       5.48743205355854
+_cell_length_b       5.48743340239064
+_cell_length_c       5.487432944249429
+_cell_angle_alpha    60.000005672370435
+_cell_angle_beta     60.00000315139058
+_cell_angle_gamma    59.99999737116075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2499989784086874  0.24999967902567918  0.25000184968306854  1.0000
+  Nb  Nb2       1.0  0.7500038665977408  0.7499995928214047  0.7499953325196049  1.0000
+  Pd  Pd1       1.0  0.9999997864481923  5.3565823252922335e-08  2.221359466576028e-07  1.0000
+  F   F1        1.0  0.2666565544380308  0.2666578263043912  0.7333425676512682  1.0000
+  F   F2        1.0  0.7333427288769033  0.7333428003114285  0.26665832578932597  1.0000
+  F   F3        1.0  0.7333428220372238  0.2666565476006959  0.2666580846820041  1.0000
+  F   F4        1.0  0.26665642545450075  0.7333433090067697  0.7333425009595176  1.0000
+  F   F5        1.0  0.2666555907465474  0.7333426122793874  0.2666588395473582  1.0000
+  F   F6        1.0  0.7333432796295739  0.26665759920153864  0.7333422547156028  1.0000

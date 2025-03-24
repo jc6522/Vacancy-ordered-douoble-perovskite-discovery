@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2GeSe6
+_chemical_formula_sum              "Na2 Ge1 Se6"
+_cell_length_a       6.6712132685322585
+_cell_length_b       6.671213234233788
+_cell_length_c       6.671213241757282
+_cell_angle_alpha    59.999999606262286
+_cell_angle_beta     60.000000208765584
+_cell_angle_gamma    60.00000125473766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24999996598350377  0.25000000952501167  0.250000011584196  1.0000
+  Na  Na2       1.0  0.7499999861379187  0.7500000028729227  0.7500000424833613  1.0000
+  Ge  Ge1       1.0  0.9999999568512498  0.9999999632826937  5.9419738647915044e-08  1.0000
+  Se  Se1       1.0  0.26264343270092017  0.26264342078635255  0.7373565829291591  1.0000
+  Se  Se2       1.0  0.7373566503186668  0.7373566558668686  0.26264334508109555  1.0000
+  Se  Se3       1.0  0.7373565684858376  0.2626434445826449  0.2626434038516885  1.0000
+  Se  Se4       1.0  0.26264347878250116  0.737356479693758  0.7373566167236222  1.0000
+  Se  Se5       1.0  0.26264346152633583  0.7373565147937888  0.2626433981897904  1.0000
+  Se  Se6       1.0  0.7373565073968297  0.26264349393241554  0.737356560873075  1.0000

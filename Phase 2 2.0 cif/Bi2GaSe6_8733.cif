@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2GaSe6
+_chemical_formula_sum              "Bi2 Ga1 Se6"
+_cell_length_a       6.6561574930470355
+_cell_length_b       6.656157571450996
+_cell_length_c       6.656157507038943
+_cell_angle_alpha    60.000000526987726
+_cell_angle_beta     60.0000006184047
+_cell_angle_gamma    59.999999336541286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24999985770000507  0.24999996372794817  0.2500001640639534  1.0000
+  Bi  Bi2       1.0  0.7499999362112958  0.750000014465035  0.7499999019485508  1.0000
+  Ga  Ga1       1.0  2.714888542400756e-09  6.99206779490283e-08  0.9999999621798485  1.0000
+  Se  Se1       1.0  0.2650456863043679  0.2650456236821876  0.7349543292155483  1.0000
+  Se  Se2       1.0  0.7349543318693559  0.7349542385896685  0.26504572319025294  1.0000
+  Se  Se3       1.0  0.7349543560829539  0.2650456871378856  0.26504568423518327  1.0000
+  Se  Se4       1.0  0.2650457234004463  0.7349543867360213  0.7349542662692259  1.0000
+  Se  Se5       1.0  0.2650457007770006  0.7349542782945112  0.26504570859194015  1.0000
+  Se  Se6       1.0  0.7349544094605421  0.2650457293387531  0.7349542656651924  1.0000

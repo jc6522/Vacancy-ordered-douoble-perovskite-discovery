@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2MnBr6
+_chemical_formula_sum              "Nb2 Mn1 Br6"
+_cell_length_a       6.625754987064423
+_cell_length_b       6.625754905906847
+_cell_length_c       6.625754845947803
+_cell_angle_alpha    59.99999917202201
+_cell_angle_beta     60.000000363862064
+_cell_angle_gamma    59.9999996995949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000001739652356  0.2500000388595125  0.25000007278860586  1.0000
+  Nb  Nb2       1.0  0.7500000284285369  0.7499999003086164  0.7500000229455391  1.0000
+  Mn  Mn1       1.0  5.1472921815145034e-08  0.9999999815153903  6.349672989352779e-08  1.0000
+  Br  Br1       1.0  0.2517634233874765  0.2517633816312477  0.7482366104016628  1.0000
+  Br  Br2       1.0  0.7482366077374742  0.7482366277783965  0.2517633534227011  1.0000
+  Br  Br3       1.0  0.7482366244315675  0.25176336189225834  0.2517633800437833  1.0000
+  Br  Br4       1.0  0.2517633995472464  0.748236595760481  0.7482365890839097  1.0000
+  Br  Br5       1.0  0.25176332067844004  0.7482366754045602  0.25176332995326217  1.0000
+  Br  Br6       1.0  0.7482365319101765  0.2517634356704337  0.7482365787323492  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2CrI6
+_chemical_formula_sum              "Pb2 Cr1 I6"
+_cell_length_a       7.82441315338609
+_cell_length_b       7.824413210498046
+_cell_length_c       7.824413190993104
+_cell_angle_alpha    59.999998729438055
+_cell_angle_beta     59.99999867510343
+_cell_angle_gamma    60.00000077439033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2499999859136825  0.2500000271810497  0.25000001866418026  1.0000
+  Pb  Pb2       1.0  0.7499999809825021  0.7499999719730914  0.7500000390884409  1.0000
+  Cr  Cr1       1.0  0.9999999933807726  3.756687594548339e-08  9.699467348001772e-08  1.0000
+  I   I1        1.0  0.24398255627805251  0.2439825654688745  0.7560174535257392  1.0000
+  I   I2        1.0  0.7560174563822472  0.7560174070753962  0.24398255630822605  1.0000
+  I   I3        1.0  0.7560174206388737  0.2439826114675899  0.24398254292742336  1.0000
+  I   I4        1.0  0.2439826405733928  0.7560173172486592  0.7560173827492982  1.0000
+  I   I5        1.0  0.24398259371058653  0.7560174183289965  0.24398252795379316  1.0000
+  I   I6        1.0  0.7560173765386562  0.24398263717546198  0.7560173849225394  1.0000

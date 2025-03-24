@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2NiSe6
+_chemical_formula_sum              "Bi2 Ni1 Se6"
+_cell_length_a       6.585122834372588
+_cell_length_b       6.585122616444507
+_cell_length_c       6.585122817749581
+_cell_angle_alpha    59.99999980190704
+_cell_angle_beta     60.000000284509696
+_cell_angle_gamma    59.99999953562548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2499999835910993  0.2500000553940029  0.24999991122142468  1.0000
+  Bi  Bi2       1.0  0.749999912357441  0.7500000657492203  0.7499999716503722  1.0000
+  Ni  Ni1       1.0  0.99999998041066  0.999999985121068  0.9999999944555175  1.0000
+  Se  Se1       1.0  0.25419772513659766  0.2541977075895223  0.7458022844083897  1.0000
+  Se  Se2       1.0  0.7458023129183506  0.7458022870827815  0.25419771061305263  1.0000
+  Se  Se3       1.0  0.7458023387285396  0.2541976709232071  0.25419774443413  1.0000
+  Se  Se4       1.0  0.25419775609482786  0.7458022586537708  0.7458023443466648  1.0000
+  Se  Se5       1.0  0.25419772222963605  0.7458022730942215  0.25419770679653875  1.0000
+  Se  Se6       1.0  0.7458022567381892  0.2541976936800851  0.7458023347546129  1.0000

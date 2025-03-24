@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2NiSe6
+_chemical_formula_sum              "Pt2 Ni1 Se6"
+_cell_length_a       6.168404230175642
+_cell_length_b       6.16840431392617
+_cell_length_c       6.1684039983096834
+_cell_angle_alpha    60.00000264556252
+_cell_angle_beta     60.0000006102431
+_cell_angle_gamma    60.00000233166059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.24999994148869062  0.24999873776356435  0.2500005832991537  1.0000
+  Pt  Pt2       1.0  0.7500009039557322  0.7499999778237559  0.7499987037376381  1.0000
+  Ni  Ni1       1.0  0.9999998933177695  0.9999999662462732  0.9999999761904153  1.0000
+  Se  Se1       1.0  0.27988904298093764  0.2798894984738584  0.720110654028309  1.0000
+  Se  Se2       1.0  0.7201105007594631  0.7201109881912611  0.27988977306944135  1.0000
+  Se  Se3       1.0  0.7201111372998518  0.2798888695681155  0.27988958753575244  1.0000
+  Se  Se4       1.0  0.2798889202498453  0.7201114066326015  0.7201103004311378  1.0000
+  Se  Se5       1.0  0.27988880963770085  0.7201111347646945  0.2798898688416406  1.0000
+  Se  Se6       1.0  0.7201108340335183  0.27988944521954795  0.720110539447054  1.0000

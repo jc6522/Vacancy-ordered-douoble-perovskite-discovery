@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2NiS6
+_chemical_formula_sum              "Ba2 Ni1 S6"
+_cell_length_a       6.539108831753835
+_cell_length_b       6.539108261986067
+_cell_length_c       6.539108814513505
+_cell_angle_alpha    60.00000069757776
+_cell_angle_beta     60.00000021233984
+_cell_angle_gamma    60.00000064538002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.24999996747908598  0.2500000189902746  0.25000000637391623  1.0000
+  Ba  Ba2       1.0  0.7499999842197538  0.7499999970362995  0.750000026548886  1.0000
+  Ni  Ni1       1.0  3.6571711305941526e-09  0.9999999625409178  0.9999999358501547  1.0000
+  S   S1        1.0  0.24290837214465158  0.24290845038244036  0.7570915916291913  1.0000
+  S   S2        1.0  0.757091680794501  0.7570916274516162  0.24290835365267366  1.0000
+  S   S3        1.0  0.7570916458586807  0.24290831914086658  0.24290832418365338  1.0000
+  S   S4        1.0  0.24290836737826868  0.7570916182216402  0.7570916515439294  1.0000
+  S   S5        1.0  0.24290836135881363  0.7570916449301097  0.24290837626622586  1.0000
+  S   S6        1.0  0.757091637928907  0.24290834487511273  0.7570917132602676  1.0000

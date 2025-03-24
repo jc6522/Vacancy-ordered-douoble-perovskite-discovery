@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2TaO6
+_chemical_formula_sum              "Ba2 Ta1 O6"
+_cell_length_a       6.042408999660571
+_cell_length_b       6.042409123799356
+_cell_length_c       6.042409078777213
+_cell_angle_alpha    60.00000101595996
+_cell_angle_beta     60.000002684627134
+_cell_angle_gamma    60.000003872024884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000004044837265  0.24999997481282232  0.2500000345693887  1.0000
+  Ba  Ba2       1.0  0.7500000358504562  0.7500000318649489  0.7499999934441118  1.0000
+  Ta  Ta1       1.0  7.140228873016889e-08  0.9999999635155358  0.9999999593715225  1.0000
+  O   O1        1.0  0.23110484881834129  0.23110471017483536  0.768895225840163  1.0000
+  O   O2        1.0  0.7688951433206213  0.7688952336685748  0.2311047978869034  1.0000
+  O   O3        1.0  0.768895091188059  0.23110481386403475  0.23110491144409748  1.0000
+  O   O4        1.0  0.23110491398009547  0.7688951482216091  0.7688950900273805  1.0000
+  O   O5        1.0  0.2311048040733335  0.7688952552658369  0.23110474035292325  1.0000
+  O   O6        1.0  0.768895084772532  0.23110486086532836  0.7688951528886082  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2IrSe6
+_chemical_formula_sum              "Ni2 Ir1 Se6"
+_cell_length_a       6.313731170375295
+_cell_length_b       6.313731704073295
+_cell_length_c       6.313731773356518
+_cell_angle_alpha    59.9999967940491
+_cell_angle_beta     59.99999888166593
+_cell_angle_gamma    59.99999946146178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500005764955118  0.24999968569321418  0.2499997000283288  1.0000
+  Ni  Ni2       1.0  0.7500000534154745  0.7499997398932414  0.7500004108122458  1.0000
+  Ir  Ir1       1.0  0.9999999646777038  6.207396496527697e-08  1.988500023095018e-08  1.0000
+  Se  Se1       1.0  0.27804789914876893  0.27804818692050387  0.721951945245218  1.0000
+  Se  Se2       1.0  0.7219517397192078  0.7219521872337631  0.2780478573922539  1.0000
+  Se  Se3       1.0  0.7219518931059111  0.2780482280209849  0.2780479717139473  1.0000
+  Se  Se4       1.0  0.27804810237958116  0.7219517950274036  0.7219519865526547  1.0000
+  Se  Se5       1.0  0.2780480628045229  0.7219520125576835  0.2780480732429462  1.0000
+  Se  Se6       1.0  0.7219517035901598  0.2780480997220282  0.7219520468166564  1.0000

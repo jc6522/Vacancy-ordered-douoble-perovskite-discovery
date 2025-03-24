@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2SnO6
+_chemical_formula_sum              "Bi2 Sn1 O6"
+_cell_length_a       5.5048535725427685
+_cell_length_b       5.504853317770477
+_cell_length_c       5.504853440289093
+_cell_angle_alpha    60.00000079744449
+_cell_angle_beta     60.000001324847375
+_cell_angle_gamma    60.00000031052413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500000388822589  0.25000010424475283  0.2499998487468889  1.0000
+  Bi  Bi2       1.0  0.7500000759708483  0.7500000257291788  0.7499998808395734  1.0000
+  Sn  Sn1       1.0  0.9999999954012361  5.7845984274666105e-08  0.999999891630345  1.0000
+  O   O1        1.0  0.2624899462163735  0.2624899034989283  0.7375101027994397  1.0000
+  O   O2        1.0  0.7375099303387712  0.7375100729606591  0.26249003704947055  1.0000
+  O   O3        1.0  0.7375100721749367  0.2624898867295111  0.26248992669013244  1.0000
+  O   O4        1.0  0.26248993498431006  0.7375099873871792  0.7375101863121231  1.0000
+  O   O5        1.0  0.26248988178448357  0.7375100512749769  0.26248993776568225  1.0000
+  O   O6        1.0  0.7375100946086488  0.2624898962616184  0.7375101793417818  1.0000

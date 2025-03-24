@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2SnCl6
+_chemical_formula_sum              "Hg2 Sn1 Cl6"
+_cell_length_a       7.532523392333484
+_cell_length_b       7.532523501848764
+_cell_length_c       7.5325235203158165
+_cell_angle_alpha    59.99999602464778
+_cell_angle_beta     59.999997596920124
+_cell_angle_gamma    59.9999998631837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000381700083  0.24999996416312126  0.24999994283877333  1.0000
+  Hg  Hg2       1.0  0.7500000090284425  0.7500000111831471  0.7500000210466682  1.0000
+  Sn  Sn1       1.0  0.9999999367610093  4.7152322494653226e-08  1.36818238519257e-07  1.0000
+  Cl  Cl1       1.0  0.23123428962350978  0.23123418168335433  0.7687657051616053  1.0000
+  Cl  Cl2       1.0  0.7687658452322396  0.768765779029438  0.23123412795400444  1.0000
+  Cl  Cl3       1.0  0.7687657384067602  0.23123421693972754  0.23123428310433922  1.0000
+  Cl  Cl4       1.0  0.23123430309291595  0.768765789299446  0.7687656588910021  1.0000
+  Cl  Cl5       1.0  0.23123415626500565  0.7687658044120929  0.231234272098058  1.0000
+  Cl  Cl6       1.0  0.768765686755753  0.2312342132086705  0.7687658231868849  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2RhS6
+_chemical_formula_sum              "Sn2 Rh1 S6"
+_cell_length_a       6.326404345300222
+_cell_length_b       6.32640476109288
+_cell_length_c       6.326404492664046
+_cell_angle_alpha    59.99999799650883
+_cell_angle_beta     59.99999996476517
+_cell_angle_gamma    59.99999982951551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2500000245638288  0.24999998742509968  0.2500000037634693  1.0000
+  Sn  Sn2       1.0  0.7499999929014627  0.7500000513278762  0.7500000166431885  1.0000
+  Rh  Rh1       1.0  0.999999966924816  1.1615555366319796e-08  0.9999999696322204  1.0000
+  S   S1        1.0  0.25686614440042466  0.2568660694868804  0.7431338953520484  1.0000
+  S   S2        1.0  0.7431338861007497  0.7431338918290741  0.25686609877014405  1.0000
+  S   S3        1.0  0.7431339017394268  0.25686610915019376  0.2568660864775901  1.0000
+  S   S4        1.0  0.25686608665224514  0.7431338908842717  0.7431339330502468  1.0000
+  S   S5        1.0  0.25686607709450815  0.7431339032729458  0.2568660833542512  1.0000
+  S   S6        1.0  0.7431339204422002  0.2568660638507858  0.7431339180235785  1.0000

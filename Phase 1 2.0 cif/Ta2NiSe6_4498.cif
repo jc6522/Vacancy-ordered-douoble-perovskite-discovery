@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2NiSe6
+_chemical_formula_sum              "Ta2 Ni1 Se6"
+_cell_length_a       6.417948066829154
+_cell_length_b       6.4179480106361
+_cell_length_c       6.417948061128819
+_cell_angle_alpha    59.9999999224825
+_cell_angle_beta     60.00000022269189
+_cell_angle_gamma    60.00000005021616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.24999992212266042  0.24999986767751065  0.2500001213037672  1.0000
+  Ta  Ta2       1.0  0.7499999525276453  0.7500001564430816  0.7500001296835408  1.0000
+  Ni  Ni1       1.0  7.452422733554809e-10  0.9999999923667511  0.9999999909789601  1.0000
+  Se  Se1       1.0  0.2574045122008054  0.25740432785454676  0.7425955727373216  1.0000
+  Se  Se2       1.0  0.742595602977614  0.7425955684091258  0.2574043944273506  1.0000
+  Se  Se3       1.0  0.7425955695956239  0.25740452325882923  0.2574043237772384  1.0000
+  Se  Se4       1.0  0.2574043943023767  0.7425956325353072  0.7425954973327176  1.0000
+  Se  Se5       1.0  0.2574044241788317  0.7425955994433324  0.2574044253542093  1.0000
+  Se  Se6       1.0  0.7425956196500061  0.25740432735333585  0.7425955528699735  1.0000

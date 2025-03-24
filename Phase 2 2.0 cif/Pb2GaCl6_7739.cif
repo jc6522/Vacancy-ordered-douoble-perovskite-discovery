@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2GaCl6
+_chemical_formula_sum              "Pb2 Ga1 Cl6"
+_cell_length_a       6.860369772381744
+_cell_length_b       6.860369749039059
+_cell_length_c       6.860369720094579
+_cell_angle_alpha    60.000000475057426
+_cell_angle_beta     60.000000503252444
+_cell_angle_gamma    60.000000457623685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999998646224827  0.24999999160495648  0.25000001935609056  1.0000
+  Pb  Pb2       1.0  0.7500000055113566  0.7499999980230694  0.7499999884183287  1.0000
+  Ga  Ga1       1.0  1.593008013553693e-08  1.7852461445230165e-08  0.999999967074608  1.0000
+  Cl  Cl1       1.0  0.2447306968805529  0.24473069441683742  0.7552693068801543  1.0000
+  Cl  Cl2       1.0  0.7552693024207188  0.7552692934259423  0.2447307097842339  1.0000
+  Cl  Cl3       1.0  0.7552692922318663  0.24473071086954504  0.24473070139170486  1.0000
+  Cl  Cl4       1.0  0.24473068279065913  0.7552693144634036  0.7552692999210876  1.0000
+  Cl  Cl5       1.0  0.2447307054639076  0.7552692880127533  0.24473070361427998  1.0000
+  Cl  Cl6       1.0  0.7552693113660081  0.2447306926890418  0.7552693020256886  1.0000

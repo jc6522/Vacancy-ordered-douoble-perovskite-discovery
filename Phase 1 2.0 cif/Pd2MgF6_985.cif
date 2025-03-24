@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2MgF6
+_chemical_formula_sum              "Pd2 Mg1 F6"
+_cell_length_a       5.221058532932764
+_cell_length_b       5.22105847472958
+_cell_length_c       5.221058514560024
+_cell_angle_alpha    60.000000954909964
+_cell_angle_beta     60.00000043608936
+_cell_angle_gamma    59.99999973781961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.24999984752905077  0.250000158038051  0.25000004084412697  1.0000
+  Pd  Pd2       1.0  0.7500001939731599  0.75000002607038  0.7499996492890991  1.0000
+  Mg  Mg1       1.0  1.329274720851597e-08  0.9999999601217591  1.8008240188257453e-09  1.0000
+  F   F1        1.0  0.2539286526915289  0.25392864950096766  0.7460713452147191  1.0000
+  F   F2        1.0  0.7460713604430075  0.7460713211415896  0.2539287148269339  1.0000
+  F   F3        1.0  0.7460713537657161  0.2539285608249784  0.25392874902542545  1.0000
+  F   F4        1.0  0.25392861069012873  0.7460714496958206  0.7460713671301041  1.0000
+  F   F5        1.0  0.2539285398241549  0.7460712793503952  0.2539287617283478  1.0000
+  F   F6        1.0  0.7460714444941988  0.25392857869477664  0.7460713613588064  1.0000

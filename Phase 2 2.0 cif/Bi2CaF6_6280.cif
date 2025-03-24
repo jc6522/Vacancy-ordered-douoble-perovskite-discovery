@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2CaF6
+_chemical_formula_sum              "Bi2 Ca1 F6"
+_cell_length_a       5.867692969178129
+_cell_length_b       5.867692771590647
+_cell_length_c       5.867692883328144
+_cell_angle_alpha    59.9999959872731
+_cell_angle_beta     59.99999703471708
+_cell_angle_gamma    59.999997893097245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000012507909486  0.24999983542578022  0.25000001507687053  1.0000
+  Bi  Bi2       1.0  0.7499998772298343  0.7500001324578225  0.7500003339232928  1.0000
+  Ca  Ca1       1.0  0.9999999799629281  1.8785414964866383e-08  0.9999999886960971  1.0000
+  F   F1        1.0  0.2572394110231214  0.2572393522944607  0.7427606061961345  1.0000
+  F   F2        1.0  0.7427606049212343  0.7427606573345215  0.25723920724791627  1.0000
+  F   F3        1.0  0.7427605710333528  0.25723946803546416  0.2572393053840288  1.0000
+  F   F4        1.0  0.25723931335868616  0.742760629258783  0.7427606493008629  1.0000
+  F   F5        1.0  0.2572395248945775  0.742760641549401  0.2572392572785937  1.0000
+  F   F6        1.0  0.742760607336418  0.2572392553670906  0.7427606515204809  1.0000

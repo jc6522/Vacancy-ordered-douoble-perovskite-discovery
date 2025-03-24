@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2MnSe6
+_chemical_formula_sum              "Sb2 Mn1 Se6"
+_cell_length_a       6.509897497249157
+_cell_length_b       6.509898225695907
+_cell_length_c       6.509897726255692
+_cell_angle_alpha    60.00000115331533
+_cell_angle_beta     59.99999879054145
+_cell_angle_gamma    60.000000480837535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.2500001679339331  0.2499996561572966  0.2500000863075907  1.0000
+  Sb  Sb2       1.0  0.7499995423671735  0.750000149964669  0.750000147357561  1.0000
+  Mn  Mn1       1.0  5.016955004736693e-09  0.9999999849491357  7.10702198652355e-08  1.0000
+  Se  Se1       1.0  0.2535307221151151  0.2535304848804767  0.7464694788235012  1.0000
+  Se  Se2       1.0  0.7464692684709063  0.7464696297841771  0.2535305633480492  1.0000
+  Se  Se3       1.0  0.7464694537420691  0.25353053351441573  0.2535305497571586  1.0000
+  Se  Se4       1.0  0.2535307344139775  0.7464694833196253  0.7464693242632584  1.0000
+  Se  Se5       1.0  0.2535306687733065  0.7464694627510592  0.25353047724406635  1.0000
+  Se  Se6       1.0  0.7464694180262216  0.25353062933730114  0.7464693176601029  1.0000

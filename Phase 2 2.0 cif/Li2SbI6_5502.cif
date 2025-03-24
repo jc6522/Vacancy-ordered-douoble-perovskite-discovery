@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2SbI6
+_chemical_formula_sum              "Li2 Sb1 I6"
+_cell_length_a       8.06129926284607
+_cell_length_b       8.061299185043048
+_cell_length_c       8.061299216318252
+_cell_angle_alpha    59.999999976018856
+_cell_angle_beta     60.00000044007766
+_cell_angle_gamma    59.99999958028124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2499999722436075  0.24999999005418594  0.2500000011399465  1.0000
+  Li  Li2       1.0  0.7500000332467474  0.7499999944711925  0.749999992551312  1.0000
+  Sb  Sb1       1.0  0.9999999039124917  5.6213718947878055e-08  3.7303822134329755e-08  1.0000
+  I   I1        1.0  0.2610805649251456  0.2610806590675618  0.7389193817149059  1.0000
+  I   I2        1.0  0.7389194140570751  0.7389194135766188  0.26108058861398775  1.0000
+  I   I3        1.0  0.7389194468813512  0.26108054180261997  0.2610805732241517  1.0000
+  I   I4        1.0  0.2610806223446304  0.7389193804318809  0.7389193118216821  1.0000
+  I   I5        1.0  0.2610806146147643  0.7389193742392988  0.2610806830202604  1.0000
+  I   I6        1.0  0.73891942425524  0.26108058749673424  0.7389194343873083  1.0000

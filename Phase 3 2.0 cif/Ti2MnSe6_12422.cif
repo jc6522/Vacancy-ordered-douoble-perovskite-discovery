@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2MnSe6
+_chemical_formula_sum              "Ti2 Mn1 Se6"
+_cell_length_a       6.23268780286848
+_cell_length_b       6.232687894852068
+_cell_length_c       6.232687975980348
+_cell_angle_alpha    60.00000026609729
+_cell_angle_beta     60.00000033527421
+_cell_angle_gamma    60.00000114248212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999968660380714  0.24999943803498628  0.25000049303095306  1.0000
+  Ti  Ti2       1.0  0.7500004278193478  0.7500004127621359  0.7499987461916022  1.0000
+  Mn  Mn1       1.0  0.9999999657724764  1.3755243119448688e-08  0.9999999396405957  1.0000
+  Se  Se1       1.0  0.27083915804482794  0.2708393059048627  0.7291608143785371  1.0000
+  Se  Se2       1.0  0.729160567144456  0.7291610400810306  0.27083958001304115  1.0000
+  Se  Se3       1.0  0.7291608229755795  0.27083917327962087  0.2708394439357785  1.0000
+  Se  Se4       1.0  0.27083933912846514  0.7291607679091062  0.7291608509659065  1.0000
+  Se  Se5       1.0  0.27083897764128273  0.729160823447275  0.27083949787292805  1.0000
+  Se  Se6       1.0  0.7291610769543696  0.27083902341978006  0.7291606588816036  1.0000

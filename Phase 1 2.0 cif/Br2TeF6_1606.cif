@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br2TeF6
+_chemical_formula_sum              "Br2 Te1 F6"
+_cell_length_a       5.422883105958289
+_cell_length_b       5.4228829193462635
+_cell_length_c       5.422883190370097
+_cell_angle_alpha    59.999999068203614
+_cell_angle_beta     59.999999740245876
+_cell_angle_gamma    59.99999909626321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.2500000253277971  0.2499999825917519  0.24999999324120237  1.0000
+  Br  Br2       1.0  0.7499999861426684  0.7500000064956216  0.7499999971278232  1.0000
+  Te  Te1       1.0  0.999999983825339  2.9360183276493304e-08  2.1067801627642206e-08  1.0000
+  F   F1        1.0  0.2460882976673551  0.24608829060152654  0.7539117205218974  1.0000
+  F   F2        1.0  0.7539117059095265  0.7539117030027984  0.24608830841619458  1.0000
+  F   F3        1.0  0.7539117199249785  0.24608829880887573  0.24608830622595618  1.0000
+  F   F4        1.0  0.24608832524913327  0.7539116722106929  0.7539116726370737  1.0000
+  F   F5        1.0  0.24608828806221233  0.7539117159750297  0.24608828954732384  1.0000
+  F   F6        1.0  0.7539116651418654  0.24608831376490492  0.7539117077845776  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2TaO6
+_chemical_formula_sum              "Zn2 Ta1 O6"
+_cell_length_a       5.310472106002348
+_cell_length_b       5.310472250953234
+_cell_length_c       5.310471969489505
+_cell_angle_alpha    59.99999992542478
+_cell_angle_beta     59.999999468274076
+_cell_angle_gamma    59.99999879961573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2499998775257302  0.25000005336432046  0.2499999711045707  1.0000
+  Zn  Zn2       1.0  0.7500000049283296  0.7499999040956062  0.7499999323427635  1.0000
+  Ta  Ta1       1.0  0.9999999752263777  0.9999999308115283  3.568261744380742e-08  1.0000
+  O   O1        1.0  0.260612687980813  0.2606128121563408  0.7393872719513942  1.0000
+  O   O2        1.0  0.7393873024876904  0.7393872583114182  0.2606127714333485  1.0000
+  O   O3        1.0  0.7393872163713511  0.26061272455828133  0.2606128005046474  1.0000
+  O   O4        1.0  0.2606127853647681  0.739387325152936  0.7393872306769123  1.0000
+  O   O5        1.0  0.26061282503141137  0.7393872587721666  0.26061273687008385  1.0000
+  O   O6        1.0  0.739387316524776  0.2606127563448128  0.7393872021540518  1.0000

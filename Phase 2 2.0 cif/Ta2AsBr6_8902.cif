@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2AsBr6
+_chemical_formula_sum              "Ta2 As1 Br6"
+_cell_length_a       6.999238790891242
+_cell_length_b       6.9992388271353825
+_cell_length_c       6.9992387317513
+_cell_angle_alpha    59.99999913012542
+_cell_angle_beta     60.00000141213776
+_cell_angle_gamma    60.000000634112425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.24999987864797765  0.25000020926331445  0.24999985055253388  1.0000
+  Ta  Ta2       1.0  0.7500002718478792  0.7499996653857434  0.7499999620774811  1.0000
+  As  As1       1.0  7.082208201708031e-09  3.4996507631298737e-09  4.328578195870607e-08  1.0000
+  Br  Br1       1.0  0.253831241428283  0.2538313173135796  0.7461688757493419  1.0000
+  Br  Br2       1.0  0.746168678682691  0.7461687288183986  0.2538313863773313  1.0000
+  Br  Br3       1.0  0.7461686868604255  0.25383135072528384  0.25383130761085215  1.0000
+  Br  Br4       1.0  0.2538312134363547  0.7461687251537386  0.7461686623753074  1.0000
+  Br  Br5       1.0  0.2538312672654902  0.74616871013439  0.2538313042870446  1.0000
+  Br  Br6       1.0  0.7461687530142929  0.25383130275090465  0.7461686029150357  1.0000

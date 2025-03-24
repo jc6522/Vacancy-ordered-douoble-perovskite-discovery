@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2IrSe6
+_chemical_formula_sum              "Na2 Ir1 Se6"
+_cell_length_a       6.644095223453933
+_cell_length_b       6.644095354696022
+_cell_length_c       6.6440959662212355
+_cell_angle_alpha    59.99999817660548
+_cell_angle_beta     59.999994816240374
+_cell_angle_gamma    59.99999757150911
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000000019597496  0.2500000098533565  0.250000004543314  1.0000
+  Na  Na2       1.0  0.7499999895639498  0.7500000000663348  0.7500000052919792  1.0000
+  Ir  Ir1       1.0  3.20719535967742e-08  4.9770677962711955e-08  5.389971086745252e-08  1.0000
+  Se  Se1       1.0  0.26445045297193553  0.26445048371355795  0.7355495106262697  1.0000
+  Se  Se2       1.0  0.7355496392899836  0.7355495888803165  0.2644503744782556  1.0000
+  Se  Se3       1.0  0.7355494856150214  0.264450405694552  0.26445043813979824  1.0000
+  Se  Se4       1.0  0.264450529988098  0.7355494641299003  0.7355495746380717  1.0000
+  Se  Se5       1.0  0.26445050767191824  0.7355494844566923  0.26445041241881656  1.0000
+  Se  Se6       1.0  0.7355493570621064  0.26445051993292445  0.7355496250670739  1.0000

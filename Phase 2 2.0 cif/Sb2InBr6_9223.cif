@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2InBr6
+_chemical_formula_sum              "Sb2 In1 Br6"
+_cell_length_a       7.5923433343292315
+_cell_length_b       7.592343587737981
+_cell_length_c       7.592343488513329
+_cell_angle_alpha    59.99999910144271
+_cell_angle_beta     59.99999879614446
+_cell_angle_gamma    59.99999969992694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.24999987369147528  0.2500003660060842  0.24999974567622235  1.0000
+  Sb  Sb2       1.0  0.7499997704394624  0.7500003898535087  0.7499998812697656  1.0000
+  In  In1       1.0  5.327811190140726e-08  0.9999999177302922  1.581291496435321e-08  1.0000
+  Br  Br1       1.0  0.2512334153412608  0.25123315812975455  0.7487667204600518  1.0000
+  Br  Br2       1.0  0.7487667292661078  0.7487666346903145  0.2512333814340213  1.0000
+  Br  Br3       1.0  0.7487667665091067  0.2512332328332401  0.25123336148851155  1.0000
+  Br  Br4       1.0  0.2512333704649437  0.7487664551332787  0.7487668756759795  1.0000
+  Br  Br5       1.0  0.2512333074217285  0.7487666568282235  0.25123331149243133  1.0000
+  Br  Br6       1.0  0.7487667085095713  0.25123318438579306  0.7487667093679948  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2MnO6
+_chemical_formula_sum              "Pt2 Mn1 O6"
+_cell_length_a       4.680684189468197
+_cell_length_b       4.680684250262437
+_cell_length_c       4.6806843357517
+_cell_angle_alpha    59.99999914465038
+_cell_angle_beta     59.99999903693554
+_cell_angle_gamma    59.99999862882328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.25000006269983427  0.2500000161474987  0.2500000269189157  1.0000
+  Pt  Pt2       1.0  0.750000024284752  0.7500000144267808  0.7499999980746029  1.0000
+  Mn  Mn1       1.0  0.9999999886871024  0.9999999895336252  4.5072671911873426e-08  1.0000
+  O   O1        1.0  0.25565844931388  0.25565845331534776  0.7443415556537526  1.0000
+  O   O2        1.0  0.7443415436530577  0.7443415484764024  0.2556584474187052  1.0000
+  O   O3        1.0  0.7443414891348509  0.25565844854867664  0.2556584746417273  1.0000
+  O   O4        1.0  0.2556585079194607  0.7443415113775749  0.7443415024545588  1.0000
+  O   O5        1.0  0.2556583919635842  0.7443415547652001  0.2556584924309572  1.0000
+  O   O6        1.0  0.7443415413476595  0.2556584705758941  0.7443414646014834  1.0000

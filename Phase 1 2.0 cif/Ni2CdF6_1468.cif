@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2CdF6
+_chemical_formula_sum              "Ni2 Cd1 F6"
+_cell_length_a       5.57745719859218
+_cell_length_b       5.577457176348492
+_cell_length_c       5.577457101590416
+_cell_angle_alpha    60.00000113988931
+_cell_angle_beta     60.00000130342614
+_cell_angle_gamma    59.99999684839231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.25000024203100496  0.24999946144328355  0.2500005596003497  1.0000
+  Ni  Ni2       1.0  0.7499995377078812  0.7500003408625056  0.7499999034122433  1.0000
+  Cd  Cd1       1.0  0.9999999898996741  0.9999999868246969  5.466817673406138e-08  1.0000
+  F   F1        1.0  0.2654822965761765  0.2654819933645409  0.734517665759109  1.0000
+  F   F2        1.0  0.7345175032734582  0.7345182020044745  0.2654822016003057  1.0000
+  F   F3        1.0  0.7345179609797713  0.26548201328767246  0.2654822590891893  1.0000
+  F   F4        1.0  0.2654822319361595  0.7345180525241728  0.7345176360865912  1.0000
+  F   F5        1.0  0.26548225709586426  0.7345177866052096  0.26548201628024104  1.0000
+  F   F6        1.0  0.7345179654537287  0.26548220893834656  0.7345177037832903  1.0000

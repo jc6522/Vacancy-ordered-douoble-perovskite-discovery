@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2MoBr6
+_chemical_formula_sum              "Sn2 Mo1 Br6"
+_cell_length_a       7.224666899161645
+_cell_length_b       7.224666620684935
+_cell_length_c       7.224666673108155
+_cell_angle_alpha    60.00000173586043
+_cell_angle_beta     59.99999933208662
+_cell_angle_gamma    60.000001333360274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2500000589034  0.2500000486344801  0.24999991538833735  1.0000
+  Sn  Sn2       1.0  0.7499999833383909  0.7499999492571345  0.7500001335704887  1.0000
+  Mo  Mo1       1.0  3.069135335981729e-08  0.9999999271052448  0.9999999062175066  1.0000
+  Br  Br1       1.0  0.2518995965272429  0.2518994918106715  0.748100433774085  1.0000
+  Br  Br2       1.0  0.7481005736402462  0.748100558632971  0.2518993616165424  1.0000
+  Br  Br3       1.0  0.7481003903588349  0.25189953386796754  0.2518995376706308  1.0000
+  Br  Br4       1.0  0.25189935594161555  0.748100589470429  0.7481006920416164  1.0000
+  Br  Br5       1.0  0.25189964405149523  0.7481003836022352  0.25189951082612877  1.0000
+  Br  Br6       1.0  0.7481003686319516  0.251899515966222  0.7481005079514572  1.0000

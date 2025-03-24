@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2BiO6
+_chemical_formula_sum              "Au2 Bi1 O6"
+_cell_length_a       5.688142191055073
+_cell_length_b       5.68814214450223
+_cell_length_c       5.688142052932159
+_cell_angle_alpha    60.000000937646206
+_cell_angle_beta     59.999999860616995
+_cell_angle_gamma    59.99999892111964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2499998840677814  0.24999999401099285  0.2500001449523751  1.0000
+  Au  Au2       1.0  0.749999997284513  0.7500000186365979  0.7500001121614815  1.0000
+  Bi  Bi1       1.0  2.663645832282799e-08  0.9999999870810724  0.9999999403999356  1.0000
+  O   O1        1.0  0.2541331269653994  0.2541331761097454  0.7458668363662962  1.0000
+  O   O2        1.0  0.7458668898032258  0.7458668322315323  0.25413310906648934  1.0000
+  O   O3        1.0  0.7458668797362892  0.2541331426766636  0.25413311948601436  1.0000
+  O   O4        1.0  0.254133075371956  0.7458669410250215  0.7458668384352344  1.0000
+  O   O5        1.0  0.2541331378926211  0.745866883186317  0.25413306011407055  1.0000
+  O   O6        1.0  0.7458669961876079  0.2541330411819345  0.7458668440368192  1.0000

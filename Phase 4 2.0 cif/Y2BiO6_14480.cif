@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y2BiO6
+_chemical_formula_sum              "Y2 Bi1 O6"
+_cell_length_a       5.543492850413401
+_cell_length_b       5.543492941240046
+_cell_length_c       5.543492862225247
+_cell_angle_alpha    59.9999990547528
+_cell_angle_beta     60.00000035629159
+_cell_angle_gamma    60.000001322308954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000005484989085  0.2499998839243463  0.24999999426731978  1.0000
+  Y   Y2        1.0  0.7500000712303937  0.7499999942204028  0.7499999105515007  1.0000
+  Bi  Bi1       1.0  1.897788262119864e-08  2.4302717521042502e-08  0.9999999278500289  1.0000
+  O   O1        1.0  0.2632200416129763  0.26322000506580073  0.7367800374269401  1.0000
+  O   O2        1.0  0.7367798874646212  0.736780045407293  0.2632201160421522  1.0000
+  O   O3        1.0  0.7367799632466294  0.2632200657182336  0.2632200550121187  1.0000
+  O   O4        1.0  0.2632200266382347  0.7367799273120793  0.7367799759123046  1.0000
+  O   O5        1.0  0.26321999128191576  0.73677997103087  0.26322010519121786  1.0000
+  O   O6        1.0  0.7367799365971752  0.263220033046131  0.7367799548205815  1.0000

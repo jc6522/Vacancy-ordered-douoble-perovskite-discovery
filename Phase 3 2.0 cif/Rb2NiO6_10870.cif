@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rb2NiO6
+_chemical_formula_sum              "Rb2 Ni1 O6"
+_cell_length_a       6.236695370289813
+_cell_length_b       6.236695526639493
+_cell_length_c       6.236695423915028
+_cell_angle_alpha    60.000000853725425
+_cell_angle_beta     59.99999878948872
+_cell_angle_gamma    60.0000005843558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.24999997344170852  0.2500000855406861  0.2500000091141208  1.0000
+  Rb  Rb2       1.0  0.7499999517487821  0.7499999679475624  0.750000133519996  1.0000
+  Ni  Ni1       1.0  0.9999998667139931  0.9999999666158745  4.9663389045857425e-08  1.0000
+  O   O1        1.0  0.20488692379624654  0.2048869677575568  0.7951130863113259  1.0000
+  O   O2        1.0  0.7951129795169319  0.7951128736433064  0.20488706106621238  1.0000
+  O   O3        1.0  0.7951132181430866  0.20488701637892018  0.20488675622955227  1.0000
+  O   O4        1.0  0.20488700990103265  0.7951130783485402  0.7951129770529832  1.0000
+  O   O5        1.0  0.20488703717161716  0.7951130408323305  0.20488695383958266  1.0000
+  O   O6        1.0  0.7951131474289291  0.20488703425740995  0.7951129408600716  1.0000

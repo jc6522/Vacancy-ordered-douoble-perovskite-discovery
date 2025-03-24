@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2GeO6
+_chemical_formula_sum              "In2 Ge1 O6"
+_cell_length_a       5.138478252266533
+_cell_length_b       5.138476968605679
+_cell_length_c       5.138479323453203
+_cell_angle_alpha    59.9999975666801
+_cell_angle_beta     59.99999653634622
+_cell_angle_gamma    59.99999645332763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25000006493008603  0.24999970025281776  0.2499999004474039  1.0000
+  In  In2       1.0  0.7500006718586121  0.7499997728993555  0.7499988075770885  1.0000
+  Ge  Ge1       1.0  2.5431822700662934e-09  0.999999945179996  3.392280981884926e-08  1.0000
+  O   O1        1.0  0.2570102444951341  0.2570100243930872  0.7429899410299806  1.0000
+  O   O2        1.0  0.7429897497904178  0.7429899302219274  0.2570104874792478  1.0000
+  O   O3        1.0  0.7429898917787995  0.2570101962740391  0.25701016681490674  1.0000
+  O   O4        1.0  0.2570100914733886  0.7429898655974825  0.7429900267570595  1.0000
+  O   O5        1.0  0.2570094965962483  0.7429900425198773  0.2570107790102936  1.0000
+  O   O6        1.0  0.7429898728566041  0.25701035065519306  0.742989989790116  1.0000

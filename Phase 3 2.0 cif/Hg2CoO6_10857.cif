@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2CoO6
+_chemical_formula_sum              "Hg2 Co1 O6"
+_cell_length_a       5.393288886409313
+_cell_length_b       5.393289433894657
+_cell_length_c       5.393289081049364
+_cell_angle_alpha    60.00000157786773
+_cell_angle_beta     60.000000194682244
+_cell_angle_gamma    60.000002579947015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000001600478516  0.2500001738126249  0.2499998842597892  1.0000
+  Hg  Hg2       1.0  0.7500000291872071  0.749999974158688  0.7500000007280015  1.0000
+  Co  Co1       1.0  2.7962809638587462e-08  0.9999999931873962  0.9999999801541167  1.0000
+  O   O1        1.0  0.23574213726415771  0.23574220979515553  0.7642578128717383  1.0000
+  O   O2        1.0  0.7642577670563352  0.7642578405288336  0.23574220250039987  1.0000
+  O   O3        1.0  0.7642578996957776  0.2357420976005089  0.23574220949018904  1.0000
+  O   O4        1.0  0.23574215337389556  0.7642577120114734  0.7642578425925846  1.0000
+  O   O5        1.0  0.23574225320451098  0.7642577114846923  0.23574221605165885  1.0000
+  O   O6        1.0  0.7642577524589621  0.23574218896200885  0.7642578773581628  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2IrN6
+_chemical_formula_sum              "Ge2 Ir1 N6"
+_cell_length_a       5.136371515937855
+_cell_length_b       5.136371612000496
+_cell_length_c       5.136371478831477
+_cell_angle_alpha    59.99999849425358
+_cell_angle_beta     59.99999710922287
+_cell_angle_gamma    59.99999834207608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.2499999663561532  0.2500000308902989  0.24999998527121467  1.0000
+  Ge  Ge2       1.0  0.7499999589953642  0.7500000545196098  0.7499999682886307  1.0000
+  Ir  Ir1       1.0  1.0759261417459257e-07  0.9999998593171308  1.0999631225287092e-07  1.0000
+  N   N1        1.0  0.2721579535452523  0.27215783229053786  0.7278420220289338  1.0000
+  N   N2        1.0  0.7278419738752031  0.727842105283139  0.27215792459167415  1.0000
+  N   N3        1.0  0.7278418135017527  0.27215800598117096  0.27215778620219755  1.0000
+  N   N4        1.0  0.27215806534119297  0.7278422391872525  0.7278418089632237  1.0000
+  N   N5        1.0  0.27215791362899266  0.7278419551032184  0.27215820616299186  1.0000
+  N   N6        1.0  0.7278422624446198  0.2721579109367873  0.7278421775607828  1.0000

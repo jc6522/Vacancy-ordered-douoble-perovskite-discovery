@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2CoTe6
+_chemical_formula_sum              "Fe2 Co1 Te6"
+_cell_length_a       6.816122663052407
+_cell_length_b       6.816123811189789
+_cell_length_c       6.8161229086668405
+_cell_angle_alpha    60.00000782847519
+_cell_angle_beta     60.00001512193374
+_cell_angle_gamma    60.00000232441429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999980772084443  0.25000053396569855  0.2499997015431102  1.0000
+  Fe  Fe2       1.0  0.750000031687629  0.7499999541996148  0.7499993938793331  1.0000
+  Co  Co1       1.0  9.909043683653181e-09  0.9999999245329407  4.1581665193863584e-08  1.0000
+  Te  Te1       1.0  0.25203972837829597  0.25203988142193706  0.74796013904354  1.0000
+  Te  Te2       1.0  0.7479606140584778  0.7479601090200994  0.2520398501304643  1.0000
+  Te  Te3       1.0  0.7479600340391652  0.25203981769884637  0.25203983808862307  1.0000
+  Te  Te4       1.0  0.25203990846465296  0.747959883452825  0.7479607671122781  1.0000
+  Te  Te5       1.0  0.25203964187549394  0.7479600168228558  0.2520398233037105  1.0000
+  Te  Te6       1.0  0.747960228754869  0.2520398999489941  0.7479604239374352  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2SeO6
+_chemical_formula_sum              "Fe2 Se1 O6"
+_cell_length_a       4.828630548765272
+_cell_length_b       4.828630493408574
+_cell_length_c       4.828630479172095
+_cell_angle_alpha    59.99999974326426
+_cell_angle_beta     60.0000000264017
+_cell_angle_gamma    59.999998830140065
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2500000173265146  0.24999997495678405  0.24999996307520073  1.0000
+  Fe  Fe2       1.0  0.750000006203759  0.750000026327267  0.7500000332764263  1.0000
+  Se  Se1       1.0  5.217906553375166e-09  0.9999999771721942  0.999999981882202  1.0000
+  O   O1        1.0  0.2548335993759175  0.2548336018398  0.7451663959429777  1.0000
+  O   O2        1.0  0.7451664172703903  0.7451663842257139  0.25483359282107565  1.0000
+  O   O3        1.0  0.7451663876263166  0.25483360525680887  0.2548336360305062  1.0000
+  O   O4        1.0  0.25483359411520096  0.7451664137822026  0.7451664116866501  1.0000
+  O   O5        1.0  0.25483358274958284  0.7451663971619896  0.2548336097367004  1.0000
+  O   O6        1.0  0.7451663928083827  0.25483361173133057  0.7451664047254656  1.0000

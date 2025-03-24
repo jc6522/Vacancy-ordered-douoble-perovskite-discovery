@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2NiCl6
+_chemical_formula_sum              "Ge2 Ni1 Cl6"
+_cell_length_a       6.382860693488183
+_cell_length_b       6.382860737156593
+_cell_length_c       6.382860863268194
+_cell_angle_alpha    59.999999875780695
+_cell_angle_beta     59.99999967111702
+_cell_angle_gamma    60.000000203976064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.250000216811566  0.2500000250080417  0.2499998323078657  1.0000
+  Ge  Ge2       1.0  0.7500000381871992  0.7499999579771753  0.749999836503689  1.0000
+  Ni  Ni1       1.0  0.9999999538045774  1.9188024322392615e-08  4.170421971079016e-08  1.0000
+  Cl  Cl1       1.0  0.24827549106209626  0.24827549943998528  0.7517245031307063  1.0000
+  Cl  Cl2       1.0  0.7517244380667918  0.7517245276776879  0.2482755995216338  1.0000
+  Cl  Cl3       1.0  0.7517244480895096  0.24827549388273404  0.24827553096103647  1.0000
+  Cl  Cl4       1.0  0.24827550470460827  0.7517244622392492  0.751724562455926  1.0000
+  Cl  Cl5       1.0  0.24827544763654302  0.7517244948047465  0.2482755478777844  1.0000
+  Cl  Cl6       1.0  0.7517244447811963  0.24827552847532186  0.7517245484151075  1.0000

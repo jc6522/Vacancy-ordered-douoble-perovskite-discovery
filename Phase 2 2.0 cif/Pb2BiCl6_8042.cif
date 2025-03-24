@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2BiCl6
+_chemical_formula_sum              "Pb2 Bi1 Cl6"
+_cell_length_a       7.240864886573989
+_cell_length_b       7.240864836948498
+_cell_length_c       7.240864989691307
+_cell_angle_alpha    59.99999927759089
+_cell_angle_beta     59.99999907334726
+_cell_angle_gamma    60.000001089958616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.249999995258473  0.24999999822883678  0.2500000002988641  1.0000
+  Pb  Pb2       1.0  0.7500000121446304  0.7499999777721656  0.7500000030744112  1.0000
+  Bi  Bi1       1.0  0.9999999829419757  0.999999974628482  1.0407779943540683e-07  1.0000
+  Cl  Cl1       1.0  0.2600118288639125  0.2600118368625358  0.739988178665309  1.0000
+  Cl  Cl2       1.0  0.7399881776685788  0.7399881848071985  0.26001179402260344  1.0000
+  Cl  Cl3       1.0  0.7399881700582437  0.26001186278379107  0.26001185909895386  1.0000
+  Cl  Cl4       1.0  0.26001186774088986  0.7399881081429083  0.7399881081355996  1.0000
+  Cl  Cl5       1.0  0.26001184332215566  0.7399881497364001  0.2600118708866002  1.0000
+  Cl  Cl6       1.0  0.7399881244538685  0.2600118973048513  0.7399880877780305  1.0000

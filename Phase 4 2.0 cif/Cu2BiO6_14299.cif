@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2BiO6
+_chemical_formula_sum              "Cu2 Bi1 O6"
+_cell_length_a       5.642008161335541
+_cell_length_b       5.642008213471342
+_cell_length_c       5.642008056724374
+_cell_angle_alpha    60.00000005617705
+_cell_angle_beta     59.999999981883235
+_cell_angle_gamma    60.00000004982546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999978684300825  0.25000007940531777  0.25000008561183407  1.0000
+  Cu  Cu2       1.0  0.749999941997672  0.7500000471890254  0.750000224677152  1.0000
+  Bi  Bi1       1.0  1.0708354440753764e-08  1.0853802531585072e-08  0.9999999980810144  1.0000
+  O   O1        1.0  0.2554031086950864  0.2554031138357265  0.7445968740239071  1.0000
+  O   O2        1.0  0.7445969506044715  0.7445968195609319  0.25540305214397213  1.0000
+  O   O3        1.0  0.7445968987517895  0.25540321478928385  0.25540300853974096  1.0000
+  O   O4        1.0  0.25540313580036716  0.7445968358284426  0.744596910384513  1.0000
+  O   O5        1.0  0.2554031923450194  0.7445968720075927  0.2554030340509444  1.0000
+  O   O6        1.0  0.7445969652132471  0.255403024486137  0.7445968135837426  1.0000

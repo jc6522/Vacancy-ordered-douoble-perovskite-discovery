@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2AuCl6
+_chemical_formula_sum              "Pb2 Au1 Cl6"
+_cell_length_a       6.93007407071291
+_cell_length_b       6.93007419769848
+_cell_length_c       6.9300742424276445
+_cell_angle_alpha    59.99999856379482
+_cell_angle_beta     60.000000741868945
+_cell_angle_gamma    60.00000050634514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999997253474782  0.24999997202972812  0.25000002385382514  1.0000
+  Pb  Pb2       1.0  0.7499999801609452  0.750000043334044  0.7500000011914563  1.0000
+  Au  Au1       1.0  1.334677751994568e-07  0.9999998745224311  1.043475942735838e-08  1.0000
+  Cl  Cl1       1.0  0.2538997479235637  0.25389966720590124  0.7461003143799125  1.0000
+  Cl  Cl2       1.0  0.7461003208528852  0.7461002898373111  0.2538996875572164  1.0000
+  Cl  Cl3       1.0  0.7461002795191012  0.2538997242371042  0.253899786492599  1.0000
+  Cl  Cl4       1.0  0.25389966962467336  0.7461003317743296  0.746100313798899  1.0000
+  Cl  Cl5       1.0  0.25389966676665665  0.7461003521046482  0.2538996257226789  1.0000
+  Cl  Cl6       1.0  0.7461002326591473  0.253899748089033  0.7461002349150345  1.0000

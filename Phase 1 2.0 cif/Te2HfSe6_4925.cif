@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Te2HfSe6
+_chemical_formula_sum              "Te2 Hf1 Se6"
+_cell_length_a       6.607213995438253
+_cell_length_b       6.607212868587939
+_cell_length_c       6.6072130206405015
+_cell_angle_alpha    60.000001924541316
+_cell_angle_beta     60.000003927800655
+_cell_angle_gamma    60.00000332145771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2500005300623833  0.2499994336729719  0.25000019995116024  1.0000
+  Te  Te2       1.0  0.7499993782604432  0.7500005012992395  0.7499996279573857  1.0000
+  Hf  Hf1       1.0  1.4233697423189795e-07  0.9999998980493551  2.067126317874162e-08  1.0000
+  Se  Se1       1.0  0.2787979304366776  0.2787974644314805  0.7212023727146939  1.0000
+  Se  Se2       1.0  0.7212021879750554  0.7212023593218663  0.27879798391484983  1.0000
+  Se  Se3       1.0  0.721202196991794  0.27879744252312133  0.27879797547164203  1.0000
+  Se  Se4       1.0  0.2787977841138554  0.7212024943027492  0.7212020270083042  1.0000
+  Se  Se5       1.0  0.27879772877036124  0.7212025682154369  0.27879765436073706  1.0000
+  Se  Se6       1.0  0.7212021266385183  0.27879785055896944  0.7212021079399417  1.0000

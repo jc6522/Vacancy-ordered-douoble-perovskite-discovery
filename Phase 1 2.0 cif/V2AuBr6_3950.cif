@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       V2AuBr6
+_chemical_formula_sum              "V2 Au1 Br6"
+_cell_length_a       7.004798829997198
+_cell_length_b       7.004798948062305
+_cell_length_c       7.004799025256004
+_cell_angle_alpha    60.000000522762285
+_cell_angle_beta     60.00000101573464
+_cell_angle_gamma    59.99999956292039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.24999997633758864  0.2500000590943015  0.250000010088109  1.0000
+  V   V2        1.0  0.7500000003815364  0.7500000076845279  0.7499999423302303  1.0000
+  Au  Au1       1.0  1.4553151521874725e-08  0.999999986012505  2.25586551718738e-08  1.0000
+  Br  Br1       1.0  0.25965281177293287  0.25965282006815654  0.7403471760246172  1.0000
+  Br  Br2       1.0  0.7403472216275067  0.7403471557919554  0.2596528391953906  1.0000
+  Br  Br3       1.0  0.7403471734774184  0.2596528096659252  0.2596528077392592  1.0000
+  Br  Br4       1.0  0.2596527964165811  0.7403471539551295  0.7403472410707179  1.0000
+  Br  Br5       1.0  0.2596527927452104  0.7403472505523538  0.25965276099740847  1.0000
+  Br  Br6       1.0  0.7403472220223909  0.25965275153431105  0.7403471947496263  1.0000

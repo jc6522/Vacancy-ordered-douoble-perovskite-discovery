@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2ReN6
+_chemical_formula_sum              "Mo2 Re1 N6"
+_cell_length_a       4.986701898125551
+_cell_length_b       4.986701638728084
+_cell_length_c       4.986701643770188
+_cell_angle_alpha    59.99999758306289
+_cell_angle_beta     59.999998880075246
+_cell_angle_gamma    59.999997661927914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.250000185994042  0.2499998328660196  0.2499998159474125  1.0000
+  Mo  Mo2       1.0  0.7500000474710851  0.7500002034763803  0.749999565229283  1.0000
+  Re  Re1       1.0  3.3938820201600736e-08  0.9999999607036469  2.6742768729856248e-08  1.0000
+  N   N1        1.0  0.26845676529032464  0.26845660429522794  0.7315434021813035  1.0000
+  N   N2        1.0  0.7315431261019744  0.7315435204639542  0.26845679966882124  1.0000
+  N   N3        1.0  0.7315433498082259  0.26845658555761115  0.26845683247052027  1.0000
+  N   N4        1.0  0.2684567504340686  0.7315432321988171  0.7315433542853117  1.0000
+  N   N5        1.0  0.26845645911052995  0.7315433257597982  0.26845693326522035  1.0000
+  N   N6        1.0  0.73154329896255  0.26845674742292225  0.7315432988674091  1.0000

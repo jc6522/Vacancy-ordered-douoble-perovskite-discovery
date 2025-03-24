@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2BiF6
+_chemical_formula_sum              "Cu2 Bi1 F6"
+_cell_length_a       5.805661857561084
+_cell_length_b       5.805661871805376
+_cell_length_c       5.805661823421078
+_cell_angle_alpha    60.00000448469634
+_cell_angle_beta     60.00000056500934
+_cell_angle_gamma    60.00000696001705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999986950534006  0.25000011686191  0.24999986876532476  1.0000
+  Cu  Cu2       1.0  0.7499995991160945  0.7500002176828545  0.749999911701456  1.0000
+  Bi  Bi1       1.0  5.265644144684542e-08  0.9999999852330175  2.5839139452841292e-08  1.0000
+  F   F1        1.0  0.25478833392492917  0.25478840129991276  0.7452116182244857  1.0000
+  F   F2        1.0  0.7452118786222725  0.745211407962074  0.25478844219595675  1.0000
+  F   F3        1.0  0.7452116537495667  0.25478818758858074  0.2547884932011637  1.0000
+  F   F4        1.0  0.2547884734325197  0.7452117524667199  0.7452115875665961  1.0000
+  F   F5        1.0  0.254788676862063  0.7452115841927627  0.25478814771612013  1.0000
+  F   F6        1.0  0.7452114826253575  0.2547883305477033  0.7452119088869111  1.0000

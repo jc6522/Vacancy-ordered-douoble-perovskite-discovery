@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2TiS6
+_chemical_formula_sum              "Sn2 Ti1 S6"
+_cell_length_a       6.394721080766404
+_cell_length_b       6.394721158423502
+_cell_length_c       6.394721067687544
+_cell_angle_alpha    59.999999946603154
+_cell_angle_beta     60.00000083624848
+_cell_angle_gamma    60.00000042171245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000002347693123  0.25000002638010366  0.24999997806242316  1.0000
+  Sn  Sn2       1.0  0.7500000448974365  0.7499999661409393  0.7499999925071053  1.0000
+  Ti  Ti1       1.0  1.0396115703414092e-08  2.298292290340648e-08  5.203538786789189e-09  1.0000
+  S   S1        1.0  0.25710990035555326  0.2571099175508828  0.7428900778119474  1.0000
+  S   S2        1.0  0.7428900789914011  0.7428901036988143  0.25710988224842357  1.0000
+  S   S3        1.0  0.7428900744722394  0.25710990688476154  0.2571099254306863  1.0000
+  S   S4        1.0  0.2571099076850291  0.7428900300942171  0.7428901285287426  1.0000
+  S   S5        1.0  0.2571098767559736  0.7428900899260037  0.25710991238933867  1.0000
+  S   S6        1.0  0.7428900788976951  0.25710994281515465  0.7428900850477417  1.0000

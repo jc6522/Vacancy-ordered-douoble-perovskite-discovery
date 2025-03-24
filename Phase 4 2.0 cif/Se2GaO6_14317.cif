@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Se2GaO6
+_chemical_formula_sum              "Se2 Ga1 O6"
+_cell_length_a       5.350054738061929
+_cell_length_b       5.350054744394724
+_cell_length_c       5.350054634717548
+_cell_angle_alpha    60.000000210113924
+_cell_angle_beta     59.99999985312081
+_cell_angle_gamma    59.999999753141815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.2500001962806604  0.2500010158239425  0.24999905375800327  1.0000
+  Se  Se2       1.0  0.7499999740470721  0.7499996342458152  0.7500013603089015  1.0000
+  Ga  Ga1       1.0  0.9999999957918663  3.2049070460183975e-08  1.5985768223900607e-08  1.0000
+  O   O1        1.0  0.2532009406259563  0.2532010983095455  0.7467991174365536  1.0000
+  O   O2        1.0  0.7467991385861236  0.7467988214992517  0.25320037462198997  1.0000
+  O   O3        1.0  0.7467990035937082  0.25320149526852215  0.2532005469364124  1.0000
+  O   O4        1.0  0.2532007813494088  0.746798387912766  0.7467995666404778  1.0000
+  O   O5        1.0  0.2532013439772451  0.7467986477476344  0.2532007063646064  1.0000
+  O   O6        1.0  0.7467986041961316  0.25320086229090416  0.7467992766569155  1.0000

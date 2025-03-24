@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2CrF6
+_chemical_formula_sum              "Au2 Cr1 F6"
+_cell_length_a       5.497523511869974
+_cell_length_b       5.497523488705287
+_cell_length_c       5.49752347113879
+_cell_angle_alpha    60.00000047907237
+_cell_angle_beta     59.99999985538113
+_cell_angle_gamma    60.00000036716435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2500002179891575  0.24999980973377228  0.2499996449414323  1.0000
+  Au  Au2       1.0  0.7499998143453228  0.7500002089355081  0.749999539572557  1.0000
+  Cr  Cr1       1.0  2.338109529564878e-08  0.9999999487603249  4.485230455425168e-08  1.0000
+  F   F1        1.0  0.2438858224196636  0.24388571851197505  0.7561143402559778  1.0000
+  F   F2        1.0  0.7561140580707254  0.7561142957016871  0.24388596469536755  1.0000
+  F   F3        1.0  0.7561144315203154  0.24388559357907452  0.24388577220597485  1.0000
+  F   F4        1.0  0.24388562084260623  0.7561144028120922  0.7561144684533577  1.0000
+  F   F5        1.0  0.24388578042647757  0.7561143018659822  0.24388585752249461  1.0000
+  F   F6        1.0  0.7561142106425753  0.24388571457549196  0.7561143764736056  1.0000

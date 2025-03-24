@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2SiS6
+_chemical_formula_sum              "Na2 Si1 S6"
+_cell_length_a       6.269478218815211
+_cell_length_b       6.26947814142758
+_cell_length_c       6.26947821374067
+_cell_angle_alpha    60.00000477789803
+_cell_angle_beta     60.00000715033712
+_cell_angle_gamma    60.00000318492614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2499999965024037  0.2499999680539108  0.2499999840071839  1.0000
+  Na  Na2       1.0  0.7499999858586972  0.7500000311394677  0.7499999079022657  1.0000
+  Si  Si1       1.0  0.9999997480654202  7.618664384520895e-08  1.66030381755981e-07  1.0000
+  S   S1        1.0  0.25354877633368417  0.2535488767251025  0.7464511613199517  1.0000
+  S   S2        1.0  0.746451191494164  0.7464513373536779  0.25354877396604747  1.0000
+  S   S3        1.0  0.7464512656690625  0.2535488307574194  0.25354884578806314  1.0000
+  S   S4        1.0  0.2535486917050557  0.7464512875996853  0.74645118405639  1.0000
+  S   S5        1.0  0.253548951324784  0.7464510766881114  0.2535487993069674  1.0000
+  S   S6        1.0  0.7464513732981312  0.25354852008352385  0.7464511657482343  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2MgSe6
+_chemical_formula_sum              "Sb2 Mg1 Se6"
+_cell_length_a       6.476130186343446
+_cell_length_b       6.47613025126605
+_cell_length_c       6.4761301608132475
+_cell_angle_alpha    60.00000139017691
+_cell_angle_beta     60.000001469204406
+_cell_angle_gamma    60.00000105616437
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.2499996848031587  0.25000012518657394  0.2499999849596831  1.0000
+  Sb  Sb2       1.0  0.7499997330258711  0.7499997892977287  0.750000401279968  1.0000
+  Mg  Mg1       1.0  2.7301312316106414e-08  1.267082375608849e-07  0.9999998921125857  1.0000
+  Se  Se1       1.0  0.2732310474827368  0.27323102991499515  0.7267689797538603  1.0000
+  Se  Se2       1.0  0.7267688675187363  0.7267688372901133  0.2732310348466281  1.0000
+  Se  Se3       1.0  0.7267692822249235  0.2732310794827187  0.273230885491033  1.0000
+  Se  Se4       1.0  0.27323114864117426  0.7267688822807764  0.7267689397078577  1.0000
+  Se  Se5       1.0  0.2732312275084006  0.7267689857086067  0.2732309181813711  1.0000
+  Se  Se6       1.0  0.7267689813249626  0.27323115004231957  0.726768963466943  1.0000

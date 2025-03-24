@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2GaSe6
+_chemical_formula_sum              "Cr2 Ga1 Se6"
+_cell_length_a       6.524034803111833
+_cell_length_b       6.524034706384772
+_cell_length_c       6.524034746294483
+_cell_angle_alpha    59.999997795377006
+_cell_angle_beta     60.00000098701672
+_cell_angle_gamma    60.00000117019255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2499999761090536  0.2500001193381051  0.25000059463771074  1.0000
+  Cr  Cr2       1.0  0.7500002636636592  0.750000376787184  0.7499997981617678  1.0000
+  Ga  Ga1       1.0  5.5867404941786655e-08  7.133669310833367e-08  0.9999999854473517  1.0000
+  Se  Se1       1.0  0.27274054707610057  0.27274040897799995  0.7272592930009657  1.0000
+  Se  Se2       1.0  0.727259303219959  0.7272593493757157  0.2727407299512121  1.0000
+  Se  Se3       1.0  0.7272594108812479  0.272740351770403  0.27274055525750623  1.0000
+  Se  Se4       1.0  0.27274042044253216  0.7272596281025191  0.7272592560600515  1.0000
+  Se  Se5       1.0  0.27274041517860265  0.7272592679179569  0.27274054437095985  1.0000
+  Se  Se6       1.0  0.7272596195478345  0.27274040971266794  0.7272592642514343  1.0000

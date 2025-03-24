@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2MoS6
+_chemical_formula_sum              "Zn2 Mo1 S6"
+_cell_length_a       6.601265204888357
+_cell_length_b       6.601265120698568
+_cell_length_c       6.601265464760027
+_cell_angle_alpha    60.000000601949914
+_cell_angle_beta     60.000000373326024
+_cell_angle_gamma    59.99999913480619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.250000241569935  0.2500000755139974  0.24999974261785443  1.0000
+  Zn  Zn2       1.0  0.7499999435615193  0.7499998202272771  0.7500002003003116  1.0000
+  Mo  Mo1       1.0  0.9999999877737283  0.9999999684595858  0.9999999537145945  1.0000
+  S   S1        1.0  0.24765404403419894  0.24765415231637383  0.7523458828406814  1.0000
+  S   S2        1.0  0.752345842879407  0.7523459716290687  0.2476540965991861  1.0000
+  S   S3        1.0  0.752345861556341  0.24765414329418708  0.24765413873559458  1.0000
+  S   S4        1.0  0.24765415269805774  0.7523458767534242  0.752345906240706  1.0000
+  S   S5        1.0  0.24765415321972264  0.7523458443768525  0.2476541130316643  1.0000
+  S   S6        1.0  0.7523457935582013  0.2476541367090729  0.7523459624407992  1.0000

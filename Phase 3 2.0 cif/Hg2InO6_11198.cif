@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2InO6
+_chemical_formula_sum              "Hg2 In1 O6"
+_cell_length_a       5.506274561487986
+_cell_length_b       5.506274707412006
+_cell_length_c       5.50627482710635
+_cell_angle_alpha    59.999999553577965
+_cell_angle_beta     59.99999990392022
+_cell_angle_gamma    59.99999967875082
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000003995205383  0.2499999941180344  0.24999998203601512  1.0000
+  Hg  Hg2       1.0  0.7499999968490342  0.7500000179424445  0.7499999480469102  1.0000
+  In  In1       1.0  6.821847591148866e-09  0.9999999354961325  3.0657119765263274e-08  1.0000
+  O   O1        1.0  0.27594707437766786  0.27594715603366354  0.724052878119311  1.0000
+  O   O2        1.0  0.7240528554513757  0.7240528938394277  0.2759471464749548  1.0000
+  O   O3        1.0  0.7240528682192099  0.27594709613643414  0.2759471386021635  1.0000
+  O   O4        1.0  0.2759471297553448  0.7240528625415339  0.724052892068579  1.0000
+  O   O5        1.0  0.2759471218357511  0.7240529037326974  0.27594711836932756  1.0000
+  O   O6        1.0  0.7240529016197101  0.2759471483646648  0.7240528764606935  1.0000

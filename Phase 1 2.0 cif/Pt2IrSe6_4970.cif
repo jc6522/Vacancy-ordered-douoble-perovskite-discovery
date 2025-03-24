@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2IrSe6
+_chemical_formula_sum              "Pt2 Ir1 Se6"
+_cell_length_a       6.2795064155818086
+_cell_length_b       6.279506500873586
+_cell_length_c       6.279506446573395
+_cell_angle_alpha    59.999999954314724
+_cell_angle_beta     59.99999978461554
+_cell_angle_gamma    59.999999619692304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.24999997815752614  0.24999998571218382  0.25000001203904976  1.0000
+  Pt  Pt2       1.0  0.7500000818028398  0.7499999454342466  0.7499999842279895  1.0000
+  Ir  Ir1       1.0  0.99999999286773  0.9999999882976962  3.489699638534707e-08  1.0000
+  Se  Se1       1.0  0.27993218775509027  0.2799322668935184  0.7200677628544027  1.0000
+  Se  Se2       1.0  0.7200677769361008  0.7200678066309414  0.2799321955258723  1.0000
+  Se  Se3       1.0  0.7200678096249391  0.27993223959740476  0.27993223367710296  1.0000
+  Se  Se4       1.0  0.2799321902655701  0.7200677559116964  0.7200677970706113  1.0000
+  Se  Se5       1.0  0.2799321978678608  0.720067761380948  0.2799322426992025  1.0000
+  Se  Se6       1.0  0.7200677901163939  0.2799322477808412  0.7200677441782855  1.0000

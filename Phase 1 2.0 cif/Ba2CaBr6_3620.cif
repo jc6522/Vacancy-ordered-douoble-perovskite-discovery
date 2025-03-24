@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2CaBr6
+_chemical_formula_sum              "Ba2 Ca1 Br6"
+_cell_length_a       7.575180773172059
+_cell_length_b       7.575180857826971
+_cell_length_c       7.575180866355792
+_cell_angle_alpha    59.99999974081998
+_cell_angle_beta     60.0000003486631
+_cell_angle_gamma    60.00000039398959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000000943456224  0.250000000347626  0.24999999701775155  1.0000
+  Ba  Ba2       1.0  0.7499999886713467  0.750000001042878  0.750000001628721  1.0000
+  Ca  Ca1       1.0  0.9999999712069721  1.7784649359408035e-08  2.8639880801569045e-09  1.0000
+  Br  Br1       1.0  0.25930909739470165  0.2593091040528811  0.740690898162883  1.0000
+  Br  Br2       1.0  0.7406908991868867  0.740690897337623  0.25930910388595085  1.0000
+  Br  Br3       1.0  0.7406909054867673  0.2593090987931407  0.25930907842490564  1.0000
+  Br  Br4       1.0  0.2593091090326722  0.7406908945134321  0.7406909015356622  1.0000
+  Br  Br5       1.0  0.2593091065689512  0.7406908954821849  0.2593090918242422  1.0000
+  Br  Br6       1.0  0.7406909111840613  0.2593090881236697  0.740690925692511  1.0000

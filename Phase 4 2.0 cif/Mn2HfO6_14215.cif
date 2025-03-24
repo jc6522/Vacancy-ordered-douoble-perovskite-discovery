@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2HfO6
+_chemical_formula_sum              "Mn2 Hf1 O6"
+_cell_length_a       5.323184232512969
+_cell_length_b       5.323184208686262
+_cell_length_c       5.323184226296057
+_cell_angle_alpha    59.99999937049221
+_cell_angle_beta     60.00000007052626
+_cell_angle_gamma    60.000000089960025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999994340849915  0.2500000788496344  0.24999998923576597  1.0000
+  Mn  Mn2       1.0  0.7499999584522531  0.7500000340807104  0.7499998827206523  1.0000
+  Hf  Hf1       1.0  0.9999999274543209  0.9999998987659023  1.2633996056170777e-07  1.0000
+  O   O1        1.0  0.2670733165543935  0.2670731764848585  0.7329267437979617  1.0000
+  O   O2        1.0  0.7329267960713945  0.7329267661881413  0.26707330703354576  1.0000
+  O   O3        1.0  0.7329267377246559  0.26707325167641927  0.2670732967293354  1.0000
+  O   O4        1.0  0.26707332577665527  0.7329266886958057  0.7329267253361272  1.0000
+  O   O5        1.0  0.2670732327971786  0.7329267329124299  0.2670732916031619  1.0000
+  O   O6        1.0  0.7329267763840435  0.26707336391249026  0.7329266606102487  1.0000

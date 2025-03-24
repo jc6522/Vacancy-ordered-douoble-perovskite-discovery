@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2CuO6
+_chemical_formula_sum              "Mg2 Cu1 O6"
+_cell_length_a       5.01681868476282
+_cell_length_b       5.0168186461224735
+_cell_length_c       5.016818733420696
+_cell_angle_alpha    59.99999960285357
+_cell_angle_beta     60.0000001542464
+_cell_angle_gamma    60.00000043060882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2500000246256779  0.24999994482599638  0.250000039090958  1.0000
+  Mg  Mg2       1.0  0.749999965998149  0.7500000200151127  0.7500000186449027  1.0000
+  Cu  Cu1       1.0  0.999999994443304  9.765111765606357e-09  1.5835447651311657e-08  1.0000
+  O   O1        1.0  0.2679343986557731  0.26793436633851586  0.7320656320974834  1.0000
+  O   O2        1.0  0.7320655605106787  0.7320656790647655  0.2679343592267824  1.0000
+  O   O3        1.0  0.7320656542258608  0.2679343530421107  0.26793442248642263  1.0000
+  O   O4        1.0  0.267934382965665  0.7320656240053887  0.7320656038690985  1.0000
+  O   O5        1.0  0.2679343896147105  0.732065562867599  0.2679343730936401  1.0000
+  O   O6        1.0  0.7320656569230698  0.26793440685606645  0.7320656004249994  1.0000

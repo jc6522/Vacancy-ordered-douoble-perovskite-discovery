@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2MnO6
+_chemical_formula_sum              "Ni2 Mn1 O6"
+_cell_length_a       5.354731567935575
+_cell_length_b       5.3547315802584095
+_cell_length_c       5.354731596111866
+_cell_angle_alpha    59.9999997028253
+_cell_angle_beta     59.99999950792193
+_cell_angle_gamma    60.00000158405285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999987720574102  0.24999986694986803  0.2500001926707229  1.0000
+  Ni  Ni2       1.0  0.7499997417134873  0.7500002732922589  0.7499999234241875  1.0000
+  Mn  Mn1       1.0  1.7251292798931886e-08  2.9414659527136424e-16  4.1797048771006515e-08  1.0000
+  O   O1        1.0  0.24934420269731436  0.24934388259027945  0.7506559496375679  1.0000
+  O   O2        1.0  0.7506559676579776  0.7506559877599098  0.24934405183037994  1.0000
+  O   O3        1.0  0.7506559835294079  0.2493440416208429  0.24934406682608157  1.0000
+  O   O4        1.0  0.24934412472341072  0.7506559568136598  0.7506558923134101  1.0000
+  O   O5        1.0  0.24934405971937043  0.7506558978757806  0.2493440412934057  1.0000
+  O   O6        1.0  0.7506560172112969  0.24934408454818233  0.7506558257269829  1.0000

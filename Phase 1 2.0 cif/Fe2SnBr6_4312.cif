@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2SnBr6
+_chemical_formula_sum              "Fe2 Sn1 Br6"
+_cell_length_a       7.048322386703299
+_cell_length_b       7.048322418665944
+_cell_length_c       7.0483224145144625
+_cell_angle_alpha    60.00000086201784
+_cell_angle_beta     60.00000055891569
+_cell_angle_gamma    59.999999440581675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999999839848605  0.24999999904393158  0.2500000201689532  1.0000
+  Fe  Fe2       1.0  0.7500000278613389  0.7500000023447143  0.7499999323216056  1.0000
+  Sn  Sn1       1.0  3.408833906941739e-08  4.5178645963689024e-08  0.9999999901608317  1.0000
+  Br  Br1       1.0  0.258338339130557  0.25833838534299214  0.7416616230884102  1.0000
+  Br  Br2       1.0  0.7416616085096976  0.7416615865057711  0.2583384246264168  1.0000
+  Br  Br3       1.0  0.7416616627577712  0.25833831302376536  0.2583383505803506  1.0000
+  Br  Br4       1.0  0.2583383559070032  0.7416616570873565  0.7416616426281553  1.0000
+  Br  Br5       1.0  0.2583383046027109  0.7416616780571827  0.2583383633069261  1.0000
+  Br  Br6       1.0  0.7416616636393205  0.258338330282025  0.7416616530242358  1.0000

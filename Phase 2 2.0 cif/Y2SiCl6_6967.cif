@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y2SiCl6
+_chemical_formula_sum              "Y2 Si1 Cl6"
+_cell_length_a       6.248258619387542
+_cell_length_b       6.248258740471104
+_cell_length_c       6.248258377724439
+_cell_angle_alpha    60.00000079668368
+_cell_angle_beta     60.00000133226307
+_cell_angle_gamma    60.00000210632018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.2500000703367909  0.25000020212413526  0.2499997659014664  1.0000
+  Y   Y2        1.0  0.7499997838421064  0.7500001359393088  0.7500000553911588  1.0000
+  Si  Si1       1.0  1.4035455036051874e-07  1.6661171955571245e-07  0.999999902532473  1.0000
+  Cl  Cl1       1.0  0.25843123749533603  0.2584310956627214  0.741568902113142  1.0000
+  Cl  Cl2       1.0  0.7415686284350448  0.7415686582796376  0.25843136060754873  1.0000
+  Cl  Cl3       1.0  0.7415689735302837  0.25843102284555264  0.2584311280009275  1.0000
+  Cl  Cl4       1.0  0.25843115728411864  0.7415687957813619  0.7415687730806187  1.0000
+  Cl  Cl5       1.0  0.2584313305289885  0.7415685746567561  0.25843114049172494  1.0000
+  Cl  Cl6       1.0  0.7415686812071806  0.25843131845539336  0.7415689621362695  1.0000

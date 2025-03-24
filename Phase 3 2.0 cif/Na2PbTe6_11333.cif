@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2PbTe6
+_chemical_formula_sum              "Na2 Pb1 Te6"
+_cell_length_a       7.740301093323451
+_cell_length_b       7.74030086823849
+_cell_length_c       7.740301002745815
+_cell_angle_alpha    59.99999982065703
+_cell_angle_beta     60.000000333929115
+_cell_angle_gamma    60.00000100994546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24999998005361904  0.24999999114929916  0.2500000239115323  1.0000
+  Na  Na2       1.0  0.7500000101695846  0.7500000050938228  0.7499999950684823  1.0000
+  Pb  Pb1       1.0  3.3075621669119506e-08  1.2658369920521652e-08  0.9999999086602149  1.0000
+  Te  Te1       1.0  0.28571979568191425  0.2857198151915505  0.7142802052832397  1.0000
+  Te  Te2       1.0  0.7142801957771394  0.7142801683932017  0.2857198194080346  1.0000
+  Te  Te3       1.0  0.7142802305965796  0.28571979311497925  0.2857198060468013  1.0000
+  Te  Te4       1.0  0.28571974740519396  0.7142802442678441  0.7142801971821381  1.0000
+  Te  Te5       1.0  0.2857197761363567  0.7142802169435469  0.28571984736266276  1.0000
+  Te  Te6       1.0  0.7142802395535188  0.28571974765365143  0.7142802005457659  1.0000

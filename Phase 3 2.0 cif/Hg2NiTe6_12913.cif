@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2NiTe6
+_chemical_formula_sum              "Hg2 Ni1 Te6"
+_cell_length_a       7.04181259777762
+_cell_length_b       7.041814992234746
+_cell_length_c       7.041813577969801
+_cell_angle_alpha    60.00001319546437
+_cell_angle_beta     60.00000894718589
+_cell_angle_gamma    59.99998614032198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.2500000777532685  0.2499999340290708  0.24999992856962744  1.0000
+  Hg  Hg2       1.0  0.7499999857499396  0.7499999690548981  0.7499999580482057  1.0000
+  Ni  Ni1       1.0  3.71321544311445e-08  1.7392457357878823e-07  0.9999997340016236  1.0000
+  Te  Te1       1.0  0.258513540131908  0.25851433592594  0.741485855860676  1.0000
+  Te  Te2       1.0  0.7414863572222947  0.7414856523811313  0.2585141521651529  1.0000
+  Te  Te3       1.0  0.7414870042671529  0.2585133010735428  0.2585129967846232  1.0000
+  Te  Te4       1.0  0.25851275143228963  0.7414869498597056  0.741487112645609  1.0000
+  Te  Te5       1.0  0.25851278685729606  0.7414865178228282  0.25851342044127046  1.0000
+  Te  Te6       1.0  0.741487459062086  0.258513192204797  0.7414867739755532  1.0000

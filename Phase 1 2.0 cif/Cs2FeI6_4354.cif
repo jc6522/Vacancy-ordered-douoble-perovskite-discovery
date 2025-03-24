@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2FeI6
+_chemical_formula_sum              "Cs2 Fe1 I6"
+_cell_length_a       8.244499204779476
+_cell_length_b       8.24449740786369
+_cell_length_c       8.244499572174218
+_cell_angle_alpha    59.999984234489595
+_cell_angle_beta     60.000002974300514
+_cell_angle_gamma    59.99997315165713
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25000000562568087  0.24999982593003495  0.2500000663795326  1.0000
+  Cs  Cs2       1.0  0.7500000428538032  0.7500001477643308  0.7499999166612838  1.0000
+  Fe  Fe1       1.0  0.9999999673209308  0.9999999509774145  9.299284419469443e-07  1.0000
+  I   I1        1.0  0.21368376619123966  0.2136826598059494  0.7863165047244994  1.0000
+  I   I2        1.0  0.7863161329197484  0.7863174594704737  0.21368301201858372  1.0000
+  I   I3        1.0  0.7863175841416743  0.21368230242096733  0.21368312894767377  1.0000
+  I   I4        1.0  0.21368261118661364  0.7863176088811121  0.7863166129443893  1.0000
+  I   I5        1.0  0.21368255472099448  0.7863176466504835  0.21368286221154562  1.0000
+  I   I6        1.0  0.7863173372609944  0.21368240577704364  0.7863169644297148  1.0000

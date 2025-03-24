@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2CuF6
+_chemical_formula_sum              "Ba2 Cu1 F6"
+_cell_length_a       5.820969928304157
+_cell_length_b       5.820969776713646
+_cell_length_c       5.8209698168172155
+_cell_angle_alpha    60.0000004817397
+_cell_angle_beta     60.000000533675085
+_cell_angle_gamma    60.000000580042304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.2499999744079272  0.25000000509476683  0.25000003572507035  1.0000
+  Ba  Ba2       1.0  0.7499999919516244  0.7500000173883221  0.7499999429147697  1.0000
+  Cu  Cu1       1.0  0.9999999584834671  0.9999999579195588  9.157877840615649e-09  1.0000
+  F   F1        1.0  0.242488090507259  0.2424880635678983  0.7575119160370025  1.0000
+  F   F2        1.0  0.7575119795852309  0.7575119631232359  0.24248803440124744  1.0000
+  F   F3        1.0  0.757511925481132  0.24248805695875306  0.24248807868119315  1.0000
+  F   F4        1.0  0.24248806586537533  0.7575119381720503  0.7575119767300902  1.0000
+  F   F5        1.0  0.24248806712829876  0.7575119359384707  0.24248804746770988  1.0000
+  F   F6        1.0  0.7575119480225  0.24248805919233252  0.7575119548111847  1.0000

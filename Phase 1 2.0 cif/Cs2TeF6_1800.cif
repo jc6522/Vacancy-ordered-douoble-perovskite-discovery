@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2TeF6
+_chemical_formula_sum              "Cs2 Te1 F6"
+_cell_length_a       6.791768524909291
+_cell_length_b       6.791769434203215
+_cell_length_c       6.7917688515067285
+_cell_angle_alpha    60.000003274165806
+_cell_angle_beta     60.00000395142019
+_cell_angle_gamma    60.00000398287715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.2499999958190712  0.24999993363752157  0.25000005749869375  1.0000
+  Cs  Cs2       1.0  0.7500000628263687  0.7500000389452528  0.7500001600874712  1.0000
+  Te  Te1       1.0  0.999999987978146  3.606555946506395e-08  0.9999999776715535  1.0000
+  F   F1        1.0  0.21857402484830527  0.2185739916122154  0.7814259233875508  1.0000
+  F   F2        1.0  0.7814259498033732  0.7814259575279532  0.21857389884379616  1.0000
+  F   F3        1.0  0.7814259198573668  0.21857408832472267  0.21857405428595744  1.0000
+  F   F4        1.0  0.21857390454188144  0.78142610245469  0.7814259563588843  1.0000
+  F   F5        1.0  0.21857413073061854  0.7814259365415248  0.2185740221619844  1.0000
+  F   F6        1.0  0.7814260484897557  0.21857392423801905  0.7814259584037965  1.0000

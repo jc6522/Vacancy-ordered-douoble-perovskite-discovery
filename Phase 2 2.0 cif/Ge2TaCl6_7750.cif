@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2TaCl6
+_chemical_formula_sum              "Ge2 Ta1 Cl6"
+_cell_length_a       6.60971417506556
+_cell_length_b       6.609714705007963
+_cell_length_c       6.6097142553430075
+_cell_angle_alpha    60.00000187308712
+_cell_angle_beta     59.99999894122617
+_cell_angle_gamma    60.000000648507054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.24999989429480127  0.2500001764264836  0.2499999963216807  1.0000
+  Ge  Ge2       1.0  0.750000226048696  0.7499997121299918  0.7500001153671524  1.0000
+  Ta  Ta1       1.0  5.006280812491871e-08  0.9999999703528537  0.9999999459173524  1.0000
+  Cl  Cl1       1.0  0.25305453902378744  0.2530548042708213  0.7469453664151229  1.0000
+  Cl  Cl2       1.0  0.746945374113826  0.746945323315769  0.2530546234568655  1.0000
+  Cl  Cl3       1.0  0.7469453520556799  0.2530547225468847  0.25305455150971995  1.0000
+  Cl  Cl4       1.0  0.25305453616714985  0.7469453068335364  0.7469454151989618  1.0000
+  Cl  Cl5       1.0  0.25305462638417253  0.7469453132789804  0.2530546850790049  1.0000
+  Cl  Cl6       1.0  0.7469453892800428  0.253054690160186  0.7469452959353731  1.0000

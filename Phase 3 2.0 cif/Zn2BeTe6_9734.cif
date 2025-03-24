@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2BeTe6
+_chemical_formula_sum              "Zn2 Be1 Te6"
+_cell_length_a       7.2158277464933835
+_cell_length_b       7.215828190802462
+_cell_length_c       7.215827415712673
+_cell_angle_alpha    60.000001595478736
+_cell_angle_beta     59.999999771131336
+_cell_angle_gamma    59.99999971846068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2500000050237007  0.250000081662621  0.2499998751219508  1.0000
+  Zn  Zn2       1.0  0.7499999527785932  0.7500000430087753  0.7500000720878925  1.0000
+  Be  Be1       1.0  0.9999997802299114  2.8005503869140873e-07  0.9999999227388802  1.0000
+  Te  Te1       1.0  0.22423896823072864  0.22423896446388292  0.7757608353392219  1.0000
+  Te  Te2       1.0  0.775761091553949  0.7757609310715816  0.22423876108050286  1.0000
+  Te  Te3       1.0  0.7757611910806184  0.22423900511047806  0.22423903085665126  1.0000
+  Te  Te4       1.0  0.22423907620187825  0.7757608344139642  0.7757611855125868  1.0000
+  Te  Te5       1.0  0.22423892614408777  0.7757609584337765  0.22423915806063643  1.0000
+  Te  Te6       1.0  0.7757610192003707  0.22423889636640315  0.7757611575919002  1.0000

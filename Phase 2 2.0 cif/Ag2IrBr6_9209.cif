@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2IrBr6
+_chemical_formula_sum              "Ag2 Ir1 Br6"
+_cell_length_a       7.087048806714581
+_cell_length_b       7.087048834148161
+_cell_length_c       7.087048760678623
+_cell_angle_alpha    60.000000180113915
+_cell_angle_beta     60.000000317961685
+_cell_angle_gamma    59.999999196454176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999998672650628  0.24999999722148053  0.2500000064542478  1.0000
+  Ag  Ag2       1.0  0.7500000052411313  0.7499999640141193  0.7499999979578771  1.0000
+  Ir  Ir1       1.0  9.084024773434999e-09  3.6291046943408785e-08  2.5287299819317115e-08  1.0000
+  Br  Br1       1.0  0.24752155162917905  0.24752154572674576  0.7524784511145445  1.0000
+  Br  Br2       1.0  0.7524784405191697  0.7524784345184503  0.24752155216857413  1.0000
+  Br  Br3       1.0  0.7524784809174192  0.24752152322452728  0.24752148831154344  1.0000
+  Br  Br4       1.0  0.24752152991010803  0.7524784743021197  0.752478492758187  1.0000
+  Br  Br5       1.0  0.24752152334771202  0.7524784875278313  0.24752151638358866  1.0000
+  Br  Br6       1.0  0.752478470116487  0.24752153764913754  0.752478475063915  1.0000

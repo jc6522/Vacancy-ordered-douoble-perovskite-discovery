@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2SiN6
+_chemical_formula_sum              "Cr2 Si1 N6"
+_cell_length_a       4.860677917434528
+_cell_length_b       4.860678175894756
+_cell_length_c       4.860677833083933
+_cell_angle_alpha    59.999998733374575
+_cell_angle_beta     60.00000016356207
+_cell_angle_gamma    59.999998129842915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24999990955869325  0.2499997041831519  0.2500002088944401  1.0000
+  Cr  Cr2       1.0  0.7499996154252077  0.7499999440503147  0.7500006625649409  1.0000
+  Si  Si1       1.0  0.9999999610064645  1.0078801896053753e-08  0.9999999506802535  1.0000
+  N   N1        1.0  0.255918330050787  0.25591816147385044  0.7440818507708289  1.0000
+  N   N2        1.0  0.7440816437228938  0.7440818294387764  0.25591801392818103  1.0000
+  N   N3        1.0  0.7440818047093878  0.25591829525665316  0.25591819045878544  1.0000
+  N   N4        1.0  0.2559183845681852  0.7440818972319327  0.7440815850252143  1.0000
+  N   N5        1.0  0.2559184878962383  0.7440817500948084  0.25591801092887695  1.0000
+  N   N6        1.0  0.7440818201611172  0.2559184423937807  0.7440815446937835  1.0000

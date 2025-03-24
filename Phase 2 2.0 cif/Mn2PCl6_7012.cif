@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2PCl6
+_chemical_formula_sum              "Mn2 P1 Cl6"
+_cell_length_a       6.740518618729607
+_cell_length_b       6.740518488128479
+_cell_length_c       6.740518333249856
+_cell_angle_alpha    59.999999178731606
+_cell_angle_beta     60.00000045491519
+_cell_angle_gamma    60.000000285594886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999987611448304  0.2500001494314386  0.25000004971289114  1.0000
+  Mn  Mn2       1.0  0.7500000815540981  0.7500000085829571  0.7499997447934941  1.0000
+  P   P1        1.0  1.0608017205680686e-08  0.9999999527582819  7.320877193113577e-08  1.0000
+  Cl  Cl1       1.0  0.24811246473797227  0.24811239591523881  0.7518875392313941  1.0000
+  Cl  Cl2       1.0  0.7518875479598568  0.7518875713152962  0.24811250266371668  1.0000
+  Cl  Cl3       1.0  0.7518875923944961  0.24811236674670648  0.24811250740246632  1.0000
+  Cl  Cl4       1.0  0.2481124626284281  0.7518875968498501  0.7518875641047453  1.0000
+  Cl  Cl5       1.0  0.24811238385067438  0.7518875186812811  0.2481124783966093  1.0000
+  Cl  Cl6       1.0  0.7518875804832587  0.2481124394643083  0.7518875462323943  1.0000

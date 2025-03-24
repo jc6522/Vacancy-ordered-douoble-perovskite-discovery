@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2GaI6
+_chemical_formula_sum              "Fe2 Ga1 I6"
+_cell_length_a       7.501106045323347
+_cell_length_b       7.50110592961638
+_cell_length_c       7.5011060394290014
+_cell_angle_alpha    60.00000046247542
+_cell_angle_beta     60.00000038263824
+_cell_angle_gamma    59.9999990697072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25000008943301544  0.2499999211378397  0.2500000118797306  1.0000
+  Fe  Fe2       1.0  0.7499999978947524  0.7499999511800479  0.7500000316314261  1.0000
+  Ga  Ga1       1.0  2.4459243407557177e-08  0.9999999820397228  0.9999999527570046  1.0000
+  I   I1        1.0  0.25649173450816826  0.2564917623712005  0.7435082554961139  1.0000
+  I   I2        1.0  0.7435082450446673  0.7435082993459667  0.25649173253836594  1.0000
+  I   I3        1.0  0.7435082193145396  0.25649176126065704  0.25649174692697213  1.0000
+  I   I4        1.0  0.2564917021769456  0.7435083314788066  0.7435082692915388  1.0000
+  I   I5        1.0  0.25649169391190607  0.7435082909876557  0.25649172294027417  1.0000
+  I   I6        1.0  0.743508288487606  0.25649170215391026  0.7435082739622066  1.0000

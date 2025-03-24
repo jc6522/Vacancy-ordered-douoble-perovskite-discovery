@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2TaBr6
+_chemical_formula_sum              "Li2 Ta1 Br6"
+_cell_length_a       7.362556711483788
+_cell_length_b       7.362556571988367
+_cell_length_c       7.362556637341151
+_cell_angle_alpha    59.99999899216269
+_cell_angle_beta     59.99999826606731
+_cell_angle_gamma    59.9999995111993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.249999973682184  0.24999999943833662  0.25000000972368275  1.0000
+  Li  Li2       1.0  0.7499999921437812  0.7500000532097751  0.7499999485181397  1.0000
+  Ta  Ta1       1.0  4.7050259529898515e-09  3.9916617050937203e-17  0.9999999731994577  1.0000
+  Br  Br1       1.0  0.24432403053813162  0.24432393713426845  0.7556759842249133  1.0000
+  Br  Br2       1.0  0.7556760708638259  0.7556760240225696  0.24432396691501032  1.0000
+  Br  Br3       1.0  0.7556759856176903  0.24432399900842638  0.2443240289897725  1.0000
+  Br  Br4       1.0  0.24432391044014568  0.7556760935631502  0.7556760555487384  1.0000
+  Br  Br5       1.0  0.24432403063887442  0.7556759390057538  0.24432400775304244  1.0000
+  Br  Br6       1.0  0.7556760093613124  0.24432395228501957  0.7556760198865912  1.0000

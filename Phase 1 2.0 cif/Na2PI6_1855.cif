@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2PI6
+_chemical_formula_sum              "Na2 P1 I6"
+_cell_length_a       7.80884543141355
+_cell_length_b       7.808845252517611
+_cell_length_c       7.808845381257616
+_cell_angle_alpha    60.0000011411335
+_cell_angle_beta     59.99999993450725
+_cell_angle_gamma    60.00000179193767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24999997008285688  0.24999998041082044  0.25000000812490614  1.0000
+  Na  Na2       1.0  0.7500000260055394  0.7499999710322001  0.7500000194681143  1.0000
+  P   P1        1.0  0.9999999874835227  0.9999999843159284  7.697278986182678e-09  1.0000
+  I   I1        1.0  0.2521457766570815  0.25214583340247554  0.747854179564883  1.0000
+  I   I2        1.0  0.7478542296617959  0.7478541760716089  0.2521458164585638  1.0000
+  I   I3        1.0  0.7478541237240175  0.2521457762897636  0.25214587771369595  1.0000
+  I   I4        1.0  0.25214582830036325  0.7478542629840554  0.7478541446437221  1.0000
+  I   I5        1.0  0.25214586383600895  0.7478542137759681  0.2521457655397164  1.0000
+  I   I6        1.0  0.7478541917133495  0.2521457988349309  0.7478541799687006  1.0000

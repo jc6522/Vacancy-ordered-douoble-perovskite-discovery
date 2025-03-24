@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y2FeBr6
+_chemical_formula_sum              "Y2 Fe1 Br6"
+_cell_length_a       6.873546231812906
+_cell_length_b       6.873546042494722
+_cell_length_c       6.873546126387958
+_cell_angle_alpha    59.999997640225565
+_cell_angle_beta     60.00000052594181
+_cell_angle_gamma    59.999999012914344
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.24999968704571301  0.25000007950184056  0.2499999816641829  1.0000
+  Y   Y2        1.0  0.749999912588657  0.7500000175593468  0.750000010911397  1.0000
+  Fe  Fe1       1.0  5.345171580422191e-08  1.603641525176956e-08  1.7240902663648226e-10  1.0000
+  Br  Br1       1.0  0.23521680143467244  0.2352168165192387  0.7647832128369252  1.0000
+  Br  Br2       1.0  0.7647832643701572  0.7647832074871659  0.23521671702730418  1.0000
+  Br  Br3       1.0  0.7647832371649643  0.2352167919205376  0.23521677805818947  1.0000
+  Br  Br4       1.0  0.23521687898800392  0.7647831465583157  0.7647832319544315  1.0000
+  Br  Br5       1.0  0.2352168349993962  0.7647832278292304  0.23521679838433288  1.0000
+  Br  Br6       1.0  0.7647833341307356  0.23521669283138188  0.7647832769754548  1.0000

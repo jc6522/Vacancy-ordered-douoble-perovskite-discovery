@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2FeO6
+_chemical_formula_sum              "Ca2 Fe1 O6"
+_cell_length_a       5.232190131304214
+_cell_length_b       5.232190140008499
+_cell_length_c       5.232190321691161
+_cell_angle_alpha    60.00000023342294
+_cell_angle_beta     60.00000323531669
+_cell_angle_gamma    60.000000984205975
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2499999212694953  0.25000009394718964  0.25000004336442344  1.0000
+  Ca  Ca2       1.0  0.7499999399870726  0.7500000313772366  0.7500001079875371  1.0000
+  Fe  Fe1       1.0  4.855215577966404e-08  1.6342333922205406e-16  0.9999999776351691  1.0000
+  O   O1        1.0  0.24739176527525436  0.24739178591285063  0.7526082196762426  1.0000
+  O   O2        1.0  0.7526082051032371  0.7526082106682276  0.24739171213697736  1.0000
+  O   O3        1.0  0.7526081755790985  0.2473918721831983  0.24739169262666288  1.0000
+  O   O4        1.0  0.24739179491029917  0.752608157168914  0.7526082934616692  1.0000
+  O   O5        1.0  0.24739179909800238  0.7526082092251498  0.2473916834731601  1.0000
+  O   O6        1.0  0.7526083036534648  0.2473916352046985  0.7526082792528898  1.0000

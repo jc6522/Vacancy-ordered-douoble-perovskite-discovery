@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2NiTe6
+_chemical_formula_sum              "In2 Ni1 Te6"
+_cell_length_a       7.1099345934321105
+_cell_length_b       7.109934872533162
+_cell_length_c       7.109934859555942
+_cell_angle_alpha    60.00000155153594
+_cell_angle_beta     59.9999999408972
+_cell_angle_gamma    59.999998734992666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2500000087414601  0.25000001300039326  0.24999998295349204  1.0000
+  In  In2       1.0  0.7500000231901831  0.7499999993817855  0.7499999912845112  1.0000
+  Ni  Ni1       1.0  1.1248554733739415e-07  9.129686339749834e-08  0.9999999360838281  1.0000
+  Te  Te1       1.0  0.2552354842971344  0.2552356256275845  0.7447644305600459  1.0000
+  Te  Te2       1.0  0.7447644324750233  0.744764293735149  0.2552356435479726  1.0000
+  Te  Te3       1.0  0.7447645292999292  0.255235516410156  0.2552355402976046  1.0000
+  Te  Te4       1.0  0.255235457945986  0.7447644546300469  0.744764491019076  1.0000
+  Te  Te5       1.0  0.25523541908755193  0.7447644709295956  0.25523558132365337  1.0000
+  Te  Te6       1.0  0.7447645406308483  0.2552355242267608  0.744764403878298  1.0000

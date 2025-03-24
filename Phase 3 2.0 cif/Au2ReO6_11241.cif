@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2ReO6
+_chemical_formula_sum              "Au2 Re1 O6"
+_cell_length_a       5.4454963157262455
+_cell_length_b       5.445496301219524
+_cell_length_c       5.445496482916271
+_cell_angle_alpha    60.00000157996224
+_cell_angle_beta     60.000001145219734
+_cell_angle_gamma    59.99999953352387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.2500000319671684  0.24999988797434508  0.2499999938232704  1.0000
+  Au  Au2       1.0  0.7499998498974672  0.7500001474788585  0.7499997084380173  1.0000
+  Re  Re1       1.0  0.9999999208553721  1.1020574604112361e-07  0.9999999440690852  1.0000
+  O   O1        1.0  0.24649280894027062  0.2464927609886812  0.7535072731070265  1.0000
+  O   O2        1.0  0.7535072044375803  0.7535071979952389  0.24649292500055237  1.0000
+  O   O3        1.0  0.7535072727896076  0.2464926820568575  0.2464928477921025  1.0000
+  O   O4        1.0  0.24649291239035798  0.7535072004577643  0.753507185120759  1.0000
+  O   O5        1.0  0.24649268522284581  0.7535073780968017  0.246492736794857  1.0000
+  O   O6        1.0  0.753507387763319  0.24649260562718192  0.7535073769017978  1.0000

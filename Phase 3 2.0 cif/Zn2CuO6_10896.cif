@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2CuO6
+_chemical_formula_sum              "Zn2 Cu1 O6"
+_cell_length_a       5.043634636642218
+_cell_length_b       5.043634961074137
+_cell_length_c       5.043634645392219
+_cell_angle_alpha    59.999999807081224
+_cell_angle_beta     59.99999913589069
+_cell_angle_gamma    59.99999968017198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.250000109332097  0.24999999808439285  0.2500001243474544  1.0000
+  Zn  Zn2       1.0  0.7500000359898723  0.7500000598172373  0.7500000837760238  1.0000
+  Cu  Cu1       1.0  0.9999999713008796  2.428298053758347e-08  0.9999999942772811  1.0000
+  O   O1        1.0  0.2566847476224562  0.2566847462647346  0.7433151250870862  1.0000
+  O   O2        1.0  0.7433152641751147  0.7433151902220096  0.2566846593162312  1.0000
+  O   O3        1.0  0.7433152285773286  0.25668473817420623  0.25668479522620696  1.0000
+  O   O4        1.0  0.25668471703329154  0.7433153075859438  0.743315193661356  1.0000
+  O   O5        1.0  0.2566847501631736  0.7433151170398709  0.2566848356778739  1.0000
+  O   O6        1.0  0.7433151906623311  0.2566848194468691  0.7433152181697422  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2NiSe6
+_chemical_formula_sum              "Mo2 Ni1 Se6"
+_cell_length_a       6.211172365055857
+_cell_length_b       6.211173160924057
+_cell_length_c       6.21117277442113
+_cell_angle_alpha    60.000001297491934
+_cell_angle_beta     59.999996453662924
+_cell_angle_gamma    60.00000437511416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2499999664251414  0.2500002002005545  0.24999966678710156  1.0000
+  Mo  Mo2       1.0  0.7499996674880404  0.7499997566535491  0.7500004736401681  1.0000
+  Ni  Ni1       1.0  4.634463979362178e-08  3.943682857739853e-08  0.9999999377892422  1.0000
+  Se  Se1       1.0  0.2647939611496166  0.2647938972901999  0.7352061881717571  1.0000
+  Se  Se2       1.0  0.7352061524423774  0.7352059925213091  0.2647937926274543  1.0000
+  Se  Se3       1.0  0.735206098140655  0.26479398278490573  0.2647939180884106  1.0000
+  Se  Se4       1.0  0.2647939919020142  0.7352059720973675  0.7352061578702183  1.0000
+  Se  Se5       1.0  0.2647939865833308  0.735206141333496  0.26479381946411107  1.0000
+  Se  Se6       1.0  0.7352060839825126  0.264794022563962  0.7352060699552285  1.0000

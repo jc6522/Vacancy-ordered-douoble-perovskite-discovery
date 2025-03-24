@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2TaS6
+_chemical_formula_sum              "Au2 Ta1 S6"
+_cell_length_a       6.323920901210136
+_cell_length_b       6.323920909041214
+_cell_length_c       6.323921085228101
+_cell_angle_alpha    59.999999460942476
+_cell_angle_beta     59.99999892979052
+_cell_angle_gamma    59.99999835779716
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.25000001438911007  0.24999995279739964  0.25000000860633503  1.0000
+  Au  Au2       1.0  0.7499999731523578  0.7500000191371343  0.7499999567345632  1.0000
+  Ta  Ta1       1.0  0.9999999744180454  3.2923661622593276e-08  0.9999999915852543  1.0000
+  S   S1        1.0  0.26895753412282625  0.26895749204138975  0.731042488231296  1.0000
+  S   S2        1.0  0.731042466826675  0.7310425108801196  0.2689575181639939  1.0000
+  S   S3        1.0  0.7310425092556839  0.2689574729618985  0.26895752047621896  1.0000
+  S   S4        1.0  0.2689575321774472  0.731042545453098  0.7310424658369996  1.0000
+  S   S5        1.0  0.2689575003400698  0.7310425219576673  0.268957516379658  1.0000
+  S   S6        1.0  0.7310424969765851  0.26895744804018096  0.7310425335946441  1.0000

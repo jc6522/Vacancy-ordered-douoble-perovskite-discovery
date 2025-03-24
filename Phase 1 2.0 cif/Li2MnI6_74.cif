@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2MnI6
+_chemical_formula_sum              "Li2 Mn1 I6"
+_cell_length_a       7.709916450334944
+_cell_length_b       7.709916548178901
+_cell_length_c       7.7099162075033165
+_cell_angle_alpha    60.00000085141408
+_cell_angle_beta     60.00000218111361
+_cell_angle_gamma    60.000001873889346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000009503112436  0.25000001374235253  0.24999986830421672  1.0000
+  Li  Li2       1.0  0.7499999419295271  0.7499999204986242  0.7500001663046507  1.0000
+  Mn  Mn1       1.0  4.4075457754343596e-07  1.6044172501416142e-07  2.8847714952594123e-08  1.0000
+  I   I1        1.0  0.24143619408046763  0.24143618319823507  0.7585638606398002  1.0000
+  I   I2        1.0  0.7585634751642306  0.7585635826583541  0.24143645498954472  1.0000
+  I   I3        1.0  0.7585636699948796  0.24143631195663642  0.24143625397401328  1.0000
+  I   I4        1.0  0.2414364008076882  0.7585636016334275  0.7585636067223593  1.0000
+  I   I5        1.0  0.24143625389090625  0.7585638044151284  0.24143616096921752  1.0000
+  I   I6        1.0  0.7585635388669243  0.24143642211572325  0.7585635720314946  1.0000

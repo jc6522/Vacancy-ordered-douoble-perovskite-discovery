@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2TaO6
+_chemical_formula_sum              "Mn2 Ta1 O6"
+_cell_length_a       5.345074549311965
+_cell_length_b       5.3450747653707795
+_cell_length_c       5.345074673123818
+_cell_angle_alpha    60.00000000654154
+_cell_angle_beta     59.99999997906718
+_cell_angle_gamma    59.999999385735855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2500000088431119  0.2500000174172826  0.2499999074070326  1.0000
+  Mn  Mn2       1.0  0.7500001079696632  0.7499998597782616  0.7500000209522916  1.0000
+  Ta  Ta1       1.0  2.4047956991030895e-08  0.9999999472988996  4.972165790828587e-09  1.0000
+  O   O1        1.0  0.2575785639630036  0.25757865315779566  0.7424213650150953  1.0000
+  O   O2        1.0  0.7424213786472632  0.7424214096372769  0.25757863248096713  1.0000
+  O   O3        1.0  0.7424214513817067  0.2575786300109988  0.2575785702893889  1.0000
+  O   O4        1.0  0.2575785734962633  0.7424213480040411  0.7424215014272079  1.0000
+  O   O5        1.0  0.25757854606254826  0.7424214647476783  0.2575785558805663  1.0000
+  O   O6        1.0  0.742421359406871  0.2575786576225511  0.742421460332441  1.0000

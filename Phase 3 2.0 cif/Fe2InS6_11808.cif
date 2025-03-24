@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2InS6
+_chemical_formula_sum              "Fe2 In1 S6"
+_cell_length_a       6.418168622754529
+_cell_length_b       6.418168567508107
+_cell_length_c       6.418168666562417
+_cell_angle_alpha    59.999997834089214
+_cell_angle_beta     59.99999935651087
+_cell_angle_gamma    59.99999960250454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2499997227874205  0.2500000179264321  0.25000022493193674  1.0000
+  Fe  Fe2       1.0  0.7500000793148753  0.7499999278350332  0.7499997447551212  1.0000
+  In  In1       1.0  1.3080824242211465e-07  0.9999999961835058  6.27083501259353e-08  1.0000
+  S   S1        1.0  0.28074492139457  0.28074494386971766  0.7192550307853366  1.0000
+  S   S2        1.0  0.7192550767205452  0.7192549751762908  0.2807451643103325  1.0000
+  S   S3        1.0  0.7192551404094585  0.2807448435164138  0.28074505436022645  1.0000
+  S   S4        1.0  0.28074498851389884  0.7192550717131051  0.719254921431881  1.0000
+  S   S5        1.0  0.2807447860006258  0.7192551288643545  0.28074501623357756  1.0000
+  S   S6        1.0  0.7192551505578856  0.28074509359288263  0.7192548008520956  1.0000

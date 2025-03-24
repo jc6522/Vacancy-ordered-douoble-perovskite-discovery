@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2ReS6
+_chemical_formula_sum              "Ga2 Re1 S6"
+_cell_length_a       6.408978237709763
+_cell_length_b       6.40897807585876
+_cell_length_c       6.408978204843711
+_cell_angle_alpha    60.0000006661276
+_cell_angle_beta     59.999999697250516
+_cell_angle_gamma    59.999999633369114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.2500000622110688  0.2500000046040975  0.24999992102910154  1.0000
+  Ga  Ga2       1.0  0.7499999312113401  0.7500000233672105  0.7499999983631807  1.0000
+  Re  Re1       1.0  0.9999999906449144  4.968556088101741e-08  2.5083785542068157e-08  1.0000
+  S   S1        1.0  0.25359310511615824  0.2535930854659859  0.7464068962385342  1.0000
+  S   S2        1.0  0.7464068235015897  0.7464068450451856  0.2535931386129909  1.0000
+  S   S3        1.0  0.7464068875994284  0.2535931220538456  0.25359308987778306  1.0000
+  S   S4        1.0  0.2535931122116745  0.7464068543209207  0.7464069472974011  1.0000
+  S   S5        1.0  0.2535932280710314  0.746406865110309  0.25359311100482684  1.0000
+  S   S6        1.0  0.746406825772083  0.25359314375116965  0.7464068797903736  1.0000

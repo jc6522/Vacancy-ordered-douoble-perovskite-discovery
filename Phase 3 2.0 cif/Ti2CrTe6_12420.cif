@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2CrTe6
+_chemical_formula_sum              "Ti2 Cr1 Te6"
+_cell_length_a       6.955795564574766
+_cell_length_b       6.955795630637019
+_cell_length_c       6.9557956450175045
+_cell_angle_alpha    60.00000030111313
+_cell_angle_beta     59.999999932137776
+_cell_angle_gamma    60.00000040417218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999988295654485  0.2500000432282319  0.24999996883245298  1.0000
+  Ti  Ti2       1.0  0.7499999897047107  0.7499998990258537  0.7500001231251024  1.0000
+  Cr  Cr1       1.0  0.9999999984579211  0.9999999647849096  6.29457363208567e-08  1.0000
+  Te  Te1       1.0  0.2596912023043276  0.2596912235751983  0.7403088121217731  1.0000
+  Te  Te2       1.0  0.7403088160044446  0.7403087996735958  0.25969114782521946  1.0000
+  Te  Te3       1.0  0.74030885773966  0.25969126217852123  0.25969113670172245  1.0000
+  Te  Te4       1.0  0.2596912354729997  0.7403087505057457  0.7403088011391408  1.0000
+  Te  Te5       1.0  0.2596911975715853  0.7403088247765313  0.2596911986246633  1.0000
+  Te  Te6       1.0  0.7403088216923479  0.2596912354481078  0.7403087481074269  1.0000

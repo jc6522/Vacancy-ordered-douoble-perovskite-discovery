@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2PtO6
+_chemical_formula_sum              "Ga2 Pt1 O6"
+_cell_length_a       5.341042971227258
+_cell_length_b       5.341043088871569
+_cell_length_c       5.341042879572917
+_cell_angle_alpha    60.00000185605697
+_cell_angle_beta     60.000001492776235
+_cell_angle_gamma    60.00000006225794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25000088260652514  0.25000024650052144  0.24999952441746442  1.0000
+  Ga  Ga2       1.0  0.7500002260218445  0.7500001570588343  0.74999924969116  1.0000
+  Pt  Pt1       1.0  0.9999999809359862  0.9999999793622645  1.9850874444532476e-08  1.0000
+  O   O1        1.0  0.25017443410041895  0.25017452213669894  0.749825515407391  1.0000
+  O   O2        1.0  0.7498254828467525  0.7498255649773949  0.25017467181177466  1.0000
+  O   O3        1.0  0.7498250140504553  0.2501744259109971  0.25017457818427447  1.0000
+  O   O4        1.0  0.2501747079777024  0.7498253768609607  0.7498256801590463  1.0000
+  O   O5        1.0  0.25017403103832664  0.7498253960747663  0.2501749108802232  1.0000
+  O   O6        1.0  0.7498252589319663  0.25017427599153885  0.7498258610092498  1.0000

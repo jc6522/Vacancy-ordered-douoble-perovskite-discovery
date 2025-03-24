@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2CrN6
+_chemical_formula_sum              "Bi2 Cr1 N6"
+_cell_length_a       5.548312885707742
+_cell_length_b       5.548312809703752
+_cell_length_c       5.548312866403555
+_cell_angle_alpha    59.999998936464365
+_cell_angle_beta     59.999998698310854
+_cell_angle_gamma    59.9999990306668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000005865617203  0.24999989129027458  0.2500000654609023  1.0000
+  Bi  Bi2       1.0  0.7499999817193969  0.7500000380948917  0.7500001186046316  1.0000
+  Cr  Cr1       1.0  0.999999989237056  0.9999999823406512  2.3222895073641063e-08  1.0000
+  N   N1        1.0  0.23873492097970148  0.23873485663211194  0.7612651223959356  1.0000
+  N   N2        1.0  0.7612650959546563  0.7612651742943102  0.23873479191881453  1.0000
+  N   N3        1.0  0.7612651171592941  0.2387349236399353  0.23873481236936267  1.0000
+  N   N4        1.0  0.23873484282589444  0.7612651470200216  0.7612650997391069  1.0000
+  N   N5        1.0  0.2387349145546668  0.7612651352754864  0.2387348394214488  1.0000
+  N   N6        1.0  0.761265125925489  0.23873482501354057  0.7612651272766952  1.0000

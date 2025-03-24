@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2CrF6
+_chemical_formula_sum              "In2 Cr1 F6"
+_cell_length_a       5.723549630889851
+_cell_length_b       5.7235496079436
+_cell_length_c       5.72354973328901
+_cell_angle_alpha    60.00000011902267
+_cell_angle_beta     60.00000008157433
+_cell_angle_gamma    59.999999655999396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2500000268291896  0.2500000109161934  0.25000002651151665  1.0000
+  In  In2       1.0  0.7499999703841826  0.749999987812056  0.7500000155339381  1.0000
+  Cr  Cr1       1.0  1.3286529327456183e-08  8.559337481595689e-09  0.9999999419035446  1.0000
+  F   F1        1.0  0.23678018905308196  0.2367802262756968  0.7632197438074878  1.0000
+  F   F2        1.0  0.7632197617798155  0.763219736075366  0.23678022080940803  1.0000
+  F   F3        1.0  0.763219770899994  0.2367802458733182  0.23678021147297248  1.0000
+  F   F4        1.0  0.2367801648910712  0.763219870545827  0.7632197989438531  1.0000
+  F   F5        1.0  0.23678023548636165  0.7632197448811606  0.23678023559399794  1.0000
+  F   F6        1.0  0.7632198716696261  0.2367801661138752  0.7632197970939231  1.0000

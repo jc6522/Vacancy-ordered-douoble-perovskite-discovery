@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2GaO6
+_chemical_formula_sum              "Sr2 Ga1 O6"
+_cell_length_a       5.696489175932666
+_cell_length_b       5.696489067405494
+_cell_length_c       5.69648935999018
+_cell_angle_alpha    59.9999990893541
+_cell_angle_beta     59.99999726556445
+_cell_angle_gamma    59.99999710281607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000002663870124  0.24999995265665614  0.25000004380516444  1.0000
+  Sr  Sr2       1.0  0.7499999357678911  0.750000047169928  0.7499998999890309  1.0000
+  Ga  Ga1       1.0  3.888262376298431e-08  0.999999980650003  0.9999999621462115  1.0000
+  O   O1        1.0  0.23808915336034936  0.2380891672670663  0.7619108539088217  1.0000
+  O   O2        1.0  0.7619108526574141  0.7619108841595076  0.23808913356408512  1.0000
+  O   O3        1.0  0.761910916675937  0.2380890974550416  0.23808913305967852  1.0000
+  O   O4        1.0  0.23808904366141834  0.7619109754715294  0.7619109226783838  1.0000
+  O   O5        1.0  0.23808907290634315  0.761910920192969  0.23808915504587388  1.0000
+  O   O6        1.0  0.7619109632325115  0.23808900438363195  0.7619109439882904  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2FeSe6
+_chemical_formula_sum              "Li2 Fe1 Se6"
+_cell_length_a       6.56136937974765
+_cell_length_b       6.561369010375737
+_cell_length_c       6.561369354121991
+_cell_angle_alpha    59.99999923680126
+_cell_angle_beta     59.99999718667228
+_cell_angle_gamma    59.99999941061244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999998996487635  0.2499999919313865  0.25000002863372117  1.0000
+  Li  Li2       1.0  0.7499999332214722  0.7500000224591478  0.7500000123220042  1.0000
+  Fe  Fe1       1.0  4.485019395905262e-08  0.99999995520161  0.9999999954018804  1.0000
+  Se  Se1       1.0  0.24484102922019085  0.24484097359914556  0.755159008028518  1.0000
+  Se  Se2       1.0  0.7551589764654567  0.755159051990988  0.24484101046291007  1.0000
+  Se  Se3       1.0  0.7551589976731644  0.24484101591898344  0.24484100699588315  1.0000
+  Se  Se4       1.0  0.24484102106036595  0.7551590022047505  0.7551589507900628  1.0000
+  Se  Se5       1.0  0.24484103095887783  0.7551589703873559  0.2448410175392032  1.0000
+  Se  Se6       1.0  0.7551590197904704  0.24484099920478894  0.7551589606972043  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sc2GeBr6
+_chemical_formula_sum              "Sc2 Ge1 Br6"
+_cell_length_a       7.183612281676425
+_cell_length_b       7.183612393236082
+_cell_length_c       7.183612245570954
+_cell_angle_alpha    59.99999971933085
+_cell_angle_beta     60.00000005957498
+_cell_angle_gamma    60.00000007770601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.24999989274025317  0.2500002746936472  0.24999987211697433  1.0000
+  Sc  Sc2       1.0  0.7499999369472329  0.749999956279191  0.7500000085881788  1.0000
+  Ge  Ge1       1.0  1.417416682476206e-08  1.5344235239251663e-08  0.9999999866328562  1.0000
+  Br  Br1       1.0  0.2530237451351626  0.2530237316627235  0.7469763005462775  1.0000
+  Br  Br2       1.0  0.7469763512570472  0.7469762248187926  0.2530237942528318  1.0000
+  Br  Br3       1.0  0.7469762693202421  0.253023807291147  0.2530236797843932  1.0000
+  Br  Br4       1.0  0.2530237130099528  0.7469762020427357  0.746976376016674  1.0000
+  Br  Br5       1.0  0.25302375391616483  0.746976162895041  0.25302369663813556  1.0000
+  Br  Br6       1.0  0.746976314957944  0.25302363502937963  0.7469762726455741  1.0000

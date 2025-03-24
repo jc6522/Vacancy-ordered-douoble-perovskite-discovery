@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hf2GaN6
+_chemical_formula_sum              "Hf2 Ga1 N6"
+_cell_length_a       4.864608678680095
+_cell_length_b       4.864608975883075
+_cell_length_c       4.864608801315219
+_cell_angle_alpha    59.99999995620706
+_cell_angle_beta     60.00000014252351
+_cell_angle_gamma    60.00000017790935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2500000720496641  0.24999987983123434  0.2500000563343028  1.0000
+  Hf  Hf2       1.0  0.7500000012180179  0.7499999567193134  0.7500000130167345  1.0000
+  Ga  Ga1       1.0  0.9999999683029889  2.5176643501349925e-09  0.9999999858103805  1.0000
+  N   N1        1.0  0.2683862165134821  0.2683862518743404  0.7316137711866756  1.0000
+  N   N2        1.0  0.7316137136094603  0.7316138716898525  0.26838622417424146  1.0000
+  N   N3        1.0  0.7316137225049699  0.2683862087785509  0.26838631304693333  1.0000
+  N   N4        1.0  0.2683862615914003  0.7316137813494743  0.731613699433054  1.0000
+  N   N5        1.0  0.2683862882606605  0.7316137517573338  0.2683862283399174  1.0000
+  N   N6        1.0  0.7316137728958373  0.26838626354732636  0.7316137165763789  1.0000

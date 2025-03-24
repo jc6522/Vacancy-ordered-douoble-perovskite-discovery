@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2SO6
+_chemical_formula_sum              "Na2 S1 O6"
+_cell_length_a       5.03506652669413
+_cell_length_b       5.035066341442499
+_cell_length_c       5.035064347967937
+_cell_angle_alpha    59.99999887952551
+_cell_angle_beta     59.99999636296311
+_cell_angle_gamma    60.000010396177714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.250000027435006  0.25000001766309016  0.249999957589179  1.0000
+  Na  Na2       1.0  0.7500000210332547  0.7500000992054198  0.7500000868468288  1.0000
+  S   S1        1.0  2.7656932707540773e-07  0.9999997275677912  4.80546913198955e-07  1.0000
+  O   O1        1.0  0.2283375058770331  0.2283377647103769  0.7716625658015196  1.0000
+  O   O2        1.0  0.7716623186133307  0.7716621916177303  0.22833731737288107  1.0000
+  O   O3        1.0  0.7716618404282104  0.22833759503241757  0.2283379609810934  1.0000
+  O   O4        1.0  0.22833819231281285  0.7716624245388968  0.771661907596727  1.0000
+  O   O5        1.0  0.22833776573636336  0.7716620933606018  0.22833804254390191  1.0000
+  O   O6        1.0  0.771662441455591  0.22833811837267592  0.7716622901868782  1.0000

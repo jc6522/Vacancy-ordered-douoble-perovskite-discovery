@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2MnSe6
+_chemical_formula_sum              "Mo2 Mn1 Se6"
+_cell_length_a       6.219271374678775
+_cell_length_b       6.219273842211213
+_cell_length_c       6.219271678024649
+_cell_angle_alpha    60.00000349530801
+_cell_angle_beta     59.999985853805796
+_cell_angle_gamma    59.999994157793395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.25000137773716297  0.24999902195607338  0.2500001087958156  1.0000
+  Mo  Mo2       1.0  0.750000610322775  0.7499992517617756  0.7499992985451177  1.0000
+  Mn  Mn1       1.0  6.743125036727504e-08  4.883796913678445e-07  0.99999970601544  1.0000
+  Se  Se1       1.0  0.2673894177429685  0.26738981103468573  0.7326103540518527  1.0000
+  Se  Se2       1.0  0.732610204616386  0.7326101680738435  0.2673902822632252  1.0000
+  Se  Se3       1.0  0.7326096545654924  0.26739011342278  0.26738979196540463  1.0000
+  Se  Se4       1.0  0.2673893630727811  0.7326108109368833  0.7326101756339984  1.0000
+  Se  Se5       1.0  0.26738948197782125  0.7326105357881428  0.2673897022524674  1.0000
+  Se  Se6       1.0  0.732609881663567  0.2673898017281142  0.7326106414240295  1.0000

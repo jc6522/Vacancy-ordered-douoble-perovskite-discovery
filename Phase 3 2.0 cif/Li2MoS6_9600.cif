@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2MoS6
+_chemical_formula_sum              "Li2 Mo1 S6"
+_cell_length_a       6.35777979018029
+_cell_length_b       6.357779966526324
+_cell_length_c       6.357779935504359
+_cell_angle_alpha    59.999995549032214
+_cell_angle_beta     59.999998618996464
+_cell_angle_gamma    59.99999746211179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999991567900587  0.2500002933082853  0.2499999079850324  1.0000
+  Li  Li2       1.0  0.7500000036695263  0.74999993022345  0.7500002623804596  1.0000
+  Mo  Mo1       1.0  7.675892962912328e-08  0.999999911386883  9.715390916475021e-08  1.0000
+  S   S1        1.0  0.25410149943398275  0.2541014988917342  0.7458984207073558  1.0000
+  S   S2        1.0  0.7458984932268529  0.7458984992545015  0.2541013365302804  1.0000
+  S   S3        1.0  0.7458984008691928  0.2541016526301411  0.25410151811772125  1.0000
+  S   S4        1.0  0.2541015254168715  0.7458983975281287  0.7458984492022965  1.0000
+  S   S5        1.0  0.2541015596434059  0.7458984240078463  0.2541015476584774  1.0000
+  S   S6        1.0  0.7458984994489131  0.25410142388136303  0.7458984528200736  1.0000

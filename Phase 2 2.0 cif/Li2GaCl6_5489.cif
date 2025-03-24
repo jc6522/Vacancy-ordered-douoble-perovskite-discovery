@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2GaCl6
+_chemical_formula_sum              "Li2 Ga1 Cl6"
+_cell_length_a       6.673318213394907
+_cell_length_b       6.673318520398858
+_cell_length_c       6.673318296945028
+_cell_angle_alpha    60.0000017134136
+_cell_angle_beta     59.999999468461006
+_cell_angle_gamma    59.99999992719606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24999999425799008  0.2500000017224518  0.2500001620029047  1.0000
+  Li  Li2       1.0  0.7499998910847855  0.7499999739674909  0.7500001083913105  1.0000
+  Ga  Ga1       1.0  7.724974626787951e-09  1.8352860989269192e-08  5.589230651638807e-08  1.0000
+  Cl  Cl1       1.0  0.24874252560978538  0.2487424618845967  0.7512576095270025  1.0000
+  Cl  Cl2       1.0  0.7512575711114394  0.7512575596874929  0.24874241235652467  1.0000
+  Cl  Cl3       1.0  0.7512576516113848  0.2487423903582923  0.2487425431813495  1.0000
+  Cl  Cl4       1.0  0.24874254449416192  0.7512573797796033  0.7512573479334397  1.0000
+  Cl  Cl5       1.0  0.24874244207067472  0.7512575798227367  0.24874251850313253  1.0000
+  Cl  Cl6       1.0  0.7512574058825836  0.24874263261910592  0.7512572640971299  1.0000

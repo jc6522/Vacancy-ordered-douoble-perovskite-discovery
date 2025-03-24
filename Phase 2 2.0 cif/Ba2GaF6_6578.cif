@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2GaF6
+_chemical_formula_sum              "Ba2 Ga1 F6"
+_cell_length_a       5.942130217501837
+_cell_length_b       5.942130788926864
+_cell_length_c       5.942129946182154
+_cell_angle_alpha    60.00000472757335
+_cell_angle_beta     60.00000363587369
+_cell_angle_gamma    60.00000439175249
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.2500000500031793  0.249999896487685  0.24999996300227104  1.0000
+  Ba  Ba2       1.0  0.7500000028078581  0.750000037792429  0.7500000358290047  1.0000
+  Ga  Ga1       1.0  2.3338605974792265e-09  1.154227512871462e-07  0.9999999932915394  1.0000
+  F   F1        1.0  0.23200620656613577  0.23200610818058062  0.7679938285471604  1.0000
+  F   F2        1.0  0.7679937994689604  0.767993867321945  0.23200614950030407  1.0000
+  F   F3        1.0  0.7679937811379725  0.23200610507703487  0.23200618652518487  1.0000
+  F   F4        1.0  0.2320062090379919  0.7679938188974766  0.7679938252158521  1.0000
+  F   F5        1.0  0.23200621160444032  0.7679938642057629  0.23200614216538895  1.0000
+  F   F6        1.0  0.7679937344056452  0.23200613396908867  0.7679939218743462  1.0000

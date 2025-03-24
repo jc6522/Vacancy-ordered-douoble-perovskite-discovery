@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2BF6
+_chemical_formula_sum              "Zn2 B1 F6"
+_cell_length_a       4.837757903305411
+_cell_length_b       4.837757837084893
+_cell_length_c       4.837757939811623
+_cell_angle_alpha    60.0000002545257
+_cell_angle_beta     60.000000437437315
+_cell_angle_gamma    60.000000631111
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.24999997766387014  0.25000003221610095  0.2499999857832007  1.0000
+  Zn  Zn2       1.0  0.7500000012961358  0.7499999776613457  0.7500000116298429  1.0000
+  B   B1        1.0  2.907656747737284e-08  0.9999999772152639  2.992725621534349e-08  1.0000
+  F   F1        1.0  0.22710069015283732  0.2271006847451949  0.772899311277417  1.0000
+  F   F2        1.0  0.7728993420169743  0.7728993301955274  0.22710070247469763  1.0000
+  F   F3        1.0  0.7728992924315164  0.2271006663073124  0.22710075430180354  1.0000
+  F   F4        1.0  0.2271007000305553  0.7728993030639358  0.7728992400767203  1.0000
+  F   F5        1.0  0.22710067598192707  0.772899313749816  0.22710070684544686  1.0000
+  F   F6        1.0  0.772899290464679  0.22710072650727928  0.7728992650978865  1.0000

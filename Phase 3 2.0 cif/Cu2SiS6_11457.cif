@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2SiS6
+_chemical_formula_sum              "Cu2 Si1 S6"
+_cell_length_a       6.240994427555564
+_cell_length_b       6.240994694852583
+_cell_length_c       6.240994949616088
+_cell_angle_alpha    60.00000189361873
+_cell_angle_beta     60.000000883513444
+_cell_angle_gamma    60.00000403491649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499999681499923  0.2500000607975839  0.24999995772459313  1.0000
+  Cu  Cu2       1.0  0.7499999657916606  0.7499998762553441  0.7499999106492786  1.0000
+  Si  Si1       1.0  0.9999999768261767  0.9999999862630645  1.8455378412771914e-08  1.0000
+  S   S1        1.0  0.2539059779517413  0.2539060481657694  0.7460939681866067  1.0000
+  S   S2        1.0  0.7460939786570475  0.7460940262565133  0.2539060236622184  1.0000
+  S   S3        1.0  0.7460940728728114  0.25390592544715485  0.25390601186897904  1.0000
+  S   S4        1.0  0.2539061035748  0.7460939723573999  0.7460940144501025  1.0000
+  S   S5        1.0  0.2539059492405598  0.7460940258069779  0.2539060251970998  1.0000
+  S   S6        1.0  0.7460939670745431  0.2539060917885296  0.7460940373158439  1.0000

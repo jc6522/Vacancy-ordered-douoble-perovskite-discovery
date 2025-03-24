@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2PtS6
+_chemical_formula_sum              "Bi2 Pt1 S6"
+_cell_length_a       6.410779028512891
+_cell_length_b       6.410779073490985
+_cell_length_c       6.4107791843714095
+_cell_angle_alpha    60.00000020245678
+_cell_angle_beta     60.00000045459174
+_cell_angle_gamma    59.99999915189945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000001375557096  0.25000018668842894  0.2499998798808702  1.0000
+  Bi  Bi2       1.0  0.7500000061422604  0.750000103468638  0.7500000243318364  1.0000
+  Pt  Pt1       1.0  0.9999999943966678  0.9999999789850915  8.629501816384936e-09  1.0000
+  S   S1        1.0  0.25675435505478195  0.2567543229138074  0.7432456658393948  1.0000
+  S   S2        1.0  0.7432457046940976  0.7432455775122271  0.2567543134814436  1.0000
+  S   S3        1.0  0.7432456285032476  0.2567543538504786  0.2567543292328633  1.0000
+  S   S4        1.0  0.2567543297236552  0.7432455809635895  0.7432457335708752  1.0000
+  S   S5        1.0  0.2567544142457824  0.7432456114833887  0.2567543229234204  1.0000
+  S   S6        1.0  0.743245546437868  0.2567542889426471  0.7432457433669778  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge2GaSe6
+_chemical_formula_sum              "Ge2 Ga1 Se6"
+_cell_length_a       6.421383019533764
+_cell_length_b       6.421383211709448
+_cell_length_c       6.421383057370246
+_cell_angle_alpha    60.00000024072605
+_cell_angle_beta     60.000000481977324
+_cell_angle_gamma    59.99999998645094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.24999999428855635  0.25000012641775643  0.24999998368744658  1.0000
+  Ge  Ge2       1.0  0.7499999814385475  0.7499999195960536  0.750000130213712  1.0000
+  Ga  Ga1       1.0  2.9793735295445014e-09  0.9999999694833391  0.9999999203308292  1.0000
+  Se  Se1       1.0  0.28472032239856104  0.28472030092694106  0.7152796796666774  1.0000
+  Se  Se2       1.0  0.7152797268932023  0.7152796592587588  0.2847202986521883  1.0000
+  Se  Se3       1.0  0.7152796896610412  0.2847202955541391  0.2847203084268063  1.0000
+  Se  Se4       1.0  0.28472030969840206  0.7152796741680176  0.7152797259078199  1.0000
+  Se  Se5       1.0  0.2847203369161457  0.7152796646240165  0.28472027757034596  1.0000
+  Se  Se6       1.0  0.7152796388109568  0.28472038138979494  0.7152796774865279  1.0000

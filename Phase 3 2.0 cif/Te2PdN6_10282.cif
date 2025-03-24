@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Te2PdN6
+_chemical_formula_sum              "Te2 Pd1 N6"
+_cell_length_a       5.267595780788412
+_cell_length_b       5.267595634966119
+_cell_length_c       5.267595841609641
+_cell_angle_alpha    60.00000018708948
+_cell_angle_beta     59.999999226950735
+_cell_angle_gamma    59.999999541789464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.24999852354884153  0.24999972881427282  0.25000168065331013  1.0000
+  Te  Te2       1.0  0.7499993961267408  0.7500000141622866  0.7499996722260869  1.0000
+  Pd  Pd1       1.0  6.073626883878253e-08  0.9999999953498905  0.9999999776521179  1.0000
+  N   N1        1.0  0.267178952432783  0.2671785381761088  0.7328209167848723  1.0000
+  N   N2        1.0  0.7328215446268738  0.7328209629947455  0.2671791164333895  1.0000
+  N   N3        1.0  0.7328216483815158  0.2671787712533497  0.26717870935112126  1.0000
+  N   N4        1.0  0.2671791689229476  0.7328219459211859  0.7328206013044914  1.0000
+  N   N5        1.0  0.2671786520746375  0.7328211608270916  0.26717886744714875  1.0000
+  N   N6        1.0  0.7328220733070766  0.26717885883098585  0.7328204639434077  1.0000

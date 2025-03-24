@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2TiS6
+_chemical_formula_sum              "Hg2 Ti1 S6"
+_cell_length_a       6.3598254086937045
+_cell_length_b       6.359825594397648
+_cell_length_c       6.359825381671177
+_cell_angle_alpha    60.00000130807337
+_cell_angle_beta     60.0000023904613
+_cell_angle_gamma    59.99999894156741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999996594809795  0.2500001165178331  0.24999990980688822  1.0000
+  Hg  Hg2       1.0  0.7499999932540793  0.7499999162592328  0.7500000052840808  1.0000
+  Ti  Ti1       1.0  0.9999999841345435  1.0206487056233951e-07  8.426228022592208e-08  1.0000
+  S   S1        1.0  0.26006679717702325  0.26006686761689357  0.7399331642967574  1.0000
+  S   S2        1.0  0.7399330343089663  0.7399331343481391  0.2600668913807583  1.0000
+  S   S3        1.0  0.7399333345289041  0.2600666778290254  0.26006676176530197  1.0000
+  S   S4        1.0  0.26006690455845666  0.7399330545306758  0.7399332689405663  1.0000
+  S   S5        1.0  0.2600668067779845  0.7399333097872542  0.2600666896543382  1.0000
+  S   S6        1.0  0.7399331611340763  0.2600668057971592  0.7399332331386027  1.0000

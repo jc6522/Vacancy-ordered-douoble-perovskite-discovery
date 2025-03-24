@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Si2SeO6
+_chemical_formula_sum              "Si2 Se1 O6"
+_cell_length_a       5.041410698449868
+_cell_length_b       5.041409778679455
+_cell_length_c       5.0414112136927915
+_cell_angle_alpha    59.99999835310466
+_cell_angle_beta     59.99999666192313
+_cell_angle_gamma    59.99999336818665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.2500010350682456  0.2500030950348621  0.2499967225028437  1.0000
+  Si  Si2       1.0  0.7499984131767726  0.7499983359348632  0.7500024253563518  1.0000
+  Se  Se1       1.0  0.9999999136583022  0.9999999635594343  0.9999998451818275  1.0000
+  O   O1        1.0  0.25471171264744913  0.25471203517562213  0.7452884081758087  1.0000
+  O   O2        1.0  0.7452885957885994  0.7452876466477582  0.25471140632095873  1.0000
+  O   O3        1.0  0.7452878593069158  0.25471228299263615  0.25471142436877453  1.0000
+  O   O4        1.0  0.25471236931752234  0.7452870198491023  0.7452893455117944  1.0000
+  O   O5        1.0  0.25471264270928917  0.7452874358729049  0.25471136585875753  1.0000
+  O   O6        1.0  0.7452874200035651  0.2547121997924958  0.7452890805536305  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2RhI6
+_chemical_formula_sum              "Ag2 Rh1 I6"
+_cell_length_a       7.485055104846878
+_cell_length_b       7.485055115499419
+_cell_length_c       7.485054967210222
+_cell_angle_alpha    60.000000018721174
+_cell_angle_beta     60.000001333971895
+_cell_angle_gamma    59.999999878564495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2499999578145749  0.2499999639571802  0.25000001742482286  1.0000
+  Ag  Ag2       1.0  0.7499999908874617  0.7500000162268164  0.7500000222226583  1.0000
+  Rh  Rh1       1.0  6.410793003104264e-08  0.9999999280048388  3.1999522433028947e-08  1.0000
+  I   I1        1.0  0.25167727379272803  0.25167725967862725  0.7483227338064347  1.0000
+  I   I2        1.0  0.7483227319561614  0.7483227761379934  0.2516772481653126  1.0000
+  I   I3        1.0  0.7483227607047176  0.25167727148485836  0.25167726033180454  1.0000
+  I   I4        1.0  0.2516772518699238  0.7483227299704351  0.7483227875115563  1.0000
+  I   I5        1.0  0.2516772230589268  0.7483227823680109  0.2516772098159586  1.0000
+  I   I6        1.0  0.7483227483768019  0.2516772730836545  0.7483226873111544  1.0000

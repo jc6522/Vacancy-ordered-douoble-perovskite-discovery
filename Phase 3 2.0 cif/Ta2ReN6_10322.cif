@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2ReN6
+_chemical_formula_sum              "Ta2 Re1 N6"
+_cell_length_a       5.0877023094945875
+_cell_length_b       5.087702392082541
+_cell_length_c       5.087702456060854
+_cell_angle_alpha    59.99999993902036
+_cell_angle_beta     59.99999995202953
+_cell_angle_gamma    60.00000057899123
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.25000002995108367  0.25000000254316596  0.24999990789964205  1.0000
+  Ta  Ta2       1.0  0.7500000364372074  0.7500000317021494  0.7499998739917607  1.0000
+  Re  Re1       1.0  4.126161732294929e-09  2.166538640874833e-08  2.828415999596688e-09  1.0000
+  N   N1        1.0  0.26191430524185066  0.26191422495052574  0.7380857578273423  1.0000
+  N   N2        1.0  0.7380857080529862  0.7380857370768349  0.26191432258261405  1.0000
+  N   N3        1.0  0.7380857604330298  0.26191419058141874  0.2619143173855303  1.0000
+  N   N4        1.0  0.2619142469931283  0.7380857618168813  0.7380857570146293  1.0000
+  N   N5        1.0  0.2619142163377118  0.73808571819819  0.26191429809377315  1.0000
+  N   N6        1.0  0.7380856917298788  0.26191428715994297  0.7380858112988959  1.0000

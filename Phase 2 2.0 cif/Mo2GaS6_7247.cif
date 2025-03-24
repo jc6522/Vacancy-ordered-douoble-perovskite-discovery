@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2GaS6
+_chemical_formula_sum              "Mo2 Ga1 S6"
+_cell_length_a       6.065918399530003
+_cell_length_b       6.065918370546666
+_cell_length_c       6.065918162128882
+_cell_angle_alpha    60.00000141432694
+_cell_angle_beta     60.000001389051555
+_cell_angle_gamma    60.000000916753244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.24999998704258442  0.25000000364788527  0.25000009750152036  1.0000
+  Mo  Mo2       1.0  0.7499999705896534  0.7499999140288118  0.7500001054333263  1.0000
+  Ga  Ga1       1.0  2.5323994575474688e-08  0.9999999697141113  0.9999999678612911  1.0000
+  S   S1        1.0  0.2646967274012395  0.2646966867950102  0.7353032768098542  1.0000
+  S   S2        1.0  0.7353032815882317  0.7353032995297007  0.2646967457778504  1.0000
+  S   S3        1.0  0.735303331942667  0.26469678537666114  0.2646966686243974  1.0000
+  S   S4        1.0  0.26469668077473113  0.7353033382440779  0.7353031680524769  1.0000
+  S   S5        1.0  0.26469670510914217  0.735303258186913  0.2646966589146577  1.0000
+  S   S6        1.0  0.7353032861706834  0.26469675842368634  0.7353032848485037  1.0000

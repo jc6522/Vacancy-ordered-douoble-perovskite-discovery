@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2AsBr6
+_chemical_formula_sum              "Ga2 As1 Br6"
+_cell_length_a       7.31663655146454
+_cell_length_b       7.316636378671928
+_cell_length_c       7.3166363847876505
+_cell_angle_alpha    60.00000026439173
+_cell_angle_beta     60.000000720571286
+_cell_angle_gamma    60.000000242541624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.250000000167659  0.2500000082154425  0.2499999877702067  1.0000
+  Ga  Ga2       1.0  0.7500000013481484  0.7500000079071483  0.7499999712576239  1.0000
+  As  As1       1.0  1.1159452617614369e-08  0.9999999665216418  1.115945273366679e-08  1.0000
+  Br  Br1       1.0  0.2512656224840019  0.25126561072999065  0.7487343996315317  1.0000
+  Br  Br2       1.0  0.748734383862093  0.7487344003708467  0.2512656332964374  1.0000
+  Br  Br3       1.0  0.7487343992983407  0.2512655969580831  0.25126559081368766  1.0000
+  Br  Br4       1.0  0.2512656252529596  0.7487343974035752  0.7487343880780863  1.0000
+  Br  Br5       1.0  0.2512656038934706  0.7487343956945877  0.2512655931034118  1.0000
+  Br  Br6       1.0  0.7487343628065357  0.25126562544975695  0.7487344081564076  1.0000

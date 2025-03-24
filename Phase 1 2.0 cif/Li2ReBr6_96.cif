@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2ReBr6
+_chemical_formula_sum              "Li2 Re1 Br6"
+_cell_length_a       7.268275242853538
+_cell_length_b       7.268275273003493
+_cell_length_c       7.268275284225412
+_cell_angle_alpha    59.999999691022786
+_cell_angle_beta     59.999999677430274
+_cell_angle_gamma    59.99999981328795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2500000098184186  0.2499999980983869  0.2499999977616329  1.0000
+  Li  Li2       1.0  0.7500000190888806  0.7499999824997707  0.7500000002382546  1.0000
+  Re  Re1       1.0  1.238730739802381e-08  7.245739543606437e-08  0.9999999864703351  1.0000
+  Br  Br1       1.0  0.24414520135299447  0.24414524555456404  0.7558547724895655  1.0000
+  Br  Br2       1.0  0.7558547345762696  0.7558547232482036  0.2441452641386127  1.0000
+  Br  Br3       1.0  0.7558547770965142  0.2441452256790516  0.24414527509959127  1.0000
+  Br  Br4       1.0  0.2441452535922108  0.7558547448087718  0.755854691292853  1.0000
+  Br  Br5       1.0  0.24414524077747343  0.755854766265865  0.24414530413197916  1.0000
+  Br  Br6       1.0  0.755854756339576  0.24414524297823983  0.7558547050709553  1.0000

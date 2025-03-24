@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2MgS6
+_chemical_formula_sum              "Cu2 Mg1 S6"
+_cell_length_a       6.348454055856518
+_cell_length_b       6.348453680556788
+_cell_length_c       6.348453619973357
+_cell_angle_alpha    60.000000592951935
+_cell_angle_beta     60.00000073948158
+_cell_angle_gamma    60.000000527312885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999988828379827  0.2500000240690446  0.25000010446294013  1.0000
+  Cu  Cu2       1.0  0.7500000753105498  0.7500000085434754  0.7499999304912298  1.0000
+  Mg  Mg1       1.0  4.7842255232033894e-08  0.9999999710619722  0.9999999543185905  1.0000
+  S   S1        1.0  0.27169524897366276  0.2716952387863803  0.7283048008038806  1.0000
+  S   S2        1.0  0.7283047469757821  0.7283047185872682  0.271695343802634  1.0000
+  S   S3        1.0  0.72830467992278  0.27169523464864265  0.2716953126736879  1.0000
+  S   S4        1.0  0.27169517374817853  0.7283048712735459  0.7283046382002054  1.0000
+  S   S5        1.0  0.2716952250201998  0.7283047495140831  0.27169529681085397  1.0000
+  S   S6        1.0  0.728304929832835  0.27169517313393227  0.7283046124361383  1.0000

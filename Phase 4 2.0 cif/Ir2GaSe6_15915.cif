@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ir2GaSe6
+_chemical_formula_sum              "Ir2 Ga1 Se6"
+_cell_length_a       6.1801556450102915
+_cell_length_b       6.180155408265522
+_cell_length_c       6.180155675346266
+_cell_angle_alpha    60.000004903836796
+_cell_angle_beta     60.00000600830081
+_cell_angle_gamma    60.00000382125934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.2500020137845291  0.2499999221595104  0.2500005381927814  1.0000
+  Ir  Ir2       1.0  0.7499993814195272  0.7499993265322459  0.7499969511328491  1.0000
+  Ga  Ga1       1.0  3.376399105512927e-08  0.999999960365245  5.309593038558926e-08  1.0000
+  Se  Se1       1.0  0.27983081691234485  0.27983070039044783  0.7201683300578183  1.0000
+  Se  Se2       1.0  0.7201687142300273  0.7201697908511033  0.2798327514944664  1.0000
+  Se  Se3       1.0  0.7201680027662166  0.27983021315398066  0.27983134510807295  1.0000
+  Se  Se4       1.0  0.27983205425831637  0.7201695468262571  0.7201690543639021  1.0000
+  Se  Se5       1.0  0.27983014454956434  0.7201684731759445  0.27983134377109037  1.0000
+  Se  Se6       1.0  0.7201688474734691  0.2798320715725072  0.7201696440262896  1.0000

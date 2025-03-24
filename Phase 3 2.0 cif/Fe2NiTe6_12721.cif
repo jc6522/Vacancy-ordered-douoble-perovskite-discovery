@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2NiTe6
+_chemical_formula_sum              "Fe2 Ni1 Te6"
+_cell_length_a       6.806802566041346
+_cell_length_b       6.806802740393741
+_cell_length_c       6.806803057296258
+_cell_angle_alpha    60.000006996223256
+_cell_angle_beta     59.99999963089898
+_cell_angle_gamma    60.000003177042466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24999879548662768  0.24999993416476313  0.2500008272013565  1.0000
+  Fe  Fe2       1.0  0.7500000331412716  0.7499995649872067  0.749999839719382  1.0000
+  Ni  Ni1       1.0  0.9999997818681009  0.9999999928028088  0.9999999789747618  1.0000
+  Te  Te1       1.0  0.2633922584097023  0.26339282758682075  0.736607425520586  1.0000
+  Te  Te2       1.0  0.7366078204500274  0.7366072059558809  0.263392989624572  1.0000
+  Te  Te3       1.0  0.7366078984205499  0.26339260850596086  0.263392409495088  1.0000
+  Te  Te4       1.0  0.2633925298722345  0.7366078118851767  0.7366072246870687  1.0000
+  Te  Te5       1.0  0.26339269873026283  0.7366073018846088  0.26339253464216145  1.0000
+  Te  Te6       1.0  0.7366081912959073  0.2633927460523863  0.7366067698913759  1.0000

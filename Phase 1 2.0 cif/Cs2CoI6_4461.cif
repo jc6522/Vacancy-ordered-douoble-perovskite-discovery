@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cs2CoI6
+_chemical_formula_sum              "Cs2 Co1 I6"
+_cell_length_a       8.389083526930223
+_cell_length_b       8.389083832001292
+_cell_length_c       8.389083509716178
+_cell_angle_alpha    60.00000281586361
+_cell_angle_beta     59.999998479013136
+_cell_angle_gamma    60.00000368040959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.24999994615127683  0.2500000822289575  0.2500000209087346  1.0000
+  Cs  Cs2       1.0  0.7500000662785384  0.749999992659616  0.7500000031139276  1.0000
+  Co  Co1       1.0  1.0789133503732946e-07  0.9999999240838082  0.9999999184510333  1.0000
+  I   I1        1.0  0.22776241560155513  0.22776182450765733  0.7722377952699744  1.0000
+  I   I2        1.0  0.7722375031498229  0.7722381102279405  0.2277622324259878  1.0000
+  I   I3        1.0  0.7722380679381261  0.22776211028949667  0.2277622376586345  1.0000
+  I   I4        1.0  0.22776184034082925  0.772238012776658  0.7722377988543396  1.0000
+  I   I5        1.0  0.22776192148270874  0.7722378904767507  0.22776234547844526  1.0000
+  I   I6        1.0  0.7722381285855489  0.22776206323789877  0.7722376428303097  1.0000

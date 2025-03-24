@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hf2CoTe6
+_chemical_formula_sum              "Hf2 Co1 Te6"
+_cell_length_a       6.881395317645614
+_cell_length_b       6.88139513567028
+_cell_length_c       6.8813952529671
+_cell_angle_alpha    59.99999889675653
+_cell_angle_beta     59.99999924917337
+_cell_angle_gamma    60.00000010953115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2500000658182229  0.2499999747081072  0.24999994379925997  1.0000
+  Hf  Hf2       1.0  0.7499999920401925  0.7500001074428471  0.7500000110162216  1.0000
+  Co  Co1       1.0  0.9999999982376725  0.9999999750829184  1.188651096972708e-08  1.0000
+  Te  Te1       1.0  0.24884102865908497  0.24884105348115917  0.7511589613003712  1.0000
+  Te  Te2       1.0  0.7511589801999332  0.7511589290014682  0.24884103878509986  1.0000
+  Te  Te3       1.0  0.751158944301804  0.2488410164825587  0.2488410572332798  1.0000
+  Te  Te4       1.0  0.24884102952271697  0.7511589553213188  0.7511589439109102  1.0000
+  Te  Te5       1.0  0.2488410512056754  0.7511589919732801  0.24884104708288027  1.0000
+  Te  Te6       1.0  0.7511589082961894  0.24884099762851292  0.7511589944662963  1.0000

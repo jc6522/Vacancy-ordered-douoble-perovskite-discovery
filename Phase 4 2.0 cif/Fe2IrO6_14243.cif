@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2IrO6
+_chemical_formula_sum              "Fe2 Ir1 O6"
+_cell_length_a       5.269470461966903
+_cell_length_b       5.269470570224921
+_cell_length_c       5.269470482337643
+_cell_angle_alpha    60.00000191928256
+_cell_angle_beta     60.000003538100586
+_cell_angle_gamma    60.00000255828803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25000028748083497  0.24999992833151993  0.250000055097898  1.0000
+  Fe  Fe2       1.0  0.7499999543960945  0.7500001359529055  0.7500000491111365  1.0000
+  Ir  Ir1       1.0  0.9999999960161686  0.9999999790819524  8.655491379072944e-09  1.0000
+  O   O1        1.0  0.24986839545064957  0.2498683732303286  0.7501315848689265  1.0000
+  O   O2        1.0  0.750131515805407  0.7501316771087287  0.24986836141926322  1.0000
+  O   O3        1.0  0.7501314234859179  0.24986839753050513  0.24986855281603323  1.0000
+  O   O4        1.0  0.24986842749986427  0.750131557515224  0.7501314105267909  1.0000
+  O   O5        1.0  0.2498685218260854  0.7501315543654783  0.24986847157273764  1.0000
+  O   O6        1.0  0.7501315057475505  0.2498684099771622  0.7501314234981193  1.0000

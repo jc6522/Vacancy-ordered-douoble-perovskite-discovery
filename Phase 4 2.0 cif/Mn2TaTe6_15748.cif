@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2TaTe6
+_chemical_formula_sum              "Mn2 Ta1 Te6"
+_cell_length_a       7.328539666903086
+_cell_length_b       7.328539595857641
+_cell_length_c       7.328539552655218
+_cell_angle_alpha    60.00000027448397
+_cell_angle_beta     59.9999999664568
+_cell_angle_gamma    60.00000084885064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2500000079008007  0.2499999774585317  0.24999998510143143  1.0000
+  Mn  Mn2       1.0  0.7499999744922202  0.7499999240195995  0.7500000864270097  1.0000
+  Ta  Ta1       1.0  0.9999999432148418  0.9999999481928279  5.020258031960529e-08  1.0000
+  Te  Te1       1.0  0.2633916115349224  0.2633916165279804  0.7366083833066082  1.0000
+  Te  Te2       1.0  0.7366083928348095  0.7366084270020731  0.26339157345883585  1.0000
+  Te  Te3       1.0  0.7366084349267151  0.26339164727050407  0.2633915321548855  1.0000
+  Te  Te4       1.0  0.2633916329293695  0.736608399601948  0.7366083898316541  1.0000
+  Te  Te5       1.0  0.2633916095818193  0.7366084349598494  0.26339158461530354  1.0000
+  Te  Te6       1.0  0.7366083960768015  0.263391623610996  0.7366084117437923  1.0000

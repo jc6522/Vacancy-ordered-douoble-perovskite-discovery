@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2MoO6
+_chemical_formula_sum              "Tl2 Mo1 O6"
+_cell_length_a       5.533921313428074
+_cell_length_b       5.533922282978553
+_cell_length_c       5.5339218129795125
+_cell_angle_alpha    60.00000644339331
+_cell_angle_beta     60.00000355534611
+_cell_angle_gamma    60.00000752321727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.25000017181402284  0.24999965389843848  0.25000003472174315  1.0000
+  Tl  Tl2       1.0  0.7500002547485384  0.7500000129456427  0.7500000377675324  1.0000
+  Mo  Mo1       1.0  0.9999991057007308  0.9999998096683568  7.013346393777514e-07  1.0000
+  O   O1        1.0  0.2487538438447404  0.2487537711433497  0.751246137008339  1.0000
+  O   O2        1.0  0.7512465524167549  0.751246718995717  0.2487532354018264  1.0000
+  O   O3        1.0  0.7512463525298306  0.24875378711649818  0.24875356699446008  1.0000
+  O   O4        1.0  0.24875357590258537  0.7512461785039838  0.7512464407313285  1.0000
+  O   O5        1.0  0.248753602192276  0.7512462631774091  0.24875350696625875  1.0000
+  O   O6        1.0  0.7512463236075344  0.24875358514566495  0.7512463673716028  1.0000

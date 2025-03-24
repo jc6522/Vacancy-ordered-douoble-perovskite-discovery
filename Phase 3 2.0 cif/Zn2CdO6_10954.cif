@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2CdO6
+_chemical_formula_sum              "Zn2 Cd1 O6"
+_cell_length_a       5.3891556475377635
+_cell_length_b       5.3891558402995114
+_cell_length_c       5.389155632209032
+_cell_angle_alpha    59.99999926128842
+_cell_angle_beta     60.00000125603811
+_cell_angle_gamma    60.00000095450578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000006938673996  0.25000001159420376  0.2499999530519814  1.0000
+  Zn  Zn2       1.0  0.7500000565528714  0.7500000075112919  0.7499999411729642  1.0000
+  Cd  Cd1       1.0  0.9999999764309909  1.1305867155240078e-16  2.5066130062940735e-09  1.0000
+  O   O1        1.0  0.2816122121673707  0.2816120241854539  0.7183878536178979  1.0000
+  O   O2        1.0  0.7183877754960069  0.7183880176461398  0.2816120928153793  1.0000
+  O   O3        1.0  0.7183878418957682  0.28161220544288657  0.2816121709571071  1.0000
+  O   O4        1.0  0.2816121074823865  0.7183877841186779  0.7183878986880834  1.0000
+  O   O5        1.0  0.2816120815206132  0.7183877823828534  0.28161223919542594  1.0000
+  O   O6        1.0  0.7183878827483281  0.2816121753621733  0.718387825923593  1.0000

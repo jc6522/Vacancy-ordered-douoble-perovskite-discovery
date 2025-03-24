@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2NiI6
+_chemical_formula_sum              "Pd2 Ni1 I6"
+_cell_length_a       7.31697284203094
+_cell_length_b       7.316972850868474
+_cell_length_c       7.31697271476456
+_cell_angle_alpha    60.000000414343006
+_cell_angle_beta     60.0000005650722
+_cell_angle_gamma    60.000001180218014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.25000006700778005  0.24999995111693493  0.2500000223299977  1.0000
+  Pd  Pd2       1.0  0.7499999833996268  0.7500000659286007  0.750000055846097  1.0000
+  Ni  Ni1       1.0  1.2624898873818645e-08  1.4740827667029508e-16  0.9999999827540671  1.0000
+  I   I1        1.0  0.25340933222745243  0.25340927609918174  0.7465906701805665  1.0000
+  I   I2        1.0  0.7465906559005925  0.7465907242079443  0.2534092698353083  1.0000
+  I   I3        1.0  0.7465906866480504  0.25340927475794717  0.25340930639670173  1.0000
+  I   I4        1.0  0.2534092701885088  0.7465907389399058  0.746590691770228  1.0000
+  I   I5        1.0  0.25340929273091944  0.7465906998721684  0.2534092873540667  1.0000
+  I   I6        1.0  0.7465906957800393  0.2534092803488665  0.7465907048806448  1.0000

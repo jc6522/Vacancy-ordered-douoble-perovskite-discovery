@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2HgCl6
+_chemical_formula_sum              "Pb2 Hg1 Cl6"
+_cell_length_a       7.060854916073121
+_cell_length_b       7.060854789195352
+_cell_length_c       7.060854829763037
+_cell_angle_alpha    59.99999994431172
+_cell_angle_beta     59.99999982339584
+_cell_angle_gamma    60.000000136699164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999997152728307  0.2500000314725843  0.2500000139600457  1.0000
+  Pb  Pb2       1.0  0.7499999778165548  0.7500000371774022  0.7500000417154777  1.0000
+  Hg  Hg1       1.0  0.9999999715215767  6.9382240287757475e-09  0.9999999569522534  1.0000
+  Cl  Cl1       1.0  0.26011397348115556  0.2601140114349449  0.7398859868699659  1.0000
+  Cl  Cl2       1.0  0.7398860080908017  0.739886053745929  0.260113915632661  1.0000
+  Cl  Cl3       1.0  0.7398859689801442  0.2601140132143824  0.2601139750338894  1.0000
+  Cl  Cl4       1.0  0.26011398155410537  0.7398859929915843  0.7398860121303  1.0000
+  Cl  Cl5       1.0  0.26011404691956636  0.7398859721274136  0.2601140257655463  1.0000
+  Cl  Cl6       1.0  0.7398861007189874  0.2601138744993938  0.7398860771806854  1.0000

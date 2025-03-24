@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2CoO6
+_chemical_formula_sum              "Tl2 Co1 O6"
+_cell_length_a       5.258178128265545
+_cell_length_b       5.258178454206604
+_cell_length_c       5.258178167901694
+_cell_angle_alpha    60.00000672161086
+_cell_angle_beta     60.00000353298305
+_cell_angle_gamma    60.00000580822129
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.24999994417840457  0.2500000181795556  0.24999990709189193  1.0000
+  Tl  Tl2       1.0  0.7500000114358071  0.74999984723821  0.7499999275573426  1.0000
+  Co  Co1       1.0  6.941946112785695e-09  5.823046323602656e-08  0.9999998495022359  1.0000
+  O   O1        1.0  0.24290633143584942  0.24290629143409145  0.7570936707079398  1.0000
+  O   O2        1.0  0.7570937150747248  0.7570938744529031  0.24290627444821372  1.0000
+  O   O3        1.0  0.7570938816717976  0.24290617382300497  0.24290627488359842  1.0000
+  O   O4        1.0  0.24290617234033343  0.7570937521544671  0.7570939291114829  1.0000
+  O   O5        1.0  0.24290622899552705  0.757093674921237  0.2429062885322665  1.0000
+  O   O6        1.0  0.7570937671211156  0.2429062929821677  0.7570938340630213  1.0000

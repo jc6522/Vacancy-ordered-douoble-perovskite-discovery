@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn2CuS6
+_chemical_formula_sum              "Mn2 Cu1 S6"
+_cell_length_a       6.129303538665619
+_cell_length_b       6.129302691623583
+_cell_length_c       6.129303263656447
+_cell_angle_alpha    59.99999946236623
+_cell_angle_beta     60.000001203373344
+_cell_angle_gamma    59.99999978924983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24999987925248182  0.2500002185176433  0.24999993552514282  1.0000
+  Mn  Mn2       1.0  0.7499999099047966  0.7500001160443882  0.749999997358751  1.0000
+  Cu  Cu1       1.0  2.0285414488486987e-08  0.9999999900091013  0.9999999915897283  1.0000
+  S   S1        1.0  0.2609680526446512  0.2609680329629157  0.7390319496537362  1.0000
+  S   S2        1.0  0.7390321745379957  0.7390317900650935  0.26096800693241934  1.0000
+  S   S3        1.0  0.7390320173242175  0.2609680953628773  0.26096791351744264  1.0000
+  S   S4        1.0  0.26096797164765656  0.7390318375650177  0.7390321675899111  1.0000
+  S   S5        1.0  0.260967969022083  0.7390318212419645  0.2609680767977959  1.0000
+  S   S6        1.0  0.7390320046696303  0.26096808970595076  0.739031977257437  1.0000

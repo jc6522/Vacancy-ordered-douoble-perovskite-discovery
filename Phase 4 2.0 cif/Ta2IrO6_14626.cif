@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta2IrO6
+_chemical_formula_sum              "Ta2 Ir1 O6"
+_cell_length_a       4.966635959255164
+_cell_length_b       4.966636150477967
+_cell_length_c       4.966635870010416
+_cell_angle_alpha    60.00000052171423
+_cell_angle_beta     59.999999498144014
+_cell_angle_gamma    60.000000285008724
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.25000002671347876  0.25000005498812916  0.24999997164741738  1.0000
+  Ta  Ta2       1.0  0.7499999838600672  0.7499999306996706  0.7500000198117391  1.0000
+  Ir  Ir1       1.0  1.0121640458804259e-08  0.9999999975340552  2.838711697601072e-08  1.0000
+  O   O1        1.0  0.2695066949613838  0.2695067569923226  0.7304932730729021  1.0000
+  O   O2        1.0  0.730493364012284  0.7304932508889764  0.26950668308944326  1.0000
+  O   O3        1.0  0.7304932601053244  0.26950673952914744  0.26950671787857244  1.0000
+  O   O4        1.0  0.2695067716745138  0.7304932313629855  0.7304932985633656  1.0000
+  O   O5        1.0  0.26950670585068764  0.7304932488186914  0.26950678579898696  1.0000
+  O   O6        1.0  0.7304932021203512  0.26950679358582996  0.7304932386702392  1.0000

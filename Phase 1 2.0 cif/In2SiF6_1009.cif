@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2SiF6
+_chemical_formula_sum              "In2 Si1 F6"
+_cell_length_a       6.039475428867481
+_cell_length_b       6.039475668678682
+_cell_length_c       6.039475251955772
+_cell_angle_alpha    59.99999980138671
+_cell_angle_beta     60.00000046446577
+_cell_angle_gamma    59.99999918943045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2500000013242101  0.25000000015104873  0.24999998932004205  1.0000
+  In  In2       1.0  0.7499999937370543  0.750000002481044  0.750000031671793  1.0000
+  Si  Si1       1.0  0.9999999778289823  2.636269202647625e-08  0.9999999912810704  1.0000
+  F   F1        1.0  0.20140526698952543  0.2014052756206732  0.7985947304496686  1.0000
+  F   F2        1.0  0.7985947425950688  0.7985947006487288  0.20140525506752244  1.0000
+  F   F3        1.0  0.7985946712913545  0.20140534666882642  0.20140532874849515  1.0000
+  F   F4        1.0  0.20140530980656884  0.7985946863817565  0.7985946922946296  1.0000
+  F   F5        1.0  0.20140532685839638  0.7985946959563632  0.20140530415418129  1.0000
+  F   F6        1.0  0.7985946985815618  0.20140528436883678  0.7985946912767043  1.0000

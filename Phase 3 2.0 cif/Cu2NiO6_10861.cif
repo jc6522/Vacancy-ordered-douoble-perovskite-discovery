@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2NiO6
+_chemical_formula_sum              "Cu2 Ni1 O6"
+_cell_length_a       5.135578295440982
+_cell_length_b       5.135577940230465
+_cell_length_c       5.135578395988784
+_cell_angle_alpha    59.99999642617978
+_cell_angle_beta     59.99999857476824
+_cell_angle_gamma    60.00000141184839
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499993397890512  0.25000026700743366  0.25000060128232876  1.0000
+  Cu  Cu2       1.0  0.7500008046505404  0.7499996491525036  0.7499990574646433  1.0000
+  Ni  Ni1       1.0  0.9999999702482057  0.9999999880758786  8.509556929821528e-08  1.0000
+  O   O1        1.0  0.24796747298477598  0.24796778903428807  0.752032277547227  1.0000
+  O   O2        1.0  0.7520325379087046  0.7520322916784898  0.24796791870127693  1.0000
+  O   O3        1.0  0.7520323686562218  0.24796757065293462  0.24796773037367403  1.0000
+  O   O4        1.0  0.24796746701925207  0.7520324623633571  0.752032322248833  1.0000
+  O   O5        1.0  0.24796728472212662  0.7520321711954499  0.24796806606621863  1.0000
+  O   O6        1.0  0.7520327170880323  0.24796783558778723  0.7520319438662771  1.0000

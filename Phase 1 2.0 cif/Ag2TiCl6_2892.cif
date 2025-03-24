@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2TiCl6
+_chemical_formula_sum              "Ag2 Ti1 Cl6"
+_cell_length_a       6.673353313802057
+_cell_length_b       6.673352955655465
+_cell_length_c       6.673353318222414
+_cell_angle_alpha    60.00000194855187
+_cell_angle_beta     60.00000177185425
+_cell_angle_gamma    60.000000495886525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2500000227387525  0.24999998028499226  0.24999999260414402  1.0000
+  Ag  Ag2       1.0  0.7500000342037014  0.7499999702194007  0.7499999321845942  1.0000
+  Ti  Ti1       1.0  0.9999999347368079  3.487025490430199e-08  1.7099955749085923e-09  1.0000
+  Cl  Cl1       1.0  0.24756663233705128  0.24756663607524249  0.7524331981035048  1.0000
+  Cl  Cl2       1.0  0.7524334857092525  0.7524332557002968  0.24756665806536865  1.0000
+  Cl  Cl3       1.0  0.7524332165540407  0.24756680941180023  0.24756659962495006  1.0000
+  Cl  Cl4       1.0  0.24756666875430844  0.7524331888097867  0.752433459050099  1.0000
+  Cl  Cl5       1.0  0.2475666304819347  0.7524334112148451  0.24756683746851635  1.0000
+  Cl  Cl6       1.0  0.7524333645859232  0.247566698958622  0.7524333126479393  1.0000

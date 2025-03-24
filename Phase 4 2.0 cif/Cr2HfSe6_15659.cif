@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2HfSe6
+_chemical_formula_sum              "Cr2 Hf1 Se6"
+_cell_length_a       6.807817928331571
+_cell_length_b       6.80781787926593
+_cell_length_c       6.807817780271927
+_cell_angle_alpha    59.99999986425186
+_cell_angle_beta     60.000000833964094
+_cell_angle_gamma    59.99999715798923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2499998717867509  0.2500001905840631  0.2499999810658016  1.0000
+  Cr  Cr2       1.0  0.7499998179301168  0.7499999996615635  0.7500001690869739  1.0000
+  Hf  Hf1       1.0  0.9999999899084002  2.5186380019816303e-08  0.9999999601368211  1.0000
+  Se  Se1       1.0  0.26614188256992766  0.2661418491122384  0.7338581448599865  1.0000
+  Se  Se2       1.0  0.7338581691654517  0.7338580946666645  0.26614177859345617  1.0000
+  Se  Se3       1.0  0.7338581125295254  0.26614179825518475  0.26614183691492915  1.0000
+  Se  Se4       1.0  0.2661419427862548  0.7338581653130155  0.7338581982412208  1.0000
+  Se  Se5       1.0  0.26614198856620697  0.7338580212654059  0.26614174808402263  1.0000
+  Se  Se6       1.0  0.7338582197460547  0.26614186494462444  0.7338581846213947  1.0000

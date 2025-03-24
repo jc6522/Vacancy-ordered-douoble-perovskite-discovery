@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2TeSe6
+_chemical_formula_sum              "Cr2 Te1 Se6"
+_cell_length_a       6.8982845491147335
+_cell_length_b       6.898284540423443
+_cell_length_c       6.898284320151227
+_cell_angle_alpha    60.00000023952552
+_cell_angle_beta     59.99999918432288
+_cell_angle_gamma    60.00000068580165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2499995022094529  0.25000031275198503  0.25000000182107157  1.0000
+  Cr  Cr2       1.0  0.7500000428644683  0.7499995835998553  0.7500004887289778  1.0000
+  Te  Te1       1.0  3.880420479340651e-08  0.9999999840210946  4.802241820098019e-08  1.0000
+  Se  Se1       1.0  0.26951125347157967  0.2695115463729511  0.7304885205630294  1.0000
+  Se  Se2       1.0  0.7304888055056014  0.7304883197965172  0.26951118451313905  1.0000
+  Se  Se3       1.0  0.7304887433765452  0.2695116429402057  0.2695112316085157  1.0000
+  Se  Se4       1.0  0.26951150598069784  0.7304884806671875  0.7304886772012196  1.0000
+  Se  Se5       1.0  0.26951148432353433  0.730488662696229  0.26951135217909017  1.0000
+  Se  Se6       1.0  0.7304886152621487  0.26951147333920084  0.7304885093315441  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2TaS6
+_chemical_formula_sum              "Ni2 Ta1 S6"
+_cell_length_a       6.143289471923276
+_cell_length_b       6.1432893587618995
+_cell_length_c       6.143289481883766
+_cell_angle_alpha    60.00000086692091
+_cell_angle_beta     60.00000012002955
+_cell_angle_gamma    60.00000103297421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999994824639699  0.2499999405327455  0.2500000554201844  1.0000
+  Ni  Ni2       1.0  0.7499999767452373  0.7500000289358048  0.7500001544846125  1.0000
+  Ta  Ta1       1.0  1.30432719731052e-08  5.980890567334525e-09  0.9999999400263541  1.0000
+  S   S1        1.0  0.26989667002110773  0.2698966977165764  0.7301033241827202  1.0000
+  S   S2        1.0  0.7301033303439489  0.7301033275736228  0.26989659386139636  1.0000
+  S   S3        1.0  0.730103375689014  0.26989669051508897  0.26989661575440466  1.0000
+  S   S4        1.0  0.26989664512374795  0.7301033467368939  0.7301033430577021  1.0000
+  S   S5        1.0  0.2698966839004053  0.7301033689618683  0.26989660598100207  1.0000
+  S   S6        1.0  0.7301033642726559  0.2698965805703758  0.7301033634773146  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2ZnTe6
+_chemical_formula_sum              "Cd2 Zn1 Te6"
+_cell_length_a       7.254780604761026
+_cell_length_b       7.254780291476257
+_cell_length_c       7.254781379002296
+_cell_angle_alpha    59.99999610913444
+_cell_angle_beta     59.9999950143684
+_cell_angle_gamma    60.00000113907258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.24999994987179394  0.2499999091968221  0.2500000863433852  1.0000
+  Cd  Cd2       1.0  0.7499999810566316  0.7500000686048929  0.7499999180438208  1.0000
+  Zn  Zn1       1.0  9.09966173159214e-08  1.350552534974446e-08  0.9999998870992711  1.0000
+  Te  Te1       1.0  0.2701225023270872  0.2701222194855349  0.7298777404421125  1.0000
+  Te  Te2       1.0  0.7298773886503407  0.7298777110468561  0.2701225239642567  1.0000
+  Te  Te3       1.0  0.7298777403355252  0.2701223644939157  0.2701224758463041  1.0000
+  Te  Te4       1.0  0.27012231576980383  0.729877614995996  0.7298774595947453  1.0000
+  Te  Te5       1.0  0.27012234353737036  0.7298776474182403  0.2701225773889551  1.0000
+  Te  Te6       1.0  0.729877691054542  0.2701224586859359  0.7298773275560921  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2BiSe6
+_chemical_formula_sum              "Sr2 Bi1 Se6"
+_cell_length_a       7.149616909295614
+_cell_length_b       7.149616651573669
+_cell_length_c       7.149616867880428
+_cell_angle_alpha    59.99999928576873
+_cell_angle_beta     59.999999280298354
+_cell_angle_gamma    60.000001915451826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000004362757206  0.2499999900351272  0.2499999730451021  1.0000
+  Sr  Sr2       1.0  0.7499999809599501  0.7499999838095507  0.750000004028722  1.0000
+  Bi  Bi1       1.0  0.9999999560353261  0.999999962313521  1.2474615748693397e-07  1.0000
+  Se  Se1       1.0  0.2784199341023263  0.27841995851952606  0.7215800316908213  1.0000
+  Se  Se2       1.0  0.7215800867484368  0.7215800701418472  0.27841991005230043  1.0000
+  Se  Se3       1.0  0.721580024172879  0.2784199789034252  0.27841992663757464  1.0000
+  Se  Se4       1.0  0.2784199793041858  0.7215800292016866  0.7215800186850871  1.0000
+  Se  Se5       1.0  0.2784199776082294  0.7215800416531134  0.27841996871333885  1.0000
+  Se  Se6       1.0  0.7215800230137988  0.2784199750171074  0.7215800436881046  1.0000

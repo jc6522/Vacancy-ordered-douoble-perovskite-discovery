@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2ZrI6
+_chemical_formula_sum              "Cu2 Zr1 I6"
+_cell_length_a       7.971876118815439
+_cell_length_b       7.971876191394401
+_cell_length_c       7.971876053212622
+_cell_angle_alpha    60.00000078188487
+_cell_angle_beta     60.00000132661802
+_cell_angle_gamma    59.99999869688001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2499999425168417  0.2500000848518241  0.2500000029259499  1.0000
+  Cu  Cu2       1.0  0.7500000533409417  0.749999959579718  0.750000015773503  1.0000
+  Zr  Zr1       1.0  4.292684581379011e-08  2.7653975438662792e-08  0.9999999897977871  1.0000
+  I   I1        1.0  0.2525936073630651  0.2525936475009384  0.747406392137563  1.0000
+  I   I2        1.0  0.7474063245437719  0.7474063324046603  0.2525936770018255  1.0000
+  I   I3        1.0  0.7474064603781218  0.252593547207217  0.2525935702423604  1.0000
+  I   I4        1.0  0.25259358317874575  0.7474063758540939  0.7474063987383852  1.0000
+  I   I5        1.0  0.25259359168441403  0.747406425818702  0.25259357215545686  1.0000
+  I   I6        1.0  0.7474063929370844  0.25259360017685617  0.7474063798434889  1.0000

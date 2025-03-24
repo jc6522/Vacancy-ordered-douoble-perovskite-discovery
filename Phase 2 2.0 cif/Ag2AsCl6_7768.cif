@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag2AsCl6
+_chemical_formula_sum              "Ag2 As1 Cl6"
+_cell_length_a       6.692165134443148
+_cell_length_b       6.692164867602519
+_cell_length_c       6.692165008341196
+_cell_angle_alpha    59.999999554291605
+_cell_angle_beta     59.99999852561623
+_cell_angle_gamma    59.99999986857734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24999996542903133  0.24999999039387838  0.2500000075142703  1.0000
+  Ag  Ag2       1.0  0.7499999963273573  0.7500000334056353  0.7499999563535249  1.0000
+  As  As1       1.0  0.9999999523841072  2.3791529201851334e-08  8.812070396539611e-08  1.0000
+  Cl  Cl1       1.0  0.2508060861010383  0.25080602533125346  0.7491939499951024  1.0000
+  Cl  Cl2       1.0  0.7491939733093298  0.7491939746767329  0.25080602774714594  1.0000
+  Cl  Cl3       1.0  0.7491939508472609  0.2508060429217642  0.2508060512961967  1.0000
+  Cl  Cl4       1.0  0.2508060854534507  0.749193902182693  0.749193925106957  1.0000
+  Cl  Cl5       1.0  0.2508060901594603  0.749193904140283  0.2508060957363715  1.0000
+  Cl  Cl6       1.0  0.7491939039797966  0.2508061105086433  0.749193898355255  1.0000

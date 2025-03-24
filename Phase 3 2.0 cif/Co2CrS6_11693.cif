@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2CrS6
+_chemical_formula_sum              "Co2 Cr1 S6"
+_cell_length_a       6.127847424608375
+_cell_length_b       6.127847214296958
+_cell_length_c       6.127847299593256
+_cell_angle_alpha    60.00000067344018
+_cell_angle_beta     60.00000108887149
+_cell_angle_gamma    60.00000069044605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2499999998569376  0.24999999561092834  0.2500000231746556  1.0000
+  Co  Co2       1.0  0.7499999928139384  0.7499999788381665  0.7499999871455182  1.0000
+  Cr  Cr1       1.0  0.9999999926716008  2.1985197770663535e-08  0.9999999649293952  1.0000
+  S   S1        1.0  0.2583310658923227  0.25833116025161507  0.7416688802250619  1.0000
+  S   S2        1.0  0.7416688670867573  0.7416689141301979  0.2583311099746516  1.0000
+  S   S3        1.0  0.7416689145123365  0.2583311056150553  0.25833116899392183  1.0000
+  S   S4        1.0  0.258331188574239  0.7416688428515341  0.7416688627535386  1.0000
+  S   S5        1.0  0.25833110691212097  0.741668827401549  0.25833116557356345  1.0000
+  S   S6        1.0  0.7416688663633486  0.2583311430502366  0.7416688499153903  1.0000

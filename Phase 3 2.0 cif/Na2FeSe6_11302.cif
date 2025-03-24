@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na2FeSe6
+_chemical_formula_sum              "Na2 Fe1 Se6"
+_cell_length_a       6.5840344903261645
+_cell_length_b       6.584034448645645
+_cell_length_c       6.5840342625308175
+_cell_angle_alpha    59.999998105877914
+_cell_angle_beta     59.999997699598545
+_cell_angle_gamma    59.99999700836436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000001095063035  0.2499999934878877  0.24999997814028702  1.0000
+  Na  Na2       1.0  0.7500000097517332  0.7499999655822714  0.7500000035328825  1.0000
+  Fe  Fe1       1.0  0.9999999987598822  3.720346630742051e-09  6.103173643179219e-08  1.0000
+  Se  Se1       1.0  0.24455173922803752  0.24455167794336344  0.7554482779152939  1.0000
+  Se  Se2       1.0  0.7554483226077896  0.7554483313514904  0.2445516504846662  1.0000
+  Se  Se3       1.0  0.755448215622014  0.24455178168654218  0.24455183394716723  1.0000
+  Se  Se4       1.0  0.24455174819615802  0.7554482480702256  0.7554481727201319  1.0000
+  Se  Se5       1.0  0.24455176332418305  0.7554482243223186  0.24455183052366583  1.0000
+  Se  Se6       1.0  0.7554482250652863  0.2445517738114929  0.7554481462552989  1.0000

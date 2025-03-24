@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au2TeF6
+_chemical_formula_sum              "Au2 Te1 F6"
+_cell_length_a       8.495065011801001
+_cell_length_b       8.49506681872388
+_cell_length_c       8.495083288213658
+_cell_angle_alpha    59.99994434492906
+_cell_angle_beta     59.99993902886707
+_cell_angle_gamma    59.999971731110946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24999972231635467  0.24999944820356867  0.25000049897933896  1.0000
+  Au  Au2       1.0  0.7500003492084651  0.7500013549091467  0.7499991675833837  1.0000
+  Te  Te1       1.0  4.6530103085805665e-07  0.9999995256762614  1.0816049780537603e-06  1.0000
+  F   F1        1.0  0.15610712207706856  0.1561069680929474  0.8438930112940131  1.0000
+  F   F2        1.0  0.8438925264186522  0.8438928287035055  0.15610711096796429  1.0000
+  F   F3        1.0  0.8438928256917242  0.15610698656462452  0.1561066661481125  1.0000
+  F   F4        1.0  0.15610728900947887  0.8438924310611163  0.8438930476795278  1.0000
+  F   F5        1.0  0.15610704314391174  0.8438925529403144  0.1561068653510576  1.0000
+  F   F6        1.0  0.8438921715046187  0.1561078032410245  0.8438926738411132  1.0000

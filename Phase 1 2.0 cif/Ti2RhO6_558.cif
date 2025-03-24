@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2RhO6
+_chemical_formula_sum              "Ti2 Rh1 O6"
+_cell_length_a       5.060652301040537
+_cell_length_b       5.0606523660094265
+_cell_length_c       5.060652367562422
+_cell_angle_alpha    59.999999371942316
+_cell_angle_beta     59.999999295076705
+_cell_angle_gamma    59.99999840378405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2499999984636684  0.24999980956911932  0.2500001963122168  1.0000
+  Ti  Ti2       1.0  0.7499999950307119  0.7500002854342336  0.750000065903924  1.0000
+  Rh  Rh1       1.0  1.772389082476072e-08  0.9999999878993382  0.9999999122191031  1.0000
+  O   O1        1.0  0.2630632949099739  0.26306318502460074  0.7369367686291042  1.0000
+  O   O2        1.0  0.7369367560902004  0.7369368059130599  0.26306311968499174  1.0000
+  O   O3        1.0  0.736936852154565  0.2630631548437522  0.26306327287260256  1.0000
+  O   O4        1.0  0.2630631300933593  0.7369368917569548  0.7369366615066917  1.0000
+  O   O5        1.0  0.2630632373585615  0.7369367518048593  0.2630631481504285  1.0000
+  O   O6        1.0  0.7369367328836912  0.2630631665288301  0.7369368089404951  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2FeSe6
+_chemical_formula_sum              "Ti2 Fe1 Se6"
+_cell_length_a       6.443461003737735
+_cell_length_b       6.443460925391242
+_cell_length_c       6.44346105047004
+_cell_angle_alpha    60.0000001502523
+_cell_angle_beta     60.00000032197793
+_cell_angle_gamma    60.00000042659572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999996511248684  0.2500000854512733  0.24999994542519194  1.0000
+  Ti  Ti2       1.0  0.7500000415837836  0.7500000111562619  0.7499997212433306  1.0000
+  Fe  Fe1       1.0  0.9999999959997266  0.9999999904962189  4.7103012148928965e-08  1.0000
+  Se  Se1       1.0  0.25104990263001986  0.2510498613635841  0.7489501298115063  1.0000
+  Se  Se2       1.0  0.7489501161416768  0.7489501345038722  0.2510499924589966  1.0000
+  Se  Se3       1.0  0.7489501412412759  0.2510497940447417  0.25104999017850427  1.0000
+  Se  Se4       1.0  0.25104988169535347  0.7489501086856577  0.7489501579545289  1.0000
+  Se  Se5       1.0  0.2510498693710761  0.7489500995680713  0.25104991524474163  1.0000
+  Se  Se6       1.0  0.74895007496686  0.25104991530694626  0.748950109030023  1.0000

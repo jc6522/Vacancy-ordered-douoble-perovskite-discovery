@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2PbCl6
+_chemical_formula_sum              "Cd2 Pb1 Cl6"
+_cell_length_a       7.177743423102145
+_cell_length_b       7.177743346927828
+_cell_length_c       7.177743351847095
+_cell_angle_alpha    60.000000271960374
+_cell_angle_beta     60.000001130370144
+_cell_angle_gamma    60.00000003025789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2499999752515346  0.24999997333392684  0.2500000116287621  1.0000
+  Cd  Cd2       1.0  0.75000000999087  0.7500000582128167  0.7499999125170719  1.0000
+  Pb  Pb1       1.0  2.9152195932920908e-08  0.9999999897621454  3.081589302322595e-09  1.0000
+  Cl  Cl1       1.0  0.2556848169264129  0.25568484252329227  0.7443151568116838  1.0000
+  Cl  Cl2       1.0  0.7443151704293871  0.7443151344215605  0.2556848855293031  1.0000
+  Cl  Cl3       1.0  0.7443151950797083  0.25568481790246056  0.2556848641683523  1.0000
+  Cl  Cl4       1.0  0.25568484989738505  0.7443151743991737  0.7443151723338995  1.0000
+  Cl  Cl5       1.0  0.25568477056745803  0.7443151930173258  0.2556848702751489  1.0000
+  Cl  Cl6       1.0  0.7443151888545272  0.25568481464109055  0.744315130273293  1.0000

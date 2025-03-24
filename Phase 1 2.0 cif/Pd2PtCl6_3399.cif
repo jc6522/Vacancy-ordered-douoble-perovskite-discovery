@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2PtCl6
+_chemical_formula_sum              "Pd2 Pt1 Cl6"
+_cell_length_a       6.760880805282707
+_cell_length_b       6.760881439344794
+_cell_length_c       6.760881144129046
+_cell_angle_alpha    59.999999512003065
+_cell_angle_beta     59.999996611001315
+_cell_angle_gamma    59.99999682431928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.24999987886053  0.2500001027982179  0.2499999546123953  1.0000
+  Pd  Pd2       1.0  0.7499999848275293  0.7500000783320313  0.7499999452597551  1.0000
+  Pt  Pt1       1.0  1.135156208203323e-08  1.8115159994018294e-09  0.9999999978557522  1.0000
+  Cl  Cl1       1.0  0.24319275871617974  0.24319283641310097  0.7568072557343286  1.0000
+  Cl  Cl2       1.0  0.7568072544781296  0.7568071472618334  0.243192808626584  1.0000
+  Cl  Cl3       1.0  0.756807206435375  0.24319275233186508  0.2431928917720679  1.0000
+  Cl  Cl4       1.0  0.24319290276627645  0.756807122652071  0.7568071434323417  1.0000
+  Cl  Cl5       1.0  0.2431928089140641  0.7568071595281224  0.24319283882193227  1.0000
+  Cl  Cl6       1.0  0.7568072151671225  0.24319276074373267  0.7568071630512535  1.0000

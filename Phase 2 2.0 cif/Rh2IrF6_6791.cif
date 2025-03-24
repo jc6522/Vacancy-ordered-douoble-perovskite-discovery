@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Rh2IrF6
+_chemical_formula_sum              "Rh2 Ir1 F6"
+_cell_length_a       5.467721245717491
+_cell_length_b       5.467721401609959
+_cell_length_c       5.467721840437326
+_cell_angle_alpha    59.999999184710795
+_cell_angle_beta     59.999998231088924
+_cell_angle_gamma    59.99999851280308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000004772591655  0.2500000217065752  0.24999994657061833  1.0000
+  Rh  Rh2       1.0  0.7500000404437657  0.7500000628797734  0.7499999690132634  1.0000
+  Ir  Ir1       1.0  0.999999965976174  0.9999999753604983  8.237020596901189e-08  1.0000
+  F   F1        1.0  0.25571808606020163  0.25571800154086305  0.7442819083422374  1.0000
+  F   F2        1.0  0.744281816482726  0.7442819240086962  0.25571811373246145  1.0000
+  F   F3        1.0  0.7442819506152971  0.2557181300541241  0.2557180057326584  1.0000
+  F   F4        1.0  0.2557180200374518  0.7442819522922716  0.7442819807031562  1.0000
+  F   F5        1.0  0.2557180370457584  0.7442819186010212  0.25571805913806567  1.0000
+  F   F6        1.0  0.7442819891995673  0.2557180539875874  0.7442818940261491  1.0000

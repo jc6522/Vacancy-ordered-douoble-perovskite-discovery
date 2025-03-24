@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2NiF6
+_chemical_formula_sum              "Hg2 Ni1 F6"
+_cell_length_a       5.3324430685127515
+_cell_length_b       5.3324427931046525
+_cell_length_c       5.332442962328204
+_cell_angle_alpha    59.999999066541726
+_cell_angle_beta     59.999998013735876
+_cell_angle_gamma    60.00000053928008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999996490040097  0.24999999111976626  0.2500000526249726  1.0000
+  Hg  Hg2       1.0  0.7499999275315705  0.7500000307788032  0.750000084620285  1.0000
+  Ni  Ni1       1.0  2.7547450661819604e-07  0.9999996348119647  2.886474580014492e-07  1.0000
+  F   F1        1.0  0.24545413732672444  0.2454540738685971  0.754545943659093  1.0000
+  F   F2        1.0  0.7545459410465538  0.7545460008559192  0.24545395230718434  1.0000
+  F   F3        1.0  0.7545459241105535  0.24545417320966073  0.2454540216045531  1.0000
+  F   F4        1.0  0.24545410867998177  0.7545458693599321  0.7545459094799323  1.0000
+  F   F5        1.0  0.24545396024903443  0.7545460565299424  0.2454538999703479  1.0000
+  F   F6        1.0  0.7545457418843942  0.2454541789691723  0.7545458468106718  1.0000

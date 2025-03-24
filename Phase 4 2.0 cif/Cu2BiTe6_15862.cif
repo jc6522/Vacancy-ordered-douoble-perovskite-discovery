@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cu2BiTe6
+_chemical_formula_sum              "Cu2 Bi1 Te6"
+_cell_length_a       7.512329323733545
+_cell_length_b       7.512329195260935
+_cell_length_c       7.512329352886957
+_cell_angle_alpha    59.999999814739134
+_cell_angle_beta     59.99999973954426
+_cell_angle_gamma    60.000000572079294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.24999998930416437  0.24999998549307864  0.24999998583257207  1.0000
+  Cu  Cu2       1.0  0.7500000135585142  0.7499999809339334  0.7499999969914796  1.0000
+  Bi  Bi1       1.0  1.9904718782422073e-08  0.9999999771756168  5.4532672302320105e-09  1.0000
+  Te  Te1       1.0  0.28731744903979484  0.287317454900926  0.712682544469976  1.0000
+  Te  Te2       1.0  0.712682565653279  0.7126825359807827  0.2873174468344306  1.0000
+  Te  Te3       1.0  0.7126825727939237  0.28731745345557236  0.2873174599414299  1.0000
+  Te  Te4       1.0  0.28731741665329363  0.7126825716627114  0.7126825508282285  1.0000
+  Te  Te5       1.0  0.287317419101698  0.7126825706271305  0.28731747626865983  1.0000
+  Te  Te6       1.0  0.7126825532512282  0.28731746427303173  0.712682535494915  1.0000

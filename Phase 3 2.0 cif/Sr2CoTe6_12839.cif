@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2CoTe6
+_chemical_formula_sum              "Sr2 Co1 Te6"
+_cell_length_a       7.196416032263313
+_cell_length_b       7.19641588012754
+_cell_length_c       7.196416127145267
+_cell_angle_alpha    59.99999865360031
+_cell_angle_beta     59.99999994275245
+_cell_angle_gamma    60.00000026762024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.250000048661012  0.24999991986403775  0.24999999332508482  1.0000
+  Sr  Sr2       1.0  0.7499999185206149  0.7500000761421154  0.7500000646624554  1.0000
+  Co  Co1       1.0  0.9999999312157388  0.9999999608567179  2.332196645411496e-07  1.0000
+  Te  Te1       1.0  0.24767646706015017  0.24767633365552813  0.7523235989636639  1.0000
+  Te  Te2       1.0  0.7523236521810442  0.7523236538412188  0.24767634139263744  1.0000
+  Te  Te3       1.0  0.7523234869504267  0.2476764543815258  0.24767643903550066  1.0000
+  Te  Te4       1.0  0.24767652731372775  0.7523235688547366  0.7523234192147951  1.0000
+  Te  Te5       1.0  0.24767648670467726  0.7523235741877469  0.24767635894118328  1.0000
+  Te  Te6       1.0  0.7523234922593897  0.24767644904851507  0.7523235503090897  1.0000

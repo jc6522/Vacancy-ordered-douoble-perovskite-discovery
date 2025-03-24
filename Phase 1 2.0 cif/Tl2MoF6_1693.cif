@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2MoF6
+_chemical_formula_sum              "Tl2 Mo1 F6"
+_cell_length_a       6.32990359004326
+_cell_length_b       6.329903412518913
+_cell_length_c       6.329903481493506
+_cell_angle_alpha    60.00000216190356
+_cell_angle_beta     60.00000171388765
+_cell_angle_gamma    60.00000071610281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.24999998260157721  0.24999994641313752  0.24999997121560125  1.0000
+  Tl  Tl2       1.0  0.7499999534574114  0.75000008496607  0.7500001023379208  1.0000
+  Mo  Mo1       1.0  3.038542090891227e-08  0.999999969042312  1.1344753628276388e-08  1.0000
+  F   F1        1.0  0.2247423941837758  0.22474231027568536  0.7752576474468259  1.0000
+  F   F2        1.0  0.7752575987953291  0.7752576379047328  0.22474234287805359  1.0000
+  F   F3        1.0  0.7752577170355567  0.22474233339053343  0.22474234298504703  1.0000
+  F   F4        1.0  0.22474239320760805  0.7752576515521404  0.7752576224601726  1.0000
+  F   F5        1.0  0.22474235649060498  0.775257709785552  0.22474232498581162  1.0000
+  F   F6        1.0  0.7752575617120585  0.22474239705301832  0.7752576360366381  1.0000

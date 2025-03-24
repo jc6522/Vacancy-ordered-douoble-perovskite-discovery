@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2RhF6
+_chemical_formula_sum              "Ni2 Rh1 F6"
+_cell_length_a       5.351288512250001
+_cell_length_b       5.351288764067484
+_cell_length_c       5.351288564685935
+_cell_angle_alpha    59.999998711276945
+_cell_angle_beta     59.99999724799458
+_cell_angle_gamma    59.999998501401976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500000989828298  0.24999987842554028  0.2499999286276532  1.0000
+  Ni  Ni2       1.0  0.7499997207410336  0.7500002051607865  0.7500004486988088  1.0000
+  Rh  Rh1       1.0  0.9999999924794628  5.492859421083825e-08  9.932728887201412e-09  1.0000
+  F   F1        1.0  0.2568633481021159  0.25686307982316064  0.7431368839394175  1.0000
+  F   F2        1.0  0.7431367296227999  0.7431368641529938  0.256862948327316  1.0000
+  F   F3        1.0  0.743136761814433  0.25686328863022895  0.2568632259148813  1.0000
+  F   F4        1.0  0.25686324934401206  0.743136751470964  0.7431367541502326  1.0000
+  F   F5        1.0  0.25686335393184434  0.7431367517532912  0.25686322598216693  1.0000
+  F   F6        1.0  0.7431367356927265  0.25686324715145714  0.7431366102446165  1.0000

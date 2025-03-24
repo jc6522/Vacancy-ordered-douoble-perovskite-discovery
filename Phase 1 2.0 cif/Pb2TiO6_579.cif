@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2TiO6
+_chemical_formula_sum              "Pb2 Ti1 O6"
+_cell_length_a       5.687372003185135
+_cell_length_b       5.687372267850324
+_cell_length_c       5.6873720561451275
+_cell_angle_alpha    59.999998186966494
+_cell_angle_beta     59.99999690324882
+_cell_angle_gamma    59.99999761266732
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24999999884434282  0.24999994377505622  0.24999996350156498  1.0000
+  Pb  Pb2       1.0  0.7499999972085786  0.749999902388881  0.7500000638705382  1.0000
+  Ti  Ti1       1.0  0.9999998335549789  1.3997398904529693e-07  1.257655202645501e-07  1.0000
+  O   O1        1.0  0.2388628618887199  0.23886298559874636  0.7611371033280189  1.0000
+  O   O2        1.0  0.7611370349402605  0.7611372374182367  0.23886286611046553  1.0000
+  O   O3        1.0  0.761137244886413  0.23886291268034127  0.23886275030992674  1.0000
+  O   O4        1.0  0.2388629195361665  0.7611369765525156  0.7611370289220967  1.0000
+  O   O5        1.0  0.238862931432269  0.7611370579837953  0.23886305491957907  1.0000
+  O   O6        1.0  0.7611371731055459  0.23886291954033903  0.7611370758317002  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2InTe6
+_chemical_formula_sum              "Ba2 In1 Te6"
+_cell_length_a       7.6464006023412905
+_cell_length_b       7.646400157592061
+_cell_length_c       7.646400166088037
+_cell_angle_alpha    60.000003019955685
+_cell_angle_beta     60.0000020860924
+_cell_angle_gamma    59.99999782109842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000000658765226  0.24999995119585705  0.2500000373234286  1.0000
+  Ba  Ba2       1.0  0.7499999733128576  0.7499999929378556  0.7500000681358063  1.0000
+  In  In1       1.0  0.9999999449786232  6.086563945563133e-08  0.9999999016081085  1.0000
+  Te  Te1       1.0  0.27064734355809006  0.27064759013119655  0.7293525651741024  1.0000
+  Te  Te2       1.0  0.7293526430528756  0.7293524244785201  0.27064747553580526  1.0000
+  Te  Te3       1.0  0.729352416228357  0.27064754234259736  0.27064744671761304  1.0000
+  Te  Te4       1.0  0.270647604474206  0.7293525059033904  0.7293524738132345  1.0000
+  Te  Te5       1.0  0.2706476416422823  0.7293524278856987  0.27064741030121087  1.0000
+  Te  Te6       1.0  0.7293524256778701  0.2706474986290086  0.7293526249469716  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2GaCl6
+_chemical_formula_sum              "Nb2 Ga1 Cl6"
+_cell_length_a       6.582221191263647
+_cell_length_b       6.582221467626422
+_cell_length_c       6.582221157703806
+_cell_angle_alpha    60.000000744599475
+_cell_angle_beta     59.99999983006819
+_cell_angle_gamma    59.99999905288096
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2500000095624995  0.25000005377849877  0.2499999936746183  1.0000
+  Nb  Nb2       1.0  0.749999997892022  0.750000058997757  0.7499999640320437  1.0000
+  Ga  Ga1       1.0  0.9999999808975804  2.0467548509062748e-08  1.1471387483751355e-08  1.0000
+  Cl  Cl1       1.0  0.2536657524363218  0.25366568712898163  0.7463341704922722  1.0000
+  Cl  Cl2       1.0  0.7463342898756836  0.7463342842351228  0.2536657675680121  1.0000
+  Cl  Cl3       1.0  0.7463343971378466  0.25366575056146035  0.25366562779041607  1.0000
+  Cl  Cl4       1.0  0.2536656044185057  0.7463342114992134  0.7463344112616104  1.0000
+  Cl  Cl5       1.0  0.2536656948476661  0.7463342768118656  0.25366571860182224  1.0000
+  Cl  Cl6       1.0  0.7463342770107366  0.2536656480350852  0.7463343387136007  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2FeO6
+_chemical_formula_sum              "Co2 Fe1 O6"
+_cell_length_a       5.039682857158045
+_cell_length_b       5.039682936591357
+_cell_length_c       5.039682944584564
+_cell_angle_alpha    59.999999193163944
+_cell_angle_beta     59.99999825080255
+_cell_angle_gamma    60.00000088993108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.24999998745834137  0.2500002831871596  0.24999963040324175  1.0000
+  Co  Co2       1.0  0.7500000584398718  0.7499997365288567  0.7499999195675918  1.0000
+  Fe  Fe1       1.0  0.9999999865306703  0.9999999854187863  4.3789049031195054e-08  1.0000
+  O   O1        1.0  0.2506293957045457  0.2506294532082793  0.7493706781283629  1.0000
+  O   O2        1.0  0.7493706017088442  0.7493705057526778  0.2506295554702363  1.0000
+  O   O3        1.0  0.7493705961111107  0.25062951032409875  0.25062946075167636  1.0000
+  O   O4        1.0  0.2506294705034277  0.749370344138164  0.7493706892988535  1.0000
+  O   O5        1.0  0.250629450614854  0.7493704215244563  0.25062954376984  1.0000
+  O   O6        1.0  0.7493704690559144  0.25062972942247635  0.749370503730714  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2GaCl6
+_chemical_formula_sum              "Mo2 Ga1 Cl6"
+_cell_length_a       6.587210859113891
+_cell_length_b       6.587210650878713
+_cell_length_c       6.587210742559727
+_cell_angle_alpha    60.00000069153497
+_cell_angle_beta     60.00000045335452
+_cell_angle_gamma    59.99999937837327
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2499999095006139  0.2500000972662563  0.24999987386575231  1.0000
+  Mo  Mo2       1.0  0.7499999942840875  0.7499998362759273  0.750000001869077  1.0000
+  Ga  Ga1       1.0  2.1743164544223636e-08  2.4170600157733215e-08  5.886889112971739e-09  1.0000
+  Cl  Cl1       1.0  0.25228170712524167  0.25228174730539965  0.7477183153293211  1.0000
+  Cl  Cl2       1.0  0.7477182992141809  0.7477182624671409  0.25228176704114863  1.0000
+  Cl  Cl3       1.0  0.7477183067334585  0.25228173172956814  0.2522817253828926  1.0000
+  Cl  Cl4       1.0  0.2522817406497466  0.7477182706058642  0.7477183280394941  1.0000
+  Cl  Cl5       1.0  0.25228174880628756  0.7477182638890764  0.2522817309292281  1.0000
+  Cl  Cl6       1.0  0.7477182905200512  0.2522817626169551  0.7477182476401902  1.0000

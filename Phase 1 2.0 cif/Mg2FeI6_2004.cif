@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2FeI6
+_chemical_formula_sum              "Mg2 Fe1 I6"
+_cell_length_a       7.467717508276076
+_cell_length_b       7.4677174646527185
+_cell_length_c       7.467717289741939
+_cell_angle_alpha    59.99999994334442
+_cell_angle_beta     60.000000946740656
+_cell_angle_gamma    60.0000002700341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25000000012175694  0.2500000301517483  0.24999996117424295  1.0000
+  Mg  Mg2       1.0  0.7500000122208231  0.7500000363335125  0.749999893943041  1.0000
+  Fe  Fe1       1.0  3.2565178435200676e-08  0.9999999950798429  0.9999999486827652  1.0000
+  I   I1        1.0  0.2352644553828225  0.23526441117060168  0.7647355705980232  1.0000
+  I   I2        1.0  0.764735482273236  0.7647355175502474  0.23526450724619274  1.0000
+  I   I3        1.0  0.7647355467785144  0.23526444622925882  0.23526443237095473  1.0000
+  I   I4        1.0  0.23526445241422184  0.7647355530138478  0.7647356303294904  1.0000
+  I   I5        1.0  0.2352644426621795  0.7647356104435032  0.23526438702829855  1.0000
+  I   I6        1.0  0.7647355816297495  0.2352643969998658  0.7647356670570027  1.0000

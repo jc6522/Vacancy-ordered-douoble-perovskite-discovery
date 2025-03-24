@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2BaO6
+_chemical_formula_sum              "Hg2 Ba1 O6"
+_cell_length_a       6.011066952143826
+_cell_length_b       6.011067072045469
+_cell_length_c       6.011066949263571
+_cell_angle_alpha    59.99999878683052
+_cell_angle_beta     60.000001113636024
+_cell_angle_gamma    59.999999028699825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999992242807684  0.2500000461764088  0.2499999685154352  1.0000
+  Hg  Hg2       1.0  0.7500000512598208  0.7499999205185035  0.7500000505688822  1.0000
+  Ba  Ba1       1.0  1.578081241589798e-07  8.557430383852703e-08  0.9999996487322381  1.0000
+  O   O1        1.0  0.3099139356807654  0.30991388025781463  0.6900860720008203  1.0000
+  O   O2        1.0  0.6900860116997848  0.6900858541639999  0.3099140414381612  1.0000
+  O   O3        1.0  0.6900860085434881  0.30991410544613496  0.3099140695511427  1.0000
+  O   O4        1.0  0.309913790719964  0.6900861770586856  0.6900862082328756  1.0000
+  O   O5        1.0  0.3099139690290232  0.6900860156275882  0.3099138444884946  1.0000
+  O   O6        1.0  0.6900861624304491  0.3099139042052064  0.6900861058323107  1.0000

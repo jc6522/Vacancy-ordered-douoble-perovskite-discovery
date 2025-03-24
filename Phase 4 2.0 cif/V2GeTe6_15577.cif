@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       V2GeTe6
+_chemical_formula_sum              "V2 Ge1 Te6"
+_cell_length_a       7.165659819669012
+_cell_length_b       7.1656597818962
+_cell_length_c       7.165660001152223
+_cell_angle_alpha    59.999998798331035
+_cell_angle_beta     59.99999930190574
+_cell_angle_gamma    59.99999940352122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.2500000234170038  0.2499998472107354  0.2500000477651401  1.0000
+  V   V2        1.0  0.7500000608502383  0.7500000629340846  0.7499999124646746  1.0000
+  Ge  Ge1       1.0  8.154932306693045e-09  0.9999999948724405  4.068493040136087e-09  1.0000
+  Te  Te1       1.0  0.2661503030738765  0.2661503216274869  0.7338496873883913  1.0000
+  Te  Te2       1.0  0.7338496127884317  0.7338496876501488  0.26615037167254596  1.0000
+  Te  Te3       1.0  0.7338496910583163  0.2661503216463269  0.26615035550385013  1.0000
+  Te  Te4       1.0  0.26615031663909855  0.7338497166874793  0.7338496431114484  1.0000
+  Te  Te5       1.0  0.2661502954610101  0.733849729903364  0.26615034661484055  1.0000
+  Te  Te6       1.0  0.7338496830350484  0.2661503186855611  0.7338496433314936  1.0000

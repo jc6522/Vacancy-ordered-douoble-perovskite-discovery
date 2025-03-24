@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2MoS6
+_chemical_formula_sum              "Bi2 Mo1 S6"
+_cell_length_a       6.482312440716782
+_cell_length_b       6.482313006795795
+_cell_length_c       6.482312979141785
+_cell_angle_alpha    60.000000411781194
+_cell_angle_beta     60.00000083289167
+_cell_angle_gamma    60.00000413959416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500000593489702  0.249999978262756  0.24999997465271492  1.0000
+  Bi  Bi2       1.0  0.7499998450839871  0.7500000519288214  0.7500002123604519  1.0000
+  Mo  Mo1       1.0  0.9999999939182325  7.55745470062213e-09  8.41084143319361e-08  1.0000
+  S   S1        1.0  0.2565682771213268  0.2565681693357495  0.7434318152245244  1.0000
+  S   S2        1.0  0.7434317705203247  0.7434317304897221  0.25656814168176234  1.0000
+  S   S3        1.0  0.7434316881706893  0.25656829065979275  0.2565682030783604  1.0000
+  S   S4        1.0  0.25656827114015424  0.7434317886552512  0.7434316727673793  1.0000
+  S   S5        1.0  0.2565683415717653  0.7434317918592565  0.256568112056928  1.0000
+  S   S6        1.0  0.7434317425944166  0.25656818543013765  0.7434318001964075  1.0000

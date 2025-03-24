@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2InI6
+_chemical_formula_sum              "Sb2 In1 I6"
+_cell_length_a       8.057968778200344
+_cell_length_b       8.057968656403437
+_cell_length_c       8.0579689592935
+_cell_angle_alpha    60.00000038176696
+_cell_angle_beta     59.999998697026626
+_cell_angle_gamma    59.9999996440688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.24999995741980177  0.25000002364512997  0.2500000375859454  1.0000
+  Sb  Sb2       1.0  0.7500001109631681  0.7499999523818087  0.7499997908301583  1.0000
+  In  In1       1.0  0.9999999981472931  0.9999999969601665  8.93167958880444e-08  1.0000
+  I   I1        1.0  0.2553768219771617  0.25537692037543225  0.7446231458601891  1.0000
+  I   I2        1.0  0.7446231379752173  0.7446231058087935  0.25537694748399453  1.0000
+  I   I3        1.0  0.7446231672838536  0.25537681155519565  0.2553768754766433  1.0000
+  I   I4        1.0  0.25537691395386003  0.7446230915156995  0.744623120741943  1.0000
+  I   I5        1.0  0.25537678615521753  0.7446231650630208  0.2553768936420672  1.0000
+  I   I6        1.0  0.7446231086022  0.25537692343782625  0.7446231093067318  1.0000

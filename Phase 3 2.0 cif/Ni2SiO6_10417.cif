@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2SiO6
+_chemical_formula_sum              "Ni2 Si1 O6"
+_cell_length_a       4.430423398780926
+_cell_length_b       4.430423212774367
+_cell_length_c       4.430423268865915
+_cell_angle_alpha    60.00000149344238
+_cell_angle_beta     60.00000158516912
+_cell_angle_gamma    60.000001081157386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2499999647934261  0.2499999945121729  0.25000014600636733  1.0000
+  Ni  Ni2       1.0  0.7500000209550814  0.7500000885835982  0.7499999633259739  1.0000
+  Si  Si1       1.0  0.9999997376497056  0.9999989965238785  0.9999998745206423  1.0000
+  O   O1        1.0  0.26772385620294303  0.26772374485131883  0.7322761032721771  1.0000
+  O   O2        1.0  0.7322770769640611  0.7322769519405836  0.2677228688777955  1.0000
+  O   O3        1.0  0.7322761993903866  0.2677237277965094  0.26772374716959385  1.0000
+  O   O4        1.0  0.2677229418810198  0.7322769496446163  0.7322770357089516  1.0000
+  O   O5        1.0  0.26772350388842237  0.7322764043610096  0.26772347228077514  1.0000
+  O   O6        1.0  0.7322767070634932  0.2677231673213216  0.7322767733852136  1.0000

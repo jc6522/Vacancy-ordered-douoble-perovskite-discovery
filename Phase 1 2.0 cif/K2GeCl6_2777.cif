@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K2GeCl6
+_chemical_formula_sum              "K2 Ge1 Cl6"
+_cell_length_a       7.091625435209486
+_cell_length_b       7.09162553908614
+_cell_length_c       7.0916253986822495
+_cell_angle_alpha    60.000000215859714
+_cell_angle_beta     60.00000275889892
+_cell_angle_gamma    60.0000002897319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.24999996488817433  0.25000000672610695  0.2500000084760714  1.0000
+  K   K2        1.0  0.7500000185279476  0.7499999856377237  0.7499999920477148  1.0000
+  Ge  Ge1       1.0  0.9999999704119676  0.9999999861837616  2.311224880312727e-08  1.0000
+  Cl  Cl1       1.0  0.23157055840099552  0.23157052409674075  0.7684294796200438  1.0000
+  Cl  Cl2       1.0  0.7684294386168783  0.7684294665400596  0.23157054175854727  1.0000
+  Cl  Cl3       1.0  0.7684294549673683  0.2315705473433676  0.23157057956366833  1.0000
+  Cl  Cl4       1.0  0.23157056022377656  0.768429486469178  0.7684294210112126  1.0000
+  Cl  Cl5       1.0  0.23157050573440532  0.7684295151169085  0.23157049173417577  1.0000
+  Cl  Cl6       1.0  0.7684295151147337  0.23157050660642894  0.7684294669326656  1.0000

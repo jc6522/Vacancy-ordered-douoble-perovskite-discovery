@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2CuO6
+_chemical_formula_sum              "Cd2 Cu1 O6"
+_cell_length_a       5.228325468247797
+_cell_length_b       5.228325412042402
+_cell_length_c       5.228325352060564
+_cell_angle_alpha    60.000004033782844
+_cell_angle_beta     60.00000129658347
+_cell_angle_gamma    60.00000383948834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.25000017521421414  0.2499999945962278  0.24999998311157226  1.0000
+  Cd  Cd2       1.0  0.7500000637462431  0.7499998455800835  0.7500000179555537  1.0000
+  Cu  Cu1       1.0  0.9999999912767967  3.279525214471958e-08  0.999999878942452  1.0000
+  O   O1        1.0  0.2529728695439749  0.2529729675677712  0.7470271101490862  1.0000
+  O   O2        1.0  0.7470269732557326  0.7470271865059894  0.2529729664775466  1.0000
+  O   O3        1.0  0.7470270689198819  0.25297299127716305  0.2529728795825032  1.0000
+  O   O4        1.0  0.25297297907575644  0.7470270573832745  0.7470270840350991  1.0000
+  O   O5        1.0  0.2529728132540568  0.7470269700318615  0.2529729836822421  1.0000
+  O   O6        1.0  0.7470270185068519  0.2529729521325785  0.7470270633184365  1.0000

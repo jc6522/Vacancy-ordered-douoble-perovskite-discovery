@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pd2SnO6
+_chemical_formula_sum              "Pd2 Sn1 O6"
+_cell_length_a       5.375656382430554
+_cell_length_b       5.375656103162297
+_cell_length_c       5.375656175124288
+_cell_angle_alpha    59.999998051437444
+_cell_angle_beta     59.99999913085553
+_cell_angle_gamma    59.99999916805512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.2500005144109855  0.24999933766540355  0.2500000396144507  1.0000
+  Pd  Pd2       1.0  0.7500001059994914  0.7500001272744108  0.750001009938315  1.0000
+  Sn  Sn1       1.0  0.9999999666517518  0.9999999840517796  9.34770418011425e-08  1.0000
+  O   O1        1.0  0.26711537090023524  0.2671154568664878  0.7328846038372493  1.0000
+  O   O2        1.0  0.7328844781853658  0.732884769031228  0.2671148808581185  1.0000
+  O   O3        1.0  0.7328844386953675  0.26711564499459395  0.2671151261378712  1.0000
+  O   O4        1.0  0.26711524338456233  0.7328847403853135  0.7328843753409033  1.0000
+  O   O5        1.0  0.2671155558380384  0.732884922269492  0.26711512278323174  1.0000
+  O   O6        1.0  0.7328843636594979  0.2671150279518585  0.7328847193969618  1.0000

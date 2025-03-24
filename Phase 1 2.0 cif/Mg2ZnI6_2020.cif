@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2ZnI6
+_chemical_formula_sum              "Mg2 Zn1 I6"
+_cell_length_a       7.592768672973633
+_cell_length_b       7.592768691079032
+_cell_length_c       7.592768757412771
+_cell_angle_alpha    60.00000015521743
+_cell_angle_beta     60.00000052945629
+_cell_angle_gamma    59.99999959871179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2500000234399064  0.2499999704536283  0.24999999522196087  1.0000
+  Mg  Mg2       1.0  0.7500000094248139  0.7500000210476869  0.7499999415142948  1.0000
+  Zn  Zn1       1.0  2.4854490060354376e-08  2.580865912888034e-08  2.998421538352625e-08  1.0000
+  I   I1        1.0  0.2546611197544023  0.2546611554317405  0.7453388626955452  1.0000
+  I   I2        1.0  0.7453388556734829  0.7453388441347812  0.25466117248091097  1.0000
+  I   I3        1.0  0.7453388775575144  0.2546611274584878  0.25466113863048523  1.0000
+  I   I4        1.0  0.25466113966970705  0.7453388333950447  0.7453388620767322  1.0000
+  I   I5        1.0  0.25466110542352416  0.7453388680748159  0.2546611540260574  1.0000
+  I   I6        1.0  0.7453388417234578  0.2546611524612417  0.7453388466118464  1.0000

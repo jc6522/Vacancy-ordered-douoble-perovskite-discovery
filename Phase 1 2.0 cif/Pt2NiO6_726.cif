@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2NiO6
+_chemical_formula_sum              "Pt2 Ni1 O6"
+_cell_length_a       4.2555853400584915
+_cell_length_b       4.255578896541428
+_cell_length_c       4.255542719027358
+_cell_angle_alpha    60.0004172905181
+_cell_angle_beta     60.00042040658917
+_cell_angle_gamma    59.99941575334059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.25000030860045785  0.2500001959444515  0.24999936554459185  1.0000
+  Pt  Pt2       1.0  0.7500011100421585  0.7499994164996474  0.7500009142070471  1.0000
+  Ni  Ni1       1.0  0.9999972318759173  1.6375922966924768e-06  3.4672719077630554e-07  1.0000
+  O   O1        1.0  0.25169804180964883  0.2517032581123656  0.7483006392978647  1.0000
+  O   O2        1.0  0.7482961061391511  0.7483036443095114  0.2517036091553852  1.0000
+  O   O3        1.0  0.7482983482279406  0.25170455992287294  0.2517030572168117  1.0000
+  O   O4        1.0  0.25170594308471944  0.7482980340750464  0.748295768800521  1.0000
+  O   O5        1.0  0.25170526501412016  0.7482912281279434  0.2517009969266148  1.0000
+  O   O6        1.0  0.748297989846949  0.2516979430048562  0.7482950717591837  1.0000

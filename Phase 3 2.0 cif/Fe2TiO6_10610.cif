@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2TiO6
+_chemical_formula_sum              "Fe2 Ti1 O6"
+_cell_length_a       4.602076916708443
+_cell_length_b       4.602070095703732
+_cell_length_c       4.602073873505611
+_cell_angle_alpha    59.999953765295345
+_cell_angle_beta     59.999974325003016
+_cell_angle_gamma    60.00009659859181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25001747629509347  0.24998555106972686  0.24998952163973648  1.0000
+  Fe  Fe2       1.0  0.7500155027914164  0.7499907815490952  0.7499810979152418  1.0000
+  Ti  Ti1       1.0  0.999980853291119  1.591981303985157e-05  1.8423265239103968e-05  1.0000
+  O   O1        1.0  0.2738240120826025  0.2738233597996429  0.7261766643246156  1.0000
+  O   O2        1.0  0.7261747091844134  0.726173879866809  0.2738251891188063  1.0000
+  O   O3        1.0  0.7261670301804178  0.2738359750218012  0.2738338888469674  1.0000
+  O   O4        1.0  0.2738192064528872  0.7261774239853218  0.7261780653411957  1.0000
+  O   O5        1.0  0.2738326917367288  0.7261685252456419  0.273824743546661  1.0000
+  O   O6        1.0  0.7261689518464262  0.2738292812809462  0.7261720342005988  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2GeI6
+_chemical_formula_sum              "Cd2 Ge1 I6"
+_cell_length_a       7.940529564208698
+_cell_length_b       7.9405295443454795
+_cell_length_c       7.9405293758899775
+_cell_angle_alpha    60.000001278716304
+_cell_angle_beta     60.000001280434724
+_cell_angle_gamma    59.99999973638939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2499999645009101  0.2499999530580379  0.2500000107629383  1.0000
+  Cd  Cd2       1.0  0.7500000228344565  0.7500000164986026  0.7500000539371147  1.0000
+  Ge  Ge1       1.0  0.9999999726199685  1.2339175910963551e-08  0.9999999898893615  1.0000
+  I   I1        1.0  0.2574591542953066  0.2574591335142723  0.74254087759074  1.0000
+  I   I2        1.0  0.7425408630335593  0.7425408900262611  0.2574591048210374  1.0000
+  I   I3        1.0  0.7425408919001312  0.25745912801343784  0.257459109742993  1.0000
+  I   I4        1.0  0.25745908643035176  0.7425408816455233  0.7425408714028002  1.0000
+  I   I5        1.0  0.257459118441507  0.7425409179418484  0.2574590816553676  1.0000
+  I   I6        1.0  0.7425409199516497  0.2574590685811575  0.7425408911019615  1.0000

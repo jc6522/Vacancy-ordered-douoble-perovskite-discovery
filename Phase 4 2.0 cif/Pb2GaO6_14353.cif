@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pb2GaO6
+_chemical_formula_sum              "Pb2 Ga1 O6"
+_cell_length_a       5.3225382598304645
+_cell_length_b       5.32254103047049
+_cell_length_c       5.322539930427681
+_cell_angle_alpha    60.00000346281945
+_cell_angle_beta     59.99999846201499
+_cell_angle_gamma    60.00000537718659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.2499995452428942  0.24999903168396395  0.25000056683168764  1.0000
+  Pb  Pb2       1.0  0.75000000507491  0.7499994628350933  0.749999783081521  1.0000
+  Ga  Ga1       1.0  0.9999996204995734  0.9999999539789788  2.6759276928896118e-08  1.0000
+  O   O1        1.0  0.2614845576659426  0.26148433182692526  0.7385156336214266  1.0000
+  O   O2        1.0  0.7385153542622102  0.7385160196416116  0.2614844938065072  1.0000
+  O   O3        1.0  0.7385158833669329  0.26148472614769586  0.26148440747443474  1.0000
+  O   O4        1.0  0.2614845798394908  0.738515878436623  0.7385151787251365  1.0000
+  O   O5        1.0  0.2614842211545365  0.7385157400467296  0.26148488109696233  1.0000
+  O   O6        1.0  0.7385160246252069  0.2614848139144149  0.7385151979787528  1.0000

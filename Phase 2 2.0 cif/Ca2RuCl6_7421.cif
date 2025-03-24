@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2RuCl6
+_chemical_formula_sum              "Ca2 Ru1 Cl6"
+_cell_length_a       6.8136947938295105
+_cell_length_b       6.8136946583327225
+_cell_length_c       6.813694897643859
+_cell_angle_alpha    60.00000001204879
+_cell_angle_beta     60.00000003640589
+_cell_angle_gamma    60.000001645130126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2500001031714972  0.2500002511588144  0.2499998614698619  1.0000
+  Ca  Ca2       1.0  0.7499998695160215  0.7499996839785608  0.7500004096041102  1.0000
+  Ru  Ru1       1.0  2.004535183310561e-08  0.9999999856201973  1.7714080212184107e-08  1.0000
+  Cl  Cl1       1.0  0.24689264081795376  0.24689273628323696  0.7531072944470253  1.0000
+  Cl  Cl2       1.0  0.7531072991214488  0.7531072869304297  0.2468926671774217  1.0000
+  Cl  Cl3       1.0  0.7531072351681001  0.2468928004124385  0.24689266853205252  1.0000
+  Cl  Cl4       1.0  0.2468927411466192  0.7531072407759829  0.7531072350970769  1.0000
+  Cl  Cl5       1.0  0.24689281415466682  0.7531072422632382  0.24689262531364717  1.0000
+  Cl  Cl6       1.0  0.7531072751218256  0.24689277016557867  0.753107215667543  1.0000

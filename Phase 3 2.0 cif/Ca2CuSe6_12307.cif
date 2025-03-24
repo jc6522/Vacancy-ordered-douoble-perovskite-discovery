@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2CuSe6
+_chemical_formula_sum              "Ca2 Cu1 Se6"
+_cell_length_a       6.566362491869393
+_cell_length_b       6.56636245695602
+_cell_length_c       6.56636313150123
+_cell_angle_alpha    59.999996366875884
+_cell_angle_beta     59.99999832252794
+_cell_angle_gamma    59.99999946993743
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2500000080332773  0.24999997266019575  0.25000003714192204  1.0000
+  Ca  Ca2       1.0  0.7499999971522393  0.7500000093744166  0.7499999573696047  1.0000
+  Cu  Cu1       1.0  5.5772394440589625e-09  1.4921441174036842e-08  3.5438050754415816e-08  1.0000
+  Se  Se1       1.0  0.26177205217524163  0.26177201791225935  0.7382279475212004  1.0000
+  Se  Se2       1.0  0.7382279840783074  0.7382279025714078  0.26177204547973987  1.0000
+  Se  Se3       1.0  0.7382278636081371  0.2617720643095366  0.26177209667334433  1.0000
+  Se  Se4       1.0  0.26177206624491656  0.7382279643545789  0.7382279060980094  1.0000
+  Se  Se5       1.0  0.2617720761114371  0.7382279441574816  0.26177204256620196  1.0000
+  Se  Se6       1.0  0.7382279507613073  0.26177209942807705  0.7382279346928462  1.0000

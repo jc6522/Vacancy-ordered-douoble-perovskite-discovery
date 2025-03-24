@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2TaO6
+_chemical_formula_sum              "Pt2 Ta1 O6"
+_cell_length_a       5.3652647643445475
+_cell_length_b       5.365264834641045
+_cell_length_c       5.36526486492865
+_cell_angle_alpha    59.99999828099903
+_cell_angle_beta     59.99999905964767
+_cell_angle_gamma    59.999999320958516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.24999963775154893  0.25000002180863473  0.25000011220922363  1.0000
+  Pt  Pt2       1.0  0.7499997257374105  0.7499998942211824  0.7500001371383072  1.0000
+  Ta  Ta1       1.0  0.9999999365648214  1.597910710463414e-08  2.9319558349428353e-08  1.0000
+  O   O1        1.0  0.2599317558217719  0.2599318552657771  0.7400681582132747  1.0000
+  O   O2        1.0  0.7400683492323832  0.7400681475077662  0.2599316825713152  1.0000
+  O   O3        1.0  0.7400683282292709  0.2599317821882561  0.25993175186634915  1.0000
+  O   O4        1.0  0.25993199363171454  0.7400680996006131  0.740068348540909  1.0000
+  O   O5        1.0  0.2599319348511293  0.7400683516117607  0.2599316818116243  1.0000
+  O   O6        1.0  0.7400683383525799  0.2599318246492313  0.7400681186233236  1.0000

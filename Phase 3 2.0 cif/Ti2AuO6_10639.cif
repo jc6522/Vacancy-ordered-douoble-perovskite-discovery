@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2AuO6
+_chemical_formula_sum              "Ti2 Au1 O6"
+_cell_length_a       5.04425035491957
+_cell_length_b       5.044250042884427
+_cell_length_c       5.044250526748041
+_cell_angle_alpha    60.00000112379919
+_cell_angle_beta     60.00000016820129
+_cell_angle_gamma    60.00000285239863
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999994847328316  0.2499999156326419  0.25000030582580673  1.0000
+  Ti  Ti2       1.0  0.7499999672045186  0.7499998828659984  0.7499999658822035  1.0000
+  Au  Au1       1.0  0.9999999842734659  1.8452813781177945e-07  0.9999998422483666  1.0000
+  O   O1        1.0  0.26822053659695744  0.2682206815350775  0.7317793097386341  1.0000
+  O   O2        1.0  0.7317792740539498  0.7317793427677197  0.2682206180896772  1.0000
+  O   O3        1.0  0.7317793929210942  0.26822073234909194  0.2682206154449386  1.0000
+  O   O4        1.0  0.2682208463071528  0.73177934536977  0.731779247825177  1.0000
+  O   O5        1.0  0.26822067439468894  0.7317793347698098  0.26822081485648586  1.0000
+  O   O6        1.0  0.7317793931043457  0.2682205851289257  0.7317792409426631  1.0000

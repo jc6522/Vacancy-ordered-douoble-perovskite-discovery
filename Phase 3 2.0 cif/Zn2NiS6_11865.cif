@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zn2NiS6
+_chemical_formula_sum              "Zn2 Ni1 S6"
+_cell_length_a       6.1697577797792515
+_cell_length_b       6.1697584622509085
+_cell_length_c       6.169758293509651
+_cell_angle_alpha    59.999997664253584
+_cell_angle_beta     59.99999783204308
+_cell_angle_gamma    60.00000138986094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000000658292637  0.2499999925282613  0.2500002731143131  1.0000
+  Zn  Zn2       1.0  0.7500000930474776  0.74999963416641  0.750000053232961  1.0000
+  Ni  Ni1       1.0  0.9999999997534648  4.565678747123318e-08  0.999999857355004  1.0000
+  S   S1        1.0  0.24902744397941745  0.24902773765707417  0.7509723825474701  1.0000
+  S   S2        1.0  0.7509724627450729  0.7509721252618264  0.2490277227811279  1.0000
+  S   S3        1.0  0.7509719511787365  0.24902810697585148  0.2490275637491143  1.0000
+  S   S4        1.0  0.24902768021043734  0.7509723236752178  0.7509723127197815  1.0000
+  S   S5        1.0  0.24902784727883018  0.7509722122112629  0.24902767822887334  1.0000
+  S   S6        1.0  0.7509724825065143  0.24902787502139787  0.7509722103858103  1.0000

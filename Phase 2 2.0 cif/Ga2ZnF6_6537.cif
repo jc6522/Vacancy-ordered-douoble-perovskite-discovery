@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2ZnF6
+_chemical_formula_sum              "Ga2 Zn1 F6"
+_cell_length_a       5.372841109711006
+_cell_length_b       5.3728416770179726
+_cell_length_c       5.372840984564926
+_cell_angle_alpha    60.000003635944985
+_cell_angle_beta     60.00000120368105
+_cell_angle_gamma    60.00000413871587
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.2500001845495247  0.2500007456511082  0.24999945035337273  1.0000
+  Ga  Ga2       1.0  0.7500018030368037  0.7499972379872006  0.7500000136708428  1.0000
+  Zn  Zn1       1.0  3.6189065476023945e-08  0.9999999430122417  5.87908775838122e-08  1.0000
+  F   F1        1.0  0.2549970678875082  0.2549988366558835  0.7450023945511907  1.0000
+  F   F2        1.0  0.7450020729468518  0.745002032842468  0.25499818153630044  1.0000
+  F   F3        1.0  0.745001899370396  0.25499864939648853  0.25499734201008295  1.0000
+  F   F4        1.0  0.2549975122374661  0.7450020331820276  0.7450020903126445  1.0000
+  F   F5        1.0  0.25499757489105246  0.7450014197217659  0.2549983310603445  1.0000
+  F   F6        1.0  0.7450018604692199  0.25499906909836484  0.7450021392062858  1.0000

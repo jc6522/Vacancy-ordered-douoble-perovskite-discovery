@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2FeI6
+_chemical_formula_sum              "Cr2 Fe1 I6"
+_cell_length_a       7.482949163154762
+_cell_length_b       7.482949257939919
+_cell_length_c       7.482949278790095
+_cell_angle_alpha    60.00000041373778
+_cell_angle_beta     60.00000080451032
+_cell_angle_gamma    59.99999901960333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2499999963726164  0.250000123659443  0.24999990207899664  1.0000
+  Cr  Cr2       1.0  0.7499999894069395  0.749999870143808  0.7500000353556208  1.0000
+  Fe  Fe1       1.0  3.4368240506887714e-08  5.8921707770606176e-08  0.9999999480095405  1.0000
+  I   I1        1.0  0.23066736952998398  0.2306673733811495  0.7693326305452993  1.0000
+  I   I2        1.0  0.7693325599809314  0.7693326040549615  0.23066743007135365  1.0000
+  I   I3        1.0  0.7693326378716243  0.23066737692114922  0.2306673364729194  1.0000
+  I   I4        1.0  0.2306673764166744  0.7693326054251027  0.769332652572543  1.0000
+  I   I5        1.0  0.23066735678652875  0.769332619744297  0.23066738438019393  1.0000
+  I   I6        1.0  0.7693326832826562  0.23066735932852622  0.769332685621172  1.0000

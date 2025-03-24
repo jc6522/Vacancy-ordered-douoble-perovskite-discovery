@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2MoO6
+_chemical_formula_sum              "Ti2 Mo1 O6"
+_cell_length_a       5.121755669048301
+_cell_length_b       5.121755708453642
+_cell_length_c       5.121755735291526
+_cell_angle_alpha    59.99999982341117
+_cell_angle_beta     59.999999399866454
+_cell_angle_gamma    60.0000015316534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24999994727313085  0.25000012149771694  0.24999990716890091  1.0000
+  Ti  Ti2       1.0  0.7500000301584117  0.7499998671111112  0.7499999170297773  1.0000
+  Mo  Mo1       1.0  0.9999999999999999  2.39832468559826e-17  3.904910942053776e-08  1.0000
+  O   O1        1.0  0.26040521856767096  0.26040517259595825  0.7395948323264009  1.0000
+  O   O2        1.0  0.739594799034622  0.7395948375342091  0.2604051367472249  1.0000
+  O   O3        1.0  0.7395948645096803  0.26040507588534745  0.2604053256269294  1.0000
+  O   O4        1.0  0.26040515013487675  0.739594774030412  0.7395948499899182  1.0000
+  O   O5        1.0  0.260405201461024  0.7395947713448435  0.2604051772667059  1.0000
+  O   O6        1.0  0.739594785691758  0.26040537747839304  0.7395948196882703  1.0000

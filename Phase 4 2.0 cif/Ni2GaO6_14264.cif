@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2GaO6
+_chemical_formula_sum              "Ni2 Ga1 O6"
+_cell_length_a       5.05533275507619
+_cell_length_b       5.0553327376907164
+_cell_length_c       5.055332788087029
+_cell_angle_alpha    59.99999951591438
+_cell_angle_beta     59.999999702221366
+_cell_angle_gamma    59.99999919503846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.2500001371051652  0.2500003041051487  0.24999979990813606  1.0000
+  Ni  Ni2       1.0  0.7500000411849124  0.7500001588622583  0.7499997182088705  1.0000
+  Ga  Ga1       1.0  2.6855263049808375e-08  2.907214872820113e-08  0.9999999324741112  1.0000
+  O   O1        1.0  0.2576007391276017  0.25760076118839165  0.7423992438264652  1.0000
+  O   O2        1.0  0.7423993529519296  0.7423991518308669  0.2576008475459687  1.0000
+  O   O3        1.0  0.7423991332981473  0.2576006039777541  0.2576009099274474  1.0000
+  O   O4        1.0  0.25760072252706123  0.7423991612580828  0.7423993062081483  1.0000
+  O   O5        1.0  0.25760070377554223  0.7423991159254696  0.2576008546023348  1.0000
+  O   O6        1.0  0.7423991383211516  0.2576006904959114  0.7423993715420559  1.0000

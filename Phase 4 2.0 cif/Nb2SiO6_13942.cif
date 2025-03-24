@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2SiO6
+_chemical_formula_sum              "Nb2 Si1 O6"
+_cell_length_a       4.847561373547618
+_cell_length_b       4.8475613970117095
+_cell_length_c       4.847561288180733
+_cell_angle_alpha    60.00000152610714
+_cell_angle_beta     60.00000023843922
+_cell_angle_gamma    60.000001074320224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.24999998813412175  0.2500000423284487  0.24999998062920983  1.0000
+  Nb  Nb2       1.0  0.7500000712591071  0.7499999779208157  0.7499998907902693  1.0000
+  Si  Si1       1.0  9.817082006039352e-09  0.9999999848408953  0.9999999985452254  1.0000
+  O   O1        1.0  0.25037619301585096  0.2503762206041207  0.7496237820192806  1.0000
+  O   O2        1.0  0.7496238034828893  0.7496237668004179  0.2503762610433828  1.0000
+  O   O3        1.0  0.7496237781498536  0.2503761863014489  0.25037624233185946  1.0000
+  O   O4        1.0  0.25037620882079265  0.7496238011030892  0.7496237766143498  1.0000
+  O   O5        1.0  0.25037619330978905  0.7496238313911894  0.2503762164613344  1.0000
+  O   O6        1.0  0.7496237768421984  0.2503761635929014  0.7496238277333576  1.0000

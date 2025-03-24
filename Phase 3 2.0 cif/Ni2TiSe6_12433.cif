@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2TiSe6
+_chemical_formula_sum              "Ni2 Ti1 Se6"
+_cell_length_a       6.607733140778769
+_cell_length_b       6.607733469369693
+_cell_length_c       6.607733324383971
+_cell_angle_alpha    59.99999973675537
+_cell_angle_beta     59.99999826709506
+_cell_angle_gamma    59.99999917985476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24999999300693124  0.2500000411349849  0.2500000442663911  1.0000
+  Ni  Ni2       1.0  0.7499999849871286  0.750000115990947  0.7499999700781571  1.0000
+  Ti  Ti1       1.0  0.9999999401610273  2.2242027657532642e-08  6.691446604872948e-09  1.0000
+  Se  Se1       1.0  0.26062510240838976  0.2606250308458953  0.7393749609393909  1.0000
+  Se  Se2       1.0  0.7393749690178787  0.7393749613183375  0.26062502712139424  1.0000
+  Se  Se3       1.0  0.7393749464202394  0.2606249297785114  0.2606250720738678  1.0000
+  Se  Se4       1.0  0.2606249926383227  0.7393750086341587  0.7393749923993924  1.0000
+  Se  Se5       1.0  0.2606250222380502  0.7393749420968905  0.2606249865101622  1.0000
+  Se  Se6       1.0  0.7393750447241214  0.2606249481247206  0.7393749548710178  1.0000

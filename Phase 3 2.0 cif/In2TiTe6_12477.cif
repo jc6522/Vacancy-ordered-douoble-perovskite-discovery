@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2TiTe6
+_chemical_formula_sum              "In2 Ti1 Te6"
+_cell_length_a       7.333627755602551
+_cell_length_b       7.333627916285743
+_cell_length_c       7.333627848468194
+_cell_angle_alpha    59.99999950092413
+_cell_angle_beta     59.99999836370958
+_cell_angle_gamma    60.00000029028193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.24999994151329108  0.2500000071757689  0.24999998716753932  1.0000
+  In  In2       1.0  0.7500000226439241  0.7500000365576633  0.7499999476589614  1.0000
+  Ti  Ti1       1.0  0.9999999813921914  0.9999999849696437  5.363578589930115e-08  1.0000
+  Te  Te1       1.0  0.2621657627586816  0.26216574713340934  0.7378342862540408  1.0000
+  Te  Te2       1.0  0.737834281254701  0.7378342648692712  0.26216575950432974  1.0000
+  Te  Te3       1.0  0.7378342375426251  0.2621657623272123  0.26216583449407216  1.0000
+  Te  Te4       1.0  0.2621657844437466  0.737834221284796  0.7378341546582445  1.0000
+  Te  Te5       1.0  0.26216579299703047  0.7378342084069301  0.2621658147558871  1.0000
+  Te  Te6       1.0  0.7378341988031546  0.26216576184476187  0.7378341566258149  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ir2TiN6
+_chemical_formula_sum              "Ir2 Ti1 N6"
+_cell_length_a       4.998971698071107
+_cell_length_b       4.998971749572766
+_cell_length_c       4.998971761128047
+_cell_angle_alpha    60.00000002326336
+_cell_angle_beta     60.000000226479166
+_cell_angle_gamma    60.00000023093459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.24999997531951085  0.2499998752259032  0.24999995799489516  1.0000
+  Ir  Ir2       1.0  0.7499999878045501  0.7500000568765799  0.7499995614486669  1.0000
+  Ti  Ti1       1.0  0.9999999767611213  7.3499807477774634e-09  1.943214735254738e-09  1.0000
+  N   N1        1.0  0.2687645116569578  0.26876448321361784  0.7312355418570085  1.0000
+  N   N2        1.0  0.7312354366950263  0.7312356179384214  0.2687646686057838  1.0000
+  N   N3        1.0  0.7312355558044302  0.2687644223233329  0.26876461142457486  1.0000
+  N   N4        1.0  0.2687645426695851  0.7312354779292327  0.7312355504117182  1.0000
+  N   N5        1.0  0.2687644191911911  0.7312355275312471  0.2687645912188328  1.0000
+  N   N6        1.0  0.731235607184191  0.2687645197209336  0.7312354871575074  1.0000

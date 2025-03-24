@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2BeF6
+_chemical_formula_sum              "Hg2 Be1 F6"
+_cell_length_a       5.192777960064619
+_cell_length_b       5.192777902081029
+_cell_length_c       5.1927778823775546
+_cell_angle_alpha    60.00000112030524
+_cell_angle_beta     60.000000049663605
+_cell_angle_gamma    60.00000178906974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.24999999775251008  0.24999999909756204  0.2500000235676243  1.0000
+  Hg  Hg2       1.0  0.7500000377308563  0.7499999972926863  0.7500000157284333  1.0000
+  Be  Be1       1.0  0.9999999938222676  5.18881940387282e-08  0.9999999867735273  1.0000
+  F   F1        1.0  0.23654180502377728  0.23654186354123036  0.7634581816480775  1.0000
+  F   F2        1.0  0.7634582144892623  0.7634581540760054  0.23654179532135228  1.0000
+  F   F3        1.0  0.7634581385214141  0.23654187559696715  0.23654176740694152  1.0000
+  F   F4        1.0  0.23654186659366735  0.7634581585301482  0.7634582008035216  1.0000
+  F   F5        1.0  0.236541833859317  0.7634580903791318  0.23654181615554598  1.0000
+  F   F6        1.0  0.76345807869425  0.23654186119858198  0.7634581953180894  1.0000

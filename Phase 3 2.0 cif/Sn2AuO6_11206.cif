@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sn2AuO6
+_chemical_formula_sum              "Sn2 Au1 O6"
+_cell_length_a       5.487314147844121
+_cell_length_b       5.487314375184726
+_cell_length_c       5.48731436741497
+_cell_angle_alpha    59.99999883704809
+_cell_angle_beta     59.99999913551405
+_cell_angle_gamma    59.9999995458503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.24999986433104088  0.2500001100755863  0.24999982481956223  1.0000
+  Sn  Sn2       1.0  0.7500000903834886  0.7499998481240744  0.7499998750291169  1.0000
+  Au  Au1       1.0  0.9999999788073596  4.463913741886334e-08  0.9999999463618935  1.0000
+  O   O1        1.0  0.2539210142963002  0.25392103446892633  0.7460790767016069  1.0000
+  O   O2        1.0  0.7460789918771344  0.7460789839935609  0.25392105933018594  1.0000
+  O   O3        1.0  0.7460790253333753  0.2539209868587743  0.2539210497184344  1.0000
+  O   O4        1.0  0.2539209977183333  0.7460789557171814  0.7460790629683197  1.0000
+  O   O5        1.0  0.2539209891866645  0.7460789744806073  0.2539210677731806  1.0000
+  O   O6        1.0  0.7460790354149616  0.25392107076536236  0.7460790164946133  1.0000

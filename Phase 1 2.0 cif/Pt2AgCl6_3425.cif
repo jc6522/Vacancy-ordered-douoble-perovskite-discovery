@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pt2AgCl6
+_chemical_formula_sum              "Pt2 Ag1 Cl6"
+_cell_length_a       6.528728091453079
+_cell_length_b       6.528728178901137
+_cell_length_c       6.528728052863882
+_cell_angle_alpha    59.99999884720234
+_cell_angle_beta     59.99999803471612
+_cell_angle_gamma    59.999998831327254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.2500000599657161  0.249999882876955  0.250000066077043  1.0000
+  Pt  Pt2       1.0  0.7500000137638478  0.7499999825467272  0.750000143441993  1.0000
+  Ag  Ag1       1.0  7.074581366567239e-09  0.9999999999999994  3.4755007428475694e-08  1.0000
+  Cl  Cl1       1.0  0.2586438367798123  0.2586438591168559  0.7413561913700711  1.0000
+  Cl  Cl2       1.0  0.7413561418320705  0.7413562332945778  0.2586437546256706  1.0000
+  Cl  Cl3       1.0  0.7413562487866944  0.2586438181161305  0.25864380161007344  1.0000
+  Cl  Cl4       1.0  0.2586437515333031  0.7413561561115999  0.7413561282924032  1.0000
+  Cl  Cl5       1.0  0.25864383312244066  0.7413561657248613  0.25864380328823794  1.0000
+  Cl  Cl6       1.0  0.7413561052397423  0.2586439041753918  0.7413560913765812  1.0000

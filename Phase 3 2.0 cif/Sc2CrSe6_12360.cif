@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sc2CrSe6
+_chemical_formula_sum              "Sc2 Cr1 Se6"
+_cell_length_a       6.423010871692838
+_cell_length_b       6.423010909907607
+_cell_length_c       6.423011243998804
+_cell_angle_alpha    59.99999830620891
+_cell_angle_beta     59.9999990936273
+_cell_angle_gamma    59.999997715633974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.25000012529691557  0.2500001731306418  0.24999989291540342  1.0000
+  Sc  Sc2       1.0  0.7500000621687389  0.7499997185325442  0.7500001675332079  1.0000
+  Cr  Cr1       1.0  0.9999999890857012  3.8136161530160535e-08  0.9999999568079277  1.0000
+  Se  Se1       1.0  0.25701772804390566  0.2570179247317686  0.7429821500952141  1.0000
+  Se  Se2       1.0  0.7429822002332409  0.7429821404509558  0.2570177523475031  1.0000
+  Se  Se3       1.0  0.7429820979075232  0.2570178435916918  0.2570178067520362  1.0000
+  Se  Se4       1.0  0.2570178559027848  0.7429821395982854  0.7429821939810706  1.0000
+  Se  Se5       1.0  0.25701782141856927  0.7429821203321939  0.2570178092391076  1.0000
+  Se  Se6       1.0  0.742982113541763  0.2570179086211767  0.7429822652238104  1.0000
